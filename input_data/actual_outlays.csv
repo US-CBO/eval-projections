@@ -1,0 +1,350 @@
+outlay_category,outlay_subcategory,fiscal_year,actual_outlay
+Total,Total,1984,851.806
+Total,Total,1985,946.344
+Total,Total,1986,990.382
+Total,Total,1987,1004.017
+Total,Total,1988,1064.415
+Total,Total,1989,1143.743
+Total,Total,1990,1252.993
+Total,Total,1991,1324.226
+Total,Total,1992,1381.529
+Total,Total,1993,1409.386
+Total,Total,1994,1461.752
+Total,Total,1995,1515.742
+Total,Total,1996,1560.484
+Total,Total,1997,1601.116
+Total,Total,1998,1652.458
+Total,Total,1999,1701.842
+Total,Total,2000,1788.950
+Total,Total,2001,1862.846
+Total,Total,2002,2010.894
+Total,Total,2003,2159.899
+Total,Total,2004,2292.841
+Total,Total,2005,2471.957
+Total,Total,2006,2655.050
+Total,Total,2007,2728.686
+Total,Total,2008,2982.544
+Total,Total,2009,3426.413
+Total,Total,2010,3416.621
+Total,Total,2011,3597.887
+Total,Total,2012,3526.458
+Total,Total,2013,3551.554
+Total,Total,2014,3580.677
+Total,Total,2015,3714.583
+Total,Total,2016,3866.934
+Total,Total,2017,4010.207
+Total,Total,2018,4118.540
+Total,Total,2019,4466.142
+Total,Total,2020,6557.859
+Total,Total,2021,6827.401
+Mandatory,Total Mandatory,1989,485.930
+Mandatory,Total Mandatory,1990,568.068
+Mandatory,Total Mandatory,1991,596.500
+Mandatory,Total Mandatory,1992,648.382
+Mandatory,Total Mandatory,1993,670.920
+Mandatory,Total Mandatory,1994,717.480
+Mandatory,Total Mandatory,1995,738.847
+Mandatory,Total Mandatory,1996,786.698
+Mandatory,Total Mandatory,1997,810.095
+Mandatory,Total Mandatory,1998,859.345
+Mandatory,Total Mandatory,1999,899.974
+Mandatory,Total Mandatory,2000,951.375
+Mandatory,Total Mandatory,2001,1007.638
+Mandatory,Total Mandatory,2002,1105.995
+Mandatory,Total Mandatory,2003,1182.487
+Mandatory,Total Mandatory,2004,1237.531
+Mandatory,Total Mandatory,2005,1319.430
+Mandatory,Total Mandatory,2006,1411.823
+Mandatory,Total Mandatory,2007,1449.987
+Mandatory,Total Mandatory,2008,1594.903
+Mandatory,Total Mandatory,2009,2001.975
+Mandatory,Total Mandatory,2010,1873.261
+Mandatory,Total Mandatory,2011,2020.788
+Mandatory,Total Mandatory,2012,2030.345
+Mandatory,Total Mandatory,2013,2128.307
+Mandatory,Total Mandatory,2014,2172.854
+Mandatory,Total Mandatory,2015,2319.261
+Mandatory,Total Mandatory,2016,2441.694
+Mandatory,Total Mandatory,2017,2547.397
+Mandatory,Total Mandatory,2018,2531.990
+Mandatory,Total Mandatory,2019,2753.395
+Mandatory,Total Mandatory,2020,4584.639
+Mandatory,Total Mandatory,2021,4838.673
+Mandatory,Social Security,1989,230.395
+Mandatory,Social Security,1990,246.496
+Mandatory,Social Security,1991,266.764
+Mandatory,Social Security,1992,285.167
+Mandatory,Social Security,1993,301.985
+Mandatory,Social Security,1994,316.914
+Mandatory,Social Security,1995,333.273
+Mandatory,Social Security,1996,347.051
+Mandatory,Social Security,1997,362.296
+Mandatory,Social Security,1998,376.119
+Mandatory,Social Security,1999,386.991
+Mandatory,Social Security,2000,406.048
+Mandatory,Social Security,2001,429.368
+Mandatory,Social Security,2002,452.073
+Mandatory,Social Security,2003,470.453
+Mandatory,Social Security,2004,491.537
+Mandatory,Social Security,2005,518.712
+Mandatory,Social Security,2006,543.911
+Mandatory,Social Security,2007,581.442
+Mandatory,Social Security,2008,612.110
+Mandatory,Social Security,2009,677.726
+Mandatory,Social Security,2010,700.752
+Mandatory,Social Security,2011,724.923
+Mandatory,Social Security,2012,767.714
+Mandatory,Social Security,2013,807.841
+Mandatory,Social Security,2014,844.876
+Mandatory,Social Security,2015,881.891
+Mandatory,Social Security,2016,910.282
+Mandatory,Social Security,2017,939.204
+Mandatory,Social Security,2018,982.015
+Mandatory,Social Security,2019,1038.489
+Mandatory,Social Security,2020,1089.889
+Mandatory,Social Security,2021,1128.827
+Mandatory,Medicare,1989,82.710
+Mandatory,Medicare,1990,95.803
+Mandatory,Medicare,1991,102.045
+Mandatory,Medicare,1992,116.178
+Mandatory,Medicare,1993,127.902
+Mandatory,Medicare,1994,141.833
+Mandatory,Medicare,1995,156.884
+Mandatory,Medicare,1996,171.272
+Mandatory,Medicare,1997,187.441
+Mandatory,Medicare,1998,190.233
+Mandatory,Medicare,1999,187.694
+Mandatory,Medicare,2000,194.115
+Mandatory,Medicare,2001,214.061
+Mandatory,Medicare,2002,227.699
+Mandatory,Medicare,2003,245.709
+Mandatory,Medicare,2004,264.890
+Mandatory,Medicare,2005,294.334
+Mandatory,Medicare,2006,324.879
+Mandatory,Medicare,2007,370.775
+Mandatory,Medicare,2008,385.817
+Mandatory,Medicare,2009,425.095
+Mandatory,Medicare,2010,446.477
+Mandatory,Medicare,2011,479.923
+Mandatory,Medicare,2012,466.018
+Mandatory,Medicare,2013,491.809
+Mandatory,Medicare,2014,505.303
+Mandatory,Medicare,2015,539.873
+Mandatory,Medicare,2016,588.361
+Mandatory,Medicare,2017,591.401
+Mandatory,Medicare,2018,581.848
+Mandatory,Medicare,2019,643.876
+Mandatory,Medicare,2020,768.924
+Mandatory,Medicare,2021,688.826
+Mandatory,Medicaid,1989,34.604
+Mandatory,Medicaid,1990,41.103
+Mandatory,Medicaid,1991,52.533
+Mandatory,Medicaid,1992,67.827
+Mandatory,Medicaid,1993,75.774
+Mandatory,Medicaid,1994,82.034
+Mandatory,Medicaid,1995,89.070
+Mandatory,Medicaid,1996,91.990
+Mandatory,Medicaid,1997,95.552
+Mandatory,Medicaid,1998,101.234
+Mandatory,Medicaid,1999,108.042
+Mandatory,Medicaid,2000,117.921
+Mandatory,Medicaid,2001,129.374
+Mandatory,Medicaid,2002,147.512
+Mandatory,Medicaid,2003,160.693
+Mandatory,Medicaid,2004,176.231
+Mandatory,Medicaid,2005,181.720
+Mandatory,Medicaid,2006,180.625
+Mandatory,Medicaid,2007,190.624
+Mandatory,Medicaid,2008,201.426
+Mandatory,Medicaid,2009,250.924
+Mandatory,Medicaid,2010,272.771
+Mandatory,Medicaid,2011,274.964
+Mandatory,Medicaid,2012,250.534
+Mandatory,Medicaid,2013,265.392
+Mandatory,Medicaid,2014,301.472
+Mandatory,Medicaid,2015,349.762
+Mandatory,Medicaid,2016,368.280
+Mandatory,Medicaid,2017,374.682
+Mandatory,Medicaid,2018,389.157
+Mandatory,Medicaid,2019,409.421
+Mandatory,Medicaid,2020,458.468
+Mandatory,Medicaid,2021,520.588
+Mandatory,Fannie Freddie,2008,0.000
+Mandatory,Fannie Freddie,2009,91.264
+Mandatory,Fannie Freddie,2010,40.458
+Mandatory,Fannie Freddie,2011,5.178
+Mandatory,Fannie Freddie,2012,0.105
+Mandatory,Fannie Freddie,2013,-96.673
+Mandatory,Fannie Freddie,2014,-74.393
+Mandatory,Fannie Freddie,2015,-22.733
+Mandatory,Fannie Freddie,2016,-14.319
+Mandatory,Fannie Freddie,2017,-28.573
+Mandatory,Fannie Freddie,2018,-9.493
+Mandatory,Fannie Freddie,2019,-19.182
+Mandatory,Fannie Freddie,2020,-4.238
+Mandatory,Fannie Freddie,2021,-4.930
+Mandatory,Other Mandatory,1989,138.221
+Mandatory,Other Mandatory,1990,184.666
+Mandatory,Other Mandatory,1991,175.158
+Mandatory,Other Mandatory,1992,179.210
+Mandatory,Other Mandatory,1993,165.259
+Mandatory,Other Mandatory,1994,176.699
+Mandatory,Other Mandatory,1995,159.620
+Mandatory,Other Mandatory,1996,176.385
+Mandatory,Other Mandatory,1997,164.806
+Mandatory,Other Mandatory,1998,191.759
+Mandatory,Other Mandatory,1999,217.247
+Mandatory,Other Mandatory,2000,233.291
+Mandatory,Other Mandatory,2001,234.835
+Mandatory,Other Mandatory,2002,278.711
+Mandatory,Other Mandatory,2003,305.632
+Mandatory,Other Mandatory,2004,304.873
+Mandatory,Other Mandatory,2005,324.664
+Mandatory,Other Mandatory,2006,362.408
+Mandatory,Other Mandatory,2007,307.146
+Mandatory,Other Mandatory,2008,395.550
+Mandatory,Other Mandatory,2009,648.230
+Mandatory,Other Mandatory,2010,453.261
+Mandatory,Other Mandatory,2011,540.978
+Mandatory,Other Mandatory,2012,546.079
+Mandatory,Other Mandatory,2013,563.265
+Mandatory,Other Mandatory,2014,521.203
+Mandatory,Other Mandatory,2015,547.735
+Mandatory,Other Mandatory,2016,574.771
+Mandatory,Other Mandatory,2017,642.110
+Mandatory,Other Mandatory,2018,578.970
+Mandatory,Other Mandatory,2019,661.609
+Mandatory,Other Mandatory,2020,2267.358
+Mandatory,Other Mandatory,2021,2500.432
+Discretionary,Total Discretionary,1989,488.832
+Discretionary,Total Discretionary,1990,500.578
+Discretionary,Total Discretionary,1991,533.278
+Discretionary,Total Discretionary,1992,533.803
+Discretionary,Total Discretionary,1993,539.753
+Discretionary,Total Discretionary,1994,541.340
+Discretionary,Total Discretionary,1995,544.761
+Discretionary,Total Discretionary,1996,532.733
+Discretionary,Total Discretionary,1997,547.037
+Discretionary,Total Discretionary,1998,551.995
+Discretionary,Total Discretionary,1999,572.113
+Discretionary,Total Discretionary,2000,614.626
+Discretionary,Total Discretionary,2001,649.041
+Discretionary,Total Discretionary,2002,733.950
+Discretionary,Total Discretionary,2003,824.339
+Discretionary,Total Discretionary,2004,895.065
+Discretionary,Total Discretionary,2005,968.541
+Discretionary,Total Discretionary,2006,1016.624
+Discretionary,Total Discretionary,2007,1041.590
+Discretionary,Total Discretionary,2008,1134.884
+Discretionary,Total Discretionary,2009,1237.536
+Discretionary,Total Discretionary,2010,1347.166
+Discretionary,Total Discretionary,2011,1347.137
+Discretionary,Total Discretionary,2012,1275.705
+Discretionary,Total Discretionary,2013,1202.362
+Discretionary,Total Discretionary,2014,1178.867
+Discretionary,Total Discretionary,2015,1172.141
+Discretionary,Total Discretionary,2016,1185.207
+Discretionary,Total Discretionary,2017,1200.259
+Discretionary,Total Discretionary,2018,1261.575
+Discretionary,Total Discretionary,2019,1337.589
+Discretionary,Total Discretionary,2020,1627.750
+Discretionary,Total Discretionary,2021,1636.390
+Discretionary,Defense Discretionary,1989,304.034
+Discretionary,Defense Discretionary,1990,300.141
+Discretionary,Defense Discretionary,1991,319.704
+Discretionary,Defense Discretionary,1992,302.602
+Discretionary,Defense Discretionary,1993,292.430
+Discretionary,Defense Discretionary,1994,282.266
+Discretionary,Defense Discretionary,1995,273.562
+Discretionary,Defense Discretionary,1996,265.961
+Discretionary,Defense Discretionary,1997,271.674
+Discretionary,Defense Discretionary,1998,270.250
+Discretionary,Defense Discretionary,1999,275.463
+Discretionary,Defense Discretionary,2000,294.965
+Discretionary,Defense Discretionary,2001,306.075
+Discretionary,Defense Discretionary,2002,348.952
+Discretionary,Defense Discretionary,2003,404.942
+Discretionary,Defense Discretionary,2004,454.057
+Discretionary,Defense Discretionary,2005,493.603
+Discretionary,Defense Discretionary,2006,519.967
+Discretionary,Defense Discretionary,2007,547.868
+Discretionary,Defense Discretionary,2008,612.434
+Discretionary,Defense Discretionary,2009,656.724
+Discretionary,Defense Discretionary,2010,688.854
+Discretionary,Defense Discretionary,2011,699.392
+Discretionary,Defense Discretionary,2012,670.523
+Discretionary,Defense Discretionary,2013,625.750
+Discretionary,Defense Discretionary,2014,596.449
+Discretionary,Defense Discretionary,2015,583.385
+Discretionary,Defense Discretionary,2016,584.831
+Discretionary,Defense Discretionary,2017,590.192
+Discretionary,Defense Discretionary,2018,622.687
+Discretionary,Defense Discretionary,2019,676.370
+Discretionary,Defense Discretionary,2020,713.813
+Discretionary,Defense Discretionary,2021,741.606
+Discretionary,Nondefense Discretionary,1989,184.798
+Discretionary,Nondefense Discretionary,1990,200.437
+Discretionary,Nondefense Discretionary,1991,213.574
+Discretionary,Nondefense Discretionary,1992,231.201
+Discretionary,Nondefense Discretionary,1993,247.323
+Discretionary,Nondefense Discretionary,1994,259.074
+Discretionary,Nondefense Discretionary,1995,271.199
+Discretionary,Nondefense Discretionary,1996,266.772
+Discretionary,Nondefense Discretionary,1997,275.363
+Discretionary,Nondefense Discretionary,1998,281.745
+Discretionary,Nondefense Discretionary,1999,296.650
+Discretionary,Nondefense Discretionary,2000,319.661
+Discretionary,Nondefense Discretionary,2001,342.966
+Discretionary,Nondefense Discretionary,2002,384.998
+Discretionary,Nondefense Discretionary,2003,419.397
+Discretionary,Nondefense Discretionary,2004,441.008
+Discretionary,Nondefense Discretionary,2005,474.938
+Discretionary,Nondefense Discretionary,2006,496.657
+Discretionary,Nondefense Discretionary,2007,493.722
+Discretionary,Nondefense Discretionary,2008,522.450
+Discretionary,Nondefense Discretionary,2009,580.812
+Discretionary,Nondefense Discretionary,2010,658.312
+Discretionary,Nondefense Discretionary,2011,647.745
+Discretionary,Nondefense Discretionary,2012,605.182
+Discretionary,Nondefense Discretionary,2013,576.612
+Discretionary,Nondefense Discretionary,2014,582.418
+Discretionary,Nondefense Discretionary,2015,588.756
+Discretionary,Nondefense Discretionary,2016,600.376
+Discretionary,Nondefense Discretionary,2017,610.067
+Discretionary,Nondefense Discretionary,2018,638.888
+Discretionary,Nondefense Discretionary,2019,661.219
+Discretionary,Nondefense Discretionary,2020,913.937
+Discretionary,Nondefense Discretionary,2021,894.784
+Net Interest,Net Interest,1989,168.981
+Net Interest,Net Interest,1990,184.347
+Net Interest,Net Interest,1991,194.448
+Net Interest,Net Interest,1992,199.344
+Net Interest,Net Interest,1993,198.713
+Net Interest,Net Interest,1994,202.932
+Net Interest,Net Interest,1995,232.134
+Net Interest,Net Interest,1996,241.053
+Net Interest,Net Interest,1997,243.984
+Net Interest,Net Interest,1998,241.118
+Net Interest,Net Interest,1999,229.755
+Net Interest,Net Interest,2000,222.949
+Net Interest,Net Interest,2001,206.167
+Net Interest,Net Interest,2002,170.949
+Net Interest,Net Interest,2003,153.073
+Net Interest,Net Interest,2004,160.245
+Net Interest,Net Interest,2005,183.986
+Net Interest,Net Interest,2006,226.603
+Net Interest,Net Interest,2007,237.109
+Net Interest,Net Interest,2008,252.757
+Net Interest,Net Interest,2009,186.902
+Net Interest,Net Interest,2010,196.194
+Net Interest,Net Interest,2011,229.962
+Net Interest,Net Interest,2012,220.408
+Net Interest,Net Interest,2013,220.885
+Net Interest,Net Interest,2014,228.956
+Net Interest,Net Interest,2015,223.181
+Net Interest,Net Interest,2016,240.033
+Net Interest,Net Interest,2017,262.551
+Net Interest,Net Interest,2018,324.975
+Net Interest,Net Interest,2019,375.158
+Net Interest,Net Interest,2020,345.470
+Net Interest,Net Interest,2021,352.338

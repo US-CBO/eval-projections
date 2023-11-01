@@ -1,0 +1,12 @@
+component,category,subcategory,projected_year_number,average_error,average_absolute_error,RMSE,two_thirds_spread
+debt,Total,Total,1,0.1,0.8,1.2,1.4
+debt,Total,Total,2,0.3,1.9,2.6,3.2
+debt,Total,Total,3,0.3,3.0,4.0,6.7
+debt,Total,Total,4,0.2,4.2,5.4,8.5
+debt,Total,Total,5,0.0,5.5,6.9,12.8
+debt,Total,Total,6,-0.2,6.8,8.5,17.5
+debt,Total,Total,7,1.1,6.8,9.1,15.3
+debt,Total,Total,8,1.4,8.7,10.7,20.0
+debt,Total,Total,9,1.7,10.3,12.5,20.8
+debt,Total,Total,10,2.2,12.0,14.6,27.6
+debt,Total,Total,11,2.6,13.1,16.7,34.2

@@ -1,4 +1,4 @@
-name: CBO-eval-outlays
+name: CBO-eval-projections
 channels:
   - defaults
 dependencies:

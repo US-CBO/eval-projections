@@ -1,0 +1,754 @@
+component,category,subcategory,fiscal_year,actual_value
+outlay,Total,Total,1984,851.806
+outlay,Total,Total,1985,946.344
+outlay,Total,Total,1986,990.382
+outlay,Total,Total,1987,1004.017
+outlay,Total,Total,1988,1064.415
+outlay,Total,Total,1989,1143.743
+outlay,Total,Total,1990,1252.993
+outlay,Total,Total,1991,1324.226
+outlay,Total,Total,1992,1381.529
+outlay,Total,Total,1993,1409.386
+outlay,Total,Total,1994,1461.752
+outlay,Total,Total,1995,1515.742
+outlay,Total,Total,1996,1560.484
+outlay,Total,Total,1997,1601.116
+outlay,Total,Total,1998,1652.458
+outlay,Total,Total,1999,1701.842
+outlay,Total,Total,2000,1788.95
+outlay,Total,Total,2001,1862.846
+outlay,Total,Total,2002,2010.894
+outlay,Total,Total,2003,2159.899
+outlay,Total,Total,2004,2292.841
+outlay,Total,Total,2005,2471.957
+outlay,Total,Total,2006,2655.05
+outlay,Total,Total,2007,2728.686
+outlay,Total,Total,2008,2982.544
+outlay,Total,Total,2009,3426.413
+outlay,Total,Total,2010,3416.621
+outlay,Total,Total,2011,3597.887
+outlay,Total,Total,2012,3526.458
+outlay,Total,Total,2013,3551.554
+outlay,Total,Total,2014,3580.677
+outlay,Total,Total,2015,3714.583
+outlay,Total,Total,2016,3866.934
+outlay,Total,Total,2017,4010.207
+outlay,Total,Total,2018,4118.54
+outlay,Total,Total,2019,4466.142
+outlay,Total,Total,2020,6557.859
+outlay,Total,Total,2021,6827.401
+outlay,Mandatory,Total Mandatory,1989,485.93
+outlay,Mandatory,Total Mandatory,1990,568.068
+outlay,Mandatory,Total Mandatory,1991,596.5
+outlay,Mandatory,Total Mandatory,1992,648.382
+outlay,Mandatory,Total Mandatory,1993,670.92
+outlay,Mandatory,Total Mandatory,1994,717.48
+outlay,Mandatory,Total Mandatory,1995,738.847
+outlay,Mandatory,Total Mandatory,1996,786.698
+outlay,Mandatory,Total Mandatory,1997,810.095
+outlay,Mandatory,Total Mandatory,1998,859.345
+outlay,Mandatory,Total Mandatory,1999,899.974
+outlay,Mandatory,Total Mandatory,2000,951.375
+outlay,Mandatory,Total Mandatory,2001,1007.638
+outlay,Mandatory,Total Mandatory,2002,1105.995
+outlay,Mandatory,Total Mandatory,2003,1182.487
+outlay,Mandatory,Total Mandatory,2004,1237.531
+outlay,Mandatory,Total Mandatory,2005,1319.43
+outlay,Mandatory,Total Mandatory,2006,1411.823
+outlay,Mandatory,Total Mandatory,2007,1449.987
+outlay,Mandatory,Total Mandatory,2008,1594.903
+outlay,Mandatory,Total Mandatory,2009,2001.975
+outlay,Mandatory,Total Mandatory,2010,1873.261
+outlay,Mandatory,Total Mandatory,2011,2020.788
+outlay,Mandatory,Total Mandatory,2012,2030.345
+outlay,Mandatory,Total Mandatory,2013,2128.307
+outlay,Mandatory,Total Mandatory,2014,2172.854
+outlay,Mandatory,Total Mandatory,2015,2319.261
+outlay,Mandatory,Total Mandatory,2016,2441.694
+outlay,Mandatory,Total Mandatory,2017,2547.397
+outlay,Mandatory,Total Mandatory,2018,2531.99
+outlay,Mandatory,Total Mandatory,2019,2753.395
+outlay,Mandatory,Total Mandatory,2020,4584.639
+outlay,Mandatory,Total Mandatory,2021,4838.673
+outlay,Mandatory,Social Security,1989,230.395
+outlay,Mandatory,Social Security,1990,246.496
+outlay,Mandatory,Social Security,1991,266.764
+outlay,Mandatory,Social Security,1992,285.167
+outlay,Mandatory,Social Security,1993,301.985
+outlay,Mandatory,Social Security,1994,316.914
+outlay,Mandatory,Social Security,1995,333.273
+outlay,Mandatory,Social Security,1996,347.051
+outlay,Mandatory,Social Security,1997,362.296
+outlay,Mandatory,Social Security,1998,376.119
+outlay,Mandatory,Social Security,1999,386.991
+outlay,Mandatory,Social Security,2000,406.048
+outlay,Mandatory,Social Security,2001,429.368
+outlay,Mandatory,Social Security,2002,452.073
+outlay,Mandatory,Social Security,2003,470.453
+outlay,Mandatory,Social Security,2004,491.537
+outlay,Mandatory,Social Security,2005,518.712
+outlay,Mandatory,Social Security,2006,543.911
+outlay,Mandatory,Social Security,2007,581.442
+outlay,Mandatory,Social Security,2008,612.11
+outlay,Mandatory,Social Security,2009,677.726
+outlay,Mandatory,Social Security,2010,700.752
+outlay,Mandatory,Social Security,2011,724.923
+outlay,Mandatory,Social Security,2012,767.714
+outlay,Mandatory,Social Security,2013,807.841
+outlay,Mandatory,Social Security,2014,844.876
+outlay,Mandatory,Social Security,2015,881.891
+outlay,Mandatory,Social Security,2016,910.282
+outlay,Mandatory,Social Security,2017,939.204
+outlay,Mandatory,Social Security,2018,982.015
+outlay,Mandatory,Social Security,2019,1038.489
+outlay,Mandatory,Social Security,2020,1089.889
+outlay,Mandatory,Social Security,2021,1128.827
+outlay,Mandatory,Medicare,1989,82.71
+outlay,Mandatory,Medicare,1990,95.803
+outlay,Mandatory,Medicare,1991,102.045
+outlay,Mandatory,Medicare,1992,116.178
+outlay,Mandatory,Medicare,1993,127.902
+outlay,Mandatory,Medicare,1994,141.833
+outlay,Mandatory,Medicare,1995,156.884
+outlay,Mandatory,Medicare,1996,171.272
+outlay,Mandatory,Medicare,1997,187.441
+outlay,Mandatory,Medicare,1998,190.233
+outlay,Mandatory,Medicare,1999,187.694
+outlay,Mandatory,Medicare,2000,194.115
+outlay,Mandatory,Medicare,2001,214.061
+outlay,Mandatory,Medicare,2002,227.699
+outlay,Mandatory,Medicare,2003,245.709
+outlay,Mandatory,Medicare,2004,264.89
+outlay,Mandatory,Medicare,2005,294.334
+outlay,Mandatory,Medicare,2006,324.879
+outlay,Mandatory,Medicare,2007,370.775
+outlay,Mandatory,Medicare,2008,385.817
+outlay,Mandatory,Medicare,2009,425.095
+outlay,Mandatory,Medicare,2010,446.477
+outlay,Mandatory,Medicare,2011,479.923
+outlay,Mandatory,Medicare,2012,466.018
+outlay,Mandatory,Medicare,2013,491.809
+outlay,Mandatory,Medicare,2014,505.303
+outlay,Mandatory,Medicare,2015,539.873
+outlay,Mandatory,Medicare,2016,588.361
+outlay,Mandatory,Medicare,2017,591.401
+outlay,Mandatory,Medicare,2018,581.848
+outlay,Mandatory,Medicare,2019,643.876
+outlay,Mandatory,Medicare,2020,768.924
+outlay,Mandatory,Medicare,2021,688.826
+outlay,Mandatory,Medicaid,1989,34.604
+outlay,Mandatory,Medicaid,1990,41.103
+outlay,Mandatory,Medicaid,1991,52.533
+outlay,Mandatory,Medicaid,1992,67.827
+outlay,Mandatory,Medicaid,1993,75.774
+outlay,Mandatory,Medicaid,1994,82.034
+outlay,Mandatory,Medicaid,1995,89.07
+outlay,Mandatory,Medicaid,1996,91.99
+outlay,Mandatory,Medicaid,1997,95.552
+outlay,Mandatory,Medicaid,1998,101.234
+outlay,Mandatory,Medicaid,1999,108.042
+outlay,Mandatory,Medicaid,2000,117.921
+outlay,Mandatory,Medicaid,2001,129.374
+outlay,Mandatory,Medicaid,2002,147.512
+outlay,Mandatory,Medicaid,2003,160.693
+outlay,Mandatory,Medicaid,2004,176.231
+outlay,Mandatory,Medicaid,2005,181.72
+outlay,Mandatory,Medicaid,2006,180.625
+outlay,Mandatory,Medicaid,2007,190.624
+outlay,Mandatory,Medicaid,2008,201.426
+outlay,Mandatory,Medicaid,2009,250.924
+outlay,Mandatory,Medicaid,2010,272.771
+outlay,Mandatory,Medicaid,2011,274.964
+outlay,Mandatory,Medicaid,2012,250.534
+outlay,Mandatory,Medicaid,2013,265.392
+outlay,Mandatory,Medicaid,2014,301.472
+outlay,Mandatory,Medicaid,2015,349.762
+outlay,Mandatory,Medicaid,2016,368.28
+outlay,Mandatory,Medicaid,2017,374.682
+outlay,Mandatory,Medicaid,2018,389.157
+outlay,Mandatory,Medicaid,2019,409.421
+outlay,Mandatory,Medicaid,2020,458.468
+outlay,Mandatory,Medicaid,2021,520.588
+outlay,Mandatory,Fannie Freddie,2008,0
+outlay,Mandatory,Fannie Freddie,2009,91.264
+outlay,Mandatory,Fannie Freddie,2010,40.458
+outlay,Mandatory,Fannie Freddie,2011,5.178
+outlay,Mandatory,Fannie Freddie,2012,0.105
+outlay,Mandatory,Fannie Freddie,2013,-96.673
+outlay,Mandatory,Fannie Freddie,2014,-74.393
+outlay,Mandatory,Fannie Freddie,2015,-22.733
+outlay,Mandatory,Fannie Freddie,2016,-14.319
+outlay,Mandatory,Fannie Freddie,2017,-28.573
+outlay,Mandatory,Fannie Freddie,2018,-9.493
+outlay,Mandatory,Fannie Freddie,2019,-19.182
+outlay,Mandatory,Fannie Freddie,2020,-4.238
+outlay,Mandatory,Fannie Freddie,2021,-4.93
+outlay,Mandatory,Other Mandatory,1989,138.221
+outlay,Mandatory,Other Mandatory,1990,184.666
+outlay,Mandatory,Other Mandatory,1991,175.158
+outlay,Mandatory,Other Mandatory,1992,179.21
+outlay,Mandatory,Other Mandatory,1993,165.259
+outlay,Mandatory,Other Mandatory,1994,176.699
+outlay,Mandatory,Other Mandatory,1995,159.62
+outlay,Mandatory,Other Mandatory,1996,176.385
+outlay,Mandatory,Other Mandatory,1997,164.806
+outlay,Mandatory,Other Mandatory,1998,191.759
+outlay,Mandatory,Other Mandatory,1999,217.247
+outlay,Mandatory,Other Mandatory,2000,233.291
+outlay,Mandatory,Other Mandatory,2001,234.835
+outlay,Mandatory,Other Mandatory,2002,278.711
+outlay,Mandatory,Other Mandatory,2003,305.632
+outlay,Mandatory,Other Mandatory,2004,304.873
+outlay,Mandatory,Other Mandatory,2005,324.664
+outlay,Mandatory,Other Mandatory,2006,362.408
+outlay,Mandatory,Other Mandatory,2007,307.146
+outlay,Mandatory,Other Mandatory,2008,395.55
+outlay,Mandatory,Other Mandatory,2009,648.23
+outlay,Mandatory,Other Mandatory,2010,453.261
+outlay,Mandatory,Other Mandatory,2011,540.978
+outlay,Mandatory,Other Mandatory,2012,546.079
+outlay,Mandatory,Other Mandatory,2013,563.265
+outlay,Mandatory,Other Mandatory,2014,521.203
+outlay,Mandatory,Other Mandatory,2015,547.735
+outlay,Mandatory,Other Mandatory,2016,574.771
+outlay,Mandatory,Other Mandatory,2017,642.11
+outlay,Mandatory,Other Mandatory,2018,578.97
+outlay,Mandatory,Other Mandatory,2019,661.609
+outlay,Mandatory,Other Mandatory,2020,2267.358
+outlay,Mandatory,Other Mandatory,2021,2500.432
+outlay,Discretionary,Total Discretionary,1989,488.832
+outlay,Discretionary,Total Discretionary,1990,500.578
+outlay,Discretionary,Total Discretionary,1991,533.278
+outlay,Discretionary,Total Discretionary,1992,533.803
+outlay,Discretionary,Total Discretionary,1993,539.753
+outlay,Discretionary,Total Discretionary,1994,541.34
+outlay,Discretionary,Total Discretionary,1995,544.761
+outlay,Discretionary,Total Discretionary,1996,532.733
+outlay,Discretionary,Total Discretionary,1997,547.037
+outlay,Discretionary,Total Discretionary,1998,551.995
+outlay,Discretionary,Total Discretionary,1999,572.113
+outlay,Discretionary,Total Discretionary,2000,614.626
+outlay,Discretionary,Total Discretionary,2001,649.041
+outlay,Discretionary,Total Discretionary,2002,733.95
+outlay,Discretionary,Total Discretionary,2003,824.339
+outlay,Discretionary,Total Discretionary,2004,895.065
+outlay,Discretionary,Total Discretionary,2005,968.541
+outlay,Discretionary,Total Discretionary,2006,1016.624
+outlay,Discretionary,Total Discretionary,2007,1041.59
+outlay,Discretionary,Total Discretionary,2008,1134.884
+outlay,Discretionary,Total Discretionary,2009,1237.536
+outlay,Discretionary,Total Discretionary,2010,1347.166
+outlay,Discretionary,Total Discretionary,2011,1347.137
+outlay,Discretionary,Total Discretionary,2012,1275.705
+outlay,Discretionary,Total Discretionary,2013,1202.362
+outlay,Discretionary,Total Discretionary,2014,1178.867
+outlay,Discretionary,Total Discretionary,2015,1172.141
+outlay,Discretionary,Total Discretionary,2016,1185.207
+outlay,Discretionary,Total Discretionary,2017,1200.259
+outlay,Discretionary,Total Discretionary,2018,1261.575
+outlay,Discretionary,Total Discretionary,2019,1337.589
+outlay,Discretionary,Total Discretionary,2020,1627.75
+outlay,Discretionary,Total Discretionary,2021,1636.39
+outlay,Discretionary,Defense Discretionary,1989,304.034
+outlay,Discretionary,Defense Discretionary,1990,300.141
+outlay,Discretionary,Defense Discretionary,1991,319.704
+outlay,Discretionary,Defense Discretionary,1992,302.602
+outlay,Discretionary,Defense Discretionary,1993,292.43
+outlay,Discretionary,Defense Discretionary,1994,282.266
+outlay,Discretionary,Defense Discretionary,1995,273.562
+outlay,Discretionary,Defense Discretionary,1996,265.961
+outlay,Discretionary,Defense Discretionary,1997,271.674
+outlay,Discretionary,Defense Discretionary,1998,270.25
+outlay,Discretionary,Defense Discretionary,1999,275.463
+outlay,Discretionary,Defense Discretionary,2000,294.965
+outlay,Discretionary,Defense Discretionary,2001,306.075
+outlay,Discretionary,Defense Discretionary,2002,348.952
+outlay,Discretionary,Defense Discretionary,2003,404.942
+outlay,Discretionary,Defense Discretionary,2004,454.057
+outlay,Discretionary,Defense Discretionary,2005,493.603
+outlay,Discretionary,Defense Discretionary,2006,519.967
+outlay,Discretionary,Defense Discretionary,2007,547.868
+outlay,Discretionary,Defense Discretionary,2008,612.434
+outlay,Discretionary,Defense Discretionary,2009,656.724
+outlay,Discretionary,Defense Discretionary,2010,688.854
+outlay,Discretionary,Defense Discretionary,2011,699.392
+outlay,Discretionary,Defense Discretionary,2012,670.523
+outlay,Discretionary,Defense Discretionary,2013,625.75
+outlay,Discretionary,Defense Discretionary,2014,596.449
+outlay,Discretionary,Defense Discretionary,2015,583.385
+outlay,Discretionary,Defense Discretionary,2016,584.831
+outlay,Discretionary,Defense Discretionary,2017,590.192
+outlay,Discretionary,Defense Discretionary,2018,622.687
+outlay,Discretionary,Defense Discretionary,2019,676.37
+outlay,Discretionary,Defense Discretionary,2020,713.813
+outlay,Discretionary,Defense Discretionary,2021,741.606
+outlay,Discretionary,Nondefense Discretionary,1989,184.798
+outlay,Discretionary,Nondefense Discretionary,1990,200.437
+outlay,Discretionary,Nondefense Discretionary,1991,213.574
+outlay,Discretionary,Nondefense Discretionary,1992,231.201
+outlay,Discretionary,Nondefense Discretionary,1993,247.323
+outlay,Discretionary,Nondefense Discretionary,1994,259.074
+outlay,Discretionary,Nondefense Discretionary,1995,271.199
+outlay,Discretionary,Nondefense Discretionary,1996,266.772
+outlay,Discretionary,Nondefense Discretionary,1997,275.363
+outlay,Discretionary,Nondefense Discretionary,1998,281.745
+outlay,Discretionary,Nondefense Discretionary,1999,296.65
+outlay,Discretionary,Nondefense Discretionary,2000,319.661
+outlay,Discretionary,Nondefense Discretionary,2001,342.966
+outlay,Discretionary,Nondefense Discretionary,2002,384.998
+outlay,Discretionary,Nondefense Discretionary,2003,419.397
+outlay,Discretionary,Nondefense Discretionary,2004,441.008
+outlay,Discretionary,Nondefense Discretionary,2005,474.938
+outlay,Discretionary,Nondefense Discretionary,2006,496.657
+outlay,Discretionary,Nondefense Discretionary,2007,493.722
+outlay,Discretionary,Nondefense Discretionary,2008,522.45
+outlay,Discretionary,Nondefense Discretionary,2009,580.812
+outlay,Discretionary,Nondefense Discretionary,2010,658.312
+outlay,Discretionary,Nondefense Discretionary,2011,647.745
+outlay,Discretionary,Nondefense Discretionary,2012,605.182
+outlay,Discretionary,Nondefense Discretionary,2013,576.612
+outlay,Discretionary,Nondefense Discretionary,2014,582.418
+outlay,Discretionary,Nondefense Discretionary,2015,588.756
+outlay,Discretionary,Nondefense Discretionary,2016,600.376
+outlay,Discretionary,Nondefense Discretionary,2017,610.067
+outlay,Discretionary,Nondefense Discretionary,2018,638.888
+outlay,Discretionary,Nondefense Discretionary,2019,661.219
+outlay,Discretionary,Nondefense Discretionary,2020,913.937
+outlay,Discretionary,Nondefense Discretionary,2021,894.784
+outlay,Net Interest,Net Interest,1989,168.981
+outlay,Net Interest,Net Interest,1990,184.347
+outlay,Net Interest,Net Interest,1991,194.448
+outlay,Net Interest,Net Interest,1992,199.344
+outlay,Net Interest,Net Interest,1993,198.713
+outlay,Net Interest,Net Interest,1994,202.932
+outlay,Net Interest,Net Interest,1995,232.134
+outlay,Net Interest,Net Interest,1996,241.053
+outlay,Net Interest,Net Interest,1997,243.984
+outlay,Net Interest,Net Interest,1998,241.118
+outlay,Net Interest,Net Interest,1999,229.755
+outlay,Net Interest,Net Interest,2000,222.949
+outlay,Net Interest,Net Interest,2001,206.167
+outlay,Net Interest,Net Interest,2002,170.949
+outlay,Net Interest,Net Interest,2003,153.073
+outlay,Net Interest,Net Interest,2004,160.245
+outlay,Net Interest,Net Interest,2005,183.986
+outlay,Net Interest,Net Interest,2006,226.603
+outlay,Net Interest,Net Interest,2007,237.109
+outlay,Net Interest,Net Interest,2008,252.757
+outlay,Net Interest,Net Interest,2009,186.902
+outlay,Net Interest,Net Interest,2010,196.194
+outlay,Net Interest,Net Interest,2011,229.962
+outlay,Net Interest,Net Interest,2012,220.408
+outlay,Net Interest,Net Interest,2013,220.885
+outlay,Net Interest,Net Interest,2014,228.956
+outlay,Net Interest,Net Interest,2015,223.181
+outlay,Net Interest,Net Interest,2016,240.033
+outlay,Net Interest,Net Interest,2017,262.551
+outlay,Net Interest,Net Interest,2018,324.975
+outlay,Net Interest,Net Interest,2019,375.158
+outlay,Net Interest,Net Interest,2020,345.47
+outlay,Net Interest,Net Interest,2021,352.338
+revenue,Total,Total,1982,617.766
+revenue,Total,Total,1983,600.562
+revenue,Total,Total,1984,666.438
+revenue,Total,Total,1985,734.037
+revenue,Total,Total,1986,769.155
+revenue,Total,Total,1987,854.287
+revenue,Total,Total,1988,909.238
+revenue,Total,Total,1989,991.104
+revenue,Total,Total,1990,1031.958
+revenue,Total,Total,1991,1054.988
+revenue,Total,Total,1992,1091.208
+revenue,Total,Total,1993,1154.334
+revenue,Total,Total,1994,1258.566
+revenue,Total,Total,1995,1351.79
+revenue,Total,Total,1996,1453.053
+revenue,Total,Total,1997,1579.232
+revenue,Total,Total,1998,1721.728
+revenue,Total,Total,1999,1827.452
+revenue,Total,Total,2000,2025.191
+revenue,Total,Total,2001,1991.082
+revenue,Total,Total,2002,1853.136
+revenue,Total,Total,2003,1782.314
+revenue,Total,Total,2004,1880.114
+revenue,Total,Total,2005,2153.611
+revenue,Total,Total,2006,2406.869
+revenue,Total,Total,2007,2567.985
+revenue,Total,Total,2008,2523.991
+revenue,Total,Total,2009,2104.989
+revenue,Total,Total,2010,2162.706
+revenue,Total,Total,2011,2303.466
+revenue,Total,Total,2012,2449.99
+revenue,Total,Total,2013,2775.106
+revenue,Total,Total,2014,3021.491
+revenue,Total,Total,2015,3249.89
+revenue,Total,Total,2016,3267.965
+revenue,Total,Total,2017,3316.184
+revenue,Total,Total,2018,3329.907
+revenue,Total,Total,2019,3463.364
+revenue,Total,Total,2020,3421.164
+revenue,Total,Total,2021,4047.112
+revenue,Total,Total,2022,4896.119
+revenue,Individual Income Taxes,Individual Income Taxes,1982,297.744
+revenue,Individual Income Taxes,Individual Income Taxes,1983,288.938
+revenue,Individual Income Taxes,Individual Income Taxes,1984,298.415
+revenue,Individual Income Taxes,Individual Income Taxes,1985,334.531
+revenue,Individual Income Taxes,Individual Income Taxes,1986,348.959
+revenue,Individual Income Taxes,Individual Income Taxes,1987,392.557
+revenue,Individual Income Taxes,Individual Income Taxes,1988,401.181
+revenue,Individual Income Taxes,Individual Income Taxes,1989,445.69
+revenue,Individual Income Taxes,Individual Income Taxes,1990,466.884
+revenue,Individual Income Taxes,Individual Income Taxes,1991,467.827
+revenue,Individual Income Taxes,Individual Income Taxes,1992,475.964
+revenue,Individual Income Taxes,Individual Income Taxes,1993,509.68
+revenue,Individual Income Taxes,Individual Income Taxes,1994,543.055
+revenue,Individual Income Taxes,Individual Income Taxes,1995,590.244
+revenue,Individual Income Taxes,Individual Income Taxes,1996,656.417
+revenue,Individual Income Taxes,Individual Income Taxes,1997,737.466
+revenue,Individual Income Taxes,Individual Income Taxes,1998,828.586
+revenue,Individual Income Taxes,Individual Income Taxes,1999,879.48
+revenue,Individual Income Taxes,Individual Income Taxes,2000,1004.462
+revenue,Individual Income Taxes,Individual Income Taxes,2001,994.339
+revenue,Individual Income Taxes,Individual Income Taxes,2002,858.345
+revenue,Individual Income Taxes,Individual Income Taxes,2003,793.699
+revenue,Individual Income Taxes,Individual Income Taxes,2004,808.959
+revenue,Individual Income Taxes,Individual Income Taxes,2005,927.222
+revenue,Individual Income Taxes,Individual Income Taxes,2006,1043.908
+revenue,Individual Income Taxes,Individual Income Taxes,2007,1163.472
+revenue,Individual Income Taxes,Individual Income Taxes,2008,1145.747
+revenue,Individual Income Taxes,Individual Income Taxes,2009,915.308
+revenue,Individual Income Taxes,Individual Income Taxes,2010,898.549
+revenue,Individual Income Taxes,Individual Income Taxes,2011,1091.473
+revenue,Individual Income Taxes,Individual Income Taxes,2012,1132.206
+revenue,Individual Income Taxes,Individual Income Taxes,2013,1316.405
+revenue,Individual Income Taxes,Individual Income Taxes,2014,1394.568
+revenue,Individual Income Taxes,Individual Income Taxes,2015,1540.802
+revenue,Individual Income Taxes,Individual Income Taxes,2016,1546.075
+revenue,Individual Income Taxes,Individual Income Taxes,2017,1587.12
+revenue,Individual Income Taxes,Individual Income Taxes,2018,1683.538
+revenue,Individual Income Taxes,Individual Income Taxes,2019,1717.857
+revenue,Individual Income Taxes,Individual Income Taxes,2020,1608.663
+revenue,Individual Income Taxes,Individual Income Taxes,2021,2044.377
+revenue,Individual Income Taxes,Individual Income Taxes,2022,2632.145
+revenue,Corporate Income Taxes,Corporate Income Taxes,1982,49.207
+revenue,Corporate Income Taxes,Corporate Income Taxes,1983,37.022
+revenue,Corporate Income Taxes,Corporate Income Taxes,1984,56.893
+revenue,Corporate Income Taxes,Corporate Income Taxes,1985,61.331
+revenue,Corporate Income Taxes,Corporate Income Taxes,1986,63.143
+revenue,Corporate Income Taxes,Corporate Income Taxes,1987,83.926
+revenue,Corporate Income Taxes,Corporate Income Taxes,1988,94.508
+revenue,Corporate Income Taxes,Corporate Income Taxes,1989,103.291
+revenue,Corporate Income Taxes,Corporate Income Taxes,1990,93.507
+revenue,Corporate Income Taxes,Corporate Income Taxes,1991,98.086
+revenue,Corporate Income Taxes,Corporate Income Taxes,1992,100.27
+revenue,Corporate Income Taxes,Corporate Income Taxes,1993,117.52
+revenue,Corporate Income Taxes,Corporate Income Taxes,1994,140.385
+revenue,Corporate Income Taxes,Corporate Income Taxes,1995,157.004
+revenue,Corporate Income Taxes,Corporate Income Taxes,1996,171.824
+revenue,Corporate Income Taxes,Corporate Income Taxes,1997,182.293
+revenue,Corporate Income Taxes,Corporate Income Taxes,1998,188.677
+revenue,Corporate Income Taxes,Corporate Income Taxes,1999,184.68
+revenue,Corporate Income Taxes,Corporate Income Taxes,2000,207.289
+revenue,Corporate Income Taxes,Corporate Income Taxes,2001,151.075
+revenue,Corporate Income Taxes,Corporate Income Taxes,2002,148.044
+revenue,Corporate Income Taxes,Corporate Income Taxes,2003,131.778
+revenue,Corporate Income Taxes,Corporate Income Taxes,2004,189.371
+revenue,Corporate Income Taxes,Corporate Income Taxes,2005,278.282
+revenue,Corporate Income Taxes,Corporate Income Taxes,2006,353.915
+revenue,Corporate Income Taxes,Corporate Income Taxes,2007,370.243
+revenue,Corporate Income Taxes,Corporate Income Taxes,2008,304.346
+revenue,Corporate Income Taxes,Corporate Income Taxes,2009,138.229
+revenue,Corporate Income Taxes,Corporate Income Taxes,2010,191.437
+revenue,Corporate Income Taxes,Corporate Income Taxes,2011,181.085
+revenue,Corporate Income Taxes,Corporate Income Taxes,2012,242.289
+revenue,Corporate Income Taxes,Corporate Income Taxes,2013,273.506
+revenue,Corporate Income Taxes,Corporate Income Taxes,2014,320.731
+revenue,Corporate Income Taxes,Corporate Income Taxes,2015,343.797
+revenue,Corporate Income Taxes,Corporate Income Taxes,2016,299.571
+revenue,Corporate Income Taxes,Corporate Income Taxes,2017,297.048
+revenue,Corporate Income Taxes,Corporate Income Taxes,2018,204.733
+revenue,Corporate Income Taxes,Corporate Income Taxes,2019,230.245
+revenue,Corporate Income Taxes,Corporate Income Taxes,2020,211.845
+revenue,Corporate Income Taxes,Corporate Income Taxes,2021,371.831
+revenue,Corporate Income Taxes,Corporate Income Taxes,2022,424.865
+revenue,Payroll Taxes,Payroll Taxes,1982,201.498
+revenue,Payroll Taxes,Payroll Taxes,1983,208.994
+revenue,Payroll Taxes,Payroll Taxes,1984,239.376
+revenue,Payroll Taxes,Payroll Taxes,1985,265.163
+revenue,Payroll Taxes,Payroll Taxes,1986,283.901
+revenue,Payroll Taxes,Payroll Taxes,1987,303.318
+revenue,Payroll Taxes,Payroll Taxes,1988,334.335
+revenue,Payroll Taxes,Payroll Taxes,1989,359.416
+revenue,Payroll Taxes,Payroll Taxes,1990,380.047
+revenue,Payroll Taxes,Payroll Taxes,1991,396.015
+revenue,Payroll Taxes,Payroll Taxes,1992,413.688
+revenue,Payroll Taxes,Payroll Taxes,1993,428.299
+revenue,Payroll Taxes,Payroll Taxes,1994,461.475
+revenue,Payroll Taxes,Payroll Taxes,1995,484.473
+revenue,Payroll Taxes,Payroll Taxes,1996,509.414
+revenue,Payroll Taxes,Payroll Taxes,1997,539.371
+revenue,Payroll Taxes,Payroll Taxes,1998,571.831
+revenue,Payroll Taxes,Payroll Taxes,1999,611.833
+revenue,Payroll Taxes,Payroll Taxes,2000,652.852
+revenue,Payroll Taxes,Payroll Taxes,2001,693.967
+revenue,Payroll Taxes,Payroll Taxes,2002,700.76
+revenue,Payroll Taxes,Payroll Taxes,2003,712.978
+revenue,Payroll Taxes,Payroll Taxes,2004,733.407
+revenue,Payroll Taxes,Payroll Taxes,2005,794.125
+revenue,Payroll Taxes,Payroll Taxes,2006,837.821
+revenue,Payroll Taxes,Payroll Taxes,2007,869.607
+revenue,Payroll Taxes,Payroll Taxes,2008,900.155
+revenue,Payroll Taxes,Payroll Taxes,2009,890.917
+revenue,Payroll Taxes,Payroll Taxes,2010,864.814
+revenue,Payroll Taxes,Payroll Taxes,2011,818.792
+revenue,Payroll Taxes,Payroll Taxes,2012,845.314
+revenue,Payroll Taxes,Payroll Taxes,2013,947.82
+revenue,Payroll Taxes,Payroll Taxes,2014,1023.458
+revenue,Payroll Taxes,Payroll Taxes,2015,1065.257
+revenue,Payroll Taxes,Payroll Taxes,2016,1115.065
+revenue,Payroll Taxes,Payroll Taxes,2017,1161.897
+revenue,Payroll Taxes,Payroll Taxes,2018,1170.701
+revenue,Payroll Taxes,Payroll Taxes,2019,1243.113
+revenue,Payroll Taxes,Payroll Taxes,2020,1309.955
+revenue,Payroll Taxes,Payroll Taxes,2021,1314.088
+revenue,Payroll Taxes,Payroll Taxes,2022,1483.527
+revenue,Excise Taxes,Excise Taxes,1982,36.311
+revenue,Excise Taxes,Excise Taxes,1983,35.3
+revenue,Excise Taxes,Excise Taxes,1984,37.361
+revenue,Excise Taxes,Excise Taxes,1985,35.992
+revenue,Excise Taxes,Excise Taxes,1986,32.919
+revenue,Excise Taxes,Excise Taxes,1987,32.457
+revenue,Excise Taxes,Excise Taxes,1988,35.227
+revenue,Excise Taxes,Excise Taxes,1989,34.386
+revenue,Excise Taxes,Excise Taxes,1990,35.345
+revenue,Excise Taxes,Excise Taxes,1991,42.402
+revenue,Excise Taxes,Excise Taxes,1992,45.569
+revenue,Excise Taxes,Excise Taxes,1993,48.057
+revenue,Excise Taxes,Excise Taxes,1994,55.225
+revenue,Excise Taxes,Excise Taxes,1995,57.484
+revenue,Excise Taxes,Excise Taxes,1996,54.014
+revenue,Excise Taxes,Excise Taxes,1997,56.924
+revenue,Excise Taxes,Excise Taxes,1998,57.673
+revenue,Excise Taxes,Excise Taxes,1999,70.414
+revenue,Excise Taxes,Excise Taxes,2000,68.865
+revenue,Excise Taxes,Excise Taxes,2001,66.232
+revenue,Excise Taxes,Excise Taxes,2002,66.989
+revenue,Excise Taxes,Excise Taxes,2003,67.524
+revenue,Excise Taxes,Excise Taxes,2004,69.855
+revenue,Excise Taxes,Excise Taxes,2005,73.094
+revenue,Excise Taxes,Excise Taxes,2006,73.961
+revenue,Excise Taxes,Excise Taxes,2007,65.069
+revenue,Excise Taxes,Excise Taxes,2008,67.334
+revenue,Excise Taxes,Excise Taxes,2009,62.483
+revenue,Excise Taxes,Excise Taxes,2010,66.909
+revenue,Excise Taxes,Excise Taxes,2011,72.381
+revenue,Excise Taxes,Excise Taxes,2012,79.061
+revenue,Excise Taxes,Excise Taxes,2013,84.007
+revenue,Excise Taxes,Excise Taxes,2014,93.368
+revenue,Excise Taxes,Excise Taxes,2015,98.279
+revenue,Excise Taxes,Excise Taxes,2016,95.026
+revenue,Excise Taxes,Excise Taxes,2017,83.823
+revenue,Excise Taxes,Excise Taxes,2018,94.986
+revenue,Excise Taxes,Excise Taxes,2019,98.914
+revenue,Excise Taxes,Excise Taxes,2020,86.78
+revenue,Excise Taxes,Excise Taxes,2021,75.274
+revenue,Excise Taxes,Excise Taxes,2022,87.726
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,1982,7.991
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,1983,6.053
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,1984,6.01
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,1985,6.422
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,1986,6.958
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,1987,7.493
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,1988,7.594
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,1989,8.745
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,1990,11.5
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,1991,11.138
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,1992,11.143
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,1993,12.577
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,1994,15.225
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,1995,14.763
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,1996,17.189
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,1997,19.845
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,1998,24.076
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,1999,27.782
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2000,29.01
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2001,28.4
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2002,26.507
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2003,21.959
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2004,24.831
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2005,24.764
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2006,27.877
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2007,26.044
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2008,28.844
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2009,23.482
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2010,18.885
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2011,7.399
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2012,13.973
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2013,18.912
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2014,19.3
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2015,19.232
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2016,21.354
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2017,22.768
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2018,22.983
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2019,16.672
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2020,17.624
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2021,27.14
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2022,32.55
+revenue,Customs Duties,Customs Duties,1982,8.854
+revenue,Customs Duties,Customs Duties,1983,8.655
+revenue,Customs Duties,Customs Duties,1984,11.37
+revenue,Customs Duties,Customs Duties,1985,12.079
+revenue,Customs Duties,Customs Duties,1986,13.327
+revenue,Customs Duties,Customs Duties,1987,15.085
+revenue,Customs Duties,Customs Duties,1988,16.198
+revenue,Customs Duties,Customs Duties,1989,16.334
+revenue,Customs Duties,Customs Duties,1990,16.707
+revenue,Customs Duties,Customs Duties,1991,15.949
+revenue,Customs Duties,Customs Duties,1992,17.359
+revenue,Customs Duties,Customs Duties,1993,18.802
+revenue,Customs Duties,Customs Duties,1994,20.099
+revenue,Customs Duties,Customs Duties,1995,19.301
+revenue,Customs Duties,Customs Duties,1996,18.67
+revenue,Customs Duties,Customs Duties,1997,17.928
+revenue,Customs Duties,Customs Duties,1998,18.297
+revenue,Customs Duties,Customs Duties,1999,18.336
+revenue,Customs Duties,Customs Duties,2000,19.914
+revenue,Customs Duties,Customs Duties,2001,19.369
+revenue,Customs Duties,Customs Duties,2002,18.602
+revenue,Customs Duties,Customs Duties,2003,19.862
+revenue,Customs Duties,Customs Duties,2004,21.083
+revenue,Customs Duties,Customs Duties,2005,23.379
+revenue,Customs Duties,Customs Duties,2006,24.81
+revenue,Customs Duties,Customs Duties,2007,26.01
+revenue,Customs Duties,Customs Duties,2008,27.568
+revenue,Customs Duties,Customs Duties,2009,22.453
+revenue,Customs Duties,Customs Duties,2010,25.298
+revenue,Customs Duties,Customs Duties,2011,29.519
+revenue,Customs Duties,Customs Duties,2012,30.307
+revenue,Customs Duties,Customs Duties,2013,31.815
+revenue,Customs Duties,Customs Duties,2014,33.926
+revenue,Customs Duties,Customs Duties,2015,35.041
+revenue,Customs Duties,Customs Duties,2016,34.838
+revenue,Customs Duties,Customs Duties,2017,34.574
+revenue,Customs Duties,Customs Duties,2018,41.299
+revenue,Customs Duties,Customs Duties,2019,70.784
+revenue,Customs Duties,Customs Duties,2020,68.551
+revenue,Customs Duties,Customs Duties,2021,79.985
+revenue,Customs Duties,Customs Duties,2022,99.908
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,1982,16.161
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,1983,15.601
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,1984,17.012
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,1985,18.519
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,1986,19.948
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,1987,19.452
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,1988,20.194
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,1989,23.243
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,1990,27.967
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,1991,23.57
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,1992,27.214
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,1993,19.399
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,1994,23.103
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,1995,28.521
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,1996,25.525
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,1997,25.405
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,1998,32.588
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,1999,34.927
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2000,42.799
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2001,37.7
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2002,33.889
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2003,34.514
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2004,32.608
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2005,32.745
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2006,44.577
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2007,47.54
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2008,49.997
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2009,52.117
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2010,96.814
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2011,102.817
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2012,106.84
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2013,102.641
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2014,136.14
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2015,147.482
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2016,156.036
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2017,128.954
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2018,111.667
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2019,85.779
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2020,117.746
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2021,134.417
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2022,135.397
+deficit,Total,Total,1984,-185.368
+deficit,Total,Total,1985,-212.307
+deficit,Total,Total,1986,-221.227
+deficit,Total,Total,1987,-149.73
+deficit,Total,Total,1988,-155.177
+deficit,Total,Total,1989,-152.639
+deficit,Total,Total,1990,-221.035
+deficit,Total,Total,1991,-269.238
+deficit,Total,Total,1992,-290.321
+deficit,Total,Total,1993,-255.052
+deficit,Total,Total,1994,-203.186
+deficit,Total,Total,1995,-163.952
+deficit,Total,Total,1996,-107.431
+deficit,Total,Total,1997,-21.884
+deficit,Total,Total,1998,69.27
+deficit,Total,Total,1999,125.61
+deficit,Total,Total,2000,236.241
+deficit,Total,Total,2001,128.236
+deficit,Total,Total,2002,-157.758
+deficit,Total,Total,2003,-377.585
+deficit,Total,Total,2004,-412.727
+deficit,Total,Total,2005,-318.346
+deficit,Total,Total,2006,-248.181
+deficit,Total,Total,2007,-160.701
+deficit,Total,Total,2008,-458.553
+deficit,Total,Total,2009,-1321.424
+deficit,Total,Total,2010,-1253.915
+deficit,Total,Total,2011,-1294.421
+deficit,Total,Total,2012,-1076.468
+deficit,Total,Total,2013,-776.448
+deficit,Total,Total,2014,-559.186
+deficit,Total,Total,2015,-464.693
+deficit,Total,Total,2016,-598.969
+deficit,Total,Total,2017,-694.023
+deficit,Total,Total,2018,-788.633
+deficit,Total,Total,2019,-1002.778
+deficit,Total,Total,2020,-3136.695
+deficit,Total,Total,2021,-2780.289
+debt,Total,Total,1984,1306.975
+debt,Total,Total,1985,1507.26
+debt,Total,Total,1986,1740.623
+debt,Total,Total,1987,1889.753
+debt,Total,Total,1988,2051.616
+debt,Total,Total,1989,2190.716
+debt,Total,Total,1990,2411.558
+debt,Total,Total,1991,2688.999
+debt,Total,Total,1992,2999.737
+debt,Total,Total,1993,3248.396
+debt,Total,Total,1994,3433.065
+debt,Total,Total,1995,3604.378
+debt,Total,Total,1996,3734.073
+debt,Total,Total,1997,3772.344
+debt,Total,Total,1998,3721.099
+debt,Total,Total,1999,3632.363
+debt,Total,Total,2000,3409.804
+debt,Total,Total,2001,3319.615
+debt,Total,Total,2002,3540.427
+debt,Total,Total,2003,3913.443
+debt,Total,Total,2004,4295.544
+debt,Total,Total,2005,4592.212
+debt,Total,Total,2006,4828.972
+debt,Total,Total,2007,5035.129
+debt,Total,Total,2008,5803.05
+debt,Total,Total,2009,7544.707
+debt,Total,Total,2010,9018.882
+debt,Total,Total,2011,10128.187
+debt,Total,Total,2012,11281.131
+debt,Total,Total,2013,11982.713
+debt,Total,Total,2014,12779.899
+debt,Total,Total,2015,13116.692
+debt,Total,Total,2016,14167.624
+debt,Total,Total,2017,14665.439
+debt,Total,Total,2018,15749.567
+debt,Total,Total,2019,16800.7
+debt,Total,Total,2020,21016.669
+debt,Total,Total,2021,22282.817

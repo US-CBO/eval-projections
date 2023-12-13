@@ -36,7 +36,7 @@ outlay,Total,Total,2017,4010.207
 outlay,Total,Total,2018,4118.54
 outlay,Total,Total,2019,4466.142
 outlay,Total,Total,2020,6557.859
-outlay,Total,Total,2021,6827.401
+outlay,Total,Total,2021,6827.4
 outlay,Mandatory,Total Mandatory,1989,485.93
 outlay,Mandatory,Total Mandatory,1990,568.068
 outlay,Mandatory,Total Mandatory,1991,596.5
@@ -64,12 +64,12 @@ outlay,Mandatory,Total Mandatory,2012,2030.345
 outlay,Mandatory,Total Mandatory,2013,2128.307
 outlay,Mandatory,Total Mandatory,2014,2172.854
 outlay,Mandatory,Total Mandatory,2015,2319.261
-outlay,Mandatory,Total Mandatory,2016,2441.694
-outlay,Mandatory,Total Mandatory,2017,2547.397
-outlay,Mandatory,Total Mandatory,2018,2531.99
-outlay,Mandatory,Total Mandatory,2019,2753.395
-outlay,Mandatory,Total Mandatory,2020,4584.639
-outlay,Mandatory,Total Mandatory,2021,4838.673
+outlay,Mandatory,Total Mandatory,2016,2441.646
+outlay,Mandatory,Total Mandatory,2017,2547.346
+outlay,Mandatory,Total Mandatory,2018,2531.929
+outlay,Mandatory,Total Mandatory,2019,2753.28
+outlay,Mandatory,Total Mandatory,2020,4584.571
+outlay,Mandatory,Total Mandatory,2021,4838.658
 outlay,Mandatory,Social Security,1989,230.395
 outlay,Mandatory,Social Security,1990,246.496
 outlay,Mandatory,Social Security,1991,266.764
@@ -210,12 +210,12 @@ outlay,Mandatory,Other Mandatory,2012,546.079
 outlay,Mandatory,Other Mandatory,2013,563.265
 outlay,Mandatory,Other Mandatory,2014,521.203
 outlay,Mandatory,Other Mandatory,2015,547.735
-outlay,Mandatory,Other Mandatory,2016,574.771
-outlay,Mandatory,Other Mandatory,2017,642.11
-outlay,Mandatory,Other Mandatory,2018,578.97
-outlay,Mandatory,Other Mandatory,2019,661.609
-outlay,Mandatory,Other Mandatory,2020,2267.358
-outlay,Mandatory,Other Mandatory,2021,2500.432
+outlay,Mandatory,Other Mandatory,2016,574.723
+outlay,Mandatory,Other Mandatory,2017,642.059
+outlay,Mandatory,Other Mandatory,2018,578.909
+outlay,Mandatory,Other Mandatory,2019,661.494
+outlay,Mandatory,Other Mandatory,2020,2267.29
+outlay,Mandatory,Other Mandatory,2021,2500.417
 outlay,Discretionary,Total Discretionary,1989,488.832
 outlay,Discretionary,Total Discretionary,1990,500.578
 outlay,Discretionary,Total Discretionary,1991,533.278
@@ -243,12 +243,12 @@ outlay,Discretionary,Total Discretionary,2012,1275.705
 outlay,Discretionary,Total Discretionary,2013,1202.362
 outlay,Discretionary,Total Discretionary,2014,1178.867
 outlay,Discretionary,Total Discretionary,2015,1172.141
-outlay,Discretionary,Total Discretionary,2016,1185.207
-outlay,Discretionary,Total Discretionary,2017,1200.259
-outlay,Discretionary,Total Discretionary,2018,1261.575
-outlay,Discretionary,Total Discretionary,2019,1337.589
-outlay,Discretionary,Total Discretionary,2020,1627.75
-outlay,Discretionary,Total Discretionary,2021,1636.39
+outlay,Discretionary,Total Discretionary,2016,1185.255
+outlay,Discretionary,Total Discretionary,2017,1200.31
+outlay,Discretionary,Total Discretionary,2018,1261.636
+outlay,Discretionary,Total Discretionary,2019,1337.704
+outlay,Discretionary,Total Discretionary,2020,1627.818
+outlay,Discretionary,Total Discretionary,2021,1636.404
 outlay,Discretionary,Defense Discretionary,1989,304.034
 outlay,Discretionary,Defense Discretionary,1990,300.141
 outlay,Discretionary,Defense Discretionary,1991,319.704
@@ -309,12 +309,12 @@ outlay,Discretionary,Nondefense Discretionary,2012,605.182
 outlay,Discretionary,Nondefense Discretionary,2013,576.612
 outlay,Discretionary,Nondefense Discretionary,2014,582.418
 outlay,Discretionary,Nondefense Discretionary,2015,588.756
-outlay,Discretionary,Nondefense Discretionary,2016,600.376
-outlay,Discretionary,Nondefense Discretionary,2017,610.067
-outlay,Discretionary,Nondefense Discretionary,2018,638.888
-outlay,Discretionary,Nondefense Discretionary,2019,661.219
-outlay,Discretionary,Nondefense Discretionary,2020,913.937
-outlay,Discretionary,Nondefense Discretionary,2021,894.784
+outlay,Discretionary,Nondefense Discretionary,2016,600.424
+outlay,Discretionary,Nondefense Discretionary,2017,610.118
+outlay,Discretionary,Nondefense Discretionary,2018,638.949
+outlay,Discretionary,Nondefense Discretionary,2019,661.334
+outlay,Discretionary,Nondefense Discretionary,2020,914.005
+outlay,Discretionary,Nondefense Discretionary,2021,894.798
 outlay,Net Interest,Net Interest,1989,168.981
 outlay,Net Interest,Net Interest,1990,184.347
 outlay,Net Interest,Net Interest,1991,194.448
@@ -387,8 +387,8 @@ revenue,Total,Total,2017,3316.184
 revenue,Total,Total,2018,3329.907
 revenue,Total,Total,2019,3463.364
 revenue,Total,Total,2020,3421.164
-revenue,Total,Total,2021,4047.112
-revenue,Total,Total,2022,4896.119
+revenue,Total,Total,2021,4047.111
+revenue,Total,Total,2022,4897.399
 revenue,Individual Income Taxes,Individual Income Taxes,1982,297.744
 revenue,Individual Income Taxes,Individual Income Taxes,1983,288.938
 revenue,Individual Income Taxes,Individual Income Taxes,1984,298.415
@@ -429,7 +429,7 @@ revenue,Individual Income Taxes,Individual Income Taxes,2018,1683.538
 revenue,Individual Income Taxes,Individual Income Taxes,2019,1717.857
 revenue,Individual Income Taxes,Individual Income Taxes,2020,1608.663
 revenue,Individual Income Taxes,Individual Income Taxes,2021,2044.377
-revenue,Individual Income Taxes,Individual Income Taxes,2022,2632.145
+revenue,Individual Income Taxes,Individual Income Taxes,2022,2632.146
 revenue,Corporate Income Taxes,Corporate Income Taxes,1982,49.207
 revenue,Corporate Income Taxes,Corporate Income Taxes,1983,37.022
 revenue,Corporate Income Taxes,Corporate Income Taxes,1984,56.893
@@ -552,7 +552,7 @@ revenue,Excise Taxes,Excise Taxes,2018,94.986
 revenue,Excise Taxes,Excise Taxes,2019,98.914
 revenue,Excise Taxes,Excise Taxes,2020,86.78
 revenue,Excise Taxes,Excise Taxes,2021,75.274
-revenue,Excise Taxes,Excise Taxes,2022,87.726
+revenue,Excise Taxes,Excise Taxes,2022,87.728
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,1982,7.991
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,1983,6.053
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,1984,6.01
@@ -674,8 +674,8 @@ revenue,Miscellaneous Receipts,Miscellaneous Receipts,2017,128.954
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,2018,111.667
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,2019,85.779
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,2020,117.746
-revenue,Miscellaneous Receipts,Miscellaneous Receipts,2021,134.417
-revenue,Miscellaneous Receipts,Miscellaneous Receipts,2022,135.397
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2021,134.416
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2022,136.675
 deficit,Total,Total,1984,-185.368
 deficit,Total,Total,1985,-212.307
 deficit,Total,Total,1986,-221.227
@@ -752,3 +752,17 @@ debt,Total,Total,2018,15749.567
 debt,Total,Total,2019,16800.7
 debt,Total,Total,2020,21016.669
 debt,Total,Total,2021,22282.817
+outlay,Discretionary,Total Discretionary,2022,1664.376
+outlay,Discretionary,Nondefense Discretionary,2022,912.248
+outlay,Discretionary,Defense Discretionary,2022,752.128
+outlay,Mandatory,Student Loan Forgiveness,2022,378.661
+outlay,Mandatory,Social Security,2022,1212.487
+outlay,Mandatory,Medicare,2022,747.195
+outlay,Mandatory,Medicaid,2022,591.949
+outlay,Mandatory,Fannie Freddie,2022,-5.836
+outlay,Net Interest,Net Interest,2022,475.887
+outlay,Mandatory,Other Mandatory,2022,1208.605
+outlay,Total,Total,2022,5900.499
+outlay,Mandatory,Total Mandatory,2022,3760.236
+deficit,Total,Total,2022,-1003.100
+debt,Total,Total,2022,24252.357

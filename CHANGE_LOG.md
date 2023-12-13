@@ -1,5 +1,10 @@
 # Change Log
 
+## Version 0.3.0 -- 2023-12-13
+* Revenue baseline and baseline changes data are through the February 2023 baseline. Revenue actuals are through 2022. Error statistics are through 2022.
+* Outlay, deficit, and debt baseline and baseline changes are through the end of 2022. Outlay, deficit, and debt actuals are through 2022. Error statistics are through 2022.
+* Actual GDP data is through 2022 and reflect historical information available as of November 2023.
+
 ## Version 0.2.0 -- 2023-11-01
 * Expanded Python code and data to include evaluations of revenue, deficit, and debt projections, in addition to outlay projections
 * Revenue baseline and baseline changes data are through the February 2023 baseline. Revenue actuals are through 2022. Error statistics are through 2022.

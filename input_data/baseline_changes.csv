@@ -33408,3 +33408,347 @@ deficit,Total,Total,2021-07-01,Technical,2029,64.424
 deficit,Total,Total,2021-07-01,Technical,2030,68.611
 deficit,Total,Total,2021-07-01,Technical,2031,63.129
 deficit,Total,Total,2021-12-01,Technical,2021,-46.848
+outlay,Total,Total,2022-12-01,Economic,2022,52.103
+outlay,Total,Total,2022-12-01,Legislative,2022,1.558
+outlay,Mandatory,Total Mandatory,2022-12-01,Economic,2022,-4.467
+outlay,Mandatory,Total Mandatory,2022-12-01,Legislative,2022,-0.255
+outlay,Mandatory,Social Security,2022-12-01,Economic,2022,0
+outlay,Mandatory,Social Security,2022-12-01,Legislative,2022,0
+outlay,Mandatory,Medicare,2022-12-01,Economic,2022,0
+outlay,Mandatory,Medicare,2022-12-01,Legislative,2022,0
+outlay,Mandatory,Medicaid,2022-12-01,Economic,2022,0
+outlay,Mandatory,Medicaid,2022-12-01,Legislative,2022,0.001
+outlay,Mandatory,Fannie Freddie,2022-12-01,Economic,2022,0
+outlay,Mandatory,Fannie Freddie,2022-12-01,Legislative,2022,0
+outlay,Mandatory,Other Mandatory,2022-12-01,Economic,2022,-4.467
+outlay,Mandatory,Other Mandatory,2022-12-01,Legislative,2022,-0.256
+outlay,Discretionary,Total Discretionary,2022-12-01,Economic,2022,0
+outlay,Discretionary,Total Discretionary,2022-12-01,Legislative,2022,1.76
+outlay,Discretionary,Defense Discretionary,2022-12-01,Economic,2022,0
+outlay,Discretionary,Defense Discretionary,2022-12-01,Legislative,2022,-0.19
+outlay,Discretionary,Nondefense Discretionary,2022-12-01,Economic,2022,0
+outlay,Discretionary,Nondefense Discretionary,2022-12-01,Legislative,2022,1.95
+outlay,Net Interest,Net Interest,2022-12-01,Economic,2022,56.57
+outlay,Net Interest,Net Interest,2022-12-01,Legislative,2022,0.053
+deficit,Total,Total,2022-12-01,Legislative,2022,-1.566
+outlay,Net Interest,Net Interest,2022-05-01,Legislative,2022,0.297
+outlay,Net Interest,Net Interest,2022-05-01,Legislative,2023,1.896
+outlay,Net Interest,Net Interest,2022-05-01,Legislative,2024,5.178
+outlay,Net Interest,Net Interest,2022-05-01,Legislative,2025,10.333
+outlay,Net Interest,Net Interest,2022-05-01,Legislative,2026,16.668
+outlay,Net Interest,Net Interest,2022-05-01,Legislative,2027,23.844
+outlay,Net Interest,Net Interest,2022-05-01,Legislative,2028,32.216
+outlay,Net Interest,Net Interest,2022-05-01,Legislative,2029,41.42
+outlay,Net Interest,Net Interest,2022-05-01,Legislative,2030,51.463
+outlay,Net Interest,Net Interest,2022-05-01,Legislative,2031,61.544
+outlay,Net Interest,Net Interest,2022-05-01,Economic,2022,69.333
+outlay,Net Interest,Net Interest,2022-05-01,Economic,2023,117.398
+outlay,Net Interest,Net Interest,2022-05-01,Economic,2024,175.605
+outlay,Net Interest,Net Interest,2022-05-01,Economic,2025,199.814
+outlay,Net Interest,Net Interest,2022-05-01,Economic,2026,201.24
+outlay,Net Interest,Net Interest,2022-05-01,Economic,2027,194.673
+outlay,Net Interest,Net Interest,2022-05-01,Economic,2028,190.243
+outlay,Net Interest,Net Interest,2022-05-01,Economic,2029,180.033
+outlay,Net Interest,Net Interest,2022-05-01,Economic,2030,160.856
+outlay,Net Interest,Net Interest,2022-05-01,Economic,2031,143.922
+outlay,Net Interest,Net Interest,2022-05-01,Technical,2022,23.892
+outlay,Net Interest,Net Interest,2022-05-01,Technical,2023,8.134
+outlay,Net Interest,Net Interest,2022-05-01,Technical,2024,0.67
+outlay,Net Interest,Net Interest,2022-05-01,Technical,2025,-1.801
+outlay,Net Interest,Net Interest,2022-05-01,Technical,2026,-3.325
+outlay,Net Interest,Net Interest,2022-05-01,Technical,2027,-3.269
+outlay,Net Interest,Net Interest,2022-05-01,Technical,2028,-7.941
+outlay,Net Interest,Net Interest,2022-05-01,Technical,2029,-8.534
+outlay,Net Interest,Net Interest,2022-05-01,Technical,2030,-13.169
+outlay,Net Interest,Net Interest,2022-05-01,Technical,2031,-16.482
+outlay,Total,Total,2022-05-01,Legislative,2022,55.399
+outlay,Total,Total,2022-05-01,Legislative,2023,101.245
+outlay,Total,Total,2022-05-01,Legislative,2024,170.16
+outlay,Total,Total,2022-05-01,Legislative,2025,206.295
+outlay,Total,Total,2022-05-01,Legislative,2026,257.441
+outlay,Total,Total,2022-05-01,Legislative,2027,289.552
+outlay,Total,Total,2022-05-01,Legislative,2028,311.871
+outlay,Total,Total,2022-05-01,Legislative,2029,330.578
+outlay,Total,Total,2022-05-01,Legislative,2030,353.611
+outlay,Total,Total,2022-05-01,Legislative,2031,350.923
+outlay,Total,Total,2022-05-01,Economic,2022,81.282
+outlay,Total,Total,2022-05-01,Economic,2023,215.328
+outlay,Total,Total,2022-05-01,Economic,2024,316.514
+outlay,Total,Total,2022-05-01,Economic,2025,356.688
+outlay,Total,Total,2022-05-01,Economic,2026,365.299
+outlay,Total,Total,2022-05-01,Economic,2027,367.292
+outlay,Total,Total,2022-05-01,Economic,2028,370.394
+outlay,Total,Total,2022-05-01,Economic,2029,363.676
+outlay,Total,Total,2022-05-01,Economic,2030,353.121
+outlay,Total,Total,2022-05-01,Economic,2031,343.819
+outlay,Total,Total,2022-05-01,Technical,2022,202.638
+outlay,Total,Total,2022-05-01,Technical,2023,173.721
+outlay,Total,Total,2022-05-01,Technical,2024,71.479
+outlay,Total,Total,2022-05-01,Technical,2025,6.049
+outlay,Total,Total,2022-05-01,Technical,2026,-10.57
+outlay,Total,Total,2022-05-01,Technical,2027,-25.1
+outlay,Total,Total,2022-05-01,Technical,2028,-28.636
+outlay,Total,Total,2022-05-01,Technical,2029,-40.186
+outlay,Total,Total,2022-05-01,Technical,2030,-43.232
+outlay,Total,Total,2022-05-01,Technical,2031,-32.101
+outlay,Discretionary,Defense,2022-05-01,Economic,2022,0
+outlay,Discretionary,Defense,2022-05-01,Economic,2023,7.151
+outlay,Discretionary,Defense,2022-05-01,Economic,2024,10.031
+outlay,Discretionary,Defense,2022-05-01,Economic,2025,11.28
+outlay,Discretionary,Defense,2022-05-01,Economic,2026,11.377
+outlay,Discretionary,Defense,2022-05-01,Economic,2027,11.542
+outlay,Discretionary,Defense,2022-05-01,Economic,2028,11.938
+outlay,Discretionary,Defense,2022-05-01,Economic,2029,11.76
+outlay,Discretionary,Defense,2022-05-01,Economic,2030,12.094
+outlay,Discretionary,Defense,2022-05-01,Economic,2031,12.335
+outlay,Discretionary,Nondefense,2022-05-01,Economic,2022,0.043
+outlay,Discretionary,Nondefense,2022-05-01,Economic,2023,4.438
+outlay,Discretionary,Nondefense,2022-05-01,Economic,2024,7.833
+outlay,Discretionary,Nondefense,2022-05-01,Economic,2025,9.107
+outlay,Discretionary,Nondefense,2022-05-01,Economic,2026,9.302
+outlay,Discretionary,Nondefense,2022-05-01,Economic,2027,9.536
+outlay,Discretionary,Nondefense,2022-05-01,Economic,2028,9.959
+outlay,Discretionary,Nondefense,2022-05-01,Economic,2029,10.174
+outlay,Discretionary,Nondefense,2022-05-01,Economic,2030,10.212
+outlay,Discretionary,Nondefense,2022-05-01,Economic,2031,10.345
+outlay,Discretionary,Total Discretionary,2022-05-01,Economic,2022,0.043
+outlay,Discretionary,Total Discretionary,2022-05-01,Economic,2023,11.589
+outlay,Discretionary,Total Discretionary,2022-05-01,Economic,2024,17.864
+outlay,Discretionary,Total Discretionary,2022-05-01,Economic,2025,20.387
+outlay,Discretionary,Total Discretionary,2022-05-01,Economic,2026,20.679
+outlay,Discretionary,Total Discretionary,2022-05-01,Economic,2027,21.078
+outlay,Discretionary,Total Discretionary,2022-05-01,Economic,2028,21.897
+outlay,Discretionary,Total Discretionary,2022-05-01,Economic,2029,21.934
+outlay,Discretionary,Total Discretionary,2022-05-01,Economic,2030,22.306
+outlay,Discretionary,Total Discretionary,2022-05-01,Economic,2031,22.68
+outlay,Discretionary,Defense,2022-05-01,Legislative,2022,13.69
+outlay,Discretionary,Defense,2022-05-01,Legislative,2023,24.816
+outlay,Discretionary,Defense,2022-05-01,Legislative,2024,30.169
+outlay,Discretionary,Defense,2022-05-01,Legislative,2025,33.543
+outlay,Discretionary,Defense,2022-05-01,Legislative,2026,35.714
+outlay,Discretionary,Defense,2022-05-01,Legislative,2027,37.216
+outlay,Discretionary,Defense,2022-05-01,Legislative,2028,38.671
+outlay,Discretionary,Defense,2022-05-01,Legislative,2029,39.936
+outlay,Discretionary,Defense,2022-05-01,Legislative,2030,41.036
+outlay,Discretionary,Defense,2022-05-01,Legislative,2031,42.465
+outlay,Discretionary,Nondefense,2022-05-01,Legislative,2022,39.265
+outlay,Discretionary,Nondefense,2022-05-01,Legislative,2023,93.536
+outlay,Discretionary,Nondefense,2022-05-01,Legislative,2024,148.199
+outlay,Discretionary,Nondefense,2022-05-01,Legislative,2025,178.292
+outlay,Discretionary,Nondefense,2022-05-01,Legislative,2026,207.919
+outlay,Discretionary,Nondefense,2022-05-01,Legislative,2027,229.186
+outlay,Discretionary,Nondefense,2022-05-01,Legislative,2028,243.394
+outlay,Discretionary,Nondefense,2022-05-01,Legislative,2029,252.276
+outlay,Discretionary,Nondefense,2022-05-01,Legislative,2030,260.689
+outlay,Discretionary,Nondefense,2022-05-01,Legislative,2031,268.792
+outlay,Discretionary,Total Discretionary,2022-05-01,Legislative,2022,52.955
+outlay,Discretionary,Total Discretionary,2022-05-01,Legislative,2023,118.352
+outlay,Discretionary,Total Discretionary,2022-05-01,Legislative,2024,178.368
+outlay,Discretionary,Total Discretionary,2022-05-01,Legislative,2025,211.835
+outlay,Discretionary,Total Discretionary,2022-05-01,Legislative,2026,243.633
+outlay,Discretionary,Total Discretionary,2022-05-01,Legislative,2027,266.402
+outlay,Discretionary,Total Discretionary,2022-05-01,Legislative,2028,282.065
+outlay,Discretionary,Total Discretionary,2022-05-01,Legislative,2029,292.212
+outlay,Discretionary,Total Discretionary,2022-05-01,Legislative,2030,301.725
+outlay,Discretionary,Total Discretionary,2022-05-01,Legislative,2031,311.257
+outlay,Discretionary,Defense,2022-05-01,Technical,2022,-4.053
+outlay,Discretionary,Defense,2022-05-01,Technical,2023,0.226
+outlay,Discretionary,Defense,2022-05-01,Technical,2024,-0.36
+outlay,Discretionary,Defense,2022-05-01,Technical,2025,-0.808
+outlay,Discretionary,Defense,2022-05-01,Technical,2026,-0.521
+outlay,Discretionary,Defense,2022-05-01,Technical,2027,-0.587
+outlay,Discretionary,Defense,2022-05-01,Technical,2028,-0.8
+outlay,Discretionary,Defense,2022-05-01,Technical,2029,-1.026
+outlay,Discretionary,Defense,2022-05-01,Technical,2030,-1.272
+outlay,Discretionary,Defense,2022-05-01,Technical,2031,-1.54
+outlay,Discretionary,Nondefense,2022-05-01,Technical,2022,23.521
+outlay,Discretionary,Nondefense,2022-05-01,Technical,2023,17.663
+outlay,Discretionary,Nondefense,2022-05-01,Technical,2024,10.224
+outlay,Discretionary,Nondefense,2022-05-01,Technical,2025,5.784
+outlay,Discretionary,Nondefense,2022-05-01,Technical,2026,6.67
+outlay,Discretionary,Nondefense,2022-05-01,Technical,2027,8.293
+outlay,Discretionary,Nondefense,2022-05-01,Technical,2028,7.68
+outlay,Discretionary,Nondefense,2022-05-01,Technical,2029,5.242
+outlay,Discretionary,Nondefense,2022-05-01,Technical,2030,5.185
+outlay,Discretionary,Nondefense,2022-05-01,Technical,2031,-0.664
+outlay,Discretionary,Total Discretionary,2022-05-01,Technical,2022,19.468
+outlay,Discretionary,Total Discretionary,2022-05-01,Technical,2023,17.889
+outlay,Discretionary,Total Discretionary,2022-05-01,Technical,2024,9.864
+outlay,Discretionary,Total Discretionary,2022-05-01,Technical,2025,4.976
+outlay,Discretionary,Total Discretionary,2022-05-01,Technical,2026,6.149
+outlay,Discretionary,Total Discretionary,2022-05-01,Technical,2027,7.706
+outlay,Discretionary,Total Discretionary,2022-05-01,Technical,2028,6.88
+outlay,Discretionary,Total Discretionary,2022-05-01,Technical,2029,4.216
+outlay,Discretionary,Total Discretionary,2022-05-01,Technical,2030,3.913
+outlay,Discretionary,Total Discretionary,2022-05-01,Technical,2031,-2.204
+outlay,Mandatory,Medicaid,2022-05-01,Economic,2022,4.904
+outlay,Mandatory,Medicaid,2022-05-01,Economic,2023,10.433
+outlay,Mandatory,Medicaid,2022-05-01,Economic,2024,12.287
+outlay,Mandatory,Medicaid,2022-05-01,Economic,2025,13.081
+outlay,Mandatory,Medicaid,2022-05-01,Economic,2026,13.762
+outlay,Mandatory,Medicaid,2022-05-01,Economic,2027,14.215
+outlay,Mandatory,Medicaid,2022-05-01,Economic,2028,14.888
+outlay,Mandatory,Medicaid,2022-05-01,Economic,2029,15.567
+outlay,Mandatory,Medicaid,2022-05-01,Economic,2030,16.287
+outlay,Mandatory,Medicaid,2022-05-01,Economic,2031,16.736
+outlay,Mandatory,Medicare,2022-05-01,Economic,2023,1.822
+outlay,Mandatory,Medicare,2022-05-01,Economic,2024,4.674
+outlay,Mandatory,Medicare,2022-05-01,Economic,2025,6.26
+outlay,Mandatory,Medicare,2022-05-01,Economic,2026,7.619
+outlay,Mandatory,Medicare,2022-05-01,Economic,2027,8.545
+outlay,Mandatory,Medicare,2022-05-01,Economic,2028,9.953
+outlay,Mandatory,Medicare,2022-05-01,Economic,2029,10.462
+outlay,Mandatory,Medicare,2022-05-01,Economic,2030,12.593
+outlay,Mandatory,Medicare,2022-05-01,Economic,2031,14.342
+outlay,Mandatory,Other Mandatory,2022-05-01,Economic,2022,-10.098
+outlay,Mandatory,Other Mandatory,2022-05-01,Economic,2023,15.486
+outlay,Mandatory,Other Mandatory,2022-05-01,Economic,2024,26.484
+outlay,Mandatory,Other Mandatory,2022-05-01,Economic,2025,31.346
+outlay,Mandatory,Other Mandatory,2022-05-01,Economic,2026,33.099
+outlay,Mandatory,Other Mandatory,2022-05-01,Economic,2027,36.781
+outlay,Mandatory,Other Mandatory,2022-05-01,Economic,2028,41.013
+outlay,Mandatory,Other Mandatory,2022-05-01,Economic,2029,39.78
+outlay,Mandatory,Other Mandatory,2022-05-01,Economic,2030,40.579
+outlay,Mandatory,Other Mandatory,2022-05-01,Economic,2031,40.239
+outlay,Mandatory,Social Security,2022-05-01,Economic,2022,17.1
+outlay,Mandatory,Social Security,2022-05-01,Economic,2023,58.6
+outlay,Mandatory,Social Security,2022-05-01,Economic,2024,79.6
+outlay,Mandatory,Social Security,2022-05-01,Economic,2025,85.8
+outlay,Mandatory,Social Security,2022-05-01,Economic,2026,88.9
+outlay,Mandatory,Social Security,2022-05-01,Economic,2027,92
+outlay,Mandatory,Social Security,2022-05-01,Economic,2028,92.4
+outlay,Mandatory,Social Security,2022-05-01,Economic,2029,95.9
+outlay,Mandatory,Social Security,2022-05-01,Economic,2030,100.5
+outlay,Mandatory,Social Security,2022-05-01,Economic,2031,105.9
+outlay,Mandatory,Total Mandatory,2022-05-01,Economic,2022,11.906
+outlay,Mandatory,Total Mandatory,2022-05-01,Economic,2023,86.341
+outlay,Mandatory,Total Mandatory,2022-05-01,Economic,2024,123.045
+outlay,Mandatory,Total Mandatory,2022-05-01,Economic,2025,136.487
+outlay,Mandatory,Total Mandatory,2022-05-01,Economic,2026,143.38
+outlay,Mandatory,Total Mandatory,2022-05-01,Economic,2027,151.541
+outlay,Mandatory,Total Mandatory,2022-05-01,Economic,2028,158.254
+outlay,Mandatory,Total Mandatory,2022-05-01,Economic,2029,161.709
+outlay,Mandatory,Total Mandatory,2022-05-01,Economic,2030,169.959
+outlay,Mandatory,Total Mandatory,2022-05-01,Economic,2031,177.217
+outlay,Mandatory,Fannie Freddie,2022-05-01,Legislative,2022,-2.9
+outlay,Mandatory,Fannie Freddie,2022-05-01,Legislative,2023,-3.3
+outlay,Mandatory,Fannie Freddie,2022-05-01,Legislative,2024,-3.2
+outlay,Mandatory,Fannie Freddie,2022-05-01,Legislative,2025,-2.5
+outlay,Mandatory,Fannie Freddie,2022-05-01,Legislative,2026,-2.1
+outlay,Mandatory,Fannie Freddie,2022-05-01,Legislative,2027,-1.8
+outlay,Mandatory,Fannie Freddie,2022-05-01,Legislative,2028,-1.5
+outlay,Mandatory,Fannie Freddie,2022-05-01,Legislative,2029,-1.3
+outlay,Mandatory,Fannie Freddie,2022-05-01,Legislative,2030,-1.2
+outlay,Mandatory,Fannie Freddie,2022-05-01,Legislative,2031,-1.2
+outlay,Mandatory,Medicaid,2022-05-01,Legislative,2022,0.418
+outlay,Mandatory,Medicaid,2022-05-01,Legislative,2023,-0.33
+outlay,Mandatory,Medicaid,2022-05-01,Legislative,2024,-0.695
+outlay,Mandatory,Medicaid,2022-05-01,Legislative,2025,-0.725
+outlay,Mandatory,Medicaid,2022-05-01,Legislative,2026,-0.185
+outlay,Mandatory,Medicaid,2022-05-01,Legislative,2027,0.032
+outlay,Mandatory,Medicaid,2022-05-01,Legislative,2028,0.064
+outlay,Mandatory,Medicaid,2022-05-01,Legislative,2029,0.086
+outlay,Mandatory,Medicaid,2022-05-01,Legislative,2030,0.101
+outlay,Mandatory,Medicaid,2022-05-01,Legislative,2031,0.111
+outlay,Mandatory,Medicare,2022-05-01,Legislative,2022,7.346
+outlay,Mandatory,Medicare,2022-05-01,Legislative,2023,-10.8
+outlay,Mandatory,Medicare,2022-05-01,Legislative,2024,-15.214
+outlay,Mandatory,Medicare,2022-05-01,Legislative,2025,-17.281
+outlay,Mandatory,Medicare,2022-05-01,Legislative,2026,-4.97
+outlay,Mandatory,Medicare,2022-05-01,Legislative,2027,0.204
+outlay,Mandatory,Medicare,2022-05-01,Legislative,2028,0.629
+outlay,Mandatory,Medicare,2022-05-01,Legislative,2029,0.192
+outlay,Mandatory,Medicare,2022-05-01,Legislative,2030,0.142
+outlay,Mandatory,Medicare,2022-05-01,Legislative,2031,-13.516
+outlay,Mandatory,Other Mandatory,2022-05-01,Legislative,2022,-5.627
+outlay,Mandatory,Other Mandatory,2022-05-01,Legislative,2023,-7.879
+outlay,Mandatory,Other Mandatory,2022-05-01,Legislative,2024,2.523
+outlay,Mandatory,Other Mandatory,2022-05-01,Legislative,2025,2.133
+outlay,Mandatory,Other Mandatory,2022-05-01,Legislative,2026,2.295
+outlay,Mandatory,Other Mandatory,2022-05-01,Legislative,2027,-0.93
+outlay,Mandatory,Other Mandatory,2022-05-01,Legislative,2028,-3.103
+outlay,Mandatory,Other Mandatory,2022-05-01,Legislative,2029,-3.332
+outlay,Mandatory,Other Mandatory,2022-05-01,Legislative,2030,0.18
+outlay,Mandatory,Other Mandatory,2022-05-01,Legislative,2031,-8.473
+outlay,Mandatory,Social Security,2022-05-01,Legislative,2022,0.01
+outlay,Mandatory,Social Security,2022-05-01,Legislative,2023,0.006
+outlay,Mandatory,Total Mandatory,2022-05-01,Legislative,2022,2.147
+outlay,Mandatory,Total Mandatory,2022-05-01,Legislative,2023,-19.003
+outlay,Mandatory,Total Mandatory,2022-05-01,Legislative,2024,-13.386
+outlay,Mandatory,Total Mandatory,2022-05-01,Legislative,2025,-15.873
+outlay,Mandatory,Total Mandatory,2022-05-01,Legislative,2026,-2.86
+outlay,Mandatory,Total Mandatory,2022-05-01,Legislative,2027,-0.694
+outlay,Mandatory,Total Mandatory,2022-05-01,Legislative,2028,-2.41
+outlay,Mandatory,Total Mandatory,2022-05-01,Legislative,2029,-3.054
+outlay,Mandatory,Total Mandatory,2022-05-01,Legislative,2030,0.423
+outlay,Mandatory,Total Mandatory,2022-05-01,Legislative,2031,-21.878
+outlay,Mandatory,Fannie Freddie,2022-05-01,Technical,2022,-8.3
+outlay,Mandatory,Fannie Freddie,2022-05-01,Technical,2023,0.6
+outlay,Mandatory,Fannie Freddie,2022-05-01,Technical,2024,1.5
+outlay,Mandatory,Fannie Freddie,2022-05-01,Technical,2025,1.8
+outlay,Mandatory,Fannie Freddie,2022-05-01,Technical,2026,0.4
+outlay,Mandatory,Fannie Freddie,2022-05-01,Technical,2027,-1.8
+outlay,Mandatory,Fannie Freddie,2022-05-01,Technical,2028,-3
+outlay,Mandatory,Fannie Freddie,2022-05-01,Technical,2029,-3.5
+outlay,Mandatory,Fannie Freddie,2022-05-01,Technical,2030,-4.1
+outlay,Mandatory,Fannie Freddie,2022-05-01,Technical,2031,-4.4
+outlay,Mandatory,Medicaid,2022-05-01,Technical,2022,38.504
+outlay,Mandatory,Medicaid,2022-05-01,Technical,2023,78.627
+outlay,Mandatory,Medicaid,2022-05-01,Technical,2024,13.965
+outlay,Mandatory,Medicaid,2022-05-01,Technical,2025,-7.6
+outlay,Mandatory,Medicaid,2022-05-01,Technical,2026,-6.3
+outlay,Mandatory,Medicaid,2022-05-01,Technical,2027,-8.322
+outlay,Mandatory,Medicaid,2022-05-01,Technical,2028,-11.406
+outlay,Mandatory,Medicaid,2022-05-01,Technical,2029,-15.006
+outlay,Mandatory,Medicaid,2022-05-01,Technical,2030,-16.923
+outlay,Mandatory,Medicaid,2022-05-01,Technical,2031,-16.514
+outlay,Mandatory,Medicare,2022-05-01,Technical,2022,18.856
+outlay,Mandatory,Medicare,2022-05-01,Technical,2023,18.358
+outlay,Mandatory,Medicare,2022-05-01,Technical,2024,5.968
+outlay,Mandatory,Medicare,2022-05-01,Technical,2025,5.916
+outlay,Mandatory,Medicare,2022-05-01,Technical,2026,0.577
+outlay,Mandatory,Medicare,2022-05-01,Technical,2027,-1.638
+outlay,Mandatory,Medicare,2022-05-01,Technical,2028,2.415
+outlay,Mandatory,Medicare,2022-05-01,Technical,2029,-12.916
+outlay,Mandatory,Medicare,2022-05-01,Technical,2030,-4.901
+outlay,Mandatory,Medicare,2022-05-01,Technical,2031,10.771
+outlay,Mandatory,Other Mandatory,2022-05-01,Technical,2022,110.21
+outlay,Mandatory,Other Mandatory,2022-05-01,Technical,2023,69.561
+outlay,Mandatory,Other Mandatory,2022-05-01,Technical,2024,69.342
+outlay,Mandatory,Other Mandatory,2022-05-01,Technical,2025,37.98
+outlay,Mandatory,Other Mandatory,2022-05-01,Technical,2026,27.74
+outlay,Mandatory,Other Mandatory,2022-05-01,Technical,2027,16.924
+outlay,Mandatory,Other Mandatory,2022-05-01,Technical,2028,19.109
+outlay,Mandatory,Other Mandatory,2022-05-01,Technical,2029,31.547
+outlay,Mandatory,Other Mandatory,2022-05-01,Technical,2030,29.346
+outlay,Mandatory,Other Mandatory,2022-05-01,Technical,2031,35.228
+outlay,Mandatory,Social Security,2022-05-01,Technical,2022,-8.292
+outlay,Mandatory,Social Security,2022-05-01,Technical,2023,-18.848
+outlay,Mandatory,Social Security,2022-05-01,Technical,2024,-28.33
+outlay,Mandatory,Social Security,2022-05-01,Technical,2025,-33.422
+outlay,Mandatory,Social Security,2022-05-01,Technical,2026,-35.411
+outlay,Mandatory,Social Security,2022-05-01,Technical,2027,-36.501
+outlay,Mandatory,Social Security,2022-05-01,Technical,2028,-37.693
+outlay,Mandatory,Social Security,2022-05-01,Technical,2029,-39.493
+outlay,Mandatory,Social Security,2022-05-01,Technical,2030,-41.498
+outlay,Mandatory,Social Security,2022-05-01,Technical,2031,-42.9
+outlay,Mandatory,Total Mandatory,2022-05-01,Technical,2022,159.278
+outlay,Mandatory,Total Mandatory,2022-05-01,Technical,2023,147.698
+outlay,Mandatory,Total Mandatory,2022-05-01,Technical,2024,60.945
+outlay,Mandatory,Total Mandatory,2022-05-01,Technical,2025,2.874
+outlay,Mandatory,Total Mandatory,2022-05-01,Technical,2026,-13.394
+outlay,Mandatory,Total Mandatory,2022-05-01,Technical,2027,-29.537
+outlay,Mandatory,Total Mandatory,2022-05-01,Technical,2028,-27.575
+outlay,Mandatory,Total Mandatory,2022-05-01,Technical,2029,-35.868
+outlay,Mandatory,Total Mandatory,2022-05-01,Technical,2030,-33.976
+outlay,Mandatory,Total Mandatory,2022-05-01,Technical,2031,-13.415
+deficit,Total,Total,2022-05-01,Legislative,2022,-46.833
+deficit,Total,Total,2022-05-01,Legislative,2023,-100.003
+deficit,Total,Total,2022-05-01,Legislative,2024,-167.136
+deficit,Total,Total,2022-05-01,Legislative,2025,-201.965
+deficit,Total,Total,2022-05-01,Legislative,2026,-252.623
+deficit,Total,Total,2022-05-01,Legislative,2027,-284.43
+deficit,Total,Total,2022-05-01,Legislative,2028,-306.085
+deficit,Total,Total,2022-05-01,Legislative,2029,-324.756
+deficit,Total,Total,2022-05-01,Legislative,2030,-347.409
+deficit,Total,Total,2022-05-01,Legislative,2031,-344.367

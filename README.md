@@ -80,7 +80,7 @@ Note that budget components passed into `main.py` must be singular and separated
 ## Input Data Descriptions
 The input data consists of the four files listed below.
 
-For the purposes of these analyses, outlays for the housing entities Fannie Mae and Freddie Mac have been removed from CBO’s projections and from the actual amounts because CBO and the Administration account for those entities’ transactions differently (see the Fannie Mae and Freddie Mac Outlays section below for more detail).
+For the purposes of these analyses, outlays for the housing entities Fannie Mae and Freddie Mac have been removed from CBO’s projections and from the actual amounts because CBO and the Administration account for those entities’ transactions differently (see the Fannie Mae and Freddie Mac Outlays section below for more detail). Also, actual outlays related to the Administration's 2022 planned cancellation of outstanding student loans for many borrowers were excluded from this analysis. (see the Student Loan Forgiveness Outlays section below for more detail).
 
 For each of the four files, data are shown in billions of dollars.
 
@@ -120,6 +120,11 @@ For outlays, deficits, and debt, error calculations are only performed on the Sp
 
 ### Fannie Mae and Freddie Mac Outlays
 For the purposes of these analyses, outlays for the housing entities Fannie Mae and Freddie Mac have been removed from CBO’s projections and from the actual amounts reported by the Treasury, because CBO and the Administration account for those entities’ transactions differently. This affects the Total Outlays, the Mandatory category and Other Mandatory subcategory of outlays, as well as the deficit and debt projections. 
+
+### Student Loan Forgiveness Outlays
+Because of their unusual size and nature, the estimated budgetary effects of the Administration’s 2022 planned cancellation of outstanding student loans for many borrowers were excluded from this analysis. This affects the actuals for Total Outlays, the Mandatory category and Other Mandatory subcategory of outlays, as well as the deficit. 
+
+For more details, see [*The Accuracy of CBO’s Budget Projections for Fiscal Year 2022*](https://www.cbo.gov/publication/58893#_idTextAnchor000).
 
 ## Contact
 Questions about the code and data in this repository may be directed to CBO's Office of Communications at communications@cbo.gov.

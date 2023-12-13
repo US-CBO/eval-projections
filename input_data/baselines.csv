@@ -1,34 +1,34 @@
 component,category,subcategory,baseline_date,Spring_flag,Winter_flag,projected_fiscal_year,projected_year_number,value
-revenue,Total,Total,1982-02-01,False,True,1982,1,631.0
-revenue,Total,Total,1982-02-01,False,True,1983,2,652.0
-revenue,Total,Total,1982-02-01,False,True,1984,3,701.0
-revenue,Total,Total,1982-02-01,False,True,1985,4,763.0
-revenue,Total,Total,1982-02-01,False,True,1986,5,818.0
-revenue,Total,Total,1982-02-01,False,True,1987,6,882.0
-revenue,Individual Income Taxes,Individual Income Taxes,1982-02-01,False,True,1982,1,300.0
-revenue,Individual Income Taxes,Individual Income Taxes,1982-02-01,False,True,1983,2,303.0
-revenue,Individual Income Taxes,Individual Income Taxes,1982-02-01,False,True,1984,3,316.0
-revenue,Individual Income Taxes,Individual Income Taxes,1982-02-01,False,True,1985,4,344.0
-revenue,Individual Income Taxes,Individual Income Taxes,1982-02-01,False,True,1986,5,367.0
-revenue,Individual Income Taxes,Individual Income Taxes,1982-02-01,False,True,1987,6,396.0
-revenue,Corporate Income Taxes,Corporate Income Taxes,1982-02-01,False,True,1982,1,50.0
-revenue,Corporate Income Taxes,Corporate Income Taxes,1982-02-01,False,True,1983,2,51.0
-revenue,Corporate Income Taxes,Corporate Income Taxes,1982-02-01,False,True,1984,3,62.0
-revenue,Corporate Income Taxes,Corporate Income Taxes,1982-02-01,False,True,1985,4,63.0
-revenue,Corporate Income Taxes,Corporate Income Taxes,1982-02-01,False,True,1986,5,64.0
-revenue,Corporate Income Taxes,Corporate Income Taxes,1982-02-01,False,True,1987,6,73.0
-revenue,Payroll Taxes,Payroll Taxes,1982-02-01,False,True,1982,1,209.0
-revenue,Payroll Taxes,Payroll Taxes,1982-02-01,False,True,1983,2,227.0
-revenue,Payroll Taxes,Payroll Taxes,1982-02-01,False,True,1984,3,250.0
-revenue,Payroll Taxes,Payroll Taxes,1982-02-01,False,True,1985,4,282.0
-revenue,Payroll Taxes,Payroll Taxes,1982-02-01,False,True,1986,5,313.0
-revenue,Payroll Taxes,Payroll Taxes,1982-02-01,False,True,1987,6,339.0
-revenue,Excise Taxes,Excise Taxes,1982-02-01,False,True,1982,1,41.0
-revenue,Excise Taxes,Excise Taxes,1982-02-01,False,True,1983,2,40.0
-revenue,Excise Taxes,Excise Taxes,1982-02-01,False,True,1984,3,40.0
-revenue,Excise Taxes,Excise Taxes,1982-02-01,False,True,1985,4,40.0
-revenue,Excise Taxes,Excise Taxes,1982-02-01,False,True,1986,5,40.0
-revenue,Excise Taxes,Excise Taxes,1982-02-01,False,True,1987,6,39.0
+revenue,Total,Total,1982-02-01,False,True,1982,1,631
+revenue,Total,Total,1982-02-01,False,True,1983,2,652
+revenue,Total,Total,1982-02-01,False,True,1984,3,701
+revenue,Total,Total,1982-02-01,False,True,1985,4,763
+revenue,Total,Total,1982-02-01,False,True,1986,5,818
+revenue,Total,Total,1982-02-01,False,True,1987,6,882
+revenue,Individual Income Taxes,Individual Income Taxes,1982-02-01,False,True,1982,1,300
+revenue,Individual Income Taxes,Individual Income Taxes,1982-02-01,False,True,1983,2,303
+revenue,Individual Income Taxes,Individual Income Taxes,1982-02-01,False,True,1984,3,316
+revenue,Individual Income Taxes,Individual Income Taxes,1982-02-01,False,True,1985,4,344
+revenue,Individual Income Taxes,Individual Income Taxes,1982-02-01,False,True,1986,5,367
+revenue,Individual Income Taxes,Individual Income Taxes,1982-02-01,False,True,1987,6,396
+revenue,Corporate Income Taxes,Corporate Income Taxes,1982-02-01,False,True,1982,1,50
+revenue,Corporate Income Taxes,Corporate Income Taxes,1982-02-01,False,True,1983,2,51
+revenue,Corporate Income Taxes,Corporate Income Taxes,1982-02-01,False,True,1984,3,62
+revenue,Corporate Income Taxes,Corporate Income Taxes,1982-02-01,False,True,1985,4,63
+revenue,Corporate Income Taxes,Corporate Income Taxes,1982-02-01,False,True,1986,5,64
+revenue,Corporate Income Taxes,Corporate Income Taxes,1982-02-01,False,True,1987,6,73
+revenue,Payroll Taxes,Payroll Taxes,1982-02-01,False,True,1982,1,209
+revenue,Payroll Taxes,Payroll Taxes,1982-02-01,False,True,1983,2,227
+revenue,Payroll Taxes,Payroll Taxes,1982-02-01,False,True,1984,3,250
+revenue,Payroll Taxes,Payroll Taxes,1982-02-01,False,True,1985,4,282
+revenue,Payroll Taxes,Payroll Taxes,1982-02-01,False,True,1986,5,313
+revenue,Payroll Taxes,Payroll Taxes,1982-02-01,False,True,1987,6,339
+revenue,Excise Taxes,Excise Taxes,1982-02-01,False,True,1982,1,41
+revenue,Excise Taxes,Excise Taxes,1982-02-01,False,True,1983,2,40
+revenue,Excise Taxes,Excise Taxes,1982-02-01,False,True,1984,3,40
+revenue,Excise Taxes,Excise Taxes,1982-02-01,False,True,1985,4,40
+revenue,Excise Taxes,Excise Taxes,1982-02-01,False,True,1986,5,40
+revenue,Excise Taxes,Excise Taxes,1982-02-01,False,True,1987,6,39
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,1982-02-01,False,True,1982,1,6.8
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,1982-02-01,False,True,1983,2,6.4
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,1982-02-01,False,True,1984,3,5.9
@@ -39,84 +39,84 @@ revenue,Customs Duties,Customs Duties,1982-02-01,False,True,1982,1,8.8
 revenue,Customs Duties,Customs Duties,1982-02-01,False,True,1983,2,9.1
 revenue,Customs Duties,Customs Duties,1982-02-01,False,True,1984,3,9.4
 revenue,Customs Duties,Customs Duties,1982-02-01,False,True,1985,4,9.7
-revenue,Customs Duties,Customs Duties,1982-02-01,False,True,1986,5,10.0
+revenue,Customs Duties,Customs Duties,1982-02-01,False,True,1986,5,10
 revenue,Customs Duties,Customs Duties,1982-02-01,False,True,1987,6,10.3
-revenue,Miscellaneous Receipts,Miscellaneous Receipts,1982-02-01,False,True,1982,1,15.0
-revenue,Miscellaneous Receipts,Miscellaneous Receipts,1982-02-01,False,True,1983,2,16.0
-revenue,Miscellaneous Receipts,Miscellaneous Receipts,1982-02-01,False,True,1984,3,18.0
-revenue,Miscellaneous Receipts,Miscellaneous Receipts,1982-02-01,False,True,1985,4,19.0
-revenue,Miscellaneous Receipts,Miscellaneous Receipts,1982-02-01,False,True,1986,5,19.0
-revenue,Miscellaneous Receipts,Miscellaneous Receipts,1982-02-01,False,True,1987,6,19.0
-revenue,Total,Total,1982-09-01,False,False,1982,1,621.0
-revenue,Total,Total,1982-09-01,False,False,1983,2,633.0
-revenue,Total,Total,1982-09-01,False,False,1984,3,692.0
-revenue,Total,Total,1982-09-01,False,False,1985,4,757.0
-revenue,Individual Income Taxes,Individual Income Taxes,1982-09-01,False,False,1982,1,297.0
-revenue,Individual Income Taxes,Individual Income Taxes,1982-09-01,False,False,1983,2,298.0
-revenue,Individual Income Taxes,Individual Income Taxes,1982-09-01,False,False,1984,3,316.0
-revenue,Individual Income Taxes,Individual Income Taxes,1982-09-01,False,False,1985,4,346.0
-revenue,Corporate Income Taxes,Corporate Income Taxes,1982-09-01,False,False,1982,1,50.0
-revenue,Corporate Income Taxes,Corporate Income Taxes,1982-09-01,False,False,1983,2,47.0
-revenue,Corporate Income Taxes,Corporate Income Taxes,1982-09-01,False,False,1984,3,63.0
-revenue,Corporate Income Taxes,Corporate Income Taxes,1982-09-01,False,False,1985,4,67.0
-revenue,Payroll Taxes,Payroll Taxes,1982-09-01,False,False,1982,1,202.0
-revenue,Payroll Taxes,Payroll Taxes,1982-09-01,False,False,1983,2,217.0
-revenue,Payroll Taxes,Payroll Taxes,1982-09-01,False,False,1984,3,240.0
-revenue,Payroll Taxes,Payroll Taxes,1982-09-01,False,False,1985,4,271.0
-revenue,Excise Taxes,Excise Taxes,1982-09-01,False,False,1982,1,38.0
-revenue,Excise Taxes,Excise Taxes,1982-09-01,False,False,1983,2,38.0
-revenue,Excise Taxes,Excise Taxes,1982-09-01,False,False,1984,3,40.0
-revenue,Excise Taxes,Excise Taxes,1982-09-01,False,False,1985,4,40.0
-revenue,Estate and Gift Taxes,Estate and Gift Taxes,1982-09-01,False,False,1982,1,8.0
-revenue,Estate and Gift Taxes,Estate and Gift Taxes,1982-09-01,False,False,1983,2,6.0
-revenue,Estate and Gift Taxes,Estate and Gift Taxes,1982-09-01,False,False,1984,3,6.0
-revenue,Estate and Gift Taxes,Estate and Gift Taxes,1982-09-01,False,False,1985,4,5.0
-revenue,Customs Duties,Customs Duties,1982-09-01,False,False,1982,1,9.0
-revenue,Customs Duties,Customs Duties,1982-09-01,False,False,1983,2,10.0
-revenue,Customs Duties,Customs Duties,1982-09-01,False,False,1984,3,10.0
-revenue,Customs Duties,Customs Duties,1982-09-01,False,False,1985,4,11.0
-revenue,Miscellaneous Receipts,Miscellaneous Receipts,1982-09-01,False,False,1982,1,16.0
-revenue,Miscellaneous Receipts,Miscellaneous Receipts,1982-09-01,False,False,1983,2,17.0
-revenue,Miscellaneous Receipts,Miscellaneous Receipts,1982-09-01,False,False,1984,3,17.0
-revenue,Miscellaneous Receipts,Miscellaneous Receipts,1982-09-01,False,False,1985,4,16.0
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,1982-02-01,False,True,1982,1,15
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,1982-02-01,False,True,1983,2,16
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,1982-02-01,False,True,1984,3,18
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,1982-02-01,False,True,1985,4,19
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,1982-02-01,False,True,1986,5,19
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,1982-02-01,False,True,1987,6,19
+revenue,Total,Total,1982-09-01,False,False,1982,1,621
+revenue,Total,Total,1982-09-01,False,False,1983,2,633
+revenue,Total,Total,1982-09-01,False,False,1984,3,692
+revenue,Total,Total,1982-09-01,False,False,1985,4,757
+revenue,Individual Income Taxes,Individual Income Taxes,1982-09-01,False,False,1982,1,297
+revenue,Individual Income Taxes,Individual Income Taxes,1982-09-01,False,False,1983,2,298
+revenue,Individual Income Taxes,Individual Income Taxes,1982-09-01,False,False,1984,3,316
+revenue,Individual Income Taxes,Individual Income Taxes,1982-09-01,False,False,1985,4,346
+revenue,Corporate Income Taxes,Corporate Income Taxes,1982-09-01,False,False,1982,1,50
+revenue,Corporate Income Taxes,Corporate Income Taxes,1982-09-01,False,False,1983,2,47
+revenue,Corporate Income Taxes,Corporate Income Taxes,1982-09-01,False,False,1984,3,63
+revenue,Corporate Income Taxes,Corporate Income Taxes,1982-09-01,False,False,1985,4,67
+revenue,Payroll Taxes,Payroll Taxes,1982-09-01,False,False,1982,1,202
+revenue,Payroll Taxes,Payroll Taxes,1982-09-01,False,False,1983,2,217
+revenue,Payroll Taxes,Payroll Taxes,1982-09-01,False,False,1984,3,240
+revenue,Payroll Taxes,Payroll Taxes,1982-09-01,False,False,1985,4,271
+revenue,Excise Taxes,Excise Taxes,1982-09-01,False,False,1982,1,38
+revenue,Excise Taxes,Excise Taxes,1982-09-01,False,False,1983,2,38
+revenue,Excise Taxes,Excise Taxes,1982-09-01,False,False,1984,3,40
+revenue,Excise Taxes,Excise Taxes,1982-09-01,False,False,1985,4,40
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,1982-09-01,False,False,1982,1,8
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,1982-09-01,False,False,1983,2,6
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,1982-09-01,False,False,1984,3,6
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,1982-09-01,False,False,1985,4,5
+revenue,Customs Duties,Customs Duties,1982-09-01,False,False,1982,1,9
+revenue,Customs Duties,Customs Duties,1982-09-01,False,False,1983,2,10
+revenue,Customs Duties,Customs Duties,1982-09-01,False,False,1984,3,10
+revenue,Customs Duties,Customs Duties,1982-09-01,False,False,1985,4,11
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,1982-09-01,False,False,1982,1,16
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,1982-09-01,False,False,1983,2,17
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,1982-09-01,False,False,1984,3,17
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,1982-09-01,False,False,1985,4,16
 revenue,Total,Total,1983-02-01,False,True,1982,0,617.766
-revenue,Total,Total,1983-02-01,False,True,1983,1,606.0
-revenue,Total,Total,1983-02-01,False,True,1984,2,653.0
-revenue,Total,Total,1983-02-01,False,True,1985,3,715.0
-revenue,Total,Total,1983-02-01,False,True,1986,4,768.0
-revenue,Total,Total,1983-02-01,False,True,1987,5,822.0
-revenue,Total,Total,1983-02-01,False,True,1988,6,878.0
+revenue,Total,Total,1983-02-01,False,True,1983,1,606
+revenue,Total,Total,1983-02-01,False,True,1984,2,653
+revenue,Total,Total,1983-02-01,False,True,1985,3,715
+revenue,Total,Total,1983-02-01,False,True,1986,4,768
+revenue,Total,Total,1983-02-01,False,True,1987,5,822
+revenue,Total,Total,1983-02-01,False,True,1988,6,878
 revenue,Individual Income Taxes,Individual Income Taxes,1983-02-01,False,True,1982,0,297.744
-revenue,Individual Income Taxes,Individual Income Taxes,1983-02-01,False,True,1983,1,286.0
-revenue,Individual Income Taxes,Individual Income Taxes,1983-02-01,False,True,1984,2,295.0
-revenue,Individual Income Taxes,Individual Income Taxes,1983-02-01,False,True,1985,3,321.0
-revenue,Individual Income Taxes,Individual Income Taxes,1983-02-01,False,True,1986,4,346.0
-revenue,Individual Income Taxes,Individual Income Taxes,1983-02-01,False,True,1987,5,372.0
-revenue,Individual Income Taxes,Individual Income Taxes,1983-02-01,False,True,1988,6,400.0
+revenue,Individual Income Taxes,Individual Income Taxes,1983-02-01,False,True,1983,1,286
+revenue,Individual Income Taxes,Individual Income Taxes,1983-02-01,False,True,1984,2,295
+revenue,Individual Income Taxes,Individual Income Taxes,1983-02-01,False,True,1985,3,321
+revenue,Individual Income Taxes,Individual Income Taxes,1983-02-01,False,True,1986,4,346
+revenue,Individual Income Taxes,Individual Income Taxes,1983-02-01,False,True,1987,5,372
+revenue,Individual Income Taxes,Individual Income Taxes,1983-02-01,False,True,1988,6,400
 revenue,Corporate Income Taxes,Corporate Income Taxes,1983-02-01,False,True,1982,0,49.207
-revenue,Corporate Income Taxes,Corporate Income Taxes,1983-02-01,False,True,1983,1,40.0
-revenue,Corporate Income Taxes,Corporate Income Taxes,1983-02-01,False,True,1984,2,56.0
-revenue,Corporate Income Taxes,Corporate Income Taxes,1983-02-01,False,True,1985,3,65.0
-revenue,Corporate Income Taxes,Corporate Income Taxes,1983-02-01,False,True,1986,4,74.0
-revenue,Corporate Income Taxes,Corporate Income Taxes,1983-02-01,False,True,1987,5,83.0
-revenue,Corporate Income Taxes,Corporate Income Taxes,1983-02-01,False,True,1988,6,88.0
+revenue,Corporate Income Taxes,Corporate Income Taxes,1983-02-01,False,True,1983,1,40
+revenue,Corporate Income Taxes,Corporate Income Taxes,1983-02-01,False,True,1984,2,56
+revenue,Corporate Income Taxes,Corporate Income Taxes,1983-02-01,False,True,1985,3,65
+revenue,Corporate Income Taxes,Corporate Income Taxes,1983-02-01,False,True,1986,4,74
+revenue,Corporate Income Taxes,Corporate Income Taxes,1983-02-01,False,True,1987,5,83
+revenue,Corporate Income Taxes,Corporate Income Taxes,1983-02-01,False,True,1988,6,88
 revenue,Payroll Taxes,Payroll Taxes,1983-02-01,False,True,1982,0,201.498
-revenue,Payroll Taxes,Payroll Taxes,1983-02-01,False,True,1983,1,212.0
-revenue,Payroll Taxes,Payroll Taxes,1983-02-01,False,True,1984,2,232.0
-revenue,Payroll Taxes,Payroll Taxes,1983-02-01,False,True,1985,3,258.0
-revenue,Payroll Taxes,Payroll Taxes,1983-02-01,False,True,1986,4,283.0
-revenue,Payroll Taxes,Payroll Taxes,1983-02-01,False,True,1987,5,303.0
-revenue,Payroll Taxes,Payroll Taxes,1983-02-01,False,True,1988,6,326.0
+revenue,Payroll Taxes,Payroll Taxes,1983-02-01,False,True,1983,1,212
+revenue,Payroll Taxes,Payroll Taxes,1983-02-01,False,True,1984,2,232
+revenue,Payroll Taxes,Payroll Taxes,1983-02-01,False,True,1985,3,258
+revenue,Payroll Taxes,Payroll Taxes,1983-02-01,False,True,1986,4,283
+revenue,Payroll Taxes,Payroll Taxes,1983-02-01,False,True,1987,5,303
+revenue,Payroll Taxes,Payroll Taxes,1983-02-01,False,True,1988,6,326
 revenue,Excise Taxes,Excise Taxes,1983-02-01,False,True,1982,0,36.311
-revenue,Excise Taxes,Excise Taxes,1983-02-01,False,True,1983,1,37.0
-revenue,Excise Taxes,Excise Taxes,1983-02-01,False,True,1984,2,41.0
-revenue,Excise Taxes,Excise Taxes,1983-02-01,False,True,1985,3,42.0
-revenue,Excise Taxes,Excise Taxes,1983-02-01,False,True,1986,4,36.0
-revenue,Excise Taxes,Excise Taxes,1983-02-01,False,True,1987,5,35.0
-revenue,Excise Taxes,Excise Taxes,1983-02-01,False,True,1988,6,36.0
+revenue,Excise Taxes,Excise Taxes,1983-02-01,False,True,1983,1,37
+revenue,Excise Taxes,Excise Taxes,1983-02-01,False,True,1984,2,41
+revenue,Excise Taxes,Excise Taxes,1983-02-01,False,True,1985,3,42
+revenue,Excise Taxes,Excise Taxes,1983-02-01,False,True,1986,4,36
+revenue,Excise Taxes,Excise Taxes,1983-02-01,False,True,1987,5,35
+revenue,Excise Taxes,Excise Taxes,1983-02-01,False,True,1988,6,36
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,1983-02-01,False,True,1982,0,7.991
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,1983-02-01,False,True,1983,1,6.4
-revenue,Estate and Gift Taxes,Estate and Gift Taxes,1983-02-01,False,True,1984,2,6.0
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,1983-02-01,False,True,1984,2,6
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,1983-02-01,False,True,1985,3,5.6
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,1983-02-01,False,True,1986,4,5.2
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,1983-02-01,False,True,1987,5,4.8
@@ -124,61 +124,61 @@ revenue,Estate and Gift Taxes,Estate and Gift Taxes,1983-02-01,False,True,1988,6
 revenue,Customs Duties,Customs Duties,1983-02-01,False,True,1982,0,8.854
 revenue,Customs Duties,Customs Duties,1983-02-01,False,True,1983,1,9.4
 revenue,Customs Duties,Customs Duties,1983-02-01,False,True,1984,2,9.7
-revenue,Customs Duties,Customs Duties,1983-02-01,False,True,1985,3,10.0
+revenue,Customs Duties,Customs Duties,1983-02-01,False,True,1985,3,10
 revenue,Customs Duties,Customs Duties,1983-02-01,False,True,1986,4,10.3
 revenue,Customs Duties,Customs Duties,1983-02-01,False,True,1987,5,10.6
 revenue,Customs Duties,Customs Duties,1983-02-01,False,True,1988,6,10.9
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,1983-02-01,False,True,1982,0,16.161
-revenue,Miscellaneous Receipts,Miscellaneous Receipts,1983-02-01,False,True,1983,1,15.0
-revenue,Miscellaneous Receipts,Miscellaneous Receipts,1983-02-01,False,True,1984,2,13.0
-revenue,Miscellaneous Receipts,Miscellaneous Receipts,1983-02-01,False,True,1985,3,14.0
-revenue,Miscellaneous Receipts,Miscellaneous Receipts,1983-02-01,False,True,1986,4,13.0
-revenue,Miscellaneous Receipts,Miscellaneous Receipts,1983-02-01,False,True,1987,5,13.0
-revenue,Miscellaneous Receipts,Miscellaneous Receipts,1983-02-01,False,True,1988,6,13.0
-revenue,Total,Total,1983-08-01,False,False,1983,1,600.0
-revenue,Total,Total,1983-08-01,False,False,1984,2,665.0
-revenue,Total,Total,1983-08-01,False,False,1985,3,733.0
-revenue,Total,Total,1983-08-01,False,False,1986,4,796.0
-revenue,Individual Income Taxes,Individual Income Taxes,1983-08-01,False,False,1983,1,288.0
-revenue,Individual Income Taxes,Individual Income Taxes,1983-08-01,False,False,1984,2,293.0
-revenue,Individual Income Taxes,Individual Income Taxes,1983-08-01,False,False,1985,3,324.0
-revenue,Individual Income Taxes,Individual Income Taxes,1983-08-01,False,False,1986,4,353.0
-revenue,Corporate Income Taxes,Corporate Income Taxes,1983-08-01,False,False,1983,1,36.0
-revenue,Corporate Income Taxes,Corporate Income Taxes,1983-08-01,False,False,1984,2,60.0
-revenue,Corporate Income Taxes,Corporate Income Taxes,1983-08-01,False,False,1985,3,68.0
-revenue,Corporate Income Taxes,Corporate Income Taxes,1983-08-01,False,False,1986,4,78.0
-revenue,Payroll Taxes,Payroll Taxes,1983-08-01,False,False,1983,1,211.0
-revenue,Payroll Taxes,Payroll Taxes,1983-08-01,False,False,1984,2,243.0
-revenue,Payroll Taxes,Payroll Taxes,1983-08-01,False,False,1985,3,272.0
-revenue,Payroll Taxes,Payroll Taxes,1983-08-01,False,False,1986,4,300.0
-revenue,Excise Taxes,Excise Taxes,1983-08-01,False,False,1983,1,35.0
-revenue,Excise Taxes,Excise Taxes,1983-08-01,False,False,1984,2,37.0
-revenue,Excise Taxes,Excise Taxes,1983-08-01,False,False,1985,3,38.0
-revenue,Excise Taxes,Excise Taxes,1983-08-01,False,False,1986,4,33.0
-revenue,Estate and Gift Taxes,Estate and Gift Taxes,1983-08-01,False,False,1983,1,6.0
-revenue,Estate and Gift Taxes,Estate and Gift Taxes,1983-08-01,False,False,1984,2,6.0
-revenue,Estate and Gift Taxes,Estate and Gift Taxes,1983-08-01,False,False,1985,3,6.0
-revenue,Estate and Gift Taxes,Estate and Gift Taxes,1983-08-01,False,False,1986,4,5.0
-revenue,Customs Duties,Customs Duties,1983-08-01,False,False,1983,1,8.0
-revenue,Customs Duties,Customs Duties,1983-08-01,False,False,1984,2,10.0
-revenue,Customs Duties,Customs Duties,1983-08-01,False,False,1985,3,10.0
-revenue,Customs Duties,Customs Duties,1983-08-01,False,False,1986,4,10.0
-revenue,Miscellaneous Receipts,Miscellaneous Receipts,1983-08-01,False,False,1983,1,16.0
-revenue,Miscellaneous Receipts,Miscellaneous Receipts,1983-08-01,False,False,1984,2,16.0
-revenue,Miscellaneous Receipts,Miscellaneous Receipts,1983-08-01,False,False,1985,3,16.0
-revenue,Miscellaneous Receipts,Miscellaneous Receipts,1983-08-01,False,False,1986,4,16.0
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,1983-02-01,False,True,1983,1,15
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,1983-02-01,False,True,1984,2,13
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,1983-02-01,False,True,1985,3,14
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,1983-02-01,False,True,1986,4,13
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,1983-02-01,False,True,1987,5,13
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,1983-02-01,False,True,1988,6,13
+revenue,Total,Total,1983-08-01,False,False,1983,1,600
+revenue,Total,Total,1983-08-01,False,False,1984,2,665
+revenue,Total,Total,1983-08-01,False,False,1985,3,733
+revenue,Total,Total,1983-08-01,False,False,1986,4,796
+revenue,Individual Income Taxes,Individual Income Taxes,1983-08-01,False,False,1983,1,288
+revenue,Individual Income Taxes,Individual Income Taxes,1983-08-01,False,False,1984,2,293
+revenue,Individual Income Taxes,Individual Income Taxes,1983-08-01,False,False,1985,3,324
+revenue,Individual Income Taxes,Individual Income Taxes,1983-08-01,False,False,1986,4,353
+revenue,Corporate Income Taxes,Corporate Income Taxes,1983-08-01,False,False,1983,1,36
+revenue,Corporate Income Taxes,Corporate Income Taxes,1983-08-01,False,False,1984,2,60
+revenue,Corporate Income Taxes,Corporate Income Taxes,1983-08-01,False,False,1985,3,68
+revenue,Corporate Income Taxes,Corporate Income Taxes,1983-08-01,False,False,1986,4,78
+revenue,Payroll Taxes,Payroll Taxes,1983-08-01,False,False,1983,1,211
+revenue,Payroll Taxes,Payroll Taxes,1983-08-01,False,False,1984,2,243
+revenue,Payroll Taxes,Payroll Taxes,1983-08-01,False,False,1985,3,272
+revenue,Payroll Taxes,Payroll Taxes,1983-08-01,False,False,1986,4,300
+revenue,Excise Taxes,Excise Taxes,1983-08-01,False,False,1983,1,35
+revenue,Excise Taxes,Excise Taxes,1983-08-01,False,False,1984,2,37
+revenue,Excise Taxes,Excise Taxes,1983-08-01,False,False,1985,3,38
+revenue,Excise Taxes,Excise Taxes,1983-08-01,False,False,1986,4,33
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,1983-08-01,False,False,1983,1,6
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,1983-08-01,False,False,1984,2,6
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,1983-08-01,False,False,1985,3,6
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,1983-08-01,False,False,1986,4,5
+revenue,Customs Duties,Customs Duties,1983-08-01,False,False,1983,1,8
+revenue,Customs Duties,Customs Duties,1983-08-01,False,False,1984,2,10
+revenue,Customs Duties,Customs Duties,1983-08-01,False,False,1985,3,10
+revenue,Customs Duties,Customs Duties,1983-08-01,False,False,1986,4,10
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,1983-08-01,False,False,1983,1,16
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,1983-08-01,False,False,1984,2,16
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,1983-08-01,False,False,1985,3,16
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,1983-08-01,False,False,1986,4,16
 revenue,Total,Total,1984-02-01,False,True,1983,0,600.562
-revenue,Total,Total,1984-02-01,False,True,1984,1,663.0
+revenue,Total,Total,1984-02-01,False,True,1984,1,663
 revenue,Total,Total,1984-02-01,False,True,1985,2,732.9
 revenue,Total,Total,1984-02-01,False,True,1986,3,794.8
 revenue,Total,Total,1984-02-01,False,True,1987,4,863.4
-revenue,Total,Total,1984-02-01,False,True,1988,5,945.0
+revenue,Total,Total,1984-02-01,False,True,1988,5,945
 revenue,Total,Total,1984-02-01,False,True,1989,6,1015.6
 revenue,Individual Income Taxes,Individual Income Taxes,1984-02-01,False,True,1983,0,288.938
 revenue,Individual Income Taxes,Individual Income Taxes,1984-02-01,False,True,1984,1,293.6
 revenue,Individual Income Taxes,Individual Income Taxes,1984-02-01,False,True,1985,2,328.7
 revenue,Individual Income Taxes,Individual Income Taxes,1984-02-01,False,True,1986,3,361.6
-revenue,Individual Income Taxes,Individual Income Taxes,1984-02-01,False,True,1987,4,396.0
+revenue,Individual Income Taxes,Individual Income Taxes,1984-02-01,False,True,1987,4,396
 revenue,Individual Income Taxes,Individual Income Taxes,1984-02-01,False,True,1988,5,437.7
 revenue,Individual Income Taxes,Individual Income Taxes,1984-02-01,False,True,1989,6,477.9
 revenue,Corporate Income Taxes,Corporate Income Taxes,1984-02-01,False,True,1983,0,37.022
@@ -217,12 +217,12 @@ revenue,Customs Duties,Customs Duties,1984-02-01,False,True,1987,4,11.8
 revenue,Customs Duties,Customs Duties,1984-02-01,False,True,1988,5,12.2
 revenue,Customs Duties,Customs Duties,1984-02-01,False,True,1989,6,12.8
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,1984-02-01,False,True,1983,0,15.6
-revenue,Miscellaneous Receipts,Miscellaneous Receipts,1984-02-01,False,True,1984,1,16.0
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,1984-02-01,False,True,1984,1,16
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,1984-02-01,False,True,1985,2,16.3
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,1984-02-01,False,True,1986,3,17.1
-revenue,Miscellaneous Receipts,Miscellaneous Receipts,1984-02-01,False,True,1987,4,18.0
-revenue,Miscellaneous Receipts,Miscellaneous Receipts,1984-02-01,False,True,1988,5,19.0
-revenue,Miscellaneous Receipts,Miscellaneous Receipts,1984-02-01,False,True,1989,6,20.0
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,1984-02-01,False,True,1987,4,18
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,1984-02-01,False,True,1988,5,19
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,1984-02-01,False,True,1989,6,20
 revenue,Total,Total,1984-08-01,False,False,1984,1,672.9
 revenue,Total,Total,1984-08-01,False,False,1985,2,751.19
 revenue,Total,Total,1984-08-01,False,False,1986,3,810.867
@@ -259,7 +259,7 @@ revenue,Estate and Gift Taxes,Estate and Gift Taxes,1984-08-01,False,False,1986,
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,1984-08-01,False,False,1987,4,5.036
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,1984-08-01,False,False,1988,5,4.78
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,1984-08-01,False,False,1989,6,4.778
-revenue,Customs Duties,Customs Duties,1984-08-01,False,False,1984,1,11.0
+revenue,Customs Duties,Customs Duties,1984-08-01,False,False,1984,1,11
 revenue,Customs Duties,Customs Duties,1984-08-01,False,False,1985,2,12.766
 revenue,Customs Duties,Customs Duties,1984-08-01,False,False,1986,3,13.396
 revenue,Customs Duties,Customs Duties,1984-08-01,False,False,1987,4,14.063
@@ -569,13 +569,13 @@ revenue,Estate and Gift Taxes,Estate and Gift Taxes,1987-08-01,False,False,1987,
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,1987-08-01,False,False,1988,2,7.046
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,1987-08-01,False,False,1989,3,6.3
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,1987-08-01,False,False,1990,4,5.8
-revenue,Estate and Gift Taxes,Estate and Gift Taxes,1987-08-01,False,False,1991,5,5.0
-revenue,Estate and Gift Taxes,Estate and Gift Taxes,1987-08-01,False,False,1992,6,5.0
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,1987-08-01,False,False,1991,5,5
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,1987-08-01,False,False,1992,6,5
 revenue,Customs Duties,Customs Duties,1987-08-01,False,False,1987,1,14.2
 revenue,Customs Duties,Customs Duties,1987-08-01,False,False,1988,2,15.5
 revenue,Customs Duties,Customs Duties,1987-08-01,False,False,1989,3,16.8
 revenue,Customs Duties,Customs Duties,1987-08-01,False,False,1990,4,17.5
-revenue,Customs Duties,Customs Duties,1987-08-01,False,False,1991,5,19.0
+revenue,Customs Duties,Customs Duties,1987-08-01,False,False,1991,5,19
 revenue,Customs Duties,Customs Duties,1987-08-01,False,False,1992,6,20.6
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,1987-08-01,False,False,1987,1,19.562
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,1987-08-01,False,False,1988,2,19.898
@@ -861,7 +861,7 @@ revenue,Total,Total,1990-07-01,False,False,1992,3,1187.741
 revenue,Total,Total,1990-07-01,False,False,1993,4,1260.441
 revenue,Total,Total,1990-07-01,False,False,1994,5,1336.658
 revenue,Total,Total,1990-07-01,False,False,1995,6,1416.857
-revenue,Individual Income Taxes,Individual Income Taxes,1990-07-01,False,False,1990,1,474.0
+revenue,Individual Income Taxes,Individual Income Taxes,1990-07-01,False,False,1990,1,474
 revenue,Individual Income Taxes,Individual Income Taxes,1990-07-01,False,False,1991,2,516.634
 revenue,Individual Income Taxes,Individual Income Taxes,1990-07-01,False,False,1992,3,554.526
 revenue,Individual Income Taxes,Individual Income Taxes,1990-07-01,False,False,1993,4,595.304
@@ -988,7 +988,7 @@ revenue,Corporate Income Taxes,Corporate Income Taxes,1991-08-01,False,False,199
 revenue,Corporate Income Taxes,Corporate Income Taxes,1991-08-01,False,False,1995,5,120.581
 revenue,Corporate Income Taxes,Corporate Income Taxes,1991-08-01,False,False,1996,6,123.767
 revenue,Corporate Income Taxes,Corporate Income Taxes,1991-08-01,False,False,1997,7,126.7
-revenue,Corporate Income Taxes,Corporate Income Taxes,1991-08-01,False,False,1998,8,128.0
+revenue,Corporate Income Taxes,Corporate Income Taxes,1991-08-01,False,False,1998,8,128
 revenue,Corporate Income Taxes,Corporate Income Taxes,1991-08-01,False,False,1999,9,128.6
 revenue,Corporate Income Taxes,Corporate Income Taxes,1991-08-01,False,False,2000,10,128.6
 revenue,Corporate Income Taxes,Corporate Income Taxes,1991-08-01,False,False,2001,11,127.5
@@ -1058,7 +1058,7 @@ revenue,Total,Total,1992-01-01,False,True,1998,7,1579.9
 revenue,Total,Total,1992-01-01,False,True,1999,8,1667.3
 revenue,Total,Total,1992-01-01,False,True,2000,9,1757.5
 revenue,Total,Total,1992-01-01,False,True,2001,10,1853.6
-revenue,Total,Total,1992-01-01,False,True,2002,11,1955.0
+revenue,Total,Total,1992-01-01,False,True,2002,11,1955
 revenue,Individual Income Taxes,Individual Income Taxes,1992-01-01,False,True,1991,0,467.827
 revenue,Individual Income Taxes,Individual Income Taxes,1992-01-01,False,True,1992,1,490.841
 revenue,Individual Income Taxes,Individual Income Taxes,1992-01-01,False,True,1993,2,518.495
@@ -2354,7 +2354,7 @@ revenue,Individual Income Taxes,Individual Income Taxes,1998-08-01,False,False,2
 revenue,Individual Income Taxes,Individual Income Taxes,1998-08-01,False,False,2003,6,968.396
 revenue,Individual Income Taxes,Individual Income Taxes,1998-08-01,False,False,2004,7,1013.534
 revenue,Individual Income Taxes,Individual Income Taxes,1998-08-01,False,False,2005,8,1065.454
-revenue,Individual Income Taxes,Individual Income Taxes,1998-08-01,False,False,2006,9,1116.0
+revenue,Individual Income Taxes,Individual Income Taxes,1998-08-01,False,False,2006,9,1116
 revenue,Individual Income Taxes,Individual Income Taxes,1998-08-01,False,False,2007,10,1169.948
 revenue,Individual Income Taxes,Individual Income Taxes,1998-08-01,False,False,2008,11,1227.307
 revenue,Corporate Income Taxes,Corporate Income Taxes,1998-08-01,False,False,1998,1,190.13
@@ -3040,7 +3040,7 @@ revenue,Estate and Gift Taxes,Estate and Gift Taxes,2001-08-01,False,False,2007,
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,2001-08-01,False,False,2008,8,29.442
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,2001-08-01,False,False,2009,9,31.454
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,2001-08-01,False,False,2010,10,24.782
-revenue,Estate and Gift Taxes,Estate and Gift Taxes,2001-08-01,False,False,2011,11,0.0
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2001-08-01,False,False,2011,11,0
 revenue,Customs Duties,Customs Duties,2001-08-01,False,False,2001,1,19.957
 revenue,Customs Duties,Customs Duties,2001-08-01,False,False,2002,2,20.938
 revenue,Customs Duties,Customs Duties,2001-08-01,False,False,2003,3,21.663
@@ -3133,7 +3133,7 @@ revenue,Estate and Gift Taxes,Estate and Gift Taxes,2002-01-01,False,True,2007,6
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,2002-01-01,False,True,2008,7,23.016
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,2002-01-01,False,True,2009,8,24.827
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,2002-01-01,False,True,2010,9,15.664
-revenue,Estate and Gift Taxes,Estate and Gift Taxes,2002-01-01,False,True,2011,10,15.0
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2002-01-01,False,True,2011,10,15
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,2002-01-01,False,True,2012,11,43.657
 revenue,Customs Duties,Customs Duties,2002-01-01,False,True,2001,0,19.369
 revenue,Customs Duties,Customs Duties,2002-01-01,False,True,2002,1,20.073
@@ -3212,7 +3212,7 @@ revenue,Estate and Gift Taxes,Estate and Gift Taxes,2002-03-01,False,False,2007,
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,2002-03-01,False,False,2008,7,23.016
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,2002-03-01,False,False,2009,8,24.827
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,2002-03-01,False,False,2010,9,15.664
-revenue,Estate and Gift Taxes,Estate and Gift Taxes,2002-03-01,False,False,2011,10,15.0
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2002-03-01,False,False,2011,10,15
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,2002-03-01,False,False,2012,11,43.657
 revenue,Customs Duties,Customs Duties,2002-03-01,False,False,2002,1,20.073
 revenue,Customs Duties,Customs Duties,2002-03-01,False,False,2003,2,20.728
@@ -4792,7 +4792,7 @@ revenue,Miscellaneous Receipts,Miscellaneous Receipts,2008-01-01,False,True,2016
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,2008-01-01,False,True,2017,10,71.57
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,2008-01-01,False,True,2018,11,73.217
 revenue,Total,Total,2008-03-01,False,False,2008,1,2546.245
-revenue,Total,Total,2008-03-01,False,False,2009,2,2793.0
+revenue,Total,Total,2008-03-01,False,False,2009,2,2793
 revenue,Total,Total,2008-03-01,False,False,2010,3,2916.435
 revenue,Total,Total,2008-03-01,False,False,2011,4,3200.493
 revenue,Total,Total,2008-03-01,False,False,2012,5,3463.113
@@ -6789,7 +6789,7 @@ revenue,Excise Taxes,Excise Taxes,2015-08-01,False,False,2016,2,100.905
 revenue,Excise Taxes,Excise Taxes,2015-08-01,False,False,2017,3,104.71
 revenue,Excise Taxes,Excise Taxes,2015-08-01,False,False,2018,4,106.187
 revenue,Excise Taxes,Excise Taxes,2015-08-01,False,False,2019,5,107.185
-revenue,Excise Taxes,Excise Taxes,2015-08-01,False,False,2020,6,109.0
+revenue,Excise Taxes,Excise Taxes,2015-08-01,False,False,2020,6,109
 revenue,Excise Taxes,Excise Taxes,2015-08-01,False,False,2021,7,110.857
 revenue,Excise Taxes,Excise Taxes,2015-08-01,False,False,2022,8,112.891
 revenue,Excise Taxes,Excise Taxes,2015-08-01,False,False,2023,9,114.944
@@ -8451,7 +8451,7 @@ revenue,Customs Duties,Customs Duties,2023-02-01,False,True,2022,0,99.908
 revenue,Customs Duties,Customs Duties,2023-02-01,False,True,2023,1,98.747
 revenue,Customs Duties,Customs Duties,2023-02-01,False,True,2024,2,96.874
 revenue,Customs Duties,Customs Duties,2023-02-01,False,True,2025,3,98.478
-revenue,Customs Duties,Customs Duties,2023-02-01,False,True,2026,4,101.0
+revenue,Customs Duties,Customs Duties,2023-02-01,False,True,2026,4,101
 revenue,Customs Duties,Customs Duties,2023-02-01,False,True,2027,5,102.789
 revenue,Customs Duties,Customs Duties,2023-02-01,False,True,2028,6,104.211
 revenue,Customs Duties,Customs Duties,2023-02-01,False,True,2029,7,105.222
@@ -8519,7 +8519,7 @@ revenue,Total,Total,1997-03-01,False,False,2006,10,2226.812
 revenue,Total,Total,1997-03-01,False,False,2007,11,2332.891
 outlay,Total,Total,1984-02-01,True,False,1984,1,867.6
 outlay,Total,Total,1984-02-01,True,False,1985,2,944.9
-outlay,Total,Total,1984-02-01,True,False,1986,3,1026.0
+outlay,Total,Total,1984-02-01,True,False,1986,3,1026
 outlay,Total,Total,1984-02-01,True,False,1987,4,1124.1
 outlay,Total,Total,1984-02-01,True,False,1988,5,1232.7
 outlay,Total,Total,1984-02-01,True,False,1989,6,1338.7
@@ -10145,7 +10145,7 @@ outlay,Mandatory,Medicaid,1999-07-01,False,False,2005,7,172.556
 outlay,Mandatory,Medicaid,1999-07-01,False,False,2006,8,188.009
 outlay,Mandatory,Medicaid,1999-07-01,False,False,2007,9,204.975
 outlay,Mandatory,Medicaid,1999-07-01,False,False,2008,10,223.684
-outlay,Mandatory,Medicaid,1999-07-01,False,False,2009,11,244.0
+outlay,Mandatory,Medicaid,1999-07-01,False,False,2009,11,244
 outlay,Mandatory,Other Mandatory,1999-07-01,False,False,1999,1,215.938
 outlay,Mandatory,Other Mandatory,1999-07-01,False,False,2000,2,222.387
 outlay,Mandatory,Other Mandatory,1999-07-01,False,False,2001,3,228.535
@@ -11455,7 +11455,7 @@ outlay,Mandatory,Medicare,2003-08-01,False,False,2010,8,370.087
 outlay,Mandatory,Medicare,2003-08-01,False,False,2011,9,400.024
 outlay,Mandatory,Medicare,2003-08-01,False,False,2012,10,422.343
 outlay,Mandatory,Medicare,2003-08-01,False,False,2013,11,458.771
-outlay,Mandatory,Medicaid,2003-08-01,False,False,2003,1,162.0
+outlay,Mandatory,Medicaid,2003-08-01,False,False,2003,1,162
 outlay,Mandatory,Medicaid,2003-08-01,False,False,2004,2,175.21
 outlay,Mandatory,Medicaid,2003-08-01,False,False,2005,3,180.905
 outlay,Mandatory,Medicaid,2003-08-01,False,False,2006,4,195.49
@@ -12552,7 +12552,7 @@ outlay,Mandatory,Medicare,2007-01-01,False,False,2011,5,476.388
 outlay,Mandatory,Medicare,2007-01-01,False,False,2012,6,478.751
 outlay,Mandatory,Medicare,2007-01-01,False,False,2013,7,530.679
 outlay,Mandatory,Medicare,2007-01-01,False,False,2014,8,567.823
-outlay,Mandatory,Medicare,2007-01-01,False,False,2015,9,611.0
+outlay,Mandatory,Medicare,2007-01-01,False,False,2015,9,611
 outlay,Mandatory,Medicare,2007-01-01,False,False,2016,10,685.337
 outlay,Mandatory,Medicare,2007-01-01,False,False,2017,11,718.731
 outlay,Mandatory,Medicaid,2007-01-01,False,False,2007,1,192.572
@@ -13006,17 +13006,17 @@ outlay,Mandatory,Medicaid,2008-03-01,True,False,2015,8,352.698
 outlay,Mandatory,Medicaid,2008-03-01,True,False,2016,9,380.875
 outlay,Mandatory,Medicaid,2008-03-01,True,False,2017,10,411.538
 outlay,Mandatory,Medicaid,2008-03-01,True,False,2018,11,444.972
-outlay,Mandatory,Fannie Freddie,2008-03-01,True,False,2008,1,0.0
-outlay,Mandatory,Fannie Freddie,2008-03-01,True,False,2009,2,0.0
-outlay,Mandatory,Fannie Freddie,2008-03-01,True,False,2010,3,0.0
-outlay,Mandatory,Fannie Freddie,2008-03-01,True,False,2011,4,0.0
-outlay,Mandatory,Fannie Freddie,2008-03-01,True,False,2012,5,0.0
-outlay,Mandatory,Fannie Freddie,2008-03-01,True,False,2013,6,0.0
-outlay,Mandatory,Fannie Freddie,2008-03-01,True,False,2014,7,0.0
-outlay,Mandatory,Fannie Freddie,2008-03-01,True,False,2015,8,0.0
-outlay,Mandatory,Fannie Freddie,2008-03-01,True,False,2016,9,0.0
-outlay,Mandatory,Fannie Freddie,2008-03-01,True,False,2017,10,0.0
-outlay,Mandatory,Fannie Freddie,2008-03-01,True,False,2018,11,0.0
+outlay,Mandatory,Fannie Freddie,2008-03-01,True,False,2008,1,0
+outlay,Mandatory,Fannie Freddie,2008-03-01,True,False,2009,2,0
+outlay,Mandatory,Fannie Freddie,2008-03-01,True,False,2010,3,0
+outlay,Mandatory,Fannie Freddie,2008-03-01,True,False,2011,4,0
+outlay,Mandatory,Fannie Freddie,2008-03-01,True,False,2012,5,0
+outlay,Mandatory,Fannie Freddie,2008-03-01,True,False,2013,6,0
+outlay,Mandatory,Fannie Freddie,2008-03-01,True,False,2014,7,0
+outlay,Mandatory,Fannie Freddie,2008-03-01,True,False,2015,8,0
+outlay,Mandatory,Fannie Freddie,2008-03-01,True,False,2016,9,0
+outlay,Mandatory,Fannie Freddie,2008-03-01,True,False,2017,10,0
+outlay,Mandatory,Fannie Freddie,2008-03-01,True,False,2018,11,0
 outlay,Mandatory,Other Mandatory,2008-03-01,True,False,2008,1,373.125
 outlay,Mandatory,Other Mandatory,2008-03-01,True,False,2009,2,378.876
 outlay,Mandatory,Other Mandatory,2008-03-01,True,False,2010,3,378.357
@@ -13127,17 +13127,17 @@ outlay,Mandatory,Medicaid,2008-09-01,False,False,2015,8,355.043
 outlay,Mandatory,Medicaid,2008-09-01,False,False,2016,9,383.876
 outlay,Mandatory,Medicaid,2008-09-01,False,False,2017,10,415.209
 outlay,Mandatory,Medicaid,2008-09-01,False,False,2018,11,449.382
-outlay,Mandatory,Fannie Freddie,2008-09-01,False,False,2008,1,0.0
-outlay,Mandatory,Fannie Freddie,2008-09-01,False,False,2009,2,20.0
-outlay,Mandatory,Fannie Freddie,2008-09-01,False,False,2010,3,5.0
-outlay,Mandatory,Fannie Freddie,2008-09-01,False,False,2011,4,0.0
-outlay,Mandatory,Fannie Freddie,2008-09-01,False,False,2012,5,0.0
-outlay,Mandatory,Fannie Freddie,2008-09-01,False,False,2013,6,0.0
-outlay,Mandatory,Fannie Freddie,2008-09-01,False,False,2014,7,0.0
-outlay,Mandatory,Fannie Freddie,2008-09-01,False,False,2015,8,0.0
-outlay,Mandatory,Fannie Freddie,2008-09-01,False,False,2016,9,0.0
-outlay,Mandatory,Fannie Freddie,2008-09-01,False,False,2017,10,0.0
-outlay,Mandatory,Fannie Freddie,2008-09-01,False,False,2018,11,0.0
+outlay,Mandatory,Fannie Freddie,2008-09-01,False,False,2008,1,0
+outlay,Mandatory,Fannie Freddie,2008-09-01,False,False,2009,2,20
+outlay,Mandatory,Fannie Freddie,2008-09-01,False,False,2010,3,5
+outlay,Mandatory,Fannie Freddie,2008-09-01,False,False,2011,4,0
+outlay,Mandatory,Fannie Freddie,2008-09-01,False,False,2012,5,0
+outlay,Mandatory,Fannie Freddie,2008-09-01,False,False,2013,6,0
+outlay,Mandatory,Fannie Freddie,2008-09-01,False,False,2014,7,0
+outlay,Mandatory,Fannie Freddie,2008-09-01,False,False,2015,8,0
+outlay,Mandatory,Fannie Freddie,2008-09-01,False,False,2016,9,0
+outlay,Mandatory,Fannie Freddie,2008-09-01,False,False,2017,10,0
+outlay,Mandatory,Fannie Freddie,2008-09-01,False,False,2018,11,0
 outlay,Mandatory,Other Mandatory,2008-09-01,False,False,2008,1,385.779
 outlay,Mandatory,Other Mandatory,2008-09-01,False,False,2009,2,405.387
 outlay,Mandatory,Other Mandatory,2008-09-01,False,False,2010,3,397.276
@@ -13379,7 +13379,7 @@ outlay,Mandatory,Fannie Freddie,2009-03-01,True,False,2015,7,4.33
 outlay,Mandatory,Fannie Freddie,2009-03-01,True,False,2016,8,3.495
 outlay,Mandatory,Fannie Freddie,2009-03-01,True,False,2017,9,3.02
 outlay,Mandatory,Fannie Freddie,2009-03-01,True,False,2018,10,2.9
-outlay,Mandatory,Fannie Freddie,2009-03-01,True,False,2019,11,3.0
+outlay,Mandatory,Fannie Freddie,2009-03-01,True,False,2019,11,3
 outlay,Mandatory,Other Mandatory,2009-03-01,True,False,2009,1,817.58
 outlay,Mandatory,Other Mandatory,2009-03-01,True,False,2010,2,560.727
 outlay,Mandatory,Other Mandatory,2009-03-01,True,False,2011,3,497.159
@@ -13500,7 +13500,7 @@ outlay,Mandatory,Fannie Freddie,2009-08-01,False,False,2015,7,4.33
 outlay,Mandatory,Fannie Freddie,2009-08-01,False,False,2016,8,3.495
 outlay,Mandatory,Fannie Freddie,2009-08-01,False,False,2017,9,3.02
 outlay,Mandatory,Fannie Freddie,2009-08-01,False,False,2018,10,2.9
-outlay,Mandatory,Fannie Freddie,2009-08-01,False,False,2019,11,3.0
+outlay,Mandatory,Fannie Freddie,2009-08-01,False,False,2019,11,3
 outlay,Mandatory,Other Mandatory,2009-08-01,False,False,2009,1,625.997
 outlay,Mandatory,Other Mandatory,2009-08-01,False,False,2010,2,626.617
 outlay,Mandatory,Other Mandatory,2009-08-01,False,False,2011,3,538.176
@@ -13856,7 +13856,7 @@ outlay,Mandatory,Medicaid,2010-08-01,False,False,2020,11,541.673
 outlay,Mandatory,Fannie Freddie,2010-08-01,False,False,2010,1,40.516
 outlay,Mandatory,Fannie Freddie,2010-08-01,False,False,2011,2,13.6
 outlay,Mandatory,Fannie Freddie,2010-08-01,False,False,2012,3,8.5
-outlay,Mandatory,Fannie Freddie,2010-08-01,False,False,2013,4,5.0
+outlay,Mandatory,Fannie Freddie,2010-08-01,False,False,2013,4,5
 outlay,Mandatory,Fannie Freddie,2010-08-01,False,False,2014,5,3.9
 outlay,Mandatory,Fannie Freddie,2010-08-01,False,False,2015,6,3.7
 outlay,Mandatory,Fannie Freddie,2010-08-01,False,False,2016,7,3.7
@@ -13980,11 +13980,11 @@ outlay,Mandatory,Fannie Freddie,2011-01-01,False,False,2013,3,5.8
 outlay,Mandatory,Fannie Freddie,2011-01-01,False,False,2014,4,3.7
 outlay,Mandatory,Fannie Freddie,2011-01-01,False,False,2015,5,3.6
 outlay,Mandatory,Fannie Freddie,2011-01-01,False,False,2016,6,3.6
-outlay,Mandatory,Fannie Freddie,2011-01-01,False,False,2017,7,4.0
+outlay,Mandatory,Fannie Freddie,2011-01-01,False,False,2017,7,4
 outlay,Mandatory,Fannie Freddie,2011-01-01,False,False,2018,8,4.4
 outlay,Mandatory,Fannie Freddie,2011-01-01,False,False,2019,9,4.7
 outlay,Mandatory,Fannie Freddie,2011-01-01,False,False,2020,10,4.9
-outlay,Mandatory,Fannie Freddie,2011-01-01,False,False,2021,11,5.0
+outlay,Mandatory,Fannie Freddie,2011-01-01,False,False,2021,11,5
 outlay,Mandatory,Other Mandatory,2011-01-01,False,False,2011,1,603.467
 outlay,Mandatory,Other Mandatory,2011-01-01,False,False,2012,2,526.899
 outlay,Mandatory,Other Mandatory,2011-01-01,False,False,2013,3,504.872
@@ -14099,11 +14099,11 @@ outlay,Mandatory,Fannie Freddie,2011-03-01,True,False,2011,1,10.9
 outlay,Mandatory,Fannie Freddie,2011-03-01,True,False,2012,2,7.6
 outlay,Mandatory,Fannie Freddie,2011-03-01,True,False,2013,3,5.3
 outlay,Mandatory,Fannie Freddie,2011-03-01,True,False,2014,4,3.1
-outlay,Mandatory,Fannie Freddie,2011-03-01,True,False,2015,5,3.0
+outlay,Mandatory,Fannie Freddie,2011-03-01,True,False,2015,5,3
 outlay,Mandatory,Fannie Freddie,2011-03-01,True,False,2016,6,3.1
 outlay,Mandatory,Fannie Freddie,2011-03-01,True,False,2017,7,3.4
 outlay,Mandatory,Fannie Freddie,2011-03-01,True,False,2018,8,3.8
-outlay,Mandatory,Fannie Freddie,2011-03-01,True,False,2019,9,4.0
+outlay,Mandatory,Fannie Freddie,2011-03-01,True,False,2019,9,4
 outlay,Mandatory,Fannie Freddie,2011-03-01,True,False,2020,10,4.1
 outlay,Mandatory,Fannie Freddie,2011-03-01,True,False,2021,11,4.2
 outlay,Mandatory,Other Mandatory,2011-03-01,True,False,2011,1,557.418
@@ -14308,7 +14308,7 @@ outlay,Mandatory,Social Security,2012-01-01,False,False,2012,1,770.375
 outlay,Mandatory,Social Security,2012-01-01,False,False,2013,2,813.649
 outlay,Mandatory,Social Security,2012-01-01,False,False,2014,3,857.158
 outlay,Mandatory,Social Security,2012-01-01,False,False,2015,4,901.78
-outlay,Mandatory,Social Security,2012-01-01,False,False,2016,5,950.0
+outlay,Mandatory,Social Security,2012-01-01,False,False,2016,5,950
 outlay,Mandatory,Social Security,2012-01-01,False,False,2017,6,1004.219
 outlay,Mandatory,Social Security,2012-01-01,False,False,2018,7,1063.321
 outlay,Mandatory,Social Security,2012-01-01,False,False,2019,8,1127.719
@@ -14463,7 +14463,7 @@ outlay,Mandatory,Fannie Freddie,2012-03-01,True,False,2013,2,6.9
 outlay,Mandatory,Fannie Freddie,2012-03-01,True,False,2014,3,5.3
 outlay,Mandatory,Fannie Freddie,2012-03-01,True,False,2015,4,3.8
 outlay,Mandatory,Fannie Freddie,2012-03-01,True,False,2016,5,2.9
-outlay,Mandatory,Fannie Freddie,2012-03-01,True,False,2017,6,2.0
+outlay,Mandatory,Fannie Freddie,2012-03-01,True,False,2017,6,2
 outlay,Mandatory,Fannie Freddie,2012-03-01,True,False,2018,7,2.7
 outlay,Mandatory,Fannie Freddie,2012-03-01,True,False,2019,8,3.4
 outlay,Mandatory,Fannie Freddie,2012-03-01,True,False,2020,9,4.1
@@ -14582,9 +14582,9 @@ outlay,Mandatory,Medicaid,2012-08-01,False,False,2022,11,591.98
 outlay,Mandatory,Fannie Freddie,2012-08-01,False,False,2012,1,-0.4
 outlay,Mandatory,Fannie Freddie,2012-08-01,False,False,2013,2,12.8
 outlay,Mandatory,Fannie Freddie,2012-08-01,False,False,2014,3,8.7
-outlay,Mandatory,Fannie Freddie,2012-08-01,False,False,2015,4,5.0
+outlay,Mandatory,Fannie Freddie,2012-08-01,False,False,2015,4,5
 outlay,Mandatory,Fannie Freddie,2012-08-01,False,False,2016,5,3.3
-outlay,Mandatory,Fannie Freddie,2012-08-01,False,False,2017,6,3.0
+outlay,Mandatory,Fannie Freddie,2012-08-01,False,False,2017,6,3
 outlay,Mandatory,Fannie Freddie,2012-08-01,False,False,2018,7,3.7
 outlay,Mandatory,Fannie Freddie,2012-08-01,False,False,2019,8,4.5
 outlay,Mandatory,Fannie Freddie,2012-08-01,False,False,2020,9,5.3
@@ -14701,10 +14701,10 @@ outlay,Mandatory,Medicaid,2013-02-01,False,False,2021,9,505.304
 outlay,Mandatory,Medicaid,2013-02-01,False,False,2022,10,535.852
 outlay,Mandatory,Medicaid,2013-02-01,False,False,2023,11,572.408
 outlay,Mandatory,Fannie Freddie,2013-02-01,False,False,2013,1,-16.7
-outlay,Mandatory,Fannie Freddie,2013-02-01,False,False,2014,2,9.0
+outlay,Mandatory,Fannie Freddie,2013-02-01,False,False,2014,2,9
 outlay,Mandatory,Fannie Freddie,2013-02-01,False,False,2015,3,4.7
 outlay,Mandatory,Fannie Freddie,2013-02-01,False,False,2016,4,2.9
-outlay,Mandatory,Fannie Freddie,2013-02-01,False,False,2017,5,2.0
+outlay,Mandatory,Fannie Freddie,2013-02-01,False,False,2017,5,2
 outlay,Mandatory,Fannie Freddie,2013-02-01,False,False,2018,6,2.4
 outlay,Mandatory,Fannie Freddie,2013-02-01,False,False,2019,7,3.5
 outlay,Mandatory,Fannie Freddie,2013-02-01,False,False,2020,8,2.9
@@ -14942,12 +14942,12 @@ outlay,Mandatory,Medicaid,2014-02-01,False,False,2021,8,487.388
 outlay,Mandatory,Medicaid,2014-02-01,False,False,2022,9,514.816
 outlay,Mandatory,Medicaid,2014-02-01,False,False,2023,10,543.301
 outlay,Mandatory,Medicaid,2014-02-01,False,False,2024,11,573.503
-outlay,Mandatory,Fannie Freddie,2014-02-01,False,False,2014,1,-81.0
+outlay,Mandatory,Fannie Freddie,2014-02-01,False,False,2014,1,-81
 outlay,Mandatory,Fannie Freddie,2014-02-01,False,False,2015,2,4.4
 outlay,Mandatory,Fannie Freddie,2014-02-01,False,False,2016,3,3.8
 outlay,Mandatory,Fannie Freddie,2014-02-01,False,False,2017,4,2.9
 outlay,Mandatory,Fannie Freddie,2014-02-01,False,False,2018,5,1.9
-outlay,Mandatory,Fannie Freddie,2014-02-01,False,False,2019,6,1.0
+outlay,Mandatory,Fannie Freddie,2014-02-01,False,False,2019,6,1
 outlay,Mandatory,Fannie Freddie,2014-02-01,False,False,2020,7,0.9
 outlay,Mandatory,Fannie Freddie,2014-02-01,False,False,2021,8,0.3
 outlay,Mandatory,Fannie Freddie,2014-02-01,False,False,2022,9,1.3
@@ -15063,12 +15063,12 @@ outlay,Mandatory,Medicaid,2014-04-01,True,False,2021,8,489.717
 outlay,Mandatory,Medicaid,2014-04-01,True,False,2022,9,516.471
 outlay,Mandatory,Medicaid,2014-04-01,True,False,2023,10,545.02
 outlay,Mandatory,Medicaid,2014-04-01,True,False,2024,11,576.387
-outlay,Mandatory,Fannie Freddie,2014-04-01,True,False,2014,1,-83.0
+outlay,Mandatory,Fannie Freddie,2014-04-01,True,False,2014,1,-83
 outlay,Mandatory,Fannie Freddie,2014-04-01,True,False,2015,2,4.4
 outlay,Mandatory,Fannie Freddie,2014-04-01,True,False,2016,3,3.8
 outlay,Mandatory,Fannie Freddie,2014-04-01,True,False,2017,4,2.9
 outlay,Mandatory,Fannie Freddie,2014-04-01,True,False,2018,5,1.9
-outlay,Mandatory,Fannie Freddie,2014-04-01,True,False,2019,6,1.0
+outlay,Mandatory,Fannie Freddie,2014-04-01,True,False,2019,6,1
 outlay,Mandatory,Fannie Freddie,2014-04-01,True,False,2020,7,0.9
 outlay,Mandatory,Fannie Freddie,2014-04-01,True,False,2021,8,0.3
 outlay,Mandatory,Fannie Freddie,2014-04-01,True,False,2022,9,1.3
@@ -15189,7 +15189,7 @@ outlay,Mandatory,Fannie Freddie,2014-08-01,False,False,2015,2,2.9
 outlay,Mandatory,Fannie Freddie,2014-08-01,False,False,2016,3,2.7
 outlay,Mandatory,Fannie Freddie,2014-08-01,False,False,2017,4,2.4
 outlay,Mandatory,Fannie Freddie,2014-08-01,False,False,2018,5,1.9
-outlay,Mandatory,Fannie Freddie,2014-08-01,False,False,2019,6,1.0
+outlay,Mandatory,Fannie Freddie,2014-08-01,False,False,2019,6,1
 outlay,Mandatory,Fannie Freddie,2014-08-01,False,False,2020,7,0.9
 outlay,Mandatory,Fannie Freddie,2014-08-01,False,False,2021,8,0.3
 outlay,Mandatory,Fannie Freddie,2014-08-01,False,False,2022,9,1.3
@@ -15306,10 +15306,10 @@ outlay,Mandatory,Medicaid,2015-01-01,False,False,2023,9,529.924
 outlay,Mandatory,Medicaid,2015-01-01,False,False,2024,10,558.049
 outlay,Mandatory,Medicaid,2015-01-01,False,False,2025,11,587.701
 outlay,Mandatory,Fannie Freddie,2015-01-01,False,False,2015,1,-25.8
-outlay,Mandatory,Fannie Freddie,2015-01-01,False,False,2016,2,3.0
+outlay,Mandatory,Fannie Freddie,2015-01-01,False,False,2016,2,3
 outlay,Mandatory,Fannie Freddie,2015-01-01,False,False,2017,3,3.4
 outlay,Mandatory,Fannie Freddie,2015-01-01,False,False,2018,4,3.2
-outlay,Mandatory,Fannie Freddie,2015-01-01,False,False,2019,5,2.0
+outlay,Mandatory,Fannie Freddie,2015-01-01,False,False,2019,5,2
 outlay,Mandatory,Fannie Freddie,2015-01-01,False,False,2020,6,1.4
 outlay,Mandatory,Fannie Freddie,2015-01-01,False,False,2021,7,0.7
 outlay,Mandatory,Fannie Freddie,2015-01-01,False,False,2022,8,1.5
@@ -15427,10 +15427,10 @@ outlay,Mandatory,Medicaid,2015-03-01,True,False,2023,9,519.095
 outlay,Mandatory,Medicaid,2015-03-01,True,False,2024,10,546.612
 outlay,Mandatory,Medicaid,2015-03-01,True,False,2025,11,575.573
 outlay,Mandatory,Fannie Freddie,2015-03-01,True,False,2015,1,-25.8
-outlay,Mandatory,Fannie Freddie,2015-03-01,True,False,2016,2,3.0
+outlay,Mandatory,Fannie Freddie,2015-03-01,True,False,2016,2,3
 outlay,Mandatory,Fannie Freddie,2015-03-01,True,False,2017,3,3.4
 outlay,Mandatory,Fannie Freddie,2015-03-01,True,False,2018,4,3.2
-outlay,Mandatory,Fannie Freddie,2015-03-01,True,False,2019,5,2.0
+outlay,Mandatory,Fannie Freddie,2015-03-01,True,False,2019,5,2
 outlay,Mandatory,Fannie Freddie,2015-03-01,True,False,2020,6,1.4
 outlay,Mandatory,Fannie Freddie,2015-03-01,True,False,2021,7,0.7
 outlay,Mandatory,Fannie Freddie,2015-03-01,True,False,2022,8,1.5
@@ -15529,7 +15529,7 @@ outlay,Mandatory,Medicare,2015-08-01,False,False,2015,1,540.551
 outlay,Mandatory,Medicare,2015-08-01,False,False,2016,2,581.753
 outlay,Mandatory,Medicare,2015-08-01,False,False,2017,3,586.012
 outlay,Mandatory,Medicare,2015-08-01,False,False,2018,4,591.36
-outlay,Mandatory,Medicare,2015-08-01,False,False,2019,5,661.0
+outlay,Mandatory,Medicare,2015-08-01,False,False,2019,5,661
 outlay,Mandatory,Medicare,2015-08-01,False,False,2020,6,709.403
 outlay,Mandatory,Medicare,2015-08-01,False,False,2021,7,761.373
 outlay,Mandatory,Medicare,2015-08-01,False,False,2022,8,854.907
@@ -15548,10 +15548,10 @@ outlay,Mandatory,Medicaid,2015-08-01,False,False,2023,9,516.359
 outlay,Mandatory,Medicaid,2015-08-01,False,False,2024,10,542.754
 outlay,Mandatory,Medicaid,2015-08-01,False,False,2025,11,570.755
 outlay,Mandatory,Fannie Freddie,2015-08-01,False,False,2015,1,-22.8
-outlay,Mandatory,Fannie Freddie,2015-08-01,False,False,2016,2,3.0
+outlay,Mandatory,Fannie Freddie,2015-08-01,False,False,2016,2,3
 outlay,Mandatory,Fannie Freddie,2015-08-01,False,False,2017,3,3.4
 outlay,Mandatory,Fannie Freddie,2015-08-01,False,False,2018,4,3.2
-outlay,Mandatory,Fannie Freddie,2015-08-01,False,False,2019,5,2.0
+outlay,Mandatory,Fannie Freddie,2015-08-01,False,False,2019,5,2
 outlay,Mandatory,Fannie Freddie,2015-08-01,False,False,2020,6,1.4
 outlay,Mandatory,Fannie Freddie,2015-08-01,False,False,2021,7,0.7
 outlay,Mandatory,Fannie Freddie,2015-08-01,False,False,2022,8,1.5
@@ -15676,7 +15676,7 @@ outlay,Mandatory,Fannie Freddie,2016-01-01,False,False,2020,5,0.8
 outlay,Mandatory,Fannie Freddie,2016-01-01,False,False,2021,6,0.4
 outlay,Mandatory,Fannie Freddie,2016-01-01,False,False,2022,7,0.9
 outlay,Mandatory,Fannie Freddie,2016-01-01,False,False,2023,8,0.9
-outlay,Mandatory,Fannie Freddie,2016-01-01,False,False,2024,9,1.0
+outlay,Mandatory,Fannie Freddie,2016-01-01,False,False,2024,9,1
 outlay,Mandatory,Fannie Freddie,2016-01-01,False,False,2025,10,1.2
 outlay,Mandatory,Fannie Freddie,2016-01-01,False,False,2026,11,1.5
 outlay,Mandatory,Other Mandatory,2016-01-01,False,False,2016,1,604.888
@@ -15797,7 +15797,7 @@ outlay,Mandatory,Fannie Freddie,2016-03-01,True,False,2020,5,0.8
 outlay,Mandatory,Fannie Freddie,2016-03-01,True,False,2021,6,0.4
 outlay,Mandatory,Fannie Freddie,2016-03-01,True,False,2022,7,0.9
 outlay,Mandatory,Fannie Freddie,2016-03-01,True,False,2023,8,0.9
-outlay,Mandatory,Fannie Freddie,2016-03-01,True,False,2024,9,1.0
+outlay,Mandatory,Fannie Freddie,2016-03-01,True,False,2024,9,1
 outlay,Mandatory,Fannie Freddie,2016-03-01,True,False,2025,10,1.2
 outlay,Mandatory,Fannie Freddie,2016-03-01,True,False,2026,11,1.5
 outlay,Mandatory,Other Mandatory,2016-03-01,True,False,2016,1,594.535
@@ -15918,7 +15918,7 @@ outlay,Mandatory,Fannie Freddie,2016-08-01,False,False,2020,5,0.8
 outlay,Mandatory,Fannie Freddie,2016-08-01,False,False,2021,6,0.4
 outlay,Mandatory,Fannie Freddie,2016-08-01,False,False,2022,7,0.9
 outlay,Mandatory,Fannie Freddie,2016-08-01,False,False,2023,8,0.9
-outlay,Mandatory,Fannie Freddie,2016-08-01,False,False,2024,9,1.0
+outlay,Mandatory,Fannie Freddie,2016-08-01,False,False,2024,9,1
 outlay,Mandatory,Fannie Freddie,2016-08-01,False,False,2025,10,1.2
 outlay,Mandatory,Fannie Freddie,2016-08-01,False,False,2026,11,1.5
 outlay,Mandatory,Other Mandatory,2016-08-01,False,False,2016,1,584.06
@@ -16033,7 +16033,7 @@ outlay,Mandatory,Medicaid,2017-01-01,False,False,2026,10,616.309
 outlay,Mandatory,Medicaid,2017-01-01,False,False,2027,11,650.232
 outlay,Mandatory,Fannie Freddie,2017-01-01,False,False,2017,1,-14.8
 outlay,Mandatory,Fannie Freddie,2017-01-01,False,False,2018,2,1.7
-outlay,Mandatory,Fannie Freddie,2017-01-01,False,False,2019,3,1.0
+outlay,Mandatory,Fannie Freddie,2017-01-01,False,False,2019,3,1
 outlay,Mandatory,Fannie Freddie,2017-01-01,False,False,2020,4,0.8
 outlay,Mandatory,Fannie Freddie,2017-01-01,False,False,2021,5,0.1
 outlay,Mandatory,Fannie Freddie,2017-01-01,False,False,2022,6,1.8
@@ -16154,12 +16154,12 @@ outlay,Mandatory,Medicaid,2017-06-01,True,False,2026,10,620.845
 outlay,Mandatory,Medicaid,2017-06-01,True,False,2027,11,654.988
 outlay,Mandatory,Fannie Freddie,2017-06-01,True,False,2017,1,-28.5
 outlay,Mandatory,Fannie Freddie,2017-06-01,True,False,2018,2,1.6
-outlay,Mandatory,Fannie Freddie,2017-06-01,True,False,2019,3,1.0
+outlay,Mandatory,Fannie Freddie,2017-06-01,True,False,2019,3,1
 outlay,Mandatory,Fannie Freddie,2017-06-01,True,False,2020,4,0.7
 outlay,Mandatory,Fannie Freddie,2017-06-01,True,False,2021,5,0.1
 outlay,Mandatory,Fannie Freddie,2017-06-01,True,False,2022,6,1.9
 outlay,Mandatory,Fannie Freddie,2017-06-01,True,False,2023,7,1.9
-outlay,Mandatory,Fannie Freddie,2017-06-01,True,False,2024,8,2.0
+outlay,Mandatory,Fannie Freddie,2017-06-01,True,False,2024,8,2
 outlay,Mandatory,Fannie Freddie,2017-06-01,True,False,2025,9,2.2
 outlay,Mandatory,Fannie Freddie,2017-06-01,True,False,2026,10,2.3
 outlay,Mandatory,Fannie Freddie,2017-06-01,True,False,2027,11,2.4
@@ -16274,10 +16274,10 @@ outlay,Mandatory,Medicaid,2018-04-01,False,False,2026,9,615.905
 outlay,Mandatory,Medicaid,2018-04-01,False,False,2027,10,649.254
 outlay,Mandatory,Medicaid,2018-04-01,False,False,2028,11,683.472
 outlay,Mandatory,Fannie Freddie,2018-04-01,False,False,2018,1,-24.9
-outlay,Mandatory,Fannie Freddie,2018-04-01,False,False,2019,2,1.0
-outlay,Mandatory,Fannie Freddie,2018-04-01,False,False,2020,3,1.0
+outlay,Mandatory,Fannie Freddie,2018-04-01,False,False,2019,2,1
+outlay,Mandatory,Fannie Freddie,2018-04-01,False,False,2020,3,1
 outlay,Mandatory,Fannie Freddie,2018-04-01,False,False,2021,4,0.3
-outlay,Mandatory,Fannie Freddie,2018-04-01,False,False,2022,5,2.0
+outlay,Mandatory,Fannie Freddie,2018-04-01,False,False,2022,5,2
 outlay,Mandatory,Fannie Freddie,2018-04-01,False,False,2023,6,2.2
 outlay,Mandatory,Fannie Freddie,2018-04-01,False,False,2024,7,2.4
 outlay,Mandatory,Fannie Freddie,2018-04-01,False,False,2025,8,2.3
@@ -16515,11 +16515,11 @@ outlay,Mandatory,Medicaid,2019-01-01,False,False,2026,8,590.947
 outlay,Mandatory,Medicaid,2019-01-01,False,False,2027,9,625.803
 outlay,Mandatory,Medicaid,2019-01-01,False,False,2028,10,662.466
 outlay,Mandatory,Medicaid,2019-01-01,False,False,2029,11,701.697
-outlay,Mandatory,Fannie Freddie,2019-01-01,False,False,2019,1,-24.0
+outlay,Mandatory,Fannie Freddie,2019-01-01,False,False,2019,1,-24
 outlay,Mandatory,Fannie Freddie,2019-01-01,False,False,2020,2,1.5
 outlay,Mandatory,Fannie Freddie,2019-01-01,False,False,2021,3,1.6
 outlay,Mandatory,Fannie Freddie,2019-01-01,False,False,2022,4,3.1
-outlay,Mandatory,Fannie Freddie,2019-01-01,False,False,2023,5,3.0
+outlay,Mandatory,Fannie Freddie,2019-01-01,False,False,2023,5,3
 outlay,Mandatory,Fannie Freddie,2019-01-01,False,False,2024,6,3.3
 outlay,Mandatory,Fannie Freddie,2019-01-01,False,False,2025,7,3.6
 outlay,Mandatory,Fannie Freddie,2019-01-01,False,False,2026,8,3.9
@@ -16636,11 +16636,11 @@ outlay,Mandatory,Medicaid,2019-05-01,True,False,2026,8,584.837
 outlay,Mandatory,Medicaid,2019-05-01,True,False,2027,9,619.279
 outlay,Mandatory,Medicaid,2019-05-01,True,False,2028,10,655.413
 outlay,Mandatory,Medicaid,2019-05-01,True,False,2029,11,693.995
-outlay,Mandatory,Fannie Freddie,2019-05-01,True,False,2019,1,-24.0
+outlay,Mandatory,Fannie Freddie,2019-05-01,True,False,2019,1,-24
 outlay,Mandatory,Fannie Freddie,2019-05-01,True,False,2020,2,1.5
 outlay,Mandatory,Fannie Freddie,2019-05-01,True,False,2021,3,1.6
 outlay,Mandatory,Fannie Freddie,2019-05-01,True,False,2022,4,3.1
-outlay,Mandatory,Fannie Freddie,2019-05-01,True,False,2023,5,3.0
+outlay,Mandatory,Fannie Freddie,2019-05-01,True,False,2023,5,3
 outlay,Mandatory,Fannie Freddie,2019-05-01,True,False,2024,6,3.3
 outlay,Mandatory,Fannie Freddie,2019-05-01,True,False,2025,7,3.6
 outlay,Mandatory,Fannie Freddie,2019-05-01,True,False,2026,8,3.9
@@ -16757,11 +16757,11 @@ outlay,Mandatory,Medicaid,2019-08-01,False,False,2026,8,582.005
 outlay,Mandatory,Medicaid,2019-08-01,False,False,2027,9,616.254
 outlay,Mandatory,Medicaid,2019-08-01,False,False,2028,10,652.257
 outlay,Mandatory,Medicaid,2019-08-01,False,False,2029,11,690.819
-outlay,Mandatory,Fannie Freddie,2019-08-01,False,False,2019,1,-24.0
+outlay,Mandatory,Fannie Freddie,2019-08-01,False,False,2019,1,-24
 outlay,Mandatory,Fannie Freddie,2019-08-01,False,False,2020,2,1.5
 outlay,Mandatory,Fannie Freddie,2019-08-01,False,False,2021,3,1.6
 outlay,Mandatory,Fannie Freddie,2019-08-01,False,False,2022,4,3.1
-outlay,Mandatory,Fannie Freddie,2019-08-01,False,False,2023,5,3.0
+outlay,Mandatory,Fannie Freddie,2019-08-01,False,False,2023,5,3
 outlay,Mandatory,Fannie Freddie,2019-08-01,False,False,2024,6,3.3
 outlay,Mandatory,Fannie Freddie,2019-08-01,False,False,2025,7,3.6
 outlay,Mandatory,Fannie Freddie,2019-08-01,False,False,2026,8,3.9
@@ -17250,7 +17250,7 @@ outlay,Mandatory,Fannie Freddie,2021-02-01,False,False,2026,6,7.3
 outlay,Mandatory,Fannie Freddie,2021-02-01,False,False,2027,7,7.5
 outlay,Mandatory,Fannie Freddie,2021-02-01,False,False,2028,8,7.6
 outlay,Mandatory,Fannie Freddie,2021-02-01,False,False,2029,9,7.7
-outlay,Mandatory,Fannie Freddie,2021-02-01,False,False,2030,10,8.0
+outlay,Mandatory,Fannie Freddie,2021-02-01,False,False,2030,10,8
 outlay,Mandatory,Fannie Freddie,2021-02-01,False,False,2031,11,8.4
 outlay,Mandatory,Other Mandatory,2021-02-01,False,False,2021,1,1466.52
 outlay,Mandatory,Other Mandatory,2021-02-01,False,False,2022,2,651.804
@@ -17367,11 +17367,11 @@ outlay,Mandatory,Fannie Freddie,2021-07-01,True,False,2022,2,5.5
 outlay,Mandatory,Fannie Freddie,2021-07-01,True,False,2023,3,6.6
 outlay,Mandatory,Fannie Freddie,2021-07-01,True,False,2024,4,8.1
 outlay,Mandatory,Fannie Freddie,2021-07-01,True,False,2025,5,8.1
-outlay,Mandatory,Fannie Freddie,2021-07-01,True,False,2026,6,8.0
+outlay,Mandatory,Fannie Freddie,2021-07-01,True,False,2026,6,8
 outlay,Mandatory,Fannie Freddie,2021-07-01,True,False,2027,7,7.9
 outlay,Mandatory,Fannie Freddie,2021-07-01,True,False,2028,8,7.7
 outlay,Mandatory,Fannie Freddie,2021-07-01,True,False,2029,9,7.6
-outlay,Mandatory,Fannie Freddie,2021-07-01,True,False,2030,10,8.0
+outlay,Mandatory,Fannie Freddie,2021-07-01,True,False,2030,10,8
 outlay,Mandatory,Fannie Freddie,2021-07-01,True,False,2031,11,8.5
 outlay,Mandatory,Other Mandatory,2021-07-01,True,False,2021,1,2535.854
 outlay,Mandatory,Other Mandatory,2021-07-01,True,False,2022,2,1093.633
@@ -17429,7 +17429,7 @@ outlay,Net Interest,Net Interest,2021-07-01,True,False,2029,9,711.718
 outlay,Net Interest,Net Interest,2021-07-01,True,False,2030,10,808.25
 outlay,Net Interest,Net Interest,2021-07-01,True,False,2031,11,909.59
 deficit,Total,Total,1984-02-01,True,False,1984,1,-204.6
-deficit,Total,Total,1984-02-01,True,False,1985,2,-212.0
+deficit,Total,Total,1984-02-01,True,False,1985,2,-212
 deficit,Total,Total,1984-02-01,True,False,1986,3,-231.2
 deficit,Total,Total,1984-02-01,True,False,1987,4,-260.7
 deficit,Total,Total,1984-02-01,True,False,1988,5,-287.7
@@ -17931,7 +17931,7 @@ deficit,Total,Total,2007-08-01,False,False,2017,11,109.211
 deficit,Total,Total,2008-01-01,False,False,2008,1,-218.889
 deficit,Total,Total,2008-01-01,False,False,2009,2,-198.272
 deficit,Total,Total,2008-01-01,False,False,2010,3,-240.802
-deficit,Total,Total,2008-01-01,False,False,2011,4,-117.0
+deficit,Total,Total,2008-01-01,False,False,2011,4,-117
 deficit,Total,Total,2008-01-01,False,False,2012,5,86.952
 deficit,Total,Total,2008-01-01,False,False,2013,6,60.829
 deficit,Total,Total,2008-01-01,False,False,2014,7,96.417
@@ -18346,361 +18346,504 @@ deficit,Total,Total,2021-07-01,True,False,2028,8,-1387.511
 deficit,Total,Total,2021-07-01,True,False,2029,9,-1355.651
 deficit,Total,Total,2021-07-01,True,False,2030,10,-1653.461
 deficit,Total,Total,2021-07-01,True,False,2031,11,-1846.922
-debt,Total,Total,1984-02-01,True,False,1984,1,1330.0
-debt,Total,Total,1984-02-01,True,False,1985,2,1539.0
-debt,Total,Total,1984-02-01,True,False,1986,3,1770.0
-debt,Total,Total,1984-02-01,True,False,1987,4,2029.0
-debt,Total,Total,1984-02-01,True,False,1988,5,2316.0
-debt,Total,Total,1984-02-01,True,False,1989,6,2638.0
-debt,Total,Total,1985-02-01,True,False,1985,1,1526.0
-debt,Total,Total,1985-02-01,True,False,1986,2,1745.0
-debt,Total,Total,1985-02-01,True,False,1987,3,1984.0
-debt,Total,Total,1985-02-01,True,False,1988,4,2240.0
-debt,Total,Total,1985-02-01,True,False,1989,5,2519.0
-debt,Total,Total,1985-02-01,True,False,1990,6,2820.0
-debt,Total,Total,1986-02-01,True,False,1986,1,1721.0
-debt,Total,Total,1986-02-01,True,False,1987,2,1903.0
-debt,Total,Total,1986-02-01,True,False,1988,3,2068.0
-debt,Total,Total,1986-02-01,True,False,1989,4,2211.0
-debt,Total,Total,1986-02-01,True,False,1990,5,2331.0
-debt,Total,Total,1986-02-01,True,False,1991,6,2437.0
-debt,Total,Total,1987-02-01,True,False,1987,1,1913.0
-debt,Total,Total,1987-02-01,True,False,1988,2,2081.0
-debt,Total,Total,1987-02-01,True,False,1989,3,2244.0
-debt,Total,Total,1987-02-01,True,False,1990,4,2378.0
-debt,Total,Total,1987-02-01,True,False,1991,5,2485.0
-debt,Total,Total,1987-02-01,True,False,1992,6,2568.0
-debt,Total,Total,1988-03-01,True,False,1988,1,2046.0
-debt,Total,Total,1988-03-01,True,False,1989,2,2222.0
-debt,Total,Total,1988-03-01,True,False,1990,3,2391.0
-debt,Total,Total,1988-03-01,True,False,1991,4,2547.0
-debt,Total,Total,1988-03-01,True,False,1992,5,2700.0
-debt,Total,Total,1988-03-01,True,False,1993,6,2838.0
-debt,Total,Total,1989-02-01,True,False,1989,1,2194.0
-debt,Total,Total,1989-02-01,True,False,1990,2,2340.0
-debt,Total,Total,1989-02-01,True,False,1991,3,2485.0
-debt,Total,Total,1989-02-01,True,False,1992,4,2624.0
-debt,Total,Total,1989-02-01,True,False,1993,5,2758.0
-debt,Total,Total,1989-02-01,True,False,1994,6,2888.0
-debt,Total,Total,1990-03-01,True,False,1990,1,2344.0
-debt,Total,Total,1990-03-01,True,False,1991,2,2504.0
-debt,Total,Total,1990-03-01,True,False,1992,3,2627.0
-debt,Total,Total,1990-03-01,True,False,1993,4,2758.0
-debt,Total,Total,1990-03-01,True,False,1994,5,2878.0
-debt,Total,Total,1990-03-01,True,False,1995,6,2988.0
-debt,Total,Total,1991-03-01,True,False,1991,1,2704.0
-debt,Total,Total,1991-03-01,True,False,1992,2,2992.0
-debt,Total,Total,1991-03-01,True,False,1993,3,3211.0
-debt,Total,Total,1991-03-01,True,False,1994,4,3379.0
-debt,Total,Total,1991-03-01,True,False,1995,5,3451.0
-debt,Total,Total,1991-03-01,True,False,1996,6,3520.0
-debt,Total,Total,1992-03-01,True,False,1992,1,3049.0
-debt,Total,Total,1992-03-01,True,False,1993,2,3385.0
-debt,Total,Total,1992-03-01,True,False,1994,3,3656.0
-debt,Total,Total,1992-03-01,True,False,1995,4,3865.0
-debt,Total,Total,1992-03-01,True,False,1996,5,4061.0
-debt,Total,Total,1992-03-01,True,False,1997,6,4304.0
-debt,Total,Total,1993-03-01,True,False,1993,1,3282.0
-debt,Total,Total,1993-03-01,True,False,1994,2,3572.0
-debt,Total,Total,1993-03-01,True,False,1995,3,3861.0
-debt,Total,Total,1993-03-01,True,False,1996,4,4157.0
-debt,Total,Total,1993-03-01,True,False,1997,5,4484.0
-debt,Total,Total,1993-03-01,True,False,1998,6,4850.0
-debt,Total,Total,1994-04-01,True,False,1994,1,3465.0
-debt,Total,Total,1994-04-01,True,False,1995,2,3653.0
-debt,Total,Total,1994-04-01,True,False,1996,3,3846.0
-debt,Total,Total,1994-04-01,True,False,1997,4,4055.0
-debt,Total,Total,1994-04-01,True,False,1998,5,4260.0
-debt,Total,Total,1994-04-01,True,False,1999,6,4492.0
-debt,Total,Total,1995-04-01,True,False,1995,1,3618.0
-debt,Total,Total,1995-04-01,True,False,1996,2,3843.0
-debt,Total,Total,1995-04-01,True,False,1997,3,4090.0
-debt,Total,Total,1995-04-01,True,False,1998,4,4338.0
-debt,Total,Total,1995-04-01,True,False,1999,5,4621.0
-debt,Total,Total,1995-04-01,True,False,2000,6,4938.0
-debt,Total,Total,1996-05-01,True,False,1996,1,3770.0
-debt,Total,Total,1996-05-01,True,False,1997,2,3967.0
-debt,Total,Total,1996-05-01,True,False,1998,3,4181.0
-debt,Total,Total,1996-05-01,True,False,1999,4,4422.0
-debt,Total,Total,1996-05-01,True,False,2000,5,4687.0
-debt,Total,Total,1996-05-01,True,False,2001,6,4966.0
-debt,Total,Total,1996-05-01,True,False,2002,7,5268.0
-debt,Total,Total,1996-05-01,True,False,2003,8,5593.0
-debt,Total,Total,1996-05-01,True,False,2004,9,5947.0
-debt,Total,Total,1996-05-01,True,False,2005,10,6333.0
-debt,Total,Total,1996-05-01,True,False,2006,11,6746.0
-debt,Total,Total,1997-03-01,True,False,1997,1,3864.0
-debt,Total,Total,1997-03-01,True,False,1998,2,4004.0
-debt,Total,Total,1997-03-01,True,False,1999,3,4167.0
-debt,Total,Total,1997-03-01,True,False,2000,4,4353.0
-debt,Total,Total,1997-03-01,True,False,2001,5,4534.0
-debt,Total,Total,1997-03-01,True,False,2002,6,4735.0
-debt,Total,Total,1997-03-01,True,False,2003,7,4949.0
-debt,Total,Total,1997-03-01,True,False,2004,8,5179.0
-debt,Total,Total,1997-03-01,True,False,2005,9,5445.0
-debt,Total,Total,1997-03-01,True,False,2006,10,5722.0
-debt,Total,Total,1997-03-01,True,False,2007,11,6011.0
-debt,Total,Total,1998-03-01,True,False,1998,1,3774.0
-debt,Total,Total,1998-03-01,True,False,1999,2,3781.0
-debt,Total,Total,1998-03-01,True,False,2000,3,3793.0
-debt,Total,Total,1998-03-01,True,False,2001,4,3795.0
-debt,Total,Total,1998-03-01,True,False,2002,5,3743.0
-debt,Total,Total,1998-03-01,True,False,2003,6,3706.0
-debt,Total,Total,1998-03-01,True,False,2004,7,3651.0
-debt,Total,Total,1998-03-01,True,False,2005,8,3591.0
-debt,Total,Total,1998-03-01,True,False,2006,9,3491.0
-debt,Total,Total,1998-03-01,True,False,2007,10,3375.0
-debt,Total,Total,1998-03-01,True,False,2008,11,3251.0
-debt,Total,Total,1999-04-01,True,False,1999,1,3628.0
-debt,Total,Total,1999-04-01,True,False,2000,2,3512.0
-debt,Total,Total,1999-04-01,True,False,2001,3,3372.0
-debt,Total,Total,1999-04-01,True,False,2002,4,3176.0
-debt,Total,Total,1999-04-01,True,False,2003,5,2979.0
-debt,Total,Total,1999-04-01,True,False,2004,6,2756.0
-debt,Total,Total,1999-04-01,True,False,2005,7,2508.0
-debt,Total,Total,1999-04-01,True,False,2006,8,2212.0
-debt,Total,Total,1999-04-01,True,False,2007,9,1886.0
-debt,Total,Total,1999-04-01,True,False,2008,10,1540.0
-debt,Total,Total,1999-04-01,True,False,2009,11,1168.0
-debt,Total,Total,2000-04-01,True,False,2000,1,3452.0
-debt,Total,Total,2000-04-01,True,False,2001,2,3226.0
-debt,Total,Total,2000-04-01,True,False,2002,3,2934.0
-debt,Total,Total,2000-04-01,True,False,2003,4,2622.0
-debt,Total,Total,2000-04-01,True,False,2004,5,2285.0
-debt,Total,Total,2000-04-01,True,False,2005,6,1916.0
-debt,Total,Total,2000-04-01,True,False,2006,7,1485.0
-debt,Total,Total,2000-04-01,True,False,2007,8,1142.0
-debt,Total,Total,2000-04-01,True,False,2008,9,1078.0
-debt,Total,Total,2000-04-01,True,False,2009,10,1016.0
-debt,Total,Total,2000-04-01,True,False,2010,11,941.0
-debt,Total,Total,2001-05-01,True,False,2001,1,3169.0
-debt,Total,Total,2001-05-01,True,False,2002,2,2870.0
-debt,Total,Total,2001-05-01,True,False,2003,3,2537.0
-debt,Total,Total,2001-05-01,True,False,2004,4,2157.0
-debt,Total,Total,2001-05-01,True,False,2005,5,1738.0
-debt,Total,Total,2001-05-01,True,False,2006,6,1306.0
-debt,Total,Total,2001-05-01,True,False,2007,7,1185.0
-debt,Total,Total,2001-05-01,True,False,2008,8,1100.0
-debt,Total,Total,2001-05-01,True,False,2009,9,1007.0
-debt,Total,Total,2001-05-01,True,False,2010,10,953.0
-debt,Total,Total,2001-05-01,True,False,2011,11,898.0
-debt,Total,Total,2002-03-01,True,False,2002,1,3355.0
-debt,Total,Total,2002-03-01,True,False,2003,2,3361.0
-debt,Total,Total,2002-03-01,True,False,2004,3,3314.0
-debt,Total,Total,2002-03-01,True,False,2005,4,3219.0
-debt,Total,Total,2002-03-01,True,False,2006,5,3099.0
-debt,Total,Total,2002-03-01,True,False,2007,6,2938.0
-debt,Total,Total,2002-03-01,True,False,2008,7,2739.0
-debt,Total,Total,2002-03-01,True,False,2009,8,2489.0
-debt,Total,Total,2002-03-01,True,False,2010,9,2193.0
-debt,Total,Total,2002-03-01,True,False,2011,10,1750.0
-debt,Total,Total,2002-03-01,True,False,2012,11,1107.0
-debt,Total,Total,2003-03-01,True,False,2003,1,3816.0
-debt,Total,Total,2003-03-01,True,False,2004,2,4013.0
-debt,Total,Total,2003-03-01,True,False,2005,3,4142.0
-debt,Total,Total,2003-03-01,True,False,2006,4,4212.0
-debt,Total,Total,2003-03-01,True,False,2007,5,4233.0
-debt,Total,Total,2003-03-01,True,False,2008,6,4217.0
-debt,Total,Total,2003-03-01,True,False,2009,7,4165.0
-debt,Total,Total,2003-03-01,True,False,2010,8,4077.0
-debt,Total,Total,2003-03-01,True,False,2011,9,3854.0
-debt,Total,Total,2003-03-01,True,False,2012,10,3456.0
-debt,Total,Total,2003-03-01,True,False,2013,11,3003.0
-debt,Total,Total,2004-03-01,True,False,2004,1,4385.0
-debt,Total,Total,2004-03-01,True,False,2005,2,4762.0
-debt,Total,Total,2004-03-01,True,False,2006,3,5048.0
-debt,Total,Total,2004-03-01,True,False,2007,4,5335.0
-debt,Total,Total,2004-03-01,True,False,2008,5,5633.0
-debt,Total,Total,2004-03-01,True,False,2009,6,5927.0
-debt,Total,Total,2004-03-01,True,False,2010,7,6212.0
-debt,Total,Total,2004-03-01,True,False,2011,8,6400.0
-debt,Total,Total,2004-03-01,True,False,2012,9,6450.0
-debt,Total,Total,2004-03-01,True,False,2013,10,6496.0
-debt,Total,Total,2004-03-01,True,False,2014,11,6525.0
-debt,Total,Total,2005-03-01,True,False,2005,1,4656.0
-debt,Total,Total,2005-03-01,True,False,2006,2,4965.0
-debt,Total,Total,2005-03-01,True,False,2007,3,5246.0
-debt,Total,Total,2005-03-01,True,False,2008,4,5506.0
-debt,Total,Total,2005-03-01,True,False,2009,5,5737.0
-debt,Total,Total,2005-03-01,True,False,2010,6,5949.0
-debt,Total,Total,2005-03-01,True,False,2011,7,6054.0
-debt,Total,Total,2005-03-01,True,False,2012,8,6004.0
-debt,Total,Total,2005-03-01,True,False,2013,9,5941.0
-debt,Total,Total,2005-03-01,True,False,2014,10,5847.0
-debt,Total,Total,2005-03-01,True,False,2015,11,5726.0
-debt,Total,Total,2006-03-01,True,False,2006,1,4931.0
-debt,Total,Total,2006-03-01,True,False,2007,2,5206.0
-debt,Total,Total,2006-03-01,True,False,2008,3,5470.0
-debt,Total,Total,2006-03-01,True,False,2009,4,5706.0
-debt,Total,Total,2006-03-01,True,False,2010,5,5934.0
-debt,Total,Total,2006-03-01,True,False,2011,6,6062.0
-debt,Total,Total,2006-03-01,True,False,2012,7,6014.0
-debt,Total,Total,2006-03-01,True,False,2013,8,5968.0
-debt,Total,Total,2006-03-01,True,False,2014,9,5901.0
-debt,Total,Total,2006-03-01,True,False,2015,10,5816.0
-debt,Total,Total,2006-03-01,True,False,2016,11,5749.0
-debt,Total,Total,2007-03-01,True,False,2007,1,5010.0
-debt,Total,Total,2007-03-01,True,False,2008,2,5137.0
-debt,Total,Total,2007-03-01,True,False,2009,3,5285.0
-debt,Total,Total,2007-03-01,True,False,2010,4,5455.0
-debt,Total,Total,2007-03-01,True,False,2011,5,5502.0
-debt,Total,Total,2007-03-01,True,False,2012,6,5358.0
-debt,Total,Total,2007-03-01,True,False,2013,7,5229.0
-debt,Total,Total,2007-03-01,True,False,2014,8,5075.0
-debt,Total,Total,2007-03-01,True,False,2015,9,4895.0
-debt,Total,Total,2007-03-01,True,False,2016,10,4737.0
-debt,Total,Total,2007-03-01,True,False,2017,11,4525.0
-debt,Total,Total,2008-03-01,True,False,2008,1,5367.0
-debt,Total,Total,2008-03-01,True,False,2009,2,5591.0
-debt,Total,Total,2008-03-01,True,False,2010,3,5822.0
-debt,Total,Total,2008-03-01,True,False,2011,4,5933.0
-debt,Total,Total,2008-03-01,True,False,2012,5,5845.0
-debt,Total,Total,2008-03-01,True,False,2013,6,5792.0
-debt,Total,Total,2008-03-01,True,False,2014,7,5717.0
-debt,Total,Total,2008-03-01,True,False,2015,8,5627.0
-debt,Total,Total,2008-03-01,True,False,2016,9,5563.0
-debt,Total,Total,2008-03-01,True,False,2017,10,5444.0
-debt,Total,Total,2008-03-01,True,False,2018,11,5255.0
-debt,Total,Total,2009-03-01,True,False,2009,1,7703.0
-debt,Total,Total,2009-03-01,True,False,2010,2,8658.0
-debt,Total,Total,2009-03-01,True,False,2011,3,9340.0
-debt,Total,Total,2009-03-01,True,False,2012,4,9712.0
-debt,Total,Total,2009-03-01,True,False,2013,5,10016.0
-debt,Total,Total,2009-03-01,True,False,2014,6,10372.0
-debt,Total,Total,2009-03-01,True,False,2015,7,10684.0
-debt,Total,Total,2009-03-01,True,False,2016,8,11034.0
-debt,Total,Total,2009-03-01,True,False,2017,9,11365.0
-debt,Total,Total,2009-03-01,True,False,2018,10,11334.0
-debt,Total,Total,2009-03-01,True,False,2019,11,11753.0
-debt,Total,Total,2010-03-01,True,False,2010,1,9021.0
-debt,Total,Total,2010-03-01,True,False,2011,2,9862.0
-debt,Total,Total,2010-03-01,True,False,2012,3,10551.0
-debt,Total,Total,2010-03-01,True,False,2013,4,11112.0
-debt,Total,Total,2010-03-01,True,False,2014,5,11606.0
-debt,Total,Total,2010-03-01,True,False,2015,6,12103.0
-debt,Total,Total,2010-03-01,True,False,2016,7,12653.0
-debt,Total,Total,2010-03-01,True,False,2017,8,13222.0
-debt,Total,Total,2010-03-01,True,False,2018,9,13803.0
-debt,Total,Total,2010-03-01,True,False,2019,10,14493.0
-debt,Total,Total,2010-03-01,True,False,2020,11,15226.0
-debt,Total,Total,2011-03-01,True,False,2011,1,10363.0
-debt,Total,Total,2011-03-01,True,False,2012,2,11516.0
-debt,Total,Total,2011-03-01,True,False,2013,3,12311.0
-debt,Total,Total,2011-03-01,True,False,2014,4,12919.0
-debt,Total,Total,2011-03-01,True,False,2015,5,13554.0
-debt,Total,Total,2011-03-01,True,False,2016,6,14282.0
-debt,Total,Total,2011-03-01,True,False,2017,7,14964.0
-debt,Total,Total,2011-03-01,True,False,2018,8,15640.0
-debt,Total,Total,2011-03-01,True,False,2019,9,16393.0
-debt,Total,Total,2011-03-01,True,False,2020,10,17192.0
-debt,Total,Total,2011-03-01,True,False,2021,11,18008.0
-debt,Total,Total,2012-03-01,True,False,2012,1,11347.0
-debt,Total,Total,2012-03-01,True,False,2013,2,12068.0
-debt,Total,Total,2012-03-01,True,False,2014,3,12556.0
-debt,Total,Total,2012-03-01,True,False,2015,4,12909.0
-debt,Total,Total,2012-03-01,True,False,2016,5,13263.0
-debt,Total,Total,2012-03-01,True,False,2017,6,13560.0
-debt,Total,Total,2012-03-01,True,False,2018,7,13820.0
-debt,Total,Total,2012-03-01,True,False,2019,8,14123.0
-debt,Total,Total,2012-03-01,True,False,2020,9,14432.0
-debt,Total,Total,2012-03-01,True,False,2021,10,14741.0
-debt,Total,Total,2012-03-01,True,False,2022,11,15115.0
-debt,Total,Total,2013-05-01,True,False,2013,1,12036.0
-debt,Total,Total,2013-05-01,True,False,2014,2,12685.0
-debt,Total,Total,2013-05-01,True,False,2015,3,13156.0
-debt,Total,Total,2013-05-01,True,False,2016,4,13666.0
-debt,Total,Total,2013-05-01,True,False,2017,5,14223.0
-debt,Total,Total,2013-05-01,True,False,2018,6,14827.0
-debt,Total,Total,2013-05-01,True,False,2019,7,15537.0
-debt,Total,Total,2013-05-01,True,False,2020,8,16330.0
-debt,Total,Total,2013-05-01,True,False,2021,9,17168.0
-debt,Total,Total,2013-05-01,True,False,2022,10,18118.0
-debt,Total,Total,2013-05-01,True,False,2023,11,19070.0
-debt,Total,Total,2014-04-01,True,False,2014,1,12740.0
-debt,Total,Total,2014-04-01,True,False,2015,2,13285.0
-debt,Total,Total,2014-04-01,True,False,2016,3,13884.0
-debt,Total,Total,2014-04-01,True,False,2017,4,14523.0
-debt,Total,Total,2014-04-01,True,False,2018,5,15202.0
-debt,Total,Total,2014-04-01,True,False,2019,6,15977.0
-debt,Total,Total,2014-04-01,True,False,2020,7,16835.0
-debt,Total,Total,2014-04-01,True,False,2021,8,17769.0
-debt,Total,Total,2014-04-01,True,False,2022,9,18823.0
-debt,Total,Total,2014-04-01,True,False,2023,10,19885.0
-debt,Total,Total,2014-04-01,True,False,2024,11,20947.0
-debt,Total,Total,2015-03-01,True,False,2015,1,13366.0
-debt,Total,Total,2015-03-01,True,False,2016,2,13897.0
-debt,Total,Total,2015-03-01,True,False,2017,3,14428.0
-debt,Total,Total,2015-03-01,True,False,2018,4,14983.0
-debt,Total,Total,2015-03-01,True,False,2019,5,15654.0
-debt,Total,Total,2015-03-01,True,False,2020,6,16409.0
-debt,Total,Total,2015-03-01,True,False,2021,7,17226.0
-debt,Total,Total,2015-03-01,True,False,2022,8,18179.0
-debt,Total,Total,2015-03-01,True,False,2023,9,19138.0
-debt,Total,Total,2015-03-01,True,False,2024,10,20089.0
-debt,Total,Total,2015-03-01,True,False,2025,11,21182.0
-debt,Total,Total,2016-03-01,True,False,2016,1,13951.0
-debt,Total,Total,2016-03-01,True,False,2017,2,14572.0
-debt,Total,Total,2016-03-01,True,False,2018,3,15177.0
-debt,Total,Total,2016-03-01,True,False,2019,4,15934.0
-debt,Total,Total,2016-03-01,True,False,2020,5,16771.0
-debt,Total,Total,2016-03-01,True,False,2021,6,17692.0
-debt,Total,Total,2016-03-01,True,False,2022,7,18766.0
-debt,Total,Total,2016-03-01,True,False,2023,8,19880.0
-debt,Total,Total,2016-03-01,True,False,2024,9,21012.0
-debt,Total,Total,2016-03-01,True,False,2025,10,22280.0
-debt,Total,Total,2016-03-01,True,False,2026,11,23672.0
-debt,Total,Total,2017-06-01,True,False,2017,1,14656.0
-debt,Total,Total,2017-06-01,True,False,2018,2,15537.0
-debt,Total,Total,2017-06-01,True,False,2019,3,16282.0
-debt,Total,Total,2017-06-01,True,False,2020,4,17108.0
-debt,Total,Total,2017-06-01,True,False,2021,5,18037.0
-debt,Total,Total,2017-06-01,True,False,2022,6,19109.0
-debt,Total,Total,2017-06-01,True,False,2023,7,20212.0
-debt,Total,Total,2017-06-01,True,False,2024,8,21342.0
-debt,Total,Total,2017-06-01,True,False,2025,9,22613.0
-debt,Total,Total,2017-06-01,True,False,2026,10,24014.0
-debt,Total,Total,2017-06-01,True,False,2027,11,25524.0
-debt,Total,Total,2018-05-01,True,False,2018,1,15676.0
-debt,Total,Total,2018-05-01,True,False,2019,2,16743.0
-debt,Total,Total,2018-05-01,True,False,2020,3,17804.0
-debt,Total,Total,2018-05-01,True,False,2021,4,18970.0
-debt,Total,Total,2018-05-01,True,False,2022,5,20290.0
-debt,Total,Total,2018-05-01,True,False,2023,6,21609.0
-debt,Total,Total,2018-05-01,True,False,2024,7,22904.0
-debt,Total,Total,2018-05-01,True,False,2025,8,24310.0
-debt,Total,Total,2018-05-01,True,False,2026,9,25687.0
-debt,Total,Total,2018-05-01,True,False,2027,10,27058.0
-debt,Total,Total,2018-05-01,True,False,2028,11,28642.0
-debt,Total,Total,2019-05-01,True,False,2019,1,16621.0
-debt,Total,Total,2019-05-01,True,False,2020,2,17576.0
-debt,Total,Total,2019-05-01,True,False,2021,3,18589.0
-debt,Total,Total,2019-05-01,True,False,2022,4,19748.0
-debt,Total,Total,2019-05-01,True,False,2023,5,20910.0
-debt,Total,Total,2019-05-01,True,False,2024,6,22021.0
-debt,Total,Total,2019-05-01,True,False,2025,7,23253.0
-debt,Total,Total,2019-05-01,True,False,2026,8,24476.0
-debt,Total,Total,2019-05-01,True,False,2027,9,25684.0
-debt,Total,Total,2019-05-01,True,False,2028,10,27116.0
-debt,Total,Total,2019-05-01,True,False,2029,11,28455.0
-debt,Total,Total,2020-03-01,True,False,2020,1,17835.0
-debt,Total,Total,2020-03-01,True,False,2021,2,18816.0
-debt,Total,Total,2020-03-01,True,False,2022,3,19996.0
-debt,Total,Total,2020-03-01,True,False,2023,4,21144.0
-debt,Total,Total,2020-03-01,True,False,2024,5,22338.0
-debt,Total,Total,2020-03-01,True,False,2025,6,23694.0
-debt,Total,Total,2020-03-01,True,False,2026,7,25053.0
-debt,Total,Total,2020-03-01,True,False,2027,8,26398.0
-debt,Total,Total,2020-03-01,True,False,2028,9,27970.0
-debt,Total,Total,2020-03-01,True,False,2029,10,29479.0
-debt,Total,Total,2020-03-01,True,False,2030,11,31292.0
-debt,Total,Total,2021-07-01,True,False,2021,1,23012.0
-debt,Total,Total,2021-07-01,True,False,2022,2,24392.0
-debt,Total,Total,2021-07-01,True,False,2023,3,25156.0
-debt,Total,Total,2021-07-01,True,False,2024,4,25959.0
-debt,Total,Total,2021-07-01,True,False,2025,5,26967.0
-debt,Total,Total,2021-07-01,True,False,2026,6,28062.0
-debt,Total,Total,2021-07-01,True,False,2027,7,29185.0
-debt,Total,Total,2021-07-01,True,False,2028,8,30733.0
-debt,Total,Total,2021-07-01,True,False,2029,9,32119.0
-debt,Total,Total,2021-07-01,True,False,2030,10,33913.0
-debt,Total,Total,2021-07-01,True,False,2031,11,35827.0
+debt,Total,Total,1984-02-01,True,False,1984,1,1330
+debt,Total,Total,1984-02-01,True,False,1985,2,1539
+debt,Total,Total,1984-02-01,True,False,1986,3,1770
+debt,Total,Total,1984-02-01,True,False,1987,4,2029
+debt,Total,Total,1984-02-01,True,False,1988,5,2316
+debt,Total,Total,1984-02-01,True,False,1989,6,2638
+debt,Total,Total,1985-02-01,True,False,1985,1,1526
+debt,Total,Total,1985-02-01,True,False,1986,2,1745
+debt,Total,Total,1985-02-01,True,False,1987,3,1984
+debt,Total,Total,1985-02-01,True,False,1988,4,2240
+debt,Total,Total,1985-02-01,True,False,1989,5,2519
+debt,Total,Total,1985-02-01,True,False,1990,6,2820
+debt,Total,Total,1986-02-01,True,False,1986,1,1721
+debt,Total,Total,1986-02-01,True,False,1987,2,1903
+debt,Total,Total,1986-02-01,True,False,1988,3,2068
+debt,Total,Total,1986-02-01,True,False,1989,4,2211
+debt,Total,Total,1986-02-01,True,False,1990,5,2331
+debt,Total,Total,1986-02-01,True,False,1991,6,2437
+debt,Total,Total,1987-02-01,True,False,1987,1,1913
+debt,Total,Total,1987-02-01,True,False,1988,2,2081
+debt,Total,Total,1987-02-01,True,False,1989,3,2244
+debt,Total,Total,1987-02-01,True,False,1990,4,2378
+debt,Total,Total,1987-02-01,True,False,1991,5,2485
+debt,Total,Total,1987-02-01,True,False,1992,6,2568
+debt,Total,Total,1988-03-01,True,False,1988,1,2046
+debt,Total,Total,1988-03-01,True,False,1989,2,2222
+debt,Total,Total,1988-03-01,True,False,1990,3,2391
+debt,Total,Total,1988-03-01,True,False,1991,4,2547
+debt,Total,Total,1988-03-01,True,False,1992,5,2700
+debt,Total,Total,1988-03-01,True,False,1993,6,2838
+debt,Total,Total,1989-02-01,True,False,1989,1,2194
+debt,Total,Total,1989-02-01,True,False,1990,2,2340
+debt,Total,Total,1989-02-01,True,False,1991,3,2485
+debt,Total,Total,1989-02-01,True,False,1992,4,2624
+debt,Total,Total,1989-02-01,True,False,1993,5,2758
+debt,Total,Total,1989-02-01,True,False,1994,6,2888
+debt,Total,Total,1990-03-01,True,False,1990,1,2344
+debt,Total,Total,1990-03-01,True,False,1991,2,2504
+debt,Total,Total,1990-03-01,True,False,1992,3,2627
+debt,Total,Total,1990-03-01,True,False,1993,4,2758
+debt,Total,Total,1990-03-01,True,False,1994,5,2878
+debt,Total,Total,1990-03-01,True,False,1995,6,2988
+debt,Total,Total,1991-03-01,True,False,1991,1,2704
+debt,Total,Total,1991-03-01,True,False,1992,2,2992
+debt,Total,Total,1991-03-01,True,False,1993,3,3211
+debt,Total,Total,1991-03-01,True,False,1994,4,3379
+debt,Total,Total,1991-03-01,True,False,1995,5,3451
+debt,Total,Total,1991-03-01,True,False,1996,6,3520
+debt,Total,Total,1992-03-01,True,False,1992,1,3049
+debt,Total,Total,1992-03-01,True,False,1993,2,3385
+debt,Total,Total,1992-03-01,True,False,1994,3,3656
+debt,Total,Total,1992-03-01,True,False,1995,4,3865
+debt,Total,Total,1992-03-01,True,False,1996,5,4061
+debt,Total,Total,1992-03-01,True,False,1997,6,4304
+debt,Total,Total,1993-03-01,True,False,1993,1,3282
+debt,Total,Total,1993-03-01,True,False,1994,2,3572
+debt,Total,Total,1993-03-01,True,False,1995,3,3861
+debt,Total,Total,1993-03-01,True,False,1996,4,4157
+debt,Total,Total,1993-03-01,True,False,1997,5,4484
+debt,Total,Total,1993-03-01,True,False,1998,6,4850
+debt,Total,Total,1994-04-01,True,False,1994,1,3465
+debt,Total,Total,1994-04-01,True,False,1995,2,3653
+debt,Total,Total,1994-04-01,True,False,1996,3,3846
+debt,Total,Total,1994-04-01,True,False,1997,4,4055
+debt,Total,Total,1994-04-01,True,False,1998,5,4260
+debt,Total,Total,1994-04-01,True,False,1999,6,4492
+debt,Total,Total,1995-04-01,True,False,1995,1,3618
+debt,Total,Total,1995-04-01,True,False,1996,2,3843
+debt,Total,Total,1995-04-01,True,False,1997,3,4090
+debt,Total,Total,1995-04-01,True,False,1998,4,4338
+debt,Total,Total,1995-04-01,True,False,1999,5,4621
+debt,Total,Total,1995-04-01,True,False,2000,6,4938
+debt,Total,Total,1996-05-01,True,False,1996,1,3770
+debt,Total,Total,1996-05-01,True,False,1997,2,3967
+debt,Total,Total,1996-05-01,True,False,1998,3,4181
+debt,Total,Total,1996-05-01,True,False,1999,4,4422
+debt,Total,Total,1996-05-01,True,False,2000,5,4687
+debt,Total,Total,1996-05-01,True,False,2001,6,4966
+debt,Total,Total,1996-05-01,True,False,2002,7,5268
+debt,Total,Total,1996-05-01,True,False,2003,8,5593
+debt,Total,Total,1996-05-01,True,False,2004,9,5947
+debt,Total,Total,1996-05-01,True,False,2005,10,6333
+debt,Total,Total,1996-05-01,True,False,2006,11,6746
+debt,Total,Total,1997-03-01,True,False,1997,1,3864
+debt,Total,Total,1997-03-01,True,False,1998,2,4004
+debt,Total,Total,1997-03-01,True,False,1999,3,4167
+debt,Total,Total,1997-03-01,True,False,2000,4,4353
+debt,Total,Total,1997-03-01,True,False,2001,5,4534
+debt,Total,Total,1997-03-01,True,False,2002,6,4735
+debt,Total,Total,1997-03-01,True,False,2003,7,4949
+debt,Total,Total,1997-03-01,True,False,2004,8,5179
+debt,Total,Total,1997-03-01,True,False,2005,9,5445
+debt,Total,Total,1997-03-01,True,False,2006,10,5722
+debt,Total,Total,1997-03-01,True,False,2007,11,6011
+debt,Total,Total,1998-03-01,True,False,1998,1,3774
+debt,Total,Total,1998-03-01,True,False,1999,2,3781
+debt,Total,Total,1998-03-01,True,False,2000,3,3793
+debt,Total,Total,1998-03-01,True,False,2001,4,3795
+debt,Total,Total,1998-03-01,True,False,2002,5,3743
+debt,Total,Total,1998-03-01,True,False,2003,6,3706
+debt,Total,Total,1998-03-01,True,False,2004,7,3651
+debt,Total,Total,1998-03-01,True,False,2005,8,3591
+debt,Total,Total,1998-03-01,True,False,2006,9,3491
+debt,Total,Total,1998-03-01,True,False,2007,10,3375
+debt,Total,Total,1998-03-01,True,False,2008,11,3251
+debt,Total,Total,1999-04-01,True,False,1999,1,3628
+debt,Total,Total,1999-04-01,True,False,2000,2,3512
+debt,Total,Total,1999-04-01,True,False,2001,3,3372
+debt,Total,Total,1999-04-01,True,False,2002,4,3176
+debt,Total,Total,1999-04-01,True,False,2003,5,2979
+debt,Total,Total,1999-04-01,True,False,2004,6,2756
+debt,Total,Total,1999-04-01,True,False,2005,7,2508
+debt,Total,Total,1999-04-01,True,False,2006,8,2212
+debt,Total,Total,1999-04-01,True,False,2007,9,1886
+debt,Total,Total,1999-04-01,True,False,2008,10,1540
+debt,Total,Total,1999-04-01,True,False,2009,11,1168
+debt,Total,Total,2000-04-01,True,False,2000,1,3452
+debt,Total,Total,2000-04-01,True,False,2001,2,3226
+debt,Total,Total,2000-04-01,True,False,2002,3,2934
+debt,Total,Total,2000-04-01,True,False,2003,4,2622
+debt,Total,Total,2000-04-01,True,False,2004,5,2285
+debt,Total,Total,2000-04-01,True,False,2005,6,1916
+debt,Total,Total,2000-04-01,True,False,2006,7,1485
+debt,Total,Total,2000-04-01,True,False,2007,8,1142
+debt,Total,Total,2000-04-01,True,False,2008,9,1078
+debt,Total,Total,2000-04-01,True,False,2009,10,1016
+debt,Total,Total,2000-04-01,True,False,2010,11,941
+debt,Total,Total,2001-05-01,True,False,2001,1,3169
+debt,Total,Total,2001-05-01,True,False,2002,2,2870
+debt,Total,Total,2001-05-01,True,False,2003,3,2537
+debt,Total,Total,2001-05-01,True,False,2004,4,2157
+debt,Total,Total,2001-05-01,True,False,2005,5,1738
+debt,Total,Total,2001-05-01,True,False,2006,6,1306
+debt,Total,Total,2001-05-01,True,False,2007,7,1185
+debt,Total,Total,2001-05-01,True,False,2008,8,1100
+debt,Total,Total,2001-05-01,True,False,2009,9,1007
+debt,Total,Total,2001-05-01,True,False,2010,10,953
+debt,Total,Total,2001-05-01,True,False,2011,11,898
+debt,Total,Total,2002-03-01,True,False,2002,1,3355
+debt,Total,Total,2002-03-01,True,False,2003,2,3361
+debt,Total,Total,2002-03-01,True,False,2004,3,3314
+debt,Total,Total,2002-03-01,True,False,2005,4,3219
+debt,Total,Total,2002-03-01,True,False,2006,5,3099
+debt,Total,Total,2002-03-01,True,False,2007,6,2938
+debt,Total,Total,2002-03-01,True,False,2008,7,2739
+debt,Total,Total,2002-03-01,True,False,2009,8,2489
+debt,Total,Total,2002-03-01,True,False,2010,9,2193
+debt,Total,Total,2002-03-01,True,False,2011,10,1750
+debt,Total,Total,2002-03-01,True,False,2012,11,1107
+debt,Total,Total,2003-03-01,True,False,2003,1,3816
+debt,Total,Total,2003-03-01,True,False,2004,2,4013
+debt,Total,Total,2003-03-01,True,False,2005,3,4142
+debt,Total,Total,2003-03-01,True,False,2006,4,4212
+debt,Total,Total,2003-03-01,True,False,2007,5,4233
+debt,Total,Total,2003-03-01,True,False,2008,6,4217
+debt,Total,Total,2003-03-01,True,False,2009,7,4165
+debt,Total,Total,2003-03-01,True,False,2010,8,4077
+debt,Total,Total,2003-03-01,True,False,2011,9,3854
+debt,Total,Total,2003-03-01,True,False,2012,10,3456
+debt,Total,Total,2003-03-01,True,False,2013,11,3003
+debt,Total,Total,2004-03-01,True,False,2004,1,4385
+debt,Total,Total,2004-03-01,True,False,2005,2,4762
+debt,Total,Total,2004-03-01,True,False,2006,3,5048
+debt,Total,Total,2004-03-01,True,False,2007,4,5335
+debt,Total,Total,2004-03-01,True,False,2008,5,5633
+debt,Total,Total,2004-03-01,True,False,2009,6,5927
+debt,Total,Total,2004-03-01,True,False,2010,7,6212
+debt,Total,Total,2004-03-01,True,False,2011,8,6400
+debt,Total,Total,2004-03-01,True,False,2012,9,6450
+debt,Total,Total,2004-03-01,True,False,2013,10,6496
+debt,Total,Total,2004-03-01,True,False,2014,11,6525
+debt,Total,Total,2005-03-01,True,False,2005,1,4656
+debt,Total,Total,2005-03-01,True,False,2006,2,4965
+debt,Total,Total,2005-03-01,True,False,2007,3,5246
+debt,Total,Total,2005-03-01,True,False,2008,4,5506
+debt,Total,Total,2005-03-01,True,False,2009,5,5737
+debt,Total,Total,2005-03-01,True,False,2010,6,5949
+debt,Total,Total,2005-03-01,True,False,2011,7,6054
+debt,Total,Total,2005-03-01,True,False,2012,8,6004
+debt,Total,Total,2005-03-01,True,False,2013,9,5941
+debt,Total,Total,2005-03-01,True,False,2014,10,5847
+debt,Total,Total,2005-03-01,True,False,2015,11,5726
+debt,Total,Total,2006-03-01,True,False,2006,1,4931
+debt,Total,Total,2006-03-01,True,False,2007,2,5206
+debt,Total,Total,2006-03-01,True,False,2008,3,5470
+debt,Total,Total,2006-03-01,True,False,2009,4,5706
+debt,Total,Total,2006-03-01,True,False,2010,5,5934
+debt,Total,Total,2006-03-01,True,False,2011,6,6062
+debt,Total,Total,2006-03-01,True,False,2012,7,6014
+debt,Total,Total,2006-03-01,True,False,2013,8,5968
+debt,Total,Total,2006-03-01,True,False,2014,9,5901
+debt,Total,Total,2006-03-01,True,False,2015,10,5816
+debt,Total,Total,2006-03-01,True,False,2016,11,5749
+debt,Total,Total,2007-03-01,True,False,2007,1,5010
+debt,Total,Total,2007-03-01,True,False,2008,2,5137
+debt,Total,Total,2007-03-01,True,False,2009,3,5285
+debt,Total,Total,2007-03-01,True,False,2010,4,5455
+debt,Total,Total,2007-03-01,True,False,2011,5,5502
+debt,Total,Total,2007-03-01,True,False,2012,6,5358
+debt,Total,Total,2007-03-01,True,False,2013,7,5229
+debt,Total,Total,2007-03-01,True,False,2014,8,5075
+debt,Total,Total,2007-03-01,True,False,2015,9,4895
+debt,Total,Total,2007-03-01,True,False,2016,10,4737
+debt,Total,Total,2007-03-01,True,False,2017,11,4525
+debt,Total,Total,2008-03-01,True,False,2008,1,5367
+debt,Total,Total,2008-03-01,True,False,2009,2,5591
+debt,Total,Total,2008-03-01,True,False,2010,3,5822
+debt,Total,Total,2008-03-01,True,False,2011,4,5933
+debt,Total,Total,2008-03-01,True,False,2012,5,5845
+debt,Total,Total,2008-03-01,True,False,2013,6,5792
+debt,Total,Total,2008-03-01,True,False,2014,7,5717
+debt,Total,Total,2008-03-01,True,False,2015,8,5627
+debt,Total,Total,2008-03-01,True,False,2016,9,5563
+debt,Total,Total,2008-03-01,True,False,2017,10,5444
+debt,Total,Total,2008-03-01,True,False,2018,11,5255
+debt,Total,Total,2009-03-01,True,False,2009,1,7703
+debt,Total,Total,2009-03-01,True,False,2010,2,8658
+debt,Total,Total,2009-03-01,True,False,2011,3,9340
+debt,Total,Total,2009-03-01,True,False,2012,4,9712
+debt,Total,Total,2009-03-01,True,False,2013,5,10016
+debt,Total,Total,2009-03-01,True,False,2014,6,10372
+debt,Total,Total,2009-03-01,True,False,2015,7,10684
+debt,Total,Total,2009-03-01,True,False,2016,8,11034
+debt,Total,Total,2009-03-01,True,False,2017,9,11365
+debt,Total,Total,2009-03-01,True,False,2018,10,11334
+debt,Total,Total,2009-03-01,True,False,2019,11,11753
+debt,Total,Total,2010-03-01,True,False,2010,1,9021
+debt,Total,Total,2010-03-01,True,False,2011,2,9862
+debt,Total,Total,2010-03-01,True,False,2012,3,10551
+debt,Total,Total,2010-03-01,True,False,2013,4,11112
+debt,Total,Total,2010-03-01,True,False,2014,5,11606
+debt,Total,Total,2010-03-01,True,False,2015,6,12103
+debt,Total,Total,2010-03-01,True,False,2016,7,12653
+debt,Total,Total,2010-03-01,True,False,2017,8,13222
+debt,Total,Total,2010-03-01,True,False,2018,9,13803
+debt,Total,Total,2010-03-01,True,False,2019,10,14493
+debt,Total,Total,2010-03-01,True,False,2020,11,15226
+debt,Total,Total,2011-03-01,True,False,2011,1,10363
+debt,Total,Total,2011-03-01,True,False,2012,2,11516
+debt,Total,Total,2011-03-01,True,False,2013,3,12311
+debt,Total,Total,2011-03-01,True,False,2014,4,12919
+debt,Total,Total,2011-03-01,True,False,2015,5,13554
+debt,Total,Total,2011-03-01,True,False,2016,6,14282
+debt,Total,Total,2011-03-01,True,False,2017,7,14964
+debt,Total,Total,2011-03-01,True,False,2018,8,15640
+debt,Total,Total,2011-03-01,True,False,2019,9,16393
+debt,Total,Total,2011-03-01,True,False,2020,10,17192
+debt,Total,Total,2011-03-01,True,False,2021,11,18008
+debt,Total,Total,2012-03-01,True,False,2012,1,11347
+debt,Total,Total,2012-03-01,True,False,2013,2,12068
+debt,Total,Total,2012-03-01,True,False,2014,3,12556
+debt,Total,Total,2012-03-01,True,False,2015,4,12909
+debt,Total,Total,2012-03-01,True,False,2016,5,13263
+debt,Total,Total,2012-03-01,True,False,2017,6,13560
+debt,Total,Total,2012-03-01,True,False,2018,7,13820
+debt,Total,Total,2012-03-01,True,False,2019,8,14123
+debt,Total,Total,2012-03-01,True,False,2020,9,14432
+debt,Total,Total,2012-03-01,True,False,2021,10,14741
+debt,Total,Total,2012-03-01,True,False,2022,11,15115
+debt,Total,Total,2013-05-01,True,False,2013,1,12036
+debt,Total,Total,2013-05-01,True,False,2014,2,12685
+debt,Total,Total,2013-05-01,True,False,2015,3,13156
+debt,Total,Total,2013-05-01,True,False,2016,4,13666
+debt,Total,Total,2013-05-01,True,False,2017,5,14223
+debt,Total,Total,2013-05-01,True,False,2018,6,14827
+debt,Total,Total,2013-05-01,True,False,2019,7,15537
+debt,Total,Total,2013-05-01,True,False,2020,8,16330
+debt,Total,Total,2013-05-01,True,False,2021,9,17168
+debt,Total,Total,2013-05-01,True,False,2022,10,18118
+debt,Total,Total,2013-05-01,True,False,2023,11,19070
+debt,Total,Total,2014-04-01,True,False,2014,1,12740
+debt,Total,Total,2014-04-01,True,False,2015,2,13285
+debt,Total,Total,2014-04-01,True,False,2016,3,13884
+debt,Total,Total,2014-04-01,True,False,2017,4,14523
+debt,Total,Total,2014-04-01,True,False,2018,5,15202
+debt,Total,Total,2014-04-01,True,False,2019,6,15977
+debt,Total,Total,2014-04-01,True,False,2020,7,16835
+debt,Total,Total,2014-04-01,True,False,2021,8,17769
+debt,Total,Total,2014-04-01,True,False,2022,9,18823
+debt,Total,Total,2014-04-01,True,False,2023,10,19885
+debt,Total,Total,2014-04-01,True,False,2024,11,20947
+debt,Total,Total,2015-03-01,True,False,2015,1,13366
+debt,Total,Total,2015-03-01,True,False,2016,2,13897
+debt,Total,Total,2015-03-01,True,False,2017,3,14428
+debt,Total,Total,2015-03-01,True,False,2018,4,14983
+debt,Total,Total,2015-03-01,True,False,2019,5,15654
+debt,Total,Total,2015-03-01,True,False,2020,6,16409
+debt,Total,Total,2015-03-01,True,False,2021,7,17226
+debt,Total,Total,2015-03-01,True,False,2022,8,18179
+debt,Total,Total,2015-03-01,True,False,2023,9,19138
+debt,Total,Total,2015-03-01,True,False,2024,10,20089
+debt,Total,Total,2015-03-01,True,False,2025,11,21182
+debt,Total,Total,2016-03-01,True,False,2016,1,13951
+debt,Total,Total,2016-03-01,True,False,2017,2,14572
+debt,Total,Total,2016-03-01,True,False,2018,3,15177
+debt,Total,Total,2016-03-01,True,False,2019,4,15934
+debt,Total,Total,2016-03-01,True,False,2020,5,16771
+debt,Total,Total,2016-03-01,True,False,2021,6,17692
+debt,Total,Total,2016-03-01,True,False,2022,7,18766
+debt,Total,Total,2016-03-01,True,False,2023,8,19880
+debt,Total,Total,2016-03-01,True,False,2024,9,21012
+debt,Total,Total,2016-03-01,True,False,2025,10,22280
+debt,Total,Total,2016-03-01,True,False,2026,11,23672
+debt,Total,Total,2017-06-01,True,False,2017,1,14656
+debt,Total,Total,2017-06-01,True,False,2018,2,15537
+debt,Total,Total,2017-06-01,True,False,2019,3,16282
+debt,Total,Total,2017-06-01,True,False,2020,4,17108
+debt,Total,Total,2017-06-01,True,False,2021,5,18037
+debt,Total,Total,2017-06-01,True,False,2022,6,19109
+debt,Total,Total,2017-06-01,True,False,2023,7,20212
+debt,Total,Total,2017-06-01,True,False,2024,8,21342
+debt,Total,Total,2017-06-01,True,False,2025,9,22613
+debt,Total,Total,2017-06-01,True,False,2026,10,24014
+debt,Total,Total,2017-06-01,True,False,2027,11,25524
+debt,Total,Total,2018-05-01,True,False,2018,1,15676
+debt,Total,Total,2018-05-01,True,False,2019,2,16743
+debt,Total,Total,2018-05-01,True,False,2020,3,17804
+debt,Total,Total,2018-05-01,True,False,2021,4,18970
+debt,Total,Total,2018-05-01,True,False,2022,5,20290
+debt,Total,Total,2018-05-01,True,False,2023,6,21609
+debt,Total,Total,2018-05-01,True,False,2024,7,22904
+debt,Total,Total,2018-05-01,True,False,2025,8,24310
+debt,Total,Total,2018-05-01,True,False,2026,9,25687
+debt,Total,Total,2018-05-01,True,False,2027,10,27058
+debt,Total,Total,2018-05-01,True,False,2028,11,28642
+debt,Total,Total,2019-05-01,True,False,2019,1,16621
+debt,Total,Total,2019-05-01,True,False,2020,2,17576
+debt,Total,Total,2019-05-01,True,False,2021,3,18589
+debt,Total,Total,2019-05-01,True,False,2022,4,19748
+debt,Total,Total,2019-05-01,True,False,2023,5,20910
+debt,Total,Total,2019-05-01,True,False,2024,6,22021
+debt,Total,Total,2019-05-01,True,False,2025,7,23253
+debt,Total,Total,2019-05-01,True,False,2026,8,24476
+debt,Total,Total,2019-05-01,True,False,2027,9,25684
+debt,Total,Total,2019-05-01,True,False,2028,10,27116
+debt,Total,Total,2019-05-01,True,False,2029,11,28455
+debt,Total,Total,2020-03-01,True,False,2020,1,17835
+debt,Total,Total,2020-03-01,True,False,2021,2,18816
+debt,Total,Total,2020-03-01,True,False,2022,3,19996
+debt,Total,Total,2020-03-01,True,False,2023,4,21144
+debt,Total,Total,2020-03-01,True,False,2024,5,22338
+debt,Total,Total,2020-03-01,True,False,2025,6,23694
+debt,Total,Total,2020-03-01,True,False,2026,7,25053
+debt,Total,Total,2020-03-01,True,False,2027,8,26398
+debt,Total,Total,2020-03-01,True,False,2028,9,27970
+debt,Total,Total,2020-03-01,True,False,2029,10,29479
+debt,Total,Total,2020-03-01,True,False,2030,11,31292
+debt,Total,Total,2021-07-01,True,False,2021,1,23012
+debt,Total,Total,2021-07-01,True,False,2022,2,24392
+debt,Total,Total,2021-07-01,True,False,2023,3,25156
+debt,Total,Total,2021-07-01,True,False,2024,4,25959
+debt,Total,Total,2021-07-01,True,False,2025,5,26967
+debt,Total,Total,2021-07-01,True,False,2026,6,28062
+debt,Total,Total,2021-07-01,True,False,2027,7,29185
+debt,Total,Total,2021-07-01,True,False,2028,8,30733
+debt,Total,Total,2021-07-01,True,False,2029,9,32119
+debt,Total,Total,2021-07-01,True,False,2030,10,33913
+debt,Total,Total,2021-07-01,True,False,2031,11,35827
+deficit,Total,Total,2022-05-01,True,False,2022,1,-1041.499
+deficit,Total,Total,2022-05-01,True,False,2023,2,-980.102
+deficit,Total,Total,2022-05-01,True,False,2024,3,-1049.467
+deficit,Total,Total,2022-05-01,True,False,2025,4,-1310.866
+deficit,Total,Total,2022-05-01,True,False,2026,5,-1357.466
+deficit,Total,Total,2022-05-01,True,False,2027,6,-1405.054
+deficit,Total,Total,2022-05-01,True,False,2028,7,-1721.909
+deficit,Total,Total,2022-05-01,True,False,2029,8,-1647.986
+deficit,Total,Total,2022-05-01,True,False,2030,9,-1909.545
+deficit,Total,Total,2022-05-01,True,False,2031,10,-2064.518
+deficit,Total,Total,2022-05-01,True,False,2032,11,-2249.777
+outlay,Discretionary,Defense Discretionary,2022-05-01,True,False,2022,1,760.292
+outlay,Discretionary,Defense Discretionary,2022-05-01,True,False,2023,2,794.641
+outlay,Discretionary,Defense Discretionary,2022-05-01,True,False,2024,3,814.199
+outlay,Discretionary,Defense Discretionary,2022-05-01,True,False,2025,4,841.798
+outlay,Discretionary,Defense Discretionary,2022-05-01,True,False,2026,5,863.425
+outlay,Discretionary,Defense Discretionary,2022-05-01,True,False,2027,6,885.048
+outlay,Discretionary,Defense Discretionary,2022-05-01,True,False,2028,7,913.522
+outlay,Discretionary,Defense Discretionary,2022-05-01,True,False,2029,8,923.917
+outlay,Discretionary,Defense Discretionary,2022-05-01,True,False,2030,9,952.775
+outlay,Discretionary,Defense Discretionary,2022-05-01,True,False,2031,10,976.309
+outlay,Discretionary,Defense Discretionary,2022-05-01,True,False,2032,11,998.322
+outlay,Discretionary,Nondefense Discretionary,2022-05-01,True,False,2022,1,961.576
+outlay,Discretionary,Nondefense Discretionary,2022-05-01,True,False,2023,2,963.079
+outlay,Discretionary,Nondefense Discretionary,2022-05-01,True,False,2024,3,984.063
+outlay,Discretionary,Nondefense Discretionary,2022-05-01,True,False,2025,4,1019.943
+outlay,Discretionary,Nondefense Discretionary,2022-05-01,True,False,2026,5,1067.021
+outlay,Discretionary,Nondefense Discretionary,2022-05-01,True,False,2027,6,1110.708
+outlay,Discretionary,Nondefense Discretionary,2022-05-01,True,False,2028,7,1143.506
+outlay,Discretionary,Nondefense Discretionary,2022-05-01,True,False,2029,8,1172.148
+outlay,Discretionary,Nondefense Discretionary,2022-05-01,True,False,2030,9,1202.271
+outlay,Discretionary,Nondefense Discretionary,2022-05-01,True,False,2031,10,1232.672
+outlay,Discretionary,Nondefense Discretionary,2022-05-01,True,False,2032,11,1262.38
+outlay,Discretionary,Total Discretionary,2022-05-01,True,False,2022,1,1721.868
+outlay,Discretionary,Total Discretionary,2022-05-01,True,False,2023,2,1757.72
+outlay,Discretionary,Total Discretionary,2022-05-01,True,False,2024,3,1798.262
+outlay,Discretionary,Total Discretionary,2022-05-01,True,False,2025,4,1861.741
+outlay,Discretionary,Total Discretionary,2022-05-01,True,False,2026,5,1930.446
+outlay,Discretionary,Total Discretionary,2022-05-01,True,False,2027,6,1995.756
+outlay,Discretionary,Total Discretionary,2022-05-01,True,False,2028,7,2057.028
+outlay,Discretionary,Total Discretionary,2022-05-01,True,False,2029,8,2096.065
+outlay,Discretionary,Total Discretionary,2022-05-01,True,False,2030,9,2155.046
+outlay,Discretionary,Total Discretionary,2022-05-01,True,False,2031,10,2208.981
+outlay,Discretionary,Total Discretionary,2022-05-01,True,False,2032,11,2260.702
+outlay,Mandatory,Fannie Freddie,2022-05-01,True,False,2022,1,-5.7
+outlay,Mandatory,Fannie Freddie,2022-05-01,True,False,2023,2,3.9
+outlay,Mandatory,Fannie Freddie,2022-05-01,True,False,2024,3,6.4
+outlay,Mandatory,Fannie Freddie,2022-05-01,True,False,2025,4,7.4
+outlay,Mandatory,Fannie Freddie,2022-05-01,True,False,2026,5,6.3
+outlay,Mandatory,Fannie Freddie,2022-05-01,True,False,2027,6,4.3
+outlay,Mandatory,Fannie Freddie,2022-05-01,True,False,2028,7,3.2
+outlay,Mandatory,Fannie Freddie,2022-05-01,True,False,2029,8,2.8
+outlay,Mandatory,Fannie Freddie,2022-05-01,True,False,2030,9,2.7
+outlay,Mandatory,Fannie Freddie,2022-05-01,True,False,2031,10,2.9
+outlay,Mandatory,Fannie Freddie,2022-05-01,True,False,2032,11,3.5
+outlay,Mandatory,Medicaid,2022-05-01,True,False,2022,1,589.254
+outlay,Mandatory,Medicaid,2022-05-01,True,False,2023,2,601.348
+outlay,Mandatory,Medicaid,2022-05-01,True,False,2024,3,545.425
+outlay,Mandatory,Medicaid,2022-05-01,True,False,2025,4,547.125
+outlay,Mandatory,Medicaid,2022-05-01,True,False,2026,5,577.846
+outlay,Mandatory,Medicaid,2022-05-01,True,False,2027,6,607.851
+outlay,Mandatory,Medicaid,2022-05-01,True,False,2028,7,639.177
+outlay,Mandatory,Medicaid,2022-05-01,True,False,2029,8,671.87
+outlay,Mandatory,Medicaid,2022-05-01,True,False,2030,9,708.272
+outlay,Mandatory,Medicaid,2022-05-01,True,False,2031,10,748.833
+outlay,Mandatory,Medicaid,2022-05-01,True,False,2032,11,789.407
+outlay,Mandatory,Medicare,2022-05-01,True,False,2022,1,767.72
+outlay,Mandatory,Medicare,2022-05-01,True,False,2023,2,848.339
+outlay,Mandatory,Medicare,2022-05-01,True,False,2024,3,852.846
+outlay,Mandatory,Medicare,2022-05-01,True,False,2025,4,967.325
+outlay,Mandatory,Medicare,2022-05-01,True,False,2026,5,1046.688
+outlay,Mandatory,Medicare,2022-05-01,True,False,2027,6,1126.703
+outlay,Mandatory,Medicare,2022-05-01,True,False,2028,7,1288.526
+outlay,Mandatory,Medicare,2022-05-01,True,False,2029,8,1207.74
+outlay,Mandatory,Medicare,2022-05-01,True,False,2030,9,1378.994
+outlay,Mandatory,Medicare,2022-05-01,True,False,2031,10,1465.006
+outlay,Mandatory,Medicare,2022-05-01,True,False,2032,11,1584.816
+outlay,Mandatory,Other Mandatory,2022-05-01,True,False,2022,1,1188.118
+outlay,Mandatory,Other Mandatory,2022-05-01,True,False,2023,2,899.79
+outlay,Mandatory,Other Mandatory,2022-05-01,True,False,2024,3,842.74
+outlay,Mandatory,Other Mandatory,2022-05-01,True,False,2025,4,820.754
+outlay,Mandatory,Other Mandatory,2022-05-01,True,False,2026,5,824.348
+outlay,Mandatory,Other Mandatory,2022-05-01,True,False,2027,6,801.504
+outlay,Mandatory,Other Mandatory,2022-05-01,True,False,2028,7,850.159
+outlay,Mandatory,Other Mandatory,2022-05-01,True,False,2029,8,822.023
+outlay,Mandatory,Other Mandatory,2022-05-01,True,False,2030,9,858.575
+outlay,Mandatory,Other Mandatory,2022-05-01,True,False,2031,10,876.682
+outlay,Mandatory,Other Mandatory,2022-05-01,True,False,2032,11,908.33
+outlay,Mandatory,Social Security,2022-05-01,True,False,2022,1,1211.547
+outlay,Mandatory,Social Security,2022-05-01,True,False,2023,2,1320.29
+outlay,Mandatory,Social Security,2022-05-01,True,False,2024,3,1408.997
+outlay,Mandatory,Social Security,2022-05-01,True,False,2025,4,1491.333
+outlay,Mandatory,Social Security,2022-05-01,True,False,2026,5,1576.748
+outlay,Mandatory,Social Security,2022-05-01,True,False,2027,6,1665.182
+outlay,Mandatory,Social Security,2022-05-01,True,False,2028,7,1760.444
+outlay,Mandatory,Social Security,2022-05-01,True,False,2029,8,1859.623
+outlay,Mandatory,Social Security,2022-05-01,True,False,2030,9,1962.593
+outlay,Mandatory,Social Security,2022-05-01,True,False,2031,10,2068.247
+outlay,Mandatory,Social Security,2022-05-01,True,False,2032,11,2174.947
+outlay,Mandatory,Total Mandatory,2022-05-01,True,False,2022,1,3756.639
+outlay,Mandatory,Total Mandatory,2022-05-01,True,False,2023,2,3669.767
+outlay,Mandatory,Total Mandatory,2022-05-01,True,False,2024,3,3650.008
+outlay,Mandatory,Total Mandatory,2022-05-01,True,False,2025,4,3826.537
+outlay,Mandatory,Total Mandatory,2022-05-01,True,False,2026,5,4025.63
+outlay,Mandatory,Total Mandatory,2022-05-01,True,False,2027,6,4201.24
+outlay,Mandatory,Total Mandatory,2022-05-01,True,False,2028,7,4538.306
+outlay,Mandatory,Total Mandatory,2022-05-01,True,False,2029,8,4561.256
+outlay,Mandatory,Total Mandatory,2022-05-01,True,False,2030,9,4908.434
+outlay,Mandatory,Total Mandatory,2022-05-01,True,False,2031,10,5158.768
+outlay,Mandatory,Total Mandatory,2022-05-01,True,False,2032,11,5457.5
+outlay,Net Interest,Net Interest,2022-05-01,True,False,2022,1,399.035
+outlay,Net Interest,Net Interest,2022-05-01,True,False,2023,2,442.218
+outlay,Net Interest,Net Interest,2022-05-01,True,False,2024,3,525.082
+outlay,Net Interest,Net Interest,2022-05-01,True,False,2025,4,604.107
+outlay,Net Interest,Net Interest,2022-05-01,True,False,2026,5,681.113
+outlay,Net Interest,Net Interest,2022-05-01,True,False,2027,6,756.492
+outlay,Net Interest,Net Interest,2022-05-01,True,False,2028,7,842.21
+outlay,Net Interest,Net Interest,2022-05-01,True,False,2029,8,924.637
+outlay,Net Interest,Net Interest,2022-05-01,True,False,2030,9,1007.4
+outlay,Net Interest,Net Interest,2022-05-01,True,False,2031,10,1098.574
+outlay,Net Interest,Net Interest,2022-05-01,True,False,2032,11,1193.644
+outlay,Total,Total,2022-05-01,True,False,2022,1,5877.542
+outlay,Total,Total,2022-05-01,True,False,2023,2,5869.705
+outlay,Total,Total,2022-05-01,True,False,2024,3,5973.352
+outlay,Total,Total,2022-05-01,True,False,2025,4,6292.385
+outlay,Total,Total,2022-05-01,True,False,2026,5,6637.189
+outlay,Total,Total,2022-05-01,True,False,2027,6,6953.488
+outlay,Total,Total,2022-05-01,True,False,2028,7,7437.544
+outlay,Total,Total,2022-05-01,True,False,2029,8,7581.958
+outlay,Total,Total,2022-05-01,True,False,2030,9,8070.88
+outlay,Total,Total,2022-05-01,True,False,2031,10,8466.323
+outlay,Total,Total,2022-05-01,True,False,2032,11,8911.846
+debt,Total,Total,2022-05-01,True,False,2022,1,24172.581
+debt,Total,Total,2022-05-01,True,False,2023,2,25192.786
+debt,Total,Total,2022-05-01,True,False,2024,3,26217.049
+debt,Total,Total,2022-05-01,True,False,2025,4,27561.142
+debt,Total,Total,2022-05-01,True,False,2026,5,28925.093
+debt,Total,Total,2022-05-01,True,False,2027,6,30326.044
+debt,Total,Total,2022-05-01,True,False,2028,7,32105.134
+debt,Total,Total,2022-05-01,True,False,2029,8,33760.038
+debt,Total,Total,2022-05-01,True,False,2030,9,35807.955
+debt,Total,Total,2022-05-01,True,False,2031,10,37949.28
+debt,Total,Total,2022-05-01,True,False,2032,11,40212.88

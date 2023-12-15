@@ -2,9 +2,10 @@
 The code and data in this repository allow users to replicate the evaluations CBO regularly conducts of its projections of various budget components: outlays, revenues, deficits, and debt. 
 
 The most recent reports on those topics are:
-* [*An Evaluation of CBO's Projections of Outlays from 1984 to 2021*](https://www.cbo.gov/publication/58613) by Aaron Feinstein, Analyst in CBO's Budget Analysis Division
-* [*An Evaluation of CBO's Past Revenue Projections*](https://www.cbo.gov/publication/56499) by James Williamson, Analyst in CBO's Tax Analysis Division
-* [*An Evaluation of CBO's Past Deficit and Debt Projections*](https://www.cbo.gov/publication/55234) by Aaron Feinstein, Analyst in CBO's Budget Analysis Division
+* [*An Evaluation of CBO's Projections of Outlays from 1984 to 2021*](https://www.cbo.gov/publication/58613) 
+* [*An Evaluation of CBO's Past Revenue Projections*](https://www.cbo.gov/publication/56499) 
+* [*An Evaluation of CBO's Past Deficit and Debt Projections*](https://www.cbo.gov/publication/55234)
+* [*The Accuracy of CBO’s Budget Projections for Fiscal Year 2023*](https://www.cbo.gov/publication/59838)
 
 ## How to Install the Code and Data
 Follow these three steps to install the code and data associated with the **Evaluations of CBO's Past Projections of Outlays, Revenues, Deficits, and Debt** on your computer:
@@ -122,9 +123,9 @@ For outlays, deficits, and debt, error calculations are only performed on the Sp
 For the purposes of these analyses, outlays for the housing entities Fannie Mae and Freddie Mac have been removed from CBO’s projections and from the actual amounts reported by the Treasury, because CBO and the Administration account for those entities’ transactions differently. This affects the Total Outlays, the Mandatory category and Other Mandatory subcategory of outlays, as well as the deficit and debt projections. 
 
 ### Student Loan Forgiveness Outlays
-Because of their unusual size and nature, the estimated budgetary effects of the Administration’s 2022 planned cancellation of outstanding student loans for many borrowers were excluded from this analysis. This affects the actuals for Total Outlays, the Mandatory category and Other Mandatory subcategory of outlays, as well as the deficit. 
+Because of their unusual size and nature, the estimated budgetary effects of both the Administration’s 2022 planned cancellation of outstanding student loans for many borrowers and the Supreme Court’s subsequent decision prohibiting the Administration from implementing that plan were excluded from this analysis. This affects the actuals for Total Outlays, the Mandatory category and Other Mandatory subcategory of outlays, as well as for the deficit in 2022 and 2023.
 
-For more details, see [*The Accuracy of CBO’s Budget Projections for Fiscal Year 2022*](https://www.cbo.gov/publication/58893#_idTextAnchor000).
+For more details, see [*The Accuracy of CBO’s Budget Projections for Fiscal Year 2023*](https://www.cbo.gov/publication/59838#_idTextAnchor003).
 
 ## Contact
 Questions about the code and data in this repository may be directed to CBO's Office of Communications at communications@cbo.gov.

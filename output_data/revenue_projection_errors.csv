@@ -39,7 +39,8 @@ revenue,Total,Total,2018-04-01,False,True,2018,1,3337.552,3329.907,20436.325,0.0
 revenue,Total,Total,2019-01-01,False,True,2019,1,3514.912,3463.364,21275.275,-0.124,3514.788,51.424,1.485
 revenue,Total,Total,2020-01-01,False,True,2020,1,3631.979,3421.164,21292.400,-538.529,3093.450,-327.714,-9.579
 revenue,Total,Total,2021-02-01,False,True,2021,1,3505.970,4047.111,22936.525,-80.137,3425.833,-621.278,-15.351
-revenue,Total,Total,2022-05-01,False,True,2022,1,4760.435,4897.399,25305.650,-0.008,4760.427,-136.972,-2.797
+revenue,Total,Total,2022-05-01,False,True,2022,1,4836.043,4897.399,25305.650,-0.008,4836.035,-61.364,-1.253
+revenue,Total,Total,2023-02-01,False,True,2023,1,4811.672,4439.285,26977.130,0.000,4811.672,372.387,8.388
 revenue,Total,Total,1982-02-01,False,True,1983,2,652.000,600.562,3536.000,20.000,672.000,71.438,11.895
 revenue,Total,Total,1983-02-01,False,True,1984,2,653.000,666.438,3949.175,4.900,657.900,-8.538,-1.281
 revenue,Total,Total,1984-02-01,False,True,1985,2,732.900,734.037,4265.125,10.147,743.047,9.010,1.227
@@ -80,6 +81,7 @@ revenue,Total,Total,2018-04-01,False,True,2019,2,3489.690,3463.364,21275.275,0.2
 revenue,Total,Total,2019-01-01,False,True,2020,2,3685.817,3421.164,21292.400,-572.990,3112.827,-308.337,-9.013
 revenue,Total,Total,2020-01-01,False,True,2021,2,3815.983,4047.111,22936.525,-383.458,3432.525,-614.586,-15.186
 revenue,Total,Total,2021-02-01,False,True,2022,2,3994.666,4897.399,25305.650,-45.513,3949.153,-948.246,-19.362
+revenue,Total,Total,2022-05-01,False,True,2023,2,4889.603,4439.285,26977.130,26.261,4915.864,476.579,10.735
 revenue,Total,Total,1982-02-01,False,True,1984,3,701.000,666.438,3949.175,46.900,747.900,81.462,12.223
 revenue,Total,Total,1983-02-01,False,True,1985,3,715.000,734.037,4265.125,17.147,732.147,-1.890,-0.257
 revenue,Total,Total,1984-02-01,False,True,1986,3,794.800,769.155,4526.250,17.859,812.659,43.504,5.656
@@ -119,6 +121,7 @@ revenue,Total,Total,2017-01-01,False,True,2019,3,3732.984,3463.364,21275.275,-28
 revenue,Total,Total,2018-04-01,False,True,2020,3,3677.652,3421.164,21292.400,-573.348,3104.304,-316.860,-9.262
 revenue,Total,Total,2019-01-01,False,True,2021,3,3840.506,4047.111,22936.525,-409.955,3430.551,-616.560,-15.235
 revenue,Total,Total,2020-01-01,False,True,2022,3,4001.366,4897.399,25305.650,117.114,4118.480,-778.919,-15.905
+revenue,Total,Total,2021-02-01,False,True,2023,3,4202.149,4439.285,26977.130,28.691,4230.840,-208.445,-4.695
 revenue,Total,Total,1982-02-01,False,True,1985,4,763.000,734.037,4265.125,63.147,826.147,92.110,12.548
 revenue,Total,Total,1983-02-01,False,True,1986,4,768.000,769.155,4526.250,25.859,793.859,24.704,3.212
 revenue,Total,Total,1984-02-01,False,True,1987,4,863.400,854.287,4767.650,41.907,905.307,51.020,5.972
@@ -157,6 +160,7 @@ revenue,Total,Total,2016-01-01,False,True,2019,4,3746.990,3463.364,21275.275,-28
 revenue,Total,Total,2017-01-01,False,True,2020,4,3878.217,3421.164,21292.400,-838.277,3039.940,-381.224,-11.143
 revenue,Total,Total,2018-04-01,False,True,2021,4,3826.597,4047.111,22936.525,-410.043,3416.554,-630.557,-15.580
 revenue,Total,Total,2019-01-01,False,True,2022,4,4012.312,4897.399,25305.650,89.258,4101.570,-795.829,-16.250
+revenue,Total,Total,2020-01-01,False,True,2023,4,4205.624,4439.285,26977.130,198.119,4403.743,-35.542,-0.801
 revenue,Total,Total,1982-02-01,False,True,1986,5,818.000,769.155,4526.250,76.859,894.859,125.704,16.343
 revenue,Total,Total,1983-02-01,False,True,1987,5,822.000,854.287,4767.650,51.907,873.907,19.620,2.297
 revenue,Total,Total,1984-02-01,False,True,1988,5,945.000,909.238,5138.550,43.850,988.850,79.612,8.756
@@ -194,6 +198,7 @@ revenue,Total,Total,2015-01-01,False,True,2019,5,3864.756,3463.364,21275.275,-33
 revenue,Total,Total,2016-01-01,False,True,2020,5,3916.601,3421.164,21292.400,-838.233,3078.368,-342.796,-10.020
 revenue,Total,Total,2017-01-01,False,True,2021,5,4019.021,4047.111,22936.525,-649.503,3369.518,-677.593,-16.743
 revenue,Total,Total,2018-04-01,False,True,2022,5,4012.070,4897.399,25305.650,89.251,4101.321,-796.078,-16.255
+revenue,Total,Total,2019-01-01,False,True,2023,5,4208.179,4439.285,26977.130,164.559,4372.738,-66.547,-1.499
 revenue,Total,Total,1982-02-01,False,True,1987,6,882.000,854.287,4767.650,109.907,991.907,137.620,16.109
 revenue,Total,Total,1983-02-01,False,True,1988,6,878.000,909.238,5138.550,65.850,943.850,34.612,3.807
 revenue,Total,Total,1984-02-01,False,True,1989,6,1015.600,991.104,5554.675,43.141,1058.741,67.637,6.824
@@ -230,6 +235,7 @@ revenue,Total,Total,2014-02-01,False,True,2019,6,3932.192,3463.364,21275.275,-32
 revenue,Total,Total,2015-01-01,False,True,2020,6,4025.170,3421.164,21292.400,-839.963,3185.207,-235.957,-6.897
 revenue,Total,Total,2016-01-01,False,True,2021,6,4075.566,4047.111,22936.525,-649.421,3426.145,-620.966,-15.343
 revenue,Total,Total,2017-01-01,False,True,2022,6,4175.920,4897.399,25305.650,-113.780,4062.140,-835.259,-17.055
+revenue,Total,Total,2018-04-01,False,True,2023,6,4227.744,4439.285,26977.130,164.539,4392.283,-47.002,-1.059
 revenue,Total,Total,1992-01-01,False,True,1998,7,1579.900,1721.728,8930.800,49.052,1628.952,-92.776,-5.389
 revenue,Total,Total,1993-01-01,False,True,1999,7,1539.582,1827.452,9479.625,-6.794,1532.788,-294.664,-16.124
 revenue,Total,Total,1994-01-01,False,True,2000,7,1705.528,2025.191,10117.075,-14.503,1691.025,-334.166,-16.500
@@ -255,6 +261,7 @@ revenue,Total,Total,2013-02-01,False,True,2019,7,4100.928,3463.364,21275.275,-32
 revenue,Total,Total,2014-02-01,False,True,2020,7,4103.643,3421.164,21292.400,-838.625,3265.018,-156.146,-4.564
 revenue,Total,Total,2015-01-01,False,True,2021,7,4204.151,4047.111,22936.525,-646.050,3558.101,-489.010,-12.083
 revenue,Total,Total,2016-01-01,False,True,2022,7,4243.679,4897.399,25305.650,-113.674,4130.005,-767.394,-15.669
+revenue,Total,Total,2017-01-01,False,True,2023,7,4345.869,4439.285,26977.130,1.245,4347.114,-92.171,-2.076
 revenue,Total,Total,1992-01-01,False,True,1999,8,1667.300,1827.452,9479.625,-6.794,1660.506,-166.946,-9.135
 revenue,Total,Total,1993-01-01,False,True,2000,8,1599.886,2025.191,10117.075,-14.503,1585.383,-439.808,-21.717
 revenue,Total,Total,1994-01-01,False,True,2001,8,1783.376,1991.082,10525.725,-99.616,1683.760,-307.322,-15.435
@@ -279,6 +286,7 @@ revenue,Total,Total,2012-01-01,False,True,2019,8,4456.077,3463.364,21275.275,-72
 revenue,Total,Total,2013-02-01,False,True,2020,8,4279.464,3421.164,21292.400,-837.770,3441.694,20.530,0.600
 revenue,Total,Total,2014-02-01,False,True,2021,8,4288.242,4047.111,22936.525,-647.794,3640.448,-406.663,-10.048
 revenue,Total,Total,2015-01-01,False,True,2022,8,4389.325,4897.399,25305.650,-120.129,4269.196,-628.203,-12.827
+revenue,Total,Total,2016-01-01,False,True,2023,8,4420.633,4439.285,26977.130,1.374,4422.007,-17.278,-0.389
 revenue,Total,Total,1992-01-01,False,True,2000,9,1757.500,2025.191,10117.075,-14.503,1742.997,-282.194,-13.934
 revenue,Total,Total,1993-01-01,False,True,2001,9,1664.469,1991.082,10525.725,-99.616,1564.853,-426.229,-21.407
 revenue,Total,Total,1994-01-01,False,True,2002,9,1867.705,1853.136,10828.875,-101.416,1766.289,-86.847,-4.686
@@ -302,6 +310,7 @@ revenue,Total,Total,2011-01-01,False,True,2019,9,4489.233,3463.364,21275.275,-72
 revenue,Total,Total,2012-01-01,False,True,2020,9,4679.618,3421.164,21292.400,-1258.715,3420.903,-0.261,-0.008
 revenue,Total,Total,2013-02-01,False,True,2021,9,4495.918,4047.111,22936.525,-646.802,3849.116,-197.995,-4.892
 revenue,Total,Total,2014-02-01,False,True,2022,9,4490.237,4897.399,25305.650,-124.582,4365.655,-531.744,-10.858
+revenue,Total,Total,2015-01-01,False,True,2023,9,4590.782,4439.285,26977.130,-16.707,4574.075,134.790,3.036
 revenue,Total,Total,1992-01-01,False,True,2001,10,1853.600,1991.082,10525.725,-99.616,1753.984,-237.098,-11.908
 revenue,Total,Total,1993-01-01,False,True,2002,10,1732.813,1853.136,10828.875,-101.416,1631.397,-221.739,-11.966
 revenue,Total,Total,1994-01-01,False,True,2003,10,1957.747,1782.314,11278.750,-208.667,1749.080,-33.234,-1.865
@@ -324,6 +333,7 @@ revenue,Total,Total,2010-01-01,False,True,2019,10,4351.660,3463.364,21275.275,-6
 revenue,Total,Total,2011-01-01,False,True,2020,10,4712.343,3421.164,21292.400,-1264.291,3448.052,26.888,0.786
 revenue,Total,Total,2012-01-01,False,True,2021,10,4926.385,4047.111,22936.525,-1107.401,3818.984,-228.127,-5.637
 revenue,Total,Total,2013-02-01,False,True,2022,10,4734.285,4897.399,25305.650,-123.449,4610.836,-286.563,-5.851
+revenue,Total,Total,2014-02-01,False,True,2023,10,4702.070,4439.285,26977.130,-22.366,4679.704,240.419,5.416
 revenue,Total,Total,1992-01-01,False,True,2002,11,1955.000,1853.136,10828.875,-101.416,1853.584,0.448,0.024
 revenue,Total,Total,1993-01-01,False,True,2003,11,1804.319,1782.314,11278.750,-208.667,1595.652,-186.662,-10.473
 revenue,Total,Total,1994-01-01,False,True,2004,11,2053.522,1880.114,12028.425,-296.015,1757.507,-122.607,-6.521
@@ -345,6 +355,7 @@ revenue,Total,Total,2009-01-01,False,True,2019,11,4505.186,3463.364,21275.275,-5
 revenue,Total,Total,2010-01-01,False,True,2020,11,4563.018,3421.164,21292.400,-1140.567,3422.451,1.287,0.038
 revenue,Total,Total,2011-01-01,False,True,2021,11,4962.822,4047.111,22936.525,-1112.889,3849.933,-197.178,-4.872
 revenue,Total,Total,2012-01-01,False,True,2022,11,5181.005,4897.399,25305.650,-619.543,4561.462,-335.937,-6.859
+revenue,Total,Total,2013-02-01,False,True,2023,11,4961.308,4439.285,26977.130,-21.092,4940.216,500.931,11.284
 revenue,Individual Income Taxes,Individual Income Taxes,1982-02-01,False,True,1982,1,300.000,297.744,3313.350,0.000,300.000,2.256,0.758
 revenue,Individual Income Taxes,Individual Income Taxes,1983-02-01,False,True,1983,1,286.000,288.938,3536.000,0.000,286.000,-2.938,-1.017
 revenue,Individual Income Taxes,Individual Income Taxes,1984-02-01,False,True,1984,1,293.600,298.415,3949.175,0.700,294.300,-4.115,-1.379
@@ -385,7 +396,8 @@ revenue,Individual Income Taxes,Individual Income Taxes,2018-04-01,False,True,20
 revenue,Individual Income Taxes,Individual Income Taxes,2019-01-01,False,True,2019,1,1756.442,1717.857,21275.275,0.000,1756.442,38.585,2.246
 revenue,Individual Income Taxes,Individual Income Taxes,2020-01-01,False,True,2020,1,1791.799,1608.663,21292.400,-462.179,1329.620,-279.043,-17.346
 revenue,Individual Income Taxes,Individual Income Taxes,2021-02-01,False,True,2021,1,1698.961,2044.377,22936.525,-77.885,1621.076,-423.301,-20.706
-revenue,Individual Income Taxes,Individual Income Taxes,2022-05-01,False,True,2022,1,2546.897,2632.146,25305.650,0.002,2546.899,-85.247,-3.239
+revenue,Individual Income Taxes,Individual Income Taxes,2022-05-01,False,True,2022,1,2622.505,2632.146,25305.650,0.002,2622.507,-9.639,-0.366
+revenue,Individual Income Taxes,Individual Income Taxes,2023-02-01,False,True,2023,1,2522.719,2176.481,26977.130,0.000,2522.719,346.238,15.908
 revenue,Individual Income Taxes,Individual Income Taxes,1982-02-01,False,True,1983,2,303.000,288.938,3536.000,5.000,308.000,19.062,6.597
 revenue,Individual Income Taxes,Individual Income Taxes,1983-02-01,False,True,1984,2,295.000,298.415,3949.175,-0.800,294.200,-4.215,-1.412
 revenue,Individual Income Taxes,Individual Income Taxes,1984-02-01,False,True,1985,2,328.700,334.531,4265.125,6.348,335.048,0.517,0.155
@@ -426,6 +438,7 @@ revenue,Individual Income Taxes,Individual Income Taxes,2018-04-01,False,True,20
 revenue,Individual Income Taxes,Individual Income Taxes,2019-01-01,False,True,2020,2,1837.074,1608.663,21292.400,-478.273,1358.801,-249.862,-15.532
 revenue,Individual Income Taxes,Individual Income Taxes,2020-01-01,False,True,2021,2,1905.037,2044.377,22936.525,-367.872,1537.165,-507.212,-24.810
 revenue,Individual Income Taxes,Individual Income Taxes,2021-02-01,False,True,2022,2,2040.522,2632.146,25305.650,-47.854,1992.668,-639.478,-24.295
+revenue,Individual Income Taxes,Individual Income Taxes,2022-05-01,False,True,2023,2,2578.828,2176.481,26977.130,-4.814,2574.014,397.533,18.265
 revenue,Individual Income Taxes,Individual Income Taxes,1982-02-01,False,True,1984,3,316.000,298.415,3949.175,12.200,328.200,29.785,9.981
 revenue,Individual Income Taxes,Individual Income Taxes,1983-02-01,False,True,1985,3,321.000,334.531,4265.125,7.748,328.748,-5.783,-1.729
 revenue,Individual Income Taxes,Individual Income Taxes,1984-02-01,False,True,1986,3,361.600,348.959,4526.250,8.194,369.794,20.835,5.971
@@ -465,6 +478,7 @@ revenue,Individual Income Taxes,Individual Income Taxes,2017-01-01,False,True,20
 revenue,Individual Income Taxes,Individual Income Taxes,2018-04-01,False,True,2020,3,1833.181,1608.663,21292.400,-478.241,1354.940,-253.723,-15.772
 revenue,Individual Income Taxes,Individual Income Taxes,2019-01-01,False,True,2021,3,1910.408,2044.377,22936.525,-370.063,1540.345,-504.032,-24.655
 revenue,Individual Income Taxes,Individual Income Taxes,2020-01-01,False,True,2022,3,1996.640,2632.146,25305.650,120.644,2117.284,-514.862,-19.561
+revenue,Individual Income Taxes,Individual Income Taxes,2021-02-01,False,True,2023,3,2084.102,2176.481,26977.130,-7.271,2076.831,-99.650,-4.578
 revenue,Individual Income Taxes,Individual Income Taxes,1982-02-01,False,True,1985,4,344.000,334.531,4265.125,19.748,363.748,29.217,8.734
 revenue,Individual Income Taxes,Individual Income Taxes,1983-02-01,False,True,1986,4,346.000,348.959,4526.250,10.294,356.294,7.335,2.102
 revenue,Individual Income Taxes,Individual Income Taxes,1984-02-01,False,True,1987,4,396.000,392.557,4767.650,-2.772,393.228,0.671,0.171
@@ -503,6 +517,7 @@ revenue,Individual Income Taxes,Individual Income Taxes,2016-01-01,False,True,20
 revenue,Individual Income Taxes,Individual Income Taxes,2017-01-01,False,True,2020,4,1957.093,1608.663,21292.400,-647.561,1309.532,-299.131,-18.595
 revenue,Individual Income Taxes,Individual Income Taxes,2018-04-01,False,True,2021,4,1899.802,2044.377,22936.525,-370.062,1529.740,-514.637,-25.173
 revenue,Individual Income Taxes,Individual Income Taxes,2019-01-01,False,True,2022,4,1991.755,2632.146,25305.650,120.340,2112.095,-520.051,-19.758
+revenue,Individual Income Taxes,Individual Income Taxes,2020-01-01,False,True,2023,4,2096.428,2176.481,26977.130,166.090,2262.518,86.037,3.953
 revenue,Individual Income Taxes,Individual Income Taxes,1982-02-01,False,True,1986,5,367.000,348.959,4526.250,25.294,392.294,43.335,12.418
 revenue,Individual Income Taxes,Individual Income Taxes,1983-02-01,False,True,1987,5,372.000,392.557,4767.650,0.328,372.328,-20.229,-5.153
 revenue,Individual Income Taxes,Individual Income Taxes,1984-02-01,False,True,1988,5,437.700,401.181,5138.550,-10.529,427.171,25.990,6.478
@@ -540,6 +555,7 @@ revenue,Individual Income Taxes,Individual Income Taxes,2015-01-01,False,True,20
 revenue,Individual Income Taxes,Individual Income Taxes,2016-01-01,False,True,2020,5,1987.419,1608.663,21292.400,-647.554,1339.865,-268.798,-16.709
 revenue,Individual Income Taxes,Individual Income Taxes,2017-01-01,False,True,2021,5,2052.045,2044.377,22936.525,-536.357,1515.688,-528.689,-25.861
 revenue,Individual Income Taxes,Individual Income Taxes,2018-04-01,False,True,2022,5,1989.569,2632.146,25305.650,120.330,2109.899,-522.247,-19.841
+revenue,Individual Income Taxes,Individual Income Taxes,2019-01-01,False,True,2023,5,2084.573,2176.481,26977.130,165.347,2249.920,73.439,3.374
 revenue,Individual Income Taxes,Individual Income Taxes,1982-02-01,False,True,1987,6,396.000,392.557,4767.650,18.328,414.328,21.771,5.546
 revenue,Individual Income Taxes,Individual Income Taxes,1983-02-01,False,True,1988,6,400.000,401.181,5138.550,-6.629,393.371,-7.810,-1.947
 revenue,Individual Income Taxes,Individual Income Taxes,1984-02-01,False,True,1989,6,477.900,445.690,5554.675,-10.087,467.813,22.123,4.964
@@ -576,6 +592,7 @@ revenue,Individual Income Taxes,Individual Income Taxes,2014-02-01,False,True,20
 revenue,Individual Income Taxes,Individual Income Taxes,2015-01-01,False,True,2020,6,2017.318,1608.663,21292.400,-656.317,1361.001,-247.662,-15.396
 revenue,Individual Income Taxes,Individual Income Taxes,2016-01-01,False,True,2021,6,2083.929,2044.377,22936.525,-536.332,1547.597,-496.780,-24.300
 revenue,Individual Income Taxes,Individual Income Taxes,2017-01-01,False,True,2022,6,2148.091,2632.146,25305.650,-38.216,2109.875,-522.271,-19.842
+revenue,Individual Income Taxes,Individual Income Taxes,2018-04-01,False,True,2023,6,2091.806,2176.481,26977.130,165.331,2257.137,80.656,3.706
 revenue,Individual Income Taxes,Individual Income Taxes,1992-01-01,False,True,1998,7,718.184,828.586,8930.800,22.824,741.008,-87.578,-10.570
 revenue,Individual Income Taxes,Individual Income Taxes,1993-01-01,False,True,1999,7,690.302,879.480,9479.625,-22.412,667.890,-211.590,-24.059
 revenue,Individual Income Taxes,Individual Income Taxes,1994-01-01,False,True,2000,7,788.013,1004.462,10117.075,-34.442,753.571,-250.891,-24.978
@@ -601,6 +618,7 @@ revenue,Individual Income Taxes,Individual Income Taxes,2013-02-01,False,True,20
 revenue,Individual Income Taxes,Individual Income Taxes,2014-02-01,False,True,2020,7,2050.995,1608.663,21292.400,-656.050,1394.945,-213.718,-13.285
 revenue,Individual Income Taxes,Individual Income Taxes,2015-01-01,False,True,2021,7,2123.695,2044.377,22936.525,-539.704,1583.991,-460.386,-22.520
 revenue,Individual Income Taxes,Individual Income Taxes,2016-01-01,False,True,2022,7,2184.250,2632.146,25305.650,-38.176,2146.074,-486.072,-18.467
+revenue,Individual Income Taxes,Individual Income Taxes,2017-01-01,False,True,2023,7,2248.768,2176.481,26977.130,17.587,2266.355,89.874,4.129
 revenue,Individual Income Taxes,Individual Income Taxes,1992-01-01,False,True,1999,8,760.853,879.480,9479.625,-22.412,738.441,-141.039,-16.037
 revenue,Individual Income Taxes,Individual Income Taxes,1993-01-01,False,True,2000,8,720.314,1004.462,10117.075,-34.442,685.872,-318.590,-31.717
 revenue,Individual Income Taxes,Individual Income Taxes,1994-01-01,False,True,2001,8,827.779,994.339,10525.725,-77.268,750.511,-243.828,-24.522
@@ -625,6 +643,7 @@ revenue,Individual Income Taxes,Individual Income Taxes,2012-01-01,False,True,20
 revenue,Individual Income Taxes,Individual Income Taxes,2013-02-01,False,True,2020,8,2157.771,1608.663,21292.400,-655.973,1501.798,-106.865,-6.643
 revenue,Individual Income Taxes,Individual Income Taxes,2014-02-01,False,True,2021,8,2160.859,2044.377,22936.525,-539.484,1621.375,-423.002,-20.691
 revenue,Individual Income Taxes,Individual Income Taxes,2015-01-01,False,True,2022,8,2234.943,2632.146,25305.650,-45.355,2189.588,-442.558,-16.814
+revenue,Individual Income Taxes,Individual Income Taxes,2016-01-01,False,True,2023,8,2291.917,2176.481,26977.130,17.643,2309.560,133.079,6.114
 revenue,Individual Income Taxes,Individual Income Taxes,1992-01-01,False,True,2000,9,805.796,1004.462,10117.075,-34.442,771.354,-233.108,-23.207
 revenue,Individual Income Taxes,Individual Income Taxes,1993-01-01,False,True,2001,9,751.684,994.339,10525.725,-77.268,674.416,-319.923,-32.174
 revenue,Individual Income Taxes,Individual Income Taxes,1994-01-01,False,True,2002,9,870.421,858.345,10828.875,-114.965,755.456,-102.889,-11.987
@@ -648,6 +667,7 @@ revenue,Individual Income Taxes,Individual Income Taxes,2011-01-01,False,True,20
 revenue,Individual Income Taxes,Individual Income Taxes,2012-01-01,False,True,2020,9,2503.864,1608.663,21292.400,-1035.822,1468.042,-140.621,-8.741
 revenue,Individual Income Taxes,Individual Income Taxes,2013-02-01,False,True,2021,9,2281.546,2044.377,22936.525,-539.405,1742.141,-302.236,-14.784
 revenue,Individual Income Taxes,Individual Income Taxes,2014-02-01,False,True,2022,9,2278.823,2632.146,25305.650,-45.671,2233.152,-398.994,-15.159
+revenue,Individual Income Taxes,Individual Income Taxes,2015-01-01,False,True,2023,9,2352.046,2176.481,26977.130,8.180,2360.226,183.745,8.442
 revenue,Individual Income Taxes,Individual Income Taxes,1992-01-01,False,True,2001,10,853.961,994.339,10525.725,-77.268,776.693,-217.646,-21.889
 revenue,Individual Income Taxes,Individual Income Taxes,1993-01-01,False,True,2002,10,785.589,858.345,10828.875,-114.965,670.624,-187.721,-21.870
 revenue,Individual Income Taxes,Individual Income Taxes,1994-01-01,False,True,2003,10,915.990,793.699,11278.750,-173.186,742.804,-50.895,-6.412
@@ -670,6 +690,7 @@ revenue,Individual Income Taxes,Individual Income Taxes,2010-01-01,False,True,20
 revenue,Individual Income Taxes,Individual Income Taxes,2011-01-01,False,True,2020,10,2509.422,1608.663,21292.400,-1037.530,1471.892,-136.771,-8.502
 revenue,Individual Income Taxes,Individual Income Taxes,2012-01-01,False,True,2021,10,2663.676,2044.377,22936.525,-950.312,1713.364,-331.013,-16.191
 revenue,Individual Income Taxes,Individual Income Taxes,2013-02-01,False,True,2022,10,2411.873,2632.146,25305.650,-45.589,2366.284,-265.862,-10.101
+revenue,Individual Income Taxes,Individual Income Taxes,2014-02-01,False,True,2023,10,2402.896,2176.481,26977.130,7.603,2410.499,234.018,10.752
 revenue,Individual Income Taxes,Individual Income Taxes,1992-01-01,False,True,2002,11,905.050,858.345,10828.875,-114.965,790.085,-68.260,-7.953
 revenue,Individual Income Taxes,Individual Income Taxes,1993-01-01,False,True,2003,11,821.313,793.699,11278.750,-173.186,648.127,-145.572,-18.341
 revenue,Individual Income Taxes,Individual Income Taxes,1994-01-01,False,True,2004,11,964.533,808.959,12028.425,-262.168,702.365,-106.594,-13.177
@@ -691,6 +712,7 @@ revenue,Individual Income Taxes,Individual Income Taxes,2009-01-01,False,True,20
 revenue,Individual Income Taxes,Individual Income Taxes,2010-01-01,False,True,2020,11,2448.330,1608.663,21292.400,-1026.538,1421.792,-186.871,-11.617
 revenue,Individual Income Taxes,Individual Income Taxes,2011-01-01,False,True,2021,11,2662.096,2044.377,22936.525,-951.887,1710.209,-334.168,-16.346
 revenue,Individual Income Taxes,Individual Income Taxes,2012-01-01,False,True,2022,11,2831.426,2632.146,25305.650,-489.021,2342.405,-289.741,-11.008
+revenue,Individual Income Taxes,Individual Income Taxes,2013-02-01,False,True,2023,11,2548.277,2176.481,26977.130,7.687,2555.964,379.483,17.436
 revenue,Payroll Taxes,Payroll Taxes,1982-02-01,False,True,1982,1,209.000,201.498,3313.350,0.000,209.000,7.502,3.723
 revenue,Payroll Taxes,Payroll Taxes,1983-02-01,False,True,1983,1,212.000,208.994,3536.000,0.000,212.000,3.006,1.438
 revenue,Payroll Taxes,Payroll Taxes,1984-02-01,False,True,1984,1,237.300,239.376,3949.175,-0.100,237.200,-2.176,-0.909
@@ -732,6 +754,7 @@ revenue,Payroll Taxes,Payroll Taxes,2019-01-01,False,True,2019,1,1233.495,1243.1
 revenue,Payroll Taxes,Payroll Taxes,2020-01-01,False,True,2020,1,1302.331,1309.955,21292.400,2.758,1305.089,-4.866,-0.371
 revenue,Payroll Taxes,Payroll Taxes,2021-02-01,False,True,2021,1,1325.337,1314.088,22936.525,-3.017,1322.320,8.232,0.626
 revenue,Payroll Taxes,Payroll Taxes,2022-05-01,False,True,2022,1,1464.593,1483.527,25305.650,0.001,1464.594,-18.933,-1.276
+revenue,Payroll Taxes,Payroll Taxes,2023-02-01,False,True,2023,1,1562.308,1614.454,26977.130,0.000,1562.308,-52.146,-3.230
 revenue,Payroll Taxes,Payroll Taxes,1982-02-01,False,True,1983,2,227.000,208.994,3536.000,2.000,229.000,20.006,9.573
 revenue,Payroll Taxes,Payroll Taxes,1983-02-01,False,True,1984,2,232.000,239.376,3949.175,6.100,238.100,-1.276,-0.533
 revenue,Payroll Taxes,Payroll Taxes,1984-02-01,False,True,1985,2,268.600,265.163,4265.125,-0.078,268.522,3.359,1.267
@@ -772,6 +795,7 @@ revenue,Payroll Taxes,Payroll Taxes,2018-04-01,False,True,2019,2,1231.211,1243.1
 revenue,Payroll Taxes,Payroll Taxes,2019-01-01,False,True,2020,2,1280.144,1309.955,21292.400,2.961,1283.105,-26.850,-2.050
 revenue,Payroll Taxes,Payroll Taxes,2020-01-01,False,True,2021,2,1356.352,1314.088,22936.525,-4.728,1351.624,37.536,2.856
 revenue,Payroll Taxes,Payroll Taxes,2021-02-01,False,True,2022,2,1351.277,1483.527,25305.650,0.005,1351.282,-132.245,-8.914
+revenue,Payroll Taxes,Payroll Taxes,2022-05-01,False,True,2023,2,1571.680,1614.454,26977.130,0.063,1571.743,-42.711,-2.646
 revenue,Payroll Taxes,Payroll Taxes,1982-02-01,False,True,1984,3,250.000,239.376,3949.175,9.100,259.100,19.724,8.240
 revenue,Payroll Taxes,Payroll Taxes,1983-02-01,False,True,1985,3,258.000,265.163,4265.125,5.922,263.922,-1.241,-0.468
 revenue,Payroll Taxes,Payroll Taxes,1984-02-01,False,True,1986,3,295.600,283.901,4526.250,-0.006,295.594,11.693,4.119
@@ -811,6 +835,7 @@ revenue,Payroll Taxes,Payroll Taxes,2017-01-01,False,True,2019,3,1229.637,1243.1
 revenue,Payroll Taxes,Payroll Taxes,2018-04-01,False,True,2020,3,1284.494,1309.955,21292.400,2.969,1287.463,-22.492,-1.717
 revenue,Payroll Taxes,Payroll Taxes,2019-01-01,False,True,2021,3,1329.522,1314.088,22936.525,-3.837,1325.685,11.597,0.883
 revenue,Payroll Taxes,Payroll Taxes,2020-01-01,False,True,2022,3,1408.539,1483.527,25305.650,-0.863,1407.676,-75.851,-5.113
+revenue,Payroll Taxes,Payroll Taxes,2021-02-01,False,True,2023,3,1452.090,1614.454,26977.130,0.808,1452.898,-161.556,-10.007
 revenue,Payroll Taxes,Payroll Taxes,1982-02-01,False,True,1985,4,282.000,265.163,4265.125,9.922,291.922,26.759,10.092
 revenue,Payroll Taxes,Payroll Taxes,1983-02-01,False,True,1986,4,283.000,283.901,4526.250,5.694,288.694,4.793,1.688
 revenue,Payroll Taxes,Payroll Taxes,1984-02-01,False,True,1987,4,319.600,303.318,4767.650,1.044,320.644,17.326,5.712
@@ -849,6 +874,7 @@ revenue,Payroll Taxes,Payroll Taxes,2016-01-01,False,True,2019,4,1222.313,1243.1
 revenue,Payroll Taxes,Payroll Taxes,2017-01-01,False,True,2020,4,1265.414,1309.955,21292.400,2.837,1268.251,-41.704,-3.184
 revenue,Payroll Taxes,Payroll Taxes,2018-04-01,False,True,2021,4,1337.007,1314.088,22936.525,-3.836,1333.171,19.083,1.452
 revenue,Payroll Taxes,Payroll Taxes,2019-01-01,False,True,2022,4,1382.845,1483.527,25305.650,-1.959,1380.886,-102.641,-6.919
+revenue,Payroll Taxes,Payroll Taxes,2020-01-01,False,True,2023,4,1463.715,1614.454,26977.130,0.100,1463.815,-150.639,-9.331
 revenue,Payroll Taxes,Payroll Taxes,1982-02-01,False,True,1986,5,313.000,283.901,4526.250,8.694,321.694,37.793,13.312
 revenue,Payroll Taxes,Payroll Taxes,1983-02-01,False,True,1987,5,303.000,303.318,4767.650,7.944,310.944,7.626,2.514
 revenue,Payroll Taxes,Payroll Taxes,1984-02-01,False,True,1988,5,354.400,334.335,5138.550,3.304,357.704,23.369,6.990
@@ -886,6 +912,7 @@ revenue,Payroll Taxes,Payroll Taxes,2015-01-01,False,True,2019,5,1226.942,1243.1
 revenue,Payroll Taxes,Payroll Taxes,2016-01-01,False,True,2020,5,1264.385,1309.955,21292.400,2.851,1267.236,-42.719,-3.261
 revenue,Payroll Taxes,Payroll Taxes,2017-01-01,False,True,2021,5,1311.812,1314.088,22936.525,-3.044,1308.768,-5.320,-0.405
 revenue,Payroll Taxes,Payroll Taxes,2018-04-01,False,True,2022,5,1394.859,1483.527,25305.650,-1.966,1392.893,-90.634,-6.109
+revenue,Payroll Taxes,Payroll Taxes,2019-01-01,False,True,2023,5,1444.382,1614.454,26977.130,-2.370,1442.012,-172.442,-10.681
 revenue,Payroll Taxes,Payroll Taxes,1982-02-01,False,True,1987,6,339.000,303.318,4767.650,10.944,349.944,46.626,15.372
 revenue,Payroll Taxes,Payroll Taxes,1983-02-01,False,True,1988,6,326.000,334.335,5138.550,22.404,348.404,14.069,4.208
 revenue,Payroll Taxes,Payroll Taxes,1984-02-01,False,True,1989,6,382.100,359.416,5554.675,3.489,385.589,26.173,7.282
@@ -922,6 +949,7 @@ revenue,Payroll Taxes,Payroll Taxes,2014-02-01,False,True,2019,6,1266.100,1243.1
 revenue,Payroll Taxes,Payroll Taxes,2015-01-01,False,True,2020,6,1281.073,1309.955,21292.400,2.807,1283.880,-26.075,-1.991
 revenue,Payroll Taxes,Payroll Taxes,2016-01-01,False,True,2021,6,1314.096,1314.088,22936.525,-3.016,1311.080,-3.008,-0.229
 revenue,Payroll Taxes,Payroll Taxes,2017-01-01,False,True,2022,6,1363.659,1483.527,25305.650,0.859,1364.518,-119.009,-8.022
+revenue,Payroll Taxes,Payroll Taxes,2018-04-01,False,True,2023,6,1456.407,1614.454,26977.130,-2.381,1454.026,-160.428,-9.937
 revenue,Payroll Taxes,Payroll Taxes,1992-01-01,False,True,1998,7,601.037,571.831,8930.800,9.673,610.710,38.879,6.799
 revenue,Payroll Taxes,Payroll Taxes,1993-01-01,False,True,1999,7,581.380,611.833,9479.625,1.288,582.668,-29.165,-4.767
 revenue,Payroll Taxes,Payroll Taxes,1994-01-01,False,True,2000,7,631.256,652.852,10117.075,1.734,632.990,-19.862,-3.042
@@ -947,6 +975,7 @@ revenue,Payroll Taxes,Payroll Taxes,2013-02-01,False,True,2019,7,1314.347,1243.1
 revenue,Payroll Taxes,Payroll Taxes,2014-02-01,False,True,2020,7,1317.004,1309.955,21292.400,2.777,1319.781,9.826,0.750
 revenue,Payroll Taxes,Payroll Taxes,2015-01-01,False,True,2021,7,1337.138,1314.088,22936.525,-2.296,1334.842,20.754,1.579
 revenue,Payroll Taxes,Payroll Taxes,2016-01-01,False,True,2022,7,1364.667,1483.527,25305.650,0.897,1365.564,-117.963,-7.952
+revenue,Payroll Taxes,Payroll Taxes,2017-01-01,False,True,2023,7,1416.752,1614.454,26977.130,3.738,1420.490,-193.964,-12.014
 revenue,Payroll Taxes,Payroll Taxes,1992-01-01,False,True,1999,8,633.158,611.833,9479.625,1.288,634.446,22.613,3.696
 revenue,Payroll Taxes,Payroll Taxes,1993-01-01,False,True,2000,8,605.536,652.852,10117.075,1.734,607.270,-45.582,-6.982
 revenue,Payroll Taxes,Payroll Taxes,1994-01-01,False,True,2001,8,659.696,693.967,10525.725,1.795,661.491,-32.476,-4.680
@@ -971,6 +1000,7 @@ revenue,Payroll Taxes,Payroll Taxes,2012-01-01,False,True,2019,8,1323.993,1243.1
 revenue,Payroll Taxes,Payroll Taxes,2013-02-01,False,True,2020,8,1372.115,1309.955,21292.400,3.554,1375.669,65.714,5.017
 revenue,Payroll Taxes,Payroll Taxes,2014-02-01,False,True,2021,8,1372.195,1314.088,22936.525,-2.417,1369.778,55.690,4.238
 revenue,Payroll Taxes,Payroll Taxes,2015-01-01,False,True,2022,8,1390.913,1483.527,25305.650,1.976,1392.889,-90.638,-6.110
+revenue,Payroll Taxes,Payroll Taxes,2016-01-01,False,True,2023,8,1416.961,1614.454,26977.130,3.788,1420.749,-193.705,-11.998
 revenue,Payroll Taxes,Payroll Taxes,1992-01-01,False,True,2000,9,667.164,652.852,10117.075,1.734,668.898,16.046,2.458
 revenue,Payroll Taxes,Payroll Taxes,1993-01-01,False,True,2001,9,630.969,693.967,10525.725,1.795,632.764,-61.203,-8.819
 revenue,Payroll Taxes,Payroll Taxes,1994-01-01,False,True,2002,9,689.960,700.760,10828.875,0.978,690.938,-9.822,-1.402
@@ -994,6 +1024,7 @@ revenue,Payroll Taxes,Payroll Taxes,2011-01-01,False,True,2019,9,1364.420,1243.1
 revenue,Payroll Taxes,Payroll Taxes,2012-01-01,False,True,2020,9,1384.676,1309.955,21292.400,5.018,1389.694,79.739,6.087
 revenue,Payroll Taxes,Payroll Taxes,2013-02-01,False,True,2021,9,1433.310,1314.088,22936.525,-1.504,1431.806,117.718,8.958
 revenue,Payroll Taxes,Payroll Taxes,2014-02-01,False,True,2022,9,1431.851,1483.527,25305.650,1.777,1433.628,-49.899,-3.364
+revenue,Payroll Taxes,Payroll Taxes,2015-01-01,False,True,2023,9,1448.775,1614.454,26977.130,4.797,1453.572,-160.882,-9.965
 revenue,Payroll Taxes,Payroll Taxes,1992-01-01,False,True,2001,10,703.035,693.967,10525.725,1.795,704.830,10.863,1.565
 revenue,Payroll Taxes,Payroll Taxes,1993-01-01,False,True,2002,10,657.510,700.760,10828.875,0.978,658.488,-42.272,-6.032
 revenue,Payroll Taxes,Payroll Taxes,1994-01-01,False,True,2003,10,721.700,712.978,11278.750,-1.801,719.899,6.921,0.971
@@ -1016,6 +1047,7 @@ revenue,Payroll Taxes,Payroll Taxes,2010-01-01,False,True,2019,10,1360.925,1243.
 revenue,Payroll Taxes,Payroll Taxes,2011-01-01,False,True,2020,10,1423.570,1309.955,21292.400,4.071,1427.641,117.686,8.984
 revenue,Payroll Taxes,Payroll Taxes,2012-01-01,False,True,2021,10,1447.024,1314.088,22936.525,0.342,1447.366,133.278,10.142
 revenue,Payroll Taxes,Payroll Taxes,2013-02-01,False,True,2022,10,1497.870,1483.527,25305.650,2.828,1500.698,17.171,1.157
+revenue,Payroll Taxes,Payroll Taxes,2014-02-01,False,True,2023,10,1494.214,1614.454,26977.130,4.574,1498.788,-115.666,-7.164
 revenue,Payroll Taxes,Payroll Taxes,1992-01-01,False,True,2002,11,740.699,700.760,10828.875,0.978,741.677,40.917,5.839
 revenue,Payroll Taxes,Payroll Taxes,1993-01-01,False,True,2003,11,684.841,712.978,11278.750,-1.801,683.040,-29.938,-4.199
 revenue,Payroll Taxes,Payroll Taxes,1994-01-01,False,True,2004,11,754.830,733.407,12028.425,-2.588,752.242,18.835,2.568
@@ -1037,6 +1069,7 @@ revenue,Payroll Taxes,Payroll Taxes,2009-01-01,False,True,2019,11,1402.855,1243.
 revenue,Payroll Taxes,Payroll Taxes,2010-01-01,False,True,2020,11,1416.411,1309.955,21292.400,35.687,1452.098,142.143,10.851
 revenue,Payroll Taxes,Payroll Taxes,2011-01-01,False,True,2021,11,1483.795,1314.088,22936.525,-0.425,1483.370,169.282,12.882
 revenue,Payroll Taxes,Payroll Taxes,2012-01-01,False,True,2022,11,1512.615,1483.527,25305.650,5.185,1517.800,34.273,2.310
+revenue,Payroll Taxes,Payroll Taxes,2013-02-01,False,True,2023,11,1564.743,1614.454,26977.130,5.764,1570.507,-43.947,-2.722
 revenue,Corporate Income Taxes,Corporate Income Taxes,1982-02-01,False,True,1982,1,50.000,49.207,3313.350,0.000,50.000,0.793,1.612
 revenue,Corporate Income Taxes,Corporate Income Taxes,1983-02-01,False,True,1983,1,40.000,37.022,3536.000,0.000,40.000,2.978,8.044
 revenue,Corporate Income Taxes,Corporate Income Taxes,1984-02-01,False,True,1984,1,62.300,56.893,3949.175,0.700,63.000,6.107,10.734
@@ -1078,6 +1111,7 @@ revenue,Corporate Income Taxes,Corporate Income Taxes,2019-01-01,False,True,2019
 revenue,Corporate Income Taxes,Corporate Income Taxes,2020-01-01,False,True,2020,1,233.788,211.845,21292.400,-75.201,158.587,-53.258,-25.140
 revenue,Corporate Income Taxes,Corporate Income Taxes,2021-02-01,False,True,2021,1,164.046,371.831,22936.525,0.765,164.811,-207.020,-55.676
 revenue,Corporate Income Taxes,Corporate Income Taxes,2022-05-01,False,True,2022,1,394.800,424.865,25305.650,0.000,394.800,-30.065,-7.076
+revenue,Corporate Income Taxes,Corporate Income Taxes,2023-02-01,False,True,2023,1,475.380,419.584,26977.130,0.000,475.380,55.796,13.298
 revenue,Corporate Income Taxes,Corporate Income Taxes,1982-02-01,False,True,1983,2,51.000,37.022,3536.000,7.000,58.000,20.978,56.664
 revenue,Corporate Income Taxes,Corporate Income Taxes,1983-02-01,False,True,1984,2,56.000,56.893,3949.175,0.000,56.000,-0.893,-1.570
 revenue,Corporate Income Taxes,Corporate Income Taxes,1984-02-01,False,True,1985,2,64.800,61.331,4265.125,3.506,68.306,6.975,11.373
@@ -1118,6 +1152,7 @@ revenue,Corporate Income Taxes,Corporate Income Taxes,2018-04-01,False,True,2019
 revenue,Corporate Income Taxes,Corporate Income Taxes,2019-01-01,False,True,2020,2,274.228,211.845,21292.400,-88.781,185.447,-26.398,-12.461
 revenue,Corporate Income Taxes,Corporate Income Taxes,2020-01-01,False,True,2021,2,256.712,371.831,22936.525,-9.079,247.633,-124.198,-33.402
 revenue,Corporate Income Taxes,Corporate Income Taxes,2021-02-01,False,True,2022,2,251.985,424.865,25305.650,1.512,253.497,-171.368,-40.335
+revenue,Corporate Income Taxes,Corporate Income Taxes,2022-05-01,False,True,2023,2,456.129,419.584,26977.130,24.024,480.153,60.569,14.435
 revenue,Corporate Income Taxes,Corporate Income Taxes,1982-02-01,False,True,1984,3,62.000,56.893,3949.175,16.000,78.000,21.107,37.099
 revenue,Corporate Income Taxes,Corporate Income Taxes,1983-02-01,False,True,1985,3,65.000,61.331,4265.125,3.106,68.106,6.775,11.047
 revenue,Corporate Income Taxes,Corporate Income Taxes,1984-02-01,False,True,1986,3,71.100,63.143,4526.250,5.722,76.822,13.679,21.664
@@ -1157,6 +1192,7 @@ revenue,Corporate Income Taxes,Corporate Income Taxes,2017-01-01,False,True,2019
 revenue,Corporate Income Taxes,Corporate Income Taxes,2018-04-01,False,True,2020,3,307.374,211.845,21292.400,-88.773,218.601,6.756,3.189
 revenue,Corporate Income Taxes,Corporate Income Taxes,2019-01-01,False,True,2021,3,292.078,371.831,22936.525,-13.394,278.684,-93.147,-25.051
 revenue,Corporate Income Taxes,Corporate Income Taxes,2020-01-01,False,True,2022,3,291.747,424.865,25305.650,-3.114,288.633,-136.232,-32.065
+revenue,Corporate Income Taxes,Corporate Income Taxes,2021-02-01,False,True,2023,3,303.996,419.584,26977.130,26.248,330.244,-89.340,-21.293
 revenue,Corporate Income Taxes,Corporate Income Taxes,1982-02-01,False,True,1985,4,63.000,61.331,4265.125,22.106,85.106,23.775,38.765
 revenue,Corporate Income Taxes,Corporate Income Taxes,1983-02-01,False,True,1986,4,74.000,63.143,4526.250,5.922,79.922,16.779,26.573
 revenue,Corporate Income Taxes,Corporate Income Taxes,1984-02-01,False,True,1987,4,81.300,83.926,4767.650,36.604,117.904,33.978,40.486
@@ -1195,6 +1231,7 @@ revenue,Corporate Income Taxes,Corporate Income Taxes,2016-01-01,False,True,2019
 revenue,Corporate Income Taxes,Corporate Income Taxes,2017-01-01,False,True,2020,4,382.037,211.845,21292.400,-168.712,213.325,1.480,0.699
 revenue,Corporate Income Taxes,Corporate Income Taxes,2018-04-01,False,True,2021,4,326.654,371.831,22936.525,-13.392,313.262,-58.569,-15.752
 revenue,Corporate Income Taxes,Corporate Income Taxes,2019-01-01,False,True,2022,4,319.264,424.865,25305.650,-6.094,313.170,-111.695,-26.290
+revenue,Corporate Income Taxes,Corporate Income Taxes,2020-01-01,False,True,2023,4,333.895,419.584,26977.130,23.152,357.047,-62.537,-14.905
 revenue,Corporate Income Taxes,Corporate Income Taxes,1982-02-01,False,True,1986,5,64.000,63.143,4526.250,31.922,95.922,32.779,51.912
 revenue,Corporate Income Taxes,Corporate Income Taxes,1983-02-01,False,True,1987,5,83.000,83.926,4767.650,36.604,119.604,35.678,42.511
 revenue,Corporate Income Taxes,Corporate Income Taxes,1984-02-01,False,True,1988,5,84.900,94.508,5138.550,42.266,127.166,32.658,34.556
@@ -1232,6 +1269,7 @@ revenue,Corporate Income Taxes,Corporate Income Taxes,2015-01-01,False,True,2019
 revenue,Corporate Income Taxes,Corporate Income Taxes,2016-01-01,False,True,2020,5,391.048,211.845,21292.400,-168.711,222.337,10.492,4.953
 revenue,Corporate Income Taxes,Corporate Income Taxes,2017-01-01,False,True,2021,5,377.404,371.831,22936.525,-70.353,307.051,-64.780,-17.422
 revenue,Corporate Income Taxes,Corporate Income Taxes,2018-04-01,False,True,2022,5,352.816,424.865,25305.650,-6.095,346.721,-78.144,-18.393
+revenue,Corporate Income Taxes,Corporate Income Taxes,2019-01-01,False,True,2023,5,358.112,419.584,26977.130,22.341,380.453,-39.131,-9.326
 revenue,Corporate Income Taxes,Corporate Income Taxes,1982-02-01,False,True,1987,6,73.000,83.926,4767.650,68.604,141.604,57.678,68.725
 revenue,Corporate Income Taxes,Corporate Income Taxes,1983-02-01,False,True,1988,6,88.000,94.508,5138.550,41.266,129.266,34.758,36.778
 revenue,Corporate Income Taxes,Corporate Income Taxes,1984-02-01,False,True,1989,6,85.100,103.291,5554.675,42.295,127.395,24.104,23.336
@@ -1268,6 +1306,7 @@ revenue,Corporate Income Taxes,Corporate Income Taxes,2014-02-01,False,True,2019
 revenue,Corporate Income Taxes,Corporate Income Taxes,2015-01-01,False,True,2020,6,446.549,211.845,21292.400,-163.067,283.482,71.637,33.816
 revenue,Corporate Income Taxes,Corporate Income Taxes,2016-01-01,False,True,2021,6,390.976,371.831,22936.525,-70.352,320.624,-51.207,-13.772
 revenue,Corporate Income Taxes,Corporate Income Taxes,2017-01-01,False,True,2022,6,380.506,424.865,25305.650,-37.995,342.511,-82.354,-19.384
+revenue,Corporate Income Taxes,Corporate Income Taxes,2018-04-01,False,True,2023,6,388.066,419.584,26977.130,22.340,410.406,-9.178,-2.187
 revenue,Corporate Income Taxes,Corporate Income Taxes,1992-01-01,False,True,1998,7,140.013,188.677,8930.800,8.227,148.240,-40.437,-21.432
 revenue,Corporate Income Taxes,Corporate Income Taxes,1993-01-01,False,True,1999,7,149.915,184.680,9479.625,2.360,152.275,-32.405,-17.547
 revenue,Corporate Income Taxes,Corporate Income Taxes,1994-01-01,False,True,2000,7,151.439,207.289,10117.075,2.802,154.241,-53.048,-25.591
@@ -1293,6 +1332,7 @@ revenue,Corporate Income Taxes,Corporate Income Taxes,2013-02-01,False,True,2019
 revenue,Corporate Income Taxes,Corporate Income Taxes,2014-02-01,False,True,2020,7,450.376,211.845,21292.400,-162.059,288.317,76.472,36.098
 revenue,Corporate Income Taxes,Corporate Income Taxes,2015-01-01,False,True,2021,7,450.354,371.831,22936.525,-69.342,381.012,9.181,2.469
 revenue,Corporate Income Taxes,Corporate Income Taxes,2016-01-01,False,True,2022,7,397.051,424.865,25305.650,-37.994,359.057,-65.808,-15.489
+revenue,Corporate Income Taxes,Corporate Income Taxes,2017-01-01,False,True,2023,7,385.481,419.584,26977.130,14.957,400.438,-19.146,-4.563
 revenue,Corporate Income Taxes,Corporate Income Taxes,1992-01-01,False,True,1999,8,147.684,184.680,9479.625,2.360,150.044,-34.636,-18.755
 revenue,Corporate Income Taxes,Corporate Income Taxes,1993-01-01,False,True,2000,8,152.638,207.289,10117.075,2.802,155.440,-51.849,-25.013
 revenue,Corporate Income Taxes,Corporate Income Taxes,1994-01-01,False,True,2001,8,156.031,151.075,10525.725,-33.164,122.867,-28.208,-18.672
@@ -1317,6 +1357,7 @@ revenue,Corporate Income Taxes,Corporate Income Taxes,2012-01-01,False,True,2019
 revenue,Corporate Income Taxes,Corporate Income Taxes,2013-02-01,False,True,2020,8,491.600,211.845,21292.400,-162.059,329.541,117.696,55.558
 revenue,Corporate Income Taxes,Corporate Income Taxes,2014-02-01,False,True,2021,8,455.279,371.831,22936.525,-71.098,384.181,12.350,3.321
 revenue,Corporate Income Taxes,Corporate Income Taxes,2015-01-01,False,True,2022,8,458.737,424.865,25305.650,-43.551,415.186,-9.679,-2.278
+revenue,Corporate Income Taxes,Corporate Income Taxes,2016-01-01,False,True,2023,8,402.125,419.584,26977.130,14.958,417.083,-2.501,-0.596
 revenue,Corporate Income Taxes,Corporate Income Taxes,1992-01-01,False,True,2000,9,154.735,207.289,10117.075,2.802,157.537,-49.752,-24.001
 revenue,Corporate Income Taxes,Corporate Income Taxes,1993-01-01,False,True,2001,9,156.414,151.075,10525.725,-33.164,123.250,-27.825,-18.418
 revenue,Corporate Income Taxes,Corporate Income Taxes,1994-01-01,False,True,2002,9,161.914,148.044,10828.875,-1.015,160.899,12.855,8.683
@@ -1340,6 +1381,7 @@ revenue,Corporate Income Taxes,Corporate Income Taxes,2011-01-01,False,True,2019
 revenue,Corporate Income Taxes,Corporate Income Taxes,2012-01-01,False,True,2020,9,444.069,211.845,21292.400,-160.076,283.993,72.148,34.057
 revenue,Corporate Income Taxes,Corporate Income Taxes,2013-02-01,False,True,2021,9,493.046,371.831,22936.525,-71.098,421.948,50.117,13.478
 revenue,Corporate Income Taxes,Corporate Income Taxes,2014-02-01,False,True,2022,9,463.272,424.865,25305.650,-47.394,415.878,-8.987,-2.115
+revenue,Corporate Income Taxes,Corporate Income Taxes,2015-01-01,False,True,2023,9,471.888,419.584,26977.130,-0.177,471.711,52.127,12.423
 revenue,Corporate Income Taxes,Corporate Income Taxes,1992-01-01,False,True,2001,10,161.787,151.075,10525.725,-33.164,128.623,-22.452,-14.861
 revenue,Corporate Income Taxes,Corporate Income Taxes,1993-01-01,False,True,2002,10,159.866,148.044,10828.875,-1.015,158.851,10.807,7.300
 revenue,Corporate Income Taxes,Corporate Income Taxes,1994-01-01,False,True,2003,10,168.735,131.778,11278.750,-42.172,126.563,-5.215,-3.957
@@ -1362,6 +1404,7 @@ revenue,Corporate Income Taxes,Corporate Income Taxes,2010-01-01,False,True,2019
 revenue,Corporate Income Taxes,Corporate Income Taxes,2011-01-01,False,True,2020,10,420.025,211.845,21292.400,-161.263,258.762,46.917,22.147
 revenue,Corporate Income Taxes,Corporate Income Taxes,2012-01-01,False,True,2021,10,451.780,371.831,22936.525,-75.008,376.772,4.941,1.329
 revenue,Corporate Income Taxes,Corporate Income Taxes,2013-02-01,False,True,2022,10,498.899,424.865,25305.650,-47.394,451.505,26.640,6.270
+revenue,Corporate Income Taxes,Corporate Income Taxes,2014-02-01,False,True,2023,10,475.149,419.584,26977.130,-4.926,470.223,50.639,12.069
 revenue,Corporate Income Taxes,Corporate Income Taxes,1992-01-01,False,True,2002,11,168.838,148.044,10828.875,-1.015,167.823,19.779,13.360
 revenue,Corporate Income Taxes,Corporate Income Taxes,1993-01-01,False,True,2003,11,163.683,131.778,11278.750,-42.172,121.511,-10.267,-7.791
 revenue,Corporate Income Taxes,Corporate Income Taxes,1994-01-01,False,True,2004,11,176.791,189.371,12028.425,-41.069,135.722,-53.649,-28.330
@@ -1383,6 +1426,7 @@ revenue,Corporate Income Taxes,Corporate Income Taxes,2009-01-01,False,True,2019
 revenue,Corporate Income Taxes,Corporate Income Taxes,2010-01-01,False,True,2020,11,415.927,211.845,21292.400,-151.454,264.473,52.628,24.843
 revenue,Corporate Income Taxes,Corporate Income Taxes,2011-01-01,False,True,2021,11,436.825,371.831,22936.525,-76.247,360.578,-11.253,-3.026
 revenue,Corporate Income Taxes,Corporate Income Taxes,2012-01-01,False,True,2022,11,458.999,424.865,25305.650,-51.272,407.727,-17.138,-4.034
+revenue,Corporate Income Taxes,Corporate Income Taxes,2013-02-01,False,True,2023,11,506.374,419.584,26977.130,-4.926,501.448,81.864,19.511
 revenue,Customs Duties,Customs Duties,1982-02-01,False,True,1982,1,8.800,8.854,3313.350,0.000,8.800,-0.054,-0.610
 revenue,Customs Duties,Customs Duties,1983-02-01,False,True,1983,1,9.400,8.655,3536.000,0.000,9.400,0.745,8.608
 revenue,Customs Duties,Customs Duties,1984-02-01,False,True,1984,1,10.200,11.370,3949.175,0.000,10.200,-1.170,-10.290
@@ -1424,6 +1468,7 @@ revenue,Customs Duties,Customs Duties,2019-01-01,False,True,2019,1,73.527,70.784
 revenue,Customs Duties,Customs Duties,2020-01-01,False,True,2020,1,77.926,68.551,21292.400,0.010,77.936,9.385,13.691
 revenue,Customs Duties,Customs Duties,2021-02-01,False,True,2021,1,81.946,79.985,22936.525,0.000,81.946,1.961,2.452
 revenue,Customs Duties,Customs Duties,2022-05-01,False,True,2022,1,94.794,99.908,25305.650,-0.012,94.782,-5.126,-5.131
+revenue,Customs Duties,Customs Duties,2023-02-01,False,True,2023,1,98.747,80.337,26977.130,0.000,98.747,18.410,22.916
 revenue,Customs Duties,Customs Duties,1982-02-01,False,True,1983,2,9.100,8.655,3536.000,0.000,9.100,0.445,5.142
 revenue,Customs Duties,Customs Duties,1983-02-01,False,True,1984,2,9.700,11.370,3949.175,0.000,9.700,-1.670,-14.688
 revenue,Customs Duties,Customs Duties,1984-02-01,False,True,1985,2,11.300,12.079,4265.125,-0.244,11.056,-1.023,-8.469
@@ -1464,6 +1509,7 @@ revenue,Customs Duties,Customs Duties,2018-04-01,False,True,2019,2,40.795,70.784
 revenue,Customs Duties,Customs Duties,2019-01-01,False,True,2020,2,79.001,68.551,21292.400,0.010,79.011,10.460,15.259
 revenue,Customs Duties,Customs Duties,2020-01-01,False,True,2021,2,86.036,79.985,22936.525,0.061,86.097,6.112,7.641
 revenue,Customs Duties,Customs Duties,2021-02-01,False,True,2022,2,89.119,99.908,25305.650,0.105,89.224,-10.684,-10.694
+revenue,Customs Duties,Customs Duties,2022-05-01,False,True,2023,2,99.259,80.337,26977.130,-0.013,99.246,18.909,23.537
 revenue,Customs Duties,Customs Duties,1982-02-01,False,True,1984,3,9.400,11.370,3949.175,0.000,9.400,-1.970,-17.326
 revenue,Customs Duties,Customs Duties,1983-02-01,False,True,1985,3,10.000,12.079,4265.125,-0.244,9.756,-2.323,-19.232
 revenue,Customs Duties,Customs Duties,1984-02-01,False,True,1986,3,11.600,13.327,4526.250,-0.327,11.273,-2.054,-15.412
@@ -1503,6 +1549,7 @@ revenue,Customs Duties,Customs Duties,2017-01-01,False,True,2019,3,37.988,70.784
 revenue,Customs Duties,Customs Duties,2018-04-01,False,True,2020,3,43.341,68.551,21292.400,-0.385,42.956,-25.595,-37.337
 revenue,Customs Duties,Customs Duties,2019-01-01,False,True,2021,3,81.947,79.985,22936.525,0.061,82.008,2.023,2.529
 revenue,Customs Duties,Customs Duties,2020-01-01,False,True,2022,3,93.200,99.908,25305.650,0.266,93.466,-6.442,-6.448
+revenue,Customs Duties,Customs Duties,2021-02-01,False,True,2023,3,90.229,80.337,26977.130,0.203,90.432,10.095,12.566
 revenue,Customs Duties,Customs Duties,1982-02-01,False,True,1985,4,9.700,12.079,4265.125,-0.244,9.456,-2.623,-21.715
 revenue,Customs Duties,Customs Duties,1983-02-01,False,True,1986,4,10.300,13.327,4526.250,-0.327,9.973,-3.354,-25.167
 revenue,Customs Duties,Customs Duties,1984-02-01,False,True,1987,4,11.800,15.085,4767.650,0.120,11.920,-3.165,-20.981
@@ -1541,6 +1588,7 @@ revenue,Customs Duties,Customs Duties,2016-01-01,False,True,2019,4,40.957,70.784
 revenue,Customs Duties,Customs Duties,2017-01-01,False,True,2020,4,40.121,68.551,21292.400,-1.051,39.070,-29.481,-43.006
 revenue,Customs Duties,Customs Duties,2018-04-01,False,True,2021,4,45.673,79.985,22936.525,-0.038,45.635,-34.350,-42.946
 revenue,Customs Duties,Customs Duties,2019-01-01,False,True,2022,4,84.739,99.908,25305.650,0.266,85.005,-14.903,-14.917
+revenue,Customs Duties,Customs Duties,2020-01-01,False,True,2023,4,97.514,80.337,26977.130,0.565,98.079,17.742,22.084
 revenue,Customs Duties,Customs Duties,1982-02-01,False,True,1986,5,10.000,13.327,4526.250,-0.327,9.673,-3.654,-27.418
 revenue,Customs Duties,Customs Duties,1983-02-01,False,True,1987,5,10.600,15.085,4767.650,0.120,10.720,-4.365,-28.936
 revenue,Customs Duties,Customs Duties,1984-02-01,False,True,1988,5,12.200,16.198,5138.550,-0.509,11.691,-4.507,-27.824
@@ -1578,6 +1626,7 @@ revenue,Customs Duties,Customs Duties,2015-01-01,False,True,2019,5,45.250,70.784
 revenue,Customs Duties,Customs Duties,2016-01-01,False,True,2020,5,42.810,68.551,21292.400,-1.076,41.734,-26.817,-39.120
 revenue,Customs Duties,Customs Duties,2017-01-01,False,True,2021,5,42.162,79.985,22936.525,-0.213,41.949,-38.036,-47.554
 revenue,Customs Duties,Customs Duties,2018-04-01,False,True,2022,5,47.477,99.908,25305.650,0.266,47.743,-52.165,-52.213
+revenue,Customs Duties,Customs Duties,2019-01-01,False,True,2023,5,87.530,80.337,26977.130,0.565,88.095,7.758,9.657
 revenue,Customs Duties,Customs Duties,1982-02-01,False,True,1987,6,10.300,15.085,4767.650,0.120,10.420,-4.665,-30.925
 revenue,Customs Duties,Customs Duties,1983-02-01,False,True,1988,6,10.900,16.198,5138.550,-0.509,10.391,-5.807,-35.850
 revenue,Customs Duties,Customs Duties,1984-02-01,False,True,1989,6,12.800,16.334,5554.675,-0.992,11.808,-4.526,-27.709
@@ -1614,6 +1663,7 @@ revenue,Customs Duties,Customs Duties,2014-02-01,False,True,2019,6,44.887,70.784
 revenue,Customs Duties,Customs Duties,2015-01-01,False,True,2020,6,47.614,68.551,21292.400,-1.504,46.110,-22.441,-32.736
 revenue,Customs Duties,Customs Duties,2016-01-01,False,True,2021,6,44.675,79.985,22936.525,-0.239,44.436,-35.549,-44.445
 revenue,Customs Duties,Customs Duties,2017-01-01,False,True,2022,6,43.834,99.908,25305.650,0.266,44.100,-55.808,-55.859
+revenue,Customs Duties,Customs Duties,2018-04-01,False,True,2023,6,49.220,80.337,26977.130,0.565,49.785,-30.552,-38.030
 revenue,Customs Duties,Customs Duties,1992-01-01,False,True,1998,7,24.933,18.297,8930.800,-5.341,19.592,1.295,7.078
 revenue,Customs Duties,Customs Duties,1993-01-01,False,True,1999,7,26.161,18.336,9479.625,-5.295,20.866,2.530,13.798
 revenue,Customs Duties,Customs Duties,1994-01-01,False,True,2000,7,27.664,19.914,10117.075,-0.628,27.036,7.122,35.764
@@ -1639,6 +1689,7 @@ revenue,Customs Duties,Customs Duties,2013-02-01,False,True,2019,7,46.225,70.784
 revenue,Customs Duties,Customs Duties,2014-02-01,False,True,2020,7,47.233,68.551,21292.400,-1.504,45.729,-22.822,-33.292
 revenue,Customs Duties,Customs Duties,2015-01-01,False,True,2021,7,50.237,79.985,22936.525,-0.766,49.471,-30.514,-38.150
 revenue,Customs Duties,Customs Duties,2016-01-01,False,True,2022,7,46.185,99.908,25305.650,0.239,46.424,-53.484,-53.533
+revenue,Customs Duties,Customs Duties,2017-01-01,False,True,2023,7,45.541,80.337,26977.130,0.565,46.106,-34.231,-42.609
 revenue,Customs Duties,Customs Duties,1992-01-01,False,True,1999,8,26.267,18.336,9479.625,-5.295,20.972,2.636,14.376
 revenue,Customs Duties,Customs Duties,1993-01-01,False,True,2000,8,27.531,19.914,10117.075,-0.628,26.903,6.989,35.096
 revenue,Customs Duties,Customs Duties,1994-01-01,False,True,2001,8,29.465,19.369,10525.725,-1.114,28.351,8.982,46.373
@@ -1663,6 +1714,7 @@ revenue,Customs Duties,Customs Duties,2012-01-01,False,True,2019,8,49.422,70.784
 revenue,Customs Duties,Customs Duties,2013-02-01,False,True,2020,8,47.882,68.551,21292.400,-1.504,46.378,-22.173,-32.345
 revenue,Customs Duties,Customs Duties,2014-02-01,False,True,2021,8,50.009,79.985,22936.525,-0.766,49.243,-30.742,-38.435
 revenue,Customs Duties,Customs Duties,2015-01-01,False,True,2022,8,52.855,99.908,25305.650,-0.341,52.514,-47.394,-47.438
+revenue,Customs Duties,Customs Duties,2016-01-01,False,True,2023,8,48.389,80.337,26977.130,0.537,48.926,-31.411,-39.099
 revenue,Customs Duties,Customs Duties,1992-01-01,False,True,2000,9,27.673,19.914,10117.075,-0.628,27.045,7.131,35.809
 revenue,Customs Duties,Customs Duties,1993-01-01,False,True,2001,9,28.892,19.369,10525.725,-1.114,27.778,8.409,43.415
 revenue,Customs Duties,Customs Duties,1994-01-01,False,True,2002,9,31.509,18.602,10828.875,-1.305,30.204,11.602,62.370
@@ -1686,6 +1738,7 @@ revenue,Customs Duties,Customs Duties,2011-01-01,False,True,2019,9,56.012,70.784
 revenue,Customs Duties,Customs Duties,2012-01-01,False,True,2020,9,51.386,68.551,21292.400,-1.482,49.904,-18.647,-27.202
 revenue,Customs Duties,Customs Duties,2013-02-01,False,True,2021,9,50.232,79.985,22936.525,-0.766,49.466,-30.519,-38.156
 revenue,Customs Duties,Customs Duties,2014-02-01,False,True,2022,9,52.996,99.908,25305.650,-0.341,52.655,-47.253,-47.297
+revenue,Customs Duties,Customs Duties,2015-01-01,False,True,2023,9,55.699,80.337,26977.130,-0.071,55.628,-24.709,-30.757
 revenue,Customs Duties,Customs Duties,1992-01-01,False,True,2001,10,29.154,19.369,10525.725,-1.114,28.040,8.671,44.767
 revenue,Customs Duties,Customs Duties,1993-01-01,False,True,2002,10,30.336,18.602,10828.875,-1.305,29.031,10.429,56.064
 revenue,Customs Duties,Customs Duties,1994-01-01,False,True,2003,10,33.786,19.862,11278.750,-1.496,32.290,12.428,62.572
@@ -1708,6 +1761,7 @@ revenue,Customs Duties,Customs Duties,2010-01-01,False,True,2019,10,46.951,70.78
 revenue,Customs Duties,Customs Duties,2011-01-01,False,True,2020,10,60.378,68.551,21292.400,-3.258,57.120,-11.431,-16.675
 revenue,Customs Duties,Customs Duties,2012-01-01,False,True,2021,10,53.498,79.985,22936.525,-0.744,52.754,-27.231,-34.045
 revenue,Customs Duties,Customs Duties,2013-02-01,False,True,2022,10,52.824,99.908,25305.650,-0.341,52.483,-47.425,-47.469
+revenue,Customs Duties,Customs Duties,2014-02-01,False,True,2023,10,56.520,80.337,26977.130,-0.071,56.449,-23.888,-29.735
 revenue,Customs Duties,Customs Duties,1992-01-01,False,True,2002,11,30.714,18.602,10828.875,-1.305,29.409,10.807,58.096
 revenue,Customs Duties,Customs Duties,1993-01-01,False,True,2003,11,31.852,19.862,11278.750,-1.496,30.356,10.494,52.835
 revenue,Customs Duties,Customs Duties,1994-01-01,False,True,2004,11,35.985,21.083,12028.425,-1.698,34.287,13.204,62.629
@@ -1729,6 +1783,7 @@ revenue,Customs Duties,Customs Duties,2009-01-01,False,True,2019,11,49.619,70.78
 revenue,Customs Duties,Customs Duties,2010-01-01,False,True,2020,11,51.120,68.551,21292.400,-3.478,47.642,-20.909,-30.501
 revenue,Customs Duties,Customs Duties,2011-01-01,False,True,2021,11,64.221,79.985,22936.525,-2.683,61.538,-18.447,-23.063
 revenue,Customs Duties,Customs Duties,2012-01-01,False,True,2022,11,55.729,99.908,25305.650,-0.319,55.410,-44.498,-44.539
+revenue,Customs Duties,Customs Duties,2013-02-01,False,True,2023,11,55.875,80.337,26977.130,-0.071,55.804,-24.533,-30.538
 revenue,Excise Taxes,Excise Taxes,1982-02-01,False,True,1982,1,41.000,36.311,3313.350,0.000,41.000,4.689,12.913
 revenue,Excise Taxes,Excise Taxes,1983-02-01,False,True,1983,1,37.000,35.300,3536.000,0.000,37.000,1.700,4.816
 revenue,Excise Taxes,Excise Taxes,1984-02-01,False,True,1984,1,37.700,37.361,3949.175,-0.400,37.300,-0.061,-0.163
@@ -1770,6 +1825,7 @@ revenue,Excise Taxes,Excise Taxes,2019-01-01,False,True,2019,1,97.690,98.914,212
 revenue,Excise Taxes,Excise Taxes,2020-01-01,False,True,2020,1,103.105,86.780,21292.400,-3.917,99.188,12.408,14.298
 revenue,Excise Taxes,Excise Taxes,2021-02-01,False,True,2021,1,78.813,75.274,22936.525,0.000,78.813,3.539,4.701
 revenue,Excise Taxes,Excise Taxes,2022-05-01,False,True,2022,1,87.555,87.728,25305.650,0.000,87.555,-0.173,-0.197
+revenue,Excise Taxes,Excise Taxes,2023-02-01,False,True,2023,1,90.506,75.804,26977.130,0.000,90.506,14.702,19.395
 revenue,Excise Taxes,Excise Taxes,1982-02-01,False,True,1983,2,40.000,35.300,3536.000,6.000,46.000,10.700,30.312
 revenue,Excise Taxes,Excise Taxes,1983-02-01,False,True,1984,2,41.000,37.361,3949.175,-0.400,40.600,3.239,8.669
 revenue,Excise Taxes,Excise Taxes,1984-02-01,False,True,1985,2,37.600,35.992,4265.125,0.600,38.200,2.208,6.135
@@ -1810,6 +1866,7 @@ revenue,Excise Taxes,Excise Taxes,2018-04-01,False,True,2019,2,87.512,98.914,212
 revenue,Excise Taxes,Excise Taxes,2019-01-01,False,True,2020,2,107.518,86.780,21292.400,-9.018,98.500,11.720,13.505
 revenue,Excise Taxes,Excise Taxes,2020-01-01,False,True,2021,2,89.822,75.274,22936.525,-2.261,87.561,12.287,16.323
 revenue,Excise Taxes,Excise Taxes,2021-02-01,False,True,2022,2,85.970,87.728,25305.650,0.604,86.574,-1.154,-1.315
+revenue,Excise Taxes,Excise Taxes,2022-05-01,False,True,2023,2,90.246,75.804,26977.130,7.002,97.248,21.444,28.289
 revenue,Excise Taxes,Excise Taxes,1982-02-01,False,True,1984,3,40.000,37.361,3949.175,8.600,48.600,11.239,30.082
 revenue,Excise Taxes,Excise Taxes,1983-02-01,False,True,1985,3,42.000,35.992,4265.125,0.600,42.600,6.608,18.360
 revenue,Excise Taxes,Excise Taxes,1984-02-01,False,True,1986,3,32.700,32.919,4526.250,4.011,36.711,3.792,11.519
@@ -1849,6 +1906,7 @@ revenue,Excise Taxes,Excise Taxes,2017-01-01,False,True,2019,3,103.790,98.914,21
 revenue,Excise Taxes,Excise Taxes,2018-04-01,False,True,2020,3,105.941,86.780,21292.400,-9.018,96.923,10.143,11.688
 revenue,Excise Taxes,Excise Taxes,2019-01-01,False,True,2021,3,110.874,75.274,22936.525,-23.254,87.620,12.346,16.401
 revenue,Excise Taxes,Excise Taxes,2020-01-01,False,True,2022,3,90.427,87.728,25305.650,-0.344,90.083,2.355,2.684
+revenue,Excise Taxes,Excise Taxes,2021-02-01,False,True,2023,3,86.360,75.804,26977.130,8.568,94.928,19.124,25.228
 revenue,Excise Taxes,Excise Taxes,1982-02-01,False,True,1985,4,40.000,35.992,4265.125,10.600,50.600,14.608,40.587
 revenue,Excise Taxes,Excise Taxes,1983-02-01,False,True,1986,4,36.000,32.919,4526.250,4.011,40.011,7.092,21.544
 revenue,Excise Taxes,Excise Taxes,1984-02-01,False,True,1987,4,31.900,32.457,4767.650,6.904,38.804,6.347,19.555
@@ -1887,6 +1945,7 @@ revenue,Excise Taxes,Excise Taxes,2016-01-01,False,True,2019,4,105.537,98.914,21
 revenue,Excise Taxes,Excise Taxes,2017-01-01,False,True,2020,4,105.469,86.780,21292.400,-11.170,94.299,7.519,8.664
 revenue,Excise Taxes,Excise Taxes,2018-04-01,False,True,2021,4,108.831,75.274,22936.525,-23.254,85.577,10.303,13.687
 revenue,Excise Taxes,Excise Taxes,2019-01-01,False,True,2022,4,113.586,87.728,25305.650,-24.070,89.516,1.788,2.038
+revenue,Excise Taxes,Excise Taxes,2020-01-01,False,True,2023,4,90.882,75.804,26977.130,7.632,98.514,22.710,29.959
 revenue,Excise Taxes,Excise Taxes,1982-02-01,False,True,1986,5,40.000,32.919,4526.250,10.011,50.011,17.092,51.921
 revenue,Excise Taxes,Excise Taxes,1983-02-01,False,True,1987,5,35.000,32.457,4767.650,6.904,41.904,9.447,29.106
 revenue,Excise Taxes,Excise Taxes,1984-02-01,False,True,1988,5,32.500,35.227,5138.550,7.971,40.471,5.244,14.886
@@ -1924,6 +1983,7 @@ revenue,Excise Taxes,Excise Taxes,2015-01-01,False,True,2019,5,106.514,98.914,21
 revenue,Excise Taxes,Excise Taxes,2016-01-01,False,True,2020,5,107.210,86.780,21292.400,-11.170,96.040,9.260,10.671
 revenue,Excise Taxes,Excise Taxes,2017-01-01,False,True,2021,5,108.258,75.274,22936.525,-25.057,83.201,7.927,10.531
 revenue,Excise Taxes,Excise Taxes,2018-04-01,False,True,2022,5,112.798,87.728,25305.650,-24.070,88.728,1.000,1.140
+revenue,Excise Taxes,Excise Taxes,2019-01-01,False,True,2023,5,106.090,75.804,26977.130,-22.614,83.476,7.672,10.121
 revenue,Excise Taxes,Excise Taxes,1982-02-01,False,True,1987,6,39.000,32.457,4767.650,12.904,51.904,19.447,59.916
 revenue,Excise Taxes,Excise Taxes,1983-02-01,False,True,1988,6,36.000,35.227,5138.550,7.971,43.971,8.744,24.822
 revenue,Excise Taxes,Excise Taxes,1984-02-01,False,True,1989,6,33.200,34.386,5554.675,7.651,40.851,6.465,18.801
@@ -1960,6 +2020,7 @@ revenue,Excise Taxes,Excise Taxes,2014-02-01,False,True,2019,6,106.601,98.914,21
 revenue,Excise Taxes,Excise Taxes,2015-01-01,False,True,2020,6,108.390,86.780,21292.400,-12.051,96.339,9.559,11.015
 revenue,Excise Taxes,Excise Taxes,2016-01-01,False,True,2021,6,110.274,75.274,22936.525,-25.057,85.217,9.943,13.209
 revenue,Excise Taxes,Excise Taxes,2017-01-01,False,True,2022,6,109.898,87.728,25305.650,-24.192,85.706,-2.022,-2.305
+revenue,Excise Taxes,Excise Taxes,2018-04-01,False,True,2023,6,116.524,75.804,26977.130,-22.614,93.910,18.106,23.885
 revenue,Excise Taxes,Excise Taxes,1992-01-01,False,True,1998,7,50.969,57.673,8930.800,11.492,62.461,4.788,8.302
 revenue,Excise Taxes,Excise Taxes,1993-01-01,False,True,1999,7,48.964,70.414,9479.625,16.025,64.989,-5.425,-7.704
 revenue,Excise Taxes,Excise Taxes,1994-01-01,False,True,2000,7,60.477,68.865,10117.075,10.783,71.260,2.395,3.478
@@ -1985,6 +2046,7 @@ revenue,Excise Taxes,Excise Taxes,2013-02-01,False,True,2019,7,112.733,98.914,21
 revenue,Excise Taxes,Excise Taxes,2014-02-01,False,True,2020,7,108.464,86.780,21292.400,-12.106,96.358,9.578,11.037
 revenue,Excise Taxes,Excise Taxes,2015-01-01,False,True,2021,7,110.596,75.274,22936.525,-24.532,86.064,10.790,14.334
 revenue,Excise Taxes,Excise Taxes,2016-01-01,False,True,2022,7,112.189,87.728,25305.650,-24.192,87.997,0.269,0.307
+revenue,Excise Taxes,Excise Taxes,2017-01-01,False,True,2023,7,111.755,75.804,26977.130,-22.083,89.672,13.868,18.295
 revenue,Excise Taxes,Excise Taxes,1992-01-01,False,True,1999,8,52.298,70.414,9479.625,16.025,68.323,-2.091,-2.970
 revenue,Excise Taxes,Excise Taxes,1993-01-01,False,True,2000,8,49.207,68.865,10117.075,10.783,59.990,-8.875,-12.888
 revenue,Excise Taxes,Excise Taxes,1994-01-01,False,True,2001,8,61.565,66.232,10525.725,12.316,73.881,7.649,11.549
@@ -2009,6 +2071,7 @@ revenue,Excise Taxes,Excise Taxes,2012-01-01,False,True,2019,8,116.014,98.914,21
 revenue,Excise Taxes,Excise Taxes,2013-02-01,False,True,2020,8,115.194,86.780,21292.400,-12.106,103.088,16.308,18.792
 revenue,Excise Taxes,Excise Taxes,2014-02-01,False,True,2021,8,110.824,75.274,22936.525,-24.595,86.229,10.955,14.553
 revenue,Excise Taxes,Excise Taxes,2015-01-01,False,True,2022,8,112.833,87.728,25305.650,-23.814,89.019,1.291,1.472
+revenue,Excise Taxes,Excise Taxes,2016-01-01,False,True,2023,8,114.120,75.804,26977.130,-22.083,92.037,16.233,21.414
 revenue,Excise Taxes,Excise Taxes,1992-01-01,False,True,2000,9,52.738,68.865,10117.075,10.783,63.521,-5.344,-7.760
 revenue,Excise Taxes,Excise Taxes,1993-01-01,False,True,2001,9,49.936,66.232,10525.725,12.316,62.252,-3.980,-6.009
 revenue,Excise Taxes,Excise Taxes,1994-01-01,False,True,2002,9,62.794,66.989,10828.875,14.729,77.523,10.534,15.725
@@ -2032,6 +2095,7 @@ revenue,Excise Taxes,Excise Taxes,2011-01-01,False,True,2019,9,113.323,98.914,21
 revenue,Excise Taxes,Excise Taxes,2012-01-01,False,True,2020,9,118.013,86.780,21292.400,-12.040,105.973,19.193,22.117
 revenue,Excise Taxes,Excise Taxes,2013-02-01,False,True,2021,9,118.199,75.274,22936.525,-24.595,93.604,18.330,24.351
 revenue,Excise Taxes,Excise Taxes,2014-02-01,False,True,2022,9,113.710,87.728,25305.650,-23.886,89.824,2.096,2.389
+revenue,Excise Taxes,Excise Taxes,2015-01-01,False,True,2023,9,115.097,75.804,26977.130,-21.761,93.336,17.532,23.128
 revenue,Excise Taxes,Excise Taxes,1992-01-01,False,True,2001,10,53.716,66.232,10525.725,12.316,66.032,-0.200,-0.302
 revenue,Excise Taxes,Excise Taxes,1993-01-01,False,True,2002,10,50.935,66.989,10828.875,14.729,65.664,-1.325,-1.978
 revenue,Excise Taxes,Excise Taxes,1994-01-01,False,True,2003,10,64.047,67.524,11278.750,14.404,78.451,10.927,16.182
@@ -2054,6 +2118,7 @@ revenue,Excise Taxes,Excise Taxes,2010-01-01,False,True,2019,10,88.037,98.914,21
 revenue,Excise Taxes,Excise Taxes,2011-01-01,False,True,2020,10,116.222,86.780,21292.400,-12.039,104.183,17.403,20.054
 revenue,Excise Taxes,Excise Taxes,2012-01-01,False,True,2021,10,120.516,75.274,22936.525,-24.526,95.990,20.716,27.521
 revenue,Excise Taxes,Excise Taxes,2013-02-01,False,True,2022,10,121.151,87.728,25305.650,-23.886,97.265,9.537,10.871
+revenue,Excise Taxes,Excise Taxes,2014-02-01,False,True,2023,10,116.865,75.804,26977.130,-21.843,95.022,19.218,25.352
 revenue,Excise Taxes,Excise Taxes,1992-01-01,False,True,2002,11,55.008,66.989,10828.875,14.729,69.737,2.748,4.102
 revenue,Excise Taxes,Excise Taxes,1993-01-01,False,True,2003,11,51.954,67.524,11278.750,14.404,66.358,-1.166,-1.727
 revenue,Excise Taxes,Excise Taxes,1994-01-01,False,True,2004,11,65.326,69.855,12028.425,15.137,80.463,10.608,15.186
@@ -2075,6 +2140,7 @@ revenue,Excise Taxes,Excise Taxes,2009-01-01,False,True,2019,11,84.691,98.914,21
 revenue,Excise Taxes,Excise Taxes,2010-01-01,False,True,2020,11,89.216,86.780,21292.400,14.792,104.008,17.228,19.853
 revenue,Excise Taxes,Excise Taxes,2011-01-01,False,True,2021,11,119.633,75.274,22936.525,-24.525,95.108,19.834,26.349
 revenue,Excise Taxes,Excise Taxes,2012-01-01,False,True,2022,11,123.252,87.728,25305.650,-23.869,99.383,11.655,13.285
+revenue,Excise Taxes,Excise Taxes,2013-02-01,False,True,2023,11,124.391,75.804,26977.130,-21.843,102.548,26.744,35.280
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,1982-02-01,False,True,1982,1,6.800,7.991,3313.350,0.000,6.800,-1.191,-14.904
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,1983-02-01,False,True,1983,1,6.400,6.053,3536.000,0.000,6.400,0.347,5.733
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,1984-02-01,False,True,1984,1,5.900,6.010,3949.175,0.000,5.900,-0.110,-1.830
@@ -2116,6 +2182,7 @@ revenue,Estate and Gift Taxes,Estate and Gift Taxes,2019-01-01,False,True,2019,1
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,2020-01-01,False,True,2020,1,18.785,17.624,21292.400,0.000,18.785,1.161,6.588
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,2021-02-01,False,True,2021,1,21.576,27.140,22936.525,0.000,21.576,-5.564,-20.501
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,2022-05-01,False,True,2022,1,29.260,32.550,25305.650,0.000,29.260,-3.290,-10.108
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2023-02-01,False,True,2023,1,26.509,33.668,26977.130,0.000,26.509,-7.159,-21.264
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,1982-02-01,False,True,1983,2,6.400,6.053,3536.000,0.000,6.400,0.347,5.733
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,1983-02-01,False,True,1984,2,6.000,6.010,3949.175,0.000,6.000,-0.010,-0.166
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,1984-02-01,False,True,1985,2,5.600,6.422,4265.125,0.000,5.600,-0.822,-12.800
@@ -2156,6 +2223,7 @@ revenue,Estate and Gift Taxes,Estate and Gift Taxes,2018-04-01,False,True,2019,2
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,2019-01-01,False,True,2020,2,17.877,17.624,21292.400,0.000,17.877,0.253,1.436
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,2020-01-01,False,True,2021,2,19.754,27.140,22936.525,0.000,19.754,-7.386,-27.214
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,2021-02-01,False,True,2022,2,23.807,32.550,25305.650,0.000,23.807,-8.743,-26.860
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2022-05-01,False,True,2023,2,29.058,33.668,26977.130,0.000,29.058,-4.610,-13.693
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,1982-02-01,False,True,1984,3,5.900,6.010,3949.175,0.000,5.900,-0.110,-1.830
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,1983-02-01,False,True,1985,3,5.600,6.422,4265.125,0.000,5.600,-0.822,-12.800
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,1984-02-01,False,True,1986,3,5.100,6.958,4526.250,0.250,5.350,-1.608,-23.110
@@ -2195,6 +2263,7 @@ revenue,Estate and Gift Taxes,Estate and Gift Taxes,2017-01-01,False,True,2019,3
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,2018-04-01,False,True,2020,3,19.481,17.624,21292.400,0.000,19.481,1.857,10.537
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,2019-01-01,False,True,2021,3,19.037,27.140,22936.525,0.000,19.037,-8.103,-29.856
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,2020-01-01,False,True,2022,3,20.636,32.550,25305.650,0.000,20.636,-11.914,-36.602
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2021-02-01,False,True,2023,3,24.141,33.668,26977.130,0.000,24.141,-9.527,-28.297
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,1982-02-01,False,True,1985,4,5.400,6.422,4265.125,0.000,5.400,-1.022,-15.914
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,1983-02-01,False,True,1986,4,5.200,6.958,4526.250,0.250,5.450,-1.508,-21.673
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,1984-02-01,False,True,1987,4,4.600,7.493,4767.650,-0.266,4.334,-3.159,-42.159
@@ -2233,6 +2302,7 @@ revenue,Estate and Gift Taxes,Estate and Gift Taxes,2016-01-01,False,True,2019,4
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,2017-01-01,False,True,2020,4,23.990,17.624,21292.400,-7.923,16.067,-1.557,-8.835
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,2018-04-01,False,True,2021,4,19.933,27.140,22936.525,0.000,19.933,-7.207,-26.555
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,2019-01-01,False,True,2022,4,20.344,32.550,25305.650,0.000,20.344,-12.206,-37.499
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2020-01-01,False,True,2023,4,21.366,33.668,26977.130,0.000,21.366,-12.302,-36.539
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,1982-02-01,False,True,1986,5,4.900,6.958,4526.250,0.250,5.150,-1.808,-25.984
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,1983-02-01,False,True,1987,5,4.800,7.493,4767.650,-0.266,4.534,-2.959,-39.490
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,1984-02-01,False,True,1988,5,4.300,7.594,5138.550,1.009,5.309,-2.285,-30.090
@@ -2270,6 +2340,7 @@ revenue,Estate and Gift Taxes,Estate and Gift Taxes,2015-01-01,False,True,2019,5
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,2016-01-01,False,True,2020,5,23.421,17.624,21292.400,-7.923,15.498,-2.126,-12.063
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,2017-01-01,False,True,2021,5,24.674,27.140,22936.525,-8.159,16.515,-10.625,-39.149
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,2018-04-01,False,True,2022,5,20.517,32.550,25305.650,0.000,20.517,-12.033,-36.968
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2019-01-01,False,True,2023,5,21.013,33.668,26977.130,0.000,21.013,-12.655,-37.588
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,1982-02-01,False,True,1987,6,4.400,7.493,4767.650,-0.266,4.134,-3.359,-44.829
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,1983-02-01,False,True,1988,6,4.400,7.594,5138.550,1.009,5.409,-2.185,-28.773
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,1984-02-01,False,True,1989,6,4.700,8.745,5554.675,0.566,5.266,-3.479,-39.783
@@ -2306,6 +2377,7 @@ revenue,Estate and Gift Taxes,Estate and Gift Taxes,2014-02-01,False,True,2019,6
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,2015-01-01,False,True,2020,6,24.097,17.624,21292.400,-7.923,16.174,-1.450,-8.227
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,2016-01-01,False,True,2021,6,24.193,27.140,22936.525,-8.159,16.034,-11.106,-40.921
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,2017-01-01,False,True,2022,6,25.783,32.550,25305.650,-8.575,17.208,-15.342,-47.134
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2018-04-01,False,True,2023,6,21.300,33.668,26977.130,0.000,21.300,-12.368,-36.735
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,1992-01-01,False,True,1998,7,15.075,24.076,8930.800,0.611,15.686,-8.390,-34.848
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,1993-01-01,False,True,1999,7,15.082,27.782,9479.625,-0.948,14.134,-13.648,-49.125
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,1994-01-01,False,True,2000,7,17.696,29.010,10117.075,-1.370,16.326,-12.684,-43.723
@@ -2331,6 +2403,7 @@ revenue,Estate and Gift Taxes,Estate and Gift Taxes,2013-02-01,False,True,2019,7
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,2014-02-01,False,True,2020,7,27.982,17.624,21292.400,-7.923,20.059,2.435,13.816
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,2015-01-01,False,True,2021,7,24.939,27.140,22936.525,-8.159,16.780,-10.360,-38.172
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,2016-01-01,False,True,2022,7,25.129,32.550,25305.650,-8.575,16.554,-15.996,-49.143
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2017-01-01,False,True,2023,7,27.016,33.668,26977.130,-8.987,18.029,-15.639,-46.451
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,1992-01-01,False,True,1999,8,15.828,27.782,9479.625,-0.948,14.880,-12.902,-46.440
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,1993-01-01,False,True,2000,8,15.836,29.010,10117.075,-1.370,14.466,-14.544,-50.134
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,1994-01-01,False,True,2001,8,18.581,28.400,10525.725,-1.949,16.632,-11.768,-41.437
@@ -2355,6 +2428,7 @@ revenue,Estate and Gift Taxes,Estate and Gift Taxes,2012-01-01,False,True,2019,8
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,2013-02-01,False,True,2020,8,21.407,17.624,21292.400,-7.923,13.484,-4.140,-23.491
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,2014-02-01,False,True,2021,8,29.219,27.140,22936.525,-8.159,21.060,-6.080,-22.402
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,2015-01-01,False,True,2022,8,25.876,32.550,25305.650,-8.575,17.301,-15.249,-46.848
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2016-01-01,False,True,2023,8,26.192,33.668,26977.130,-8.987,17.205,-16.463,-48.898
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,1992-01-01,False,True,2000,9,16.619,29.010,10117.075,-1.370,15.249,-13.761,-47.435
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,1993-01-01,False,True,2001,9,16.628,28.400,10525.725,-1.949,14.679,-13.721,-48.313
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,1994-01-01,False,True,2002,9,19.509,26.507,10828.875,-2.278,17.231,-9.276,-34.995
@@ -2378,6 +2452,7 @@ revenue,Estate and Gift Taxes,Estate and Gift Taxes,2011-01-01,False,True,2019,9
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,2012-01-01,False,True,2020,9,63.626,17.624,21292.400,-52.557,11.069,-6.555,-37.194
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,2013-02-01,False,True,2021,9,22.442,27.140,22936.525,-8.159,14.283,-12.857,-47.373
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,2014-02-01,False,True,2022,9,30.522,32.550,25305.650,-8.575,21.947,-10.603,-32.575
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2015-01-01,False,True,2023,9,26.714,33.668,26977.130,-8.987,17.727,-15.941,-47.348
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,1992-01-01,False,True,2001,10,17.450,28.400,10525.725,-1.949,15.501,-12.899,-45.419
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,1993-01-01,False,True,2002,10,17.459,26.507,10828.875,-2.278,15.181,-11.326,-42.728
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,1994-01-01,False,True,2003,10,20.484,21.959,11278.750,-9.820,10.664,-11.295,-51.437
@@ -2400,6 +2475,7 @@ revenue,Estate and Gift Taxes,Estate and Gift Taxes,2010-01-01,False,True,2019,1
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,2011-01-01,False,True,2020,10,68.510,17.624,21292.400,-52.557,15.953,-1.671,-9.481
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,2012-01-01,False,True,2021,10,67.706,27.140,22936.525,-55.880,11.826,-15.314,-56.426
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,2013-02-01,False,True,2022,10,23.511,32.550,25305.650,-8.575,14.936,-17.614,-54.114
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2014-02-01,False,True,2023,10,31.856,33.668,26977.130,-8.987,22.869,-10.799,-32.075
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,1992-01-01,False,True,2002,11,18.323,26.507,10828.875,-2.278,16.045,-10.462,-39.469
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,1993-01-01,False,True,2003,11,18.332,21.959,11278.750,-9.820,8.512,-13.447,-61.237
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,1994-01-01,False,True,2004,11,21.508,24.831,12028.425,-8.798,12.710,-12.121,-48.814
@@ -2421,6 +2497,7 @@ revenue,Estate and Gift Taxes,Estate and Gift Taxes,2009-01-01,False,True,2019,1
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,2010-01-01,False,True,2020,11,69.724,17.624,21292.400,-52.416,17.308,-0.316,-1.793
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,2011-01-01,False,True,2021,11,72.583,27.140,22936.525,-55.880,16.703,-10.437,-38.456
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,2012-01-01,False,True,2022,11,72.248,32.550,25305.650,-59.756,12.492,-20.058,-61.622
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2013-02-01,False,True,2023,11,24.627,33.668,26977.130,-8.987,15.640,-18.028,-53.546
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,1982-02-01,False,True,1982,1,15.000,16.161,3313.350,0.000,15.000,-1.161,-7.184
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,1983-02-01,False,True,1983,1,15.000,15.601,3536.000,0.000,15.000,-0.601,-3.852
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,1984-02-01,False,True,1984,1,16.000,17.012,3949.175,0.000,16.000,-1.012,-5.949
@@ -2462,6 +2539,7 @@ revenue,Miscellaneous Receipts,Miscellaneous Receipts,2019-01-01,False,True,2019
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,2020-01-01,False,True,2020,1,104.245,117.746,21292.400,0.000,104.245,-13.501,-11.466
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,2021-02-01,False,True,2021,1,135.291,134.416,22936.525,0.000,135.291,0.875,0.651
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,2022-05-01,False,True,2022,1,142.536,136.675,25305.650,0.001,142.537,5.862,4.289
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2023-02-01,False,True,2023,1,35.503,38.957,26977.130,0.000,35.503,-3.454,-8.866
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,1982-02-01,False,True,1983,2,16.000,15.601,3536.000,0.000,16.000,0.399,2.558
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,1983-02-01,False,True,1984,2,13.000,17.012,3949.175,0.000,13.000,-4.012,-23.583
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,1984-02-01,False,True,1985,2,16.300,18.519,4265.125,0.015,16.315,-2.204,-11.901
@@ -2502,6 +2580,7 @@ revenue,Miscellaneous Receipts,Miscellaneous Receipts,2018-04-01,False,True,2019
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,2019-01-01,False,True,2020,2,89.975,117.746,21292.400,0.111,90.086,-27.660,-23.491
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,2020-01-01,False,True,2021,2,102.270,134.416,22936.525,0.421,102.691,-31.725,-23.602
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,2021-02-01,False,True,2022,2,151.986,136.675,25305.650,0.115,152.101,15.426,11.287
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2022-05-01,False,True,2023,2,64.403,38.957,26977.130,-0.001,64.402,25.445,65.316
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,1982-02-01,False,True,1984,3,18.000,17.012,3949.175,0.000,18.000,0.988,5.808
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,1983-02-01,False,True,1985,3,14.000,18.519,4265.125,0.015,14.015,-4.504,-24.321
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,1984-02-01,False,True,1986,3,17.100,19.948,4526.250,0.015,17.115,-2.833,-14.202
@@ -2541,6 +2620,7 @@ revenue,Miscellaneous Receipts,Miscellaneous Receipts,2017-01-01,False,True,2019
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,2018-04-01,False,True,2020,3,83.840,117.746,21292.400,0.100,83.940,-33.806,-28.711
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,2019-01-01,False,True,2021,3,96.640,134.416,22936.525,0.532,97.172,-37.244,-27.708
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,2020-01-01,False,True,2022,3,100.177,136.675,25305.650,0.525,100.702,-35.973,-26.320
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2021-02-01,False,True,2023,3,161.231,38.957,26977.130,0.135,161.366,122.409,314.216
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,1982-02-01,False,True,1985,4,19.000,18.519,4265.125,0.015,19.015,0.496,2.678
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,1983-02-01,False,True,1986,4,13.000,19.948,4526.250,0.015,13.015,-6.933,-34.755
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,1984-02-01,False,True,1987,4,18.000,19.452,4767.650,0.273,18.273,-1.179,-6.061
@@ -2579,6 +2659,7 @@ revenue,Miscellaneous Receipts,Miscellaneous Receipts,2016-01-01,False,True,2019
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,2017-01-01,False,True,2020,4,104.093,117.746,21292.400,-4.697,99.396,-18.350,-15.584
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,2018-04-01,False,True,2021,4,88.697,134.416,22936.525,0.539,89.236,-45.180,-33.612
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,2019-01-01,False,True,2022,4,99.779,136.675,25305.650,0.775,100.554,-36.121,-26.428
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2020-01-01,False,True,2023,4,101.824,38.957,26977.130,0.580,102.404,63.447,162.864
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,1982-02-01,False,True,1986,5,19.000,19.948,4526.250,0.015,19.015,-0.933,-4.677
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,1983-02-01,False,True,1987,5,13.000,19.452,4767.650,0.273,13.273,-6.179,-31.765
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,1984-02-01,False,True,1988,5,19.000,20.194,5138.550,0.338,19.338,-0.856,-4.239
@@ -2616,6 +2697,7 @@ revenue,Miscellaneous Receipts,Miscellaneous Receipts,2015-01-01,False,True,2019
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,2016-01-01,False,True,2020,5,100.308,117.746,21292.400,-4.650,95.658,-22.088,-18.759
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,2017-01-01,False,True,2021,5,102.666,134.416,22936.525,-6.320,96.346,-38.070,-28.323
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,2018-04-01,False,True,2022,5,94.034,136.675,25305.650,0.786,94.820,-41.855,-30.624
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2019-01-01,False,True,2023,5,106.479,38.957,26977.130,1.290,107.769,68.812,176.636
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,1982-02-01,False,True,1987,6,19.000,19.452,4767.650,0.273,19.273,-0.179,-0.920
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,1983-02-01,False,True,1988,6,13.000,20.194,5138.550,0.338,13.338,-6.856,-33.951
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,1984-02-01,False,True,1989,6,20.000,23.243,5554.675,0.219,20.219,-3.024,-13.010
@@ -2652,6 +2734,7 @@ revenue,Miscellaneous Receipts,Miscellaneous Receipts,2014-02-01,False,True,2019
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,2015-01-01,False,True,2020,6,100.129,117.746,21292.400,-1.908,98.221,-19.525,-16.582
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,2016-01-01,False,True,2021,6,107.423,134.416,22936.525,-6.266,101.157,-33.259,-24.743
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,2017-01-01,False,True,2022,6,104.149,136.675,25305.650,-5.927,98.222,-38.453,-28.135
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2018-04-01,False,True,2023,6,104.421,38.957,26977.130,1.298,105.719,66.762,171.374
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,1992-01-01,False,True,1998,7,29.652,32.588,8930.800,1.566,31.218,-1.370,-4.204
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,1993-01-01,False,True,1999,7,27.778,34.927,9479.625,2.189,29.967,-4.960,-14.201
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,1994-01-01,False,True,2000,7,28.983,42.799,10117.075,6.618,35.601,-7.198,-16.818
@@ -2677,6 +2760,7 @@ revenue,Miscellaneous Receipts,Miscellaneous Receipts,2013-02-01,False,True,2019
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,2014-02-01,False,True,2020,7,101.589,117.746,21292.400,-1.760,99.829,-17.917,-15.217
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,2015-01-01,False,True,2021,7,107.192,134.416,22936.525,-1.251,105.941,-28.475,-21.184
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,2016-01-01,False,True,2022,7,114.208,136.675,25305.650,-5.873,108.335,-28.340,-20.735
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2017-01-01,False,True,2023,7,110.556,38.957,26977.130,-4.532,106.024,67.067,172.156
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,1992-01-01,False,True,1999,8,31.199,34.927,9479.625,2.189,33.388,-1.539,-4.406
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,1993-01-01,False,True,2000,8,28.824,42.799,10117.075,6.618,35.442,-7.357,-17.190
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,1994-01-01,False,True,2001,8,30.259,37.700,10525.725,-0.231,30.028,-7.672,-20.350
@@ -2701,6 +2785,7 @@ revenue,Miscellaneous Receipts,Miscellaneous Receipts,2012-01-01,False,True,2019
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,2013-02-01,False,True,2020,8,73.497,117.746,21292.400,-1.760,71.737,-46.009,-39.075
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,2014-02-01,False,True,2021,8,109.856,134.416,22936.525,-1.275,108.581,-25.835,-19.220
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,2015-01-01,False,True,2022,8,113.168,136.675,25305.650,-0.469,112.699,-23.976,-17.542
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2016-01-01,False,True,2023,8,120.929,38.957,26977.130,-4.482,116.447,77.490,198.912
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,1992-01-01,False,True,2000,9,32.817,42.799,10117.075,6.618,39.435,-3.364,-7.860
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,1993-01-01,False,True,2001,9,29.946,37.700,10525.725,-0.231,29.715,-7.985,-21.180
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,1994-01-01,False,True,2002,9,31.598,33.889,10828.875,2.443,34.041,0.152,0.449
@@ -2724,6 +2809,7 @@ revenue,Miscellaneous Receipts,Miscellaneous Receipts,2011-01-01,False,True,2019
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,2012-01-01,False,True,2020,9,113.985,117.746,21292.400,-1.757,112.228,-5.518,-4.686
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,2013-02-01,False,True,2021,9,97.143,134.416,22936.525,-1.275,95.868,-38.548,-28.678
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,2014-02-01,False,True,2022,9,119.063,136.675,25305.650,-0.492,118.571,-18.104,-13.246
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2015-01-01,False,True,2023,9,120.563,38.957,26977.130,1.312,121.875,82.918,212.845
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,1992-01-01,False,True,2001,10,34.527,37.700,10525.725,-0.231,34.296,-3.404,-9.029
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,1993-01-01,False,True,2002,10,31.118,33.889,10828.875,2.443,33.561,-0.328,-0.968
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,1994-01-01,False,True,2003,10,33.005,34.514,11278.750,5.408,38.413,3.899,11.297
@@ -2746,6 +2832,7 @@ revenue,Miscellaneous Receipts,Miscellaneous Receipts,2010-01-01,False,True,2019
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,2011-01-01,False,True,2020,10,114.216,117.746,21292.400,-1.716,112.500,-5.246,-4.455
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,2012-01-01,False,True,2021,10,122.185,134.416,22936.525,-1.272,120.913,-13.503,-10.046
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,2013-02-01,False,True,2022,10,128.156,136.675,25305.650,-0.492,127.664,-9.011,-6.593
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2014-02-01,False,True,2023,10,124.569,38.957,26977.130,1.284,125.853,86.896,223.056
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,1992-01-01,False,True,2002,11,36.334,33.889,10828.875,2.443,38.777,4.888,14.424
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,1993-01-01,False,True,2003,11,32.344,34.514,11278.750,5.408,37.752,3.238,9.382
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,1994-01-01,False,True,2004,11,34.549,32.608,12028.425,5.167,39.716,7.108,21.798
@@ -2767,3 +2854,4 @@ revenue,Miscellaneous Receipts,Miscellaneous Receipts,2009-01-01,False,True,2019
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,2010-01-01,False,True,2020,11,72.289,117.746,21292.400,42.840,115.129,-2.617,-2.223
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,2011-01-01,False,True,2021,11,123.669,134.416,22936.525,-1.240,122.429,-11.987,-8.918
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,2012-01-01,False,True,2022,11,126.736,136.675,25305.650,-0.489,126.247,-10.428,-7.630
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2013-02-01,False,True,2023,11,137.020,38.957,26977.130,1.284,138.304,99.347,255.017

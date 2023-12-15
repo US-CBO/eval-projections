@@ -764,5 +764,27 @@ outlay,Net Interest,Net Interest,2022,475.887
 outlay,Mandatory,Other Mandatory,2022,1208.605
 outlay,Total,Total,2022,5900.499
 outlay,Mandatory,Total Mandatory,2022,3760.236
-deficit,Total,Total,2022,-1003.100
+deficit,Total,Total,2022,-1003.1
 debt,Total,Total,2022,24252.357
+outlay,Discretionary,Total Discretionary,2023,1722.282
+outlay,Discretionary,Nondefense Discretionary,2023,917.024
+outlay,Discretionary,Defense Discretionary,2023,805.258
+outlay,Mandatory,Student Loan Forgiveness,2023,-333.015
+outlay,Mandatory,Social Security,2023,1348.197
+outlay,Mandatory,Medicare,2023,839.252
+outlay,Mandatory,Medicaid,2023,615.773
+outlay,Mandatory,Fannie Freddie,2023,-6.234
+outlay,Net Interest,Net Interest,2023,659.288
+outlay,Mandatory,Other Mandatory,2023,1288.939
+outlay,Total,Total,2023,6473.731
+outlay,Mandatory,Total Mandatory,2023,4092.161
+deficit,Total,Total,2023,-2034.446
+debt,Total,Total,2023,26239.504
+revenue,Total,Total,2023,4439.285
+revenue,Individual Income Taxes,Individual Income Taxes,2023,2176.481
+revenue,Corporate Income Taxes,Corporate Income Taxes,2023,419.584
+revenue,Payroll Taxes,Payroll Taxes,2023,1614.454
+revenue,Customs Duties,Customs Duties,2023,80.337
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2023,38.957
+revenue,Excise Taxes,Excise Taxes,2023,75.804
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2023,33.668

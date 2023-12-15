@@ -33752,3 +33752,143 @@ deficit,Total,Total,2022-05-01,Legislative,2028,-306.085
 deficit,Total,Total,2022-05-01,Legislative,2029,-324.756
 deficit,Total,Total,2022-05-01,Legislative,2030,-347.409
 deficit,Total,Total,2022-05-01,Legislative,2031,-344.367
+outlay,Mandatory,Medicaid,2023-02-01,Legislative,2023,-12.609
+outlay,Mandatory,Medicaid,2023-02-01,Legislative,2024,-4.012
+outlay,Mandatory,Medicaid,2023-02-01,Legislative,2025,4.557
+outlay,Mandatory,Medicaid,2023-02-01,Legislative,2026,3.988
+outlay,Mandatory,Medicaid,2023-02-01,Legislative,2027,4.215
+outlay,Mandatory,Medicaid,2023-02-01,Legislative,2028,3.577
+outlay,Mandatory,Medicaid,2023-02-01,Legislative,2029,4.076
+outlay,Mandatory,Medicaid,2023-02-01,Legislative,2030,4.043
+outlay,Mandatory,Medicaid,2023-02-01,Legislative,2031,-0.571
+outlay,Mandatory,Medicaid,2023-02-01,Legislative,2032,-0.982
+outlay,Mandatory,Medicare,2023-02-01,Legislative,2023,1.578
+outlay,Mandatory,Medicare,2023-02-01,Legislative,2024,9.716
+outlay,Mandatory,Medicare,2023-02-01,Legislative,2025,-15.022
+outlay,Mandatory,Medicare,2023-02-01,Legislative,2026,-20.335
+outlay,Mandatory,Medicare,2023-02-01,Legislative,2027,-30.453
+outlay,Mandatory,Medicare,2023-02-01,Legislative,2028,-42.366
+outlay,Mandatory,Medicare,2023-02-01,Legislative,2029,-44.364
+outlay,Mandatory,Medicare,2023-02-01,Legislative,2030,-53.269
+outlay,Mandatory,Medicare,2023-02-01,Legislative,2031,-42.985
+outlay,Mandatory,Medicare,2023-02-01,Legislative,2032,-83.317
+outlay,Mandatory,Other Mandatory,2023-02-01,Legislative,2023,15.327
+outlay,Mandatory,Other Mandatory,2023-02-01,Legislative,2024,86.136
+outlay,Mandatory,Other Mandatory,2023-02-01,Legislative,2025,99.971
+outlay,Mandatory,Other Mandatory,2023-02-01,Legislative,2026,104.011
+outlay,Mandatory,Other Mandatory,2023-02-01,Legislative,2027,125.579
+outlay,Mandatory,Other Mandatory,2023-02-01,Legislative,2028,129.53
+outlay,Mandatory,Other Mandatory,2023-02-01,Legislative,2029,135.095
+outlay,Mandatory,Other Mandatory,2023-02-01,Legislative,2030,145.784
+outlay,Mandatory,Other Mandatory,2023-02-01,Legislative,2031,154.827
+outlay,Mandatory,Other Mandatory,2023-02-01,Legislative,2032,142.055
+outlay,Mandatory,Total Mandatory,2023-02-01,Legislative,2023,4.296
+outlay,Mandatory,Total Mandatory,2023-02-01,Legislative,2024,91.84
+outlay,Mandatory,Total Mandatory,2023-02-01,Legislative,2025,89.506
+outlay,Mandatory,Total Mandatory,2023-02-01,Legislative,2026,87.664
+outlay,Mandatory,Total Mandatory,2023-02-01,Legislative,2027,99.341
+outlay,Mandatory,Total Mandatory,2023-02-01,Legislative,2028,90.741
+outlay,Mandatory,Total Mandatory,2023-02-01,Legislative,2029,94.807
+outlay,Mandatory,Total Mandatory,2023-02-01,Legislative,2030,96.558
+outlay,Mandatory,Total Mandatory,2023-02-01,Legislative,2031,111.271
+outlay,Mandatory,Total Mandatory,2023-02-01,Legislative,2032,57.756
+outlay,Mandatory,Social Security,2023-02-01,Legislative,2023,0
+outlay,Mandatory,Social Security,2023-02-01,Legislative,2024,0
+outlay,Mandatory,Social Security,2023-02-01,Legislative,2025,0
+outlay,Mandatory,Social Security,2023-02-01,Legislative,2026,0
+outlay,Mandatory,Social Security,2023-02-01,Legislative,2027,0
+outlay,Mandatory,Social Security,2023-02-01,Legislative,2028,0
+outlay,Mandatory,Social Security,2023-02-01,Legislative,2029,0
+outlay,Mandatory,Social Security,2023-02-01,Legislative,2030,0
+outlay,Mandatory,Social Security,2023-02-01,Legislative,2031,0
+outlay,Mandatory,Social Security,2023-02-01,Legislative,2032,0
+outlay,Mandatory,Fannie Freddie,2023-02-01,Legislative,2023,0
+outlay,Mandatory,Fannie Freddie,2023-02-01,Legislative,2024,0
+outlay,Mandatory,Fannie Freddie,2023-02-01,Legislative,2025,0
+outlay,Mandatory,Fannie Freddie,2023-02-01,Legislative,2026,0
+outlay,Mandatory,Fannie Freddie,2023-02-01,Legislative,2027,0
+outlay,Mandatory,Fannie Freddie,2023-02-01,Legislative,2028,0
+outlay,Mandatory,Fannie Freddie,2023-02-01,Legislative,2029,0
+outlay,Mandatory,Fannie Freddie,2023-02-01,Legislative,2030,0
+outlay,Mandatory,Fannie Freddie,2023-02-01,Legislative,2031,0
+outlay,Mandatory,Fannie Freddie,2023-02-01,Legislative,2032,0
+outlay,Discretionary,Defense Discretionary,2023-02-01,Legislative,2023,15.057
+outlay,Discretionary,Defense Discretionary,2023-02-01,Legislative,2024,30.059
+outlay,Discretionary,Defense Discretionary,2023-02-01,Legislative,2025,41.226
+outlay,Discretionary,Defense Discretionary,2023-02-01,Legislative,2026,50.808
+outlay,Discretionary,Defense Discretionary,2023-02-01,Legislative,2027,58.67
+outlay,Discretionary,Defense Discretionary,2023-02-01,Legislative,2028,64.944
+outlay,Discretionary,Defense Discretionary,2023-02-01,Legislative,2029,68.881
+outlay,Discretionary,Defense Discretionary,2023-02-01,Legislative,2030,70.87
+outlay,Discretionary,Defense Discretionary,2023-02-01,Legislative,2031,72.776
+outlay,Discretionary,Defense Discretionary,2023-02-01,Legislative,2032,76.227
+outlay,Discretionary,Nondefense Discretionary,2023-02-01,Legislative,2023,23.477
+outlay,Discretionary,Nondefense Discretionary,2023-02-01,Legislative,2024,31.281
+outlay,Discretionary,Nondefense Discretionary,2023-02-01,Legislative,2025,34.719
+outlay,Discretionary,Nondefense Discretionary,2023-02-01,Legislative,2026,11.868
+outlay,Discretionary,Nondefense Discretionary,2023-02-01,Legislative,2027,-1.826
+outlay,Discretionary,Nondefense Discretionary,2023-02-01,Legislative,2028,-13.888
+outlay,Discretionary,Nondefense Discretionary,2023-02-01,Legislative,2029,-20.931
+outlay,Discretionary,Nondefense Discretionary,2023-02-01,Legislative,2030,-23.982
+outlay,Discretionary,Nondefense Discretionary,2023-02-01,Legislative,2031,-25.448
+outlay,Discretionary,Nondefense Discretionary,2023-02-01,Legislative,2032,-26.896
+outlay,Discretionary,Total Discretionary,2023-02-01,Legislative,2023,38.534
+outlay,Discretionary,Total Discretionary,2023-02-01,Legislative,2024,61.34
+outlay,Discretionary,Total Discretionary,2023-02-01,Legislative,2025,75.945
+outlay,Discretionary,Total Discretionary,2023-02-01,Legislative,2026,62.676
+outlay,Discretionary,Total Discretionary,2023-02-01,Legislative,2027,56.844
+outlay,Discretionary,Total Discretionary,2023-02-01,Legislative,2028,51.056
+outlay,Discretionary,Total Discretionary,2023-02-01,Legislative,2029,47.95
+outlay,Discretionary,Total Discretionary,2023-02-01,Legislative,2030,46.888
+outlay,Discretionary,Total Discretionary,2023-02-01,Legislative,2031,47.328
+outlay,Discretionary,Total Discretionary,2023-02-01,Legislative,2032,49.331
+outlay,Net Interest,Net Interest,2023-02-01,Legislative,2023,0.126
+outlay,Net Interest,Net Interest,2023-02-01,Legislative,2024,2.173
+outlay,Net Interest,Net Interest,2023-02-01,Legislative,2025,7.267
+outlay,Net Interest,Net Interest,2023-02-01,Legislative,2026,11.962
+outlay,Net Interest,Net Interest,2023-02-01,Legislative,2027,16.23
+outlay,Net Interest,Net Interest,2023-02-01,Legislative,2028,20.355
+outlay,Net Interest,Net Interest,2023-02-01,Legislative,2029,24.268
+outlay,Net Interest,Net Interest,2023-02-01,Legislative,2030,29.157
+outlay,Net Interest,Net Interest,2023-02-01,Legislative,2031,34.34
+outlay,Net Interest,Net Interest,2023-02-01,Legislative,2032,39.304
+outlay,Total,Total,2023-02-01,Legislative,2023,42.956
+outlay,Total,Total,2023-02-01,Legislative,2024,155.353
+outlay,Total,Total,2023-02-01,Legislative,2025,172.718
+outlay,Total,Total,2023-02-01,Legislative,2026,162.302
+outlay,Total,Total,2023-02-01,Legislative,2027,172.415
+outlay,Total,Total,2023-02-01,Legislative,2028,162.152
+outlay,Total,Total,2023-02-01,Legislative,2029,167.025
+outlay,Total,Total,2023-02-01,Legislative,2030,172.603
+outlay,Total,Total,2023-02-01,Legislative,2031,192.939
+outlay,Total,Total,2023-02-01,Legislative,2032,146.391
+deficit,Total,Total,2023-02-01,Legislative,2023,-16.695
+deficit,Total,Total,2023-02-01,Legislative,2024,-137.121
+deficit,Total,Total,2023-02-01,Legislative,2025,-171.095
+deficit,Total,Total,2023-02-01,Legislative,2026,-169.429
+deficit,Total,Total,2023-02-01,Legislative,2027,-152.821
+deficit,Total,Total,2023-02-01,Legislative,2028,-135.133
+deficit,Total,Total,2023-02-01,Legislative,2029,-157.925
+deficit,Total,Total,2023-02-01,Legislative,2030,-174.84
+deficit,Total,Total,2023-02-01,Legislative,2031,-195.794
+deficit,Total,Total,2023-02-01,Legislative,2032,-152.188
+deficit,Total,Total,2023-12-01,Legislative,2023,3.404
+outlay,Total,Total,2023-12-01,Legislative,2023,-3.404
+outlay,Mandatory,Total Mandatory,2023-12-01,Legislative,2023,-4.427
+outlay,Mandatory,Social Security,2023-12-01,Legislative,2023,0
+outlay,Mandatory,Medicare,2023-12-01,Legislative,2023,0
+outlay,Mandatory,Medicaid,2023-12-01,Legislative,2023,0
+outlay,Mandatory,Fannie Freddie,2023-12-01,Legislative,2023,0
+outlay,Mandatory,Other Mandatory,2023-12-01,Legislative,2023,-4.427
+outlay,Discretionary,Total Discretionary,2023-12-01,Legislative,2023,1.043
+outlay,Discretionary,Defense Discretionary,2023-12-01,Legislative,2023,0.328
+outlay,Discretionary,Nondefense Discretionary,2023-12-01,Legislative,2023,0.715
+outlay,Net Interest,Net Interest,2023-12-01,Legislative,2023,-0.044
+revenue,Corporate Income Taxes,Corporate Income Taxes,2023-12-01,Legislative,2023,0
+revenue,Payroll Taxes,Payroll Taxes,2023-12-01,Legislative,2023,0
+revenue,Excise Taxes,Excise Taxes,2023-12-01,Legislative,2023,0
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2023-12-01,Legislative,2023,0
+revenue,Customs Duties,Customs Duties,2023-12-01,Legislative,2023,0
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2023-12-01,Legislative,2023,0
+revenue,Total,Total,2023-12-01,Legislative,2023,0
+revenue,Individual Income Taxes,Individual Income Taxes,2023-12-01,Legislative,2023,0

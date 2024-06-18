@@ -19229,7 +19229,7 @@ outlay,Discretionary,Defense Discretionary,2024-02-01,FALSE,FALSE,2028,5,912.269
 outlay,Discretionary,Defense Discretionary,2024-02-01,FALSE,FALSE,2029,6,920.652
 outlay,Discretionary,Defense Discretionary,2024-02-01,FALSE,FALSE,2030,7,945.895
 outlay,Discretionary,Defense Discretionary,2024-02-01,FALSE,FALSE,2031,8,966.247
-outlay,Discretionary,Defense Discretionary,2024-02-01,FALSE,FALSE,2032,9,988.300
+outlay,Discretionary,Defense Discretionary,2024-02-01,FALSE,FALSE,2032,9,988.3
 outlay,Discretionary,Defense Discretionary,2024-02-01,FALSE,FALSE,2033,10,1017.625
 outlay,Discretionary,Defense Discretionary,2024-02-01,FALSE,FALSE,2034,11,1034.557
 outlay,Discretionary,Nondefense Discretionary,2024-02-01,FALSE,FALSE,2024,1,917.443
@@ -19244,7 +19244,7 @@ outlay,Discretionary,Nondefense Discretionary,2024-02-01,FALSE,FALSE,2032,9,1027
 outlay,Discretionary,Nondefense Discretionary,2024-02-01,FALSE,FALSE,2033,10,1048.248
 outlay,Discretionary,Nondefense Discretionary,2024-02-01,FALSE,FALSE,2034,11,1071.188
 outlay,Discretionary,Total Discretionary,2024-02-01,FALSE,FALSE,2024,1,1734.136
-outlay,Discretionary,Total Discretionary,2024-02-01,FALSE,FALSE,2025,2,1756.060
+outlay,Discretionary,Total Discretionary,2024-02-01,FALSE,FALSE,2025,2,1756.06
 outlay,Discretionary,Total Discretionary,2024-02-01,FALSE,FALSE,2026,3,1791.264
 outlay,Discretionary,Total Discretionary,2024-02-01,FALSE,FALSE,2027,4,1825.368
 outlay,Discretionary,Total Discretionary,2024-02-01,FALSE,FALSE,2028,5,1865.747
@@ -19254,17 +19254,17 @@ outlay,Discretionary,Total Discretionary,2024-02-01,FALSE,FALSE,2031,8,1974.981
 outlay,Discretionary,Total Discretionary,2024-02-01,FALSE,FALSE,2032,9,2015.955
 outlay,Discretionary,Total Discretionary,2024-02-01,FALSE,FALSE,2033,10,2065.873
 outlay,Discretionary,Total Discretionary,2024-02-01,FALSE,FALSE,2034,11,2105.745
-outlay,Mandatory,Fannie Freddie,2024-02-01,FALSE,FALSE,2024,1,-6.240
-outlay,Mandatory,Fannie Freddie,2024-02-01,FALSE,FALSE,2025,2,2.500
-outlay,Mandatory,Fannie Freddie,2024-02-01,FALSE,FALSE,2026,3,4.400
-outlay,Mandatory,Fannie Freddie,2024-02-01,FALSE,FALSE,2027,4,6.200
-outlay,Mandatory,Fannie Freddie,2024-02-01,FALSE,FALSE,2028,5,6.100
-outlay,Mandatory,Fannie Freddie,2024-02-01,FALSE,FALSE,2029,6,6.000
-outlay,Mandatory,Fannie Freddie,2024-02-01,FALSE,FALSE,2030,7,5.900
-outlay,Mandatory,Fannie Freddie,2024-02-01,FALSE,FALSE,2031,8,6.000
-outlay,Mandatory,Fannie Freddie,2024-02-01,FALSE,FALSE,2032,9,6.200
-outlay,Mandatory,Fannie Freddie,2024-02-01,FALSE,FALSE,2033,10,9.900
-outlay,Mandatory,Fannie Freddie,2024-02-01,FALSE,FALSE,2034,11,10.300
+outlay,Mandatory,Fannie Freddie,2024-02-01,FALSE,FALSE,2024,1,-6.24
+outlay,Mandatory,Fannie Freddie,2024-02-01,FALSE,FALSE,2025,2,2.5
+outlay,Mandatory,Fannie Freddie,2024-02-01,FALSE,FALSE,2026,3,4.4
+outlay,Mandatory,Fannie Freddie,2024-02-01,FALSE,FALSE,2027,4,6.2
+outlay,Mandatory,Fannie Freddie,2024-02-01,FALSE,FALSE,2028,5,6.1
+outlay,Mandatory,Fannie Freddie,2024-02-01,FALSE,FALSE,2029,6,6
+outlay,Mandatory,Fannie Freddie,2024-02-01,FALSE,FALSE,2030,7,5.9
+outlay,Mandatory,Fannie Freddie,2024-02-01,FALSE,FALSE,2031,8,6
+outlay,Mandatory,Fannie Freddie,2024-02-01,FALSE,FALSE,2032,9,6.2
+outlay,Mandatory,Fannie Freddie,2024-02-01,FALSE,FALSE,2033,10,9.9
+outlay,Mandatory,Fannie Freddie,2024-02-01,FALSE,FALSE,2034,11,10.3
 outlay,Mandatory,Medicaid,2024-02-01,FALSE,FALSE,2024,1,557.432
 outlay,Mandatory,Medicaid,2024-02-01,FALSE,FALSE,2025,2,550.598
 outlay,Mandatory,Medicaid,2024-02-01,FALSE,FALSE,2026,3,582.233
@@ -19275,13 +19275,13 @@ outlay,Mandatory,Medicaid,2024-02-01,FALSE,FALSE,2030,7,728.425
 outlay,Mandatory,Medicaid,2024-02-01,FALSE,FALSE,2031,8,765.194
 outlay,Mandatory,Medicaid,2024-02-01,FALSE,FALSE,2032,9,805.702
 outlay,Mandatory,Medicaid,2024-02-01,FALSE,FALSE,2033,10,852.871
-outlay,Mandatory,Medicaid,2024-02-01,FALSE,FALSE,2034,11,897.700
+outlay,Mandatory,Medicaid,2024-02-01,FALSE,FALSE,2034,11,897.7
 outlay,Mandatory,Medicare,2024-02-01,FALSE,FALSE,2024,1,851.319
 outlay,Mandatory,Medicare,2024-02-01,FALSE,FALSE,2025,2,940.269
 outlay,Mandatory,Medicare,2024-02-01,FALSE,FALSE,2026,3,1001.169
 outlay,Mandatory,Medicare,2024-02-01,FALSE,FALSE,2027,4,1073.515
 outlay,Mandatory,Medicare,2024-02-01,FALSE,FALSE,2028,5,1225.427
-outlay,Mandatory,Medicare,2024-02-01,FALSE,FALSE,2029,6,1146.080
+outlay,Mandatory,Medicare,2024-02-01,FALSE,FALSE,2029,6,1146.08
 outlay,Mandatory,Medicare,2024-02-01,FALSE,FALSE,2030,7,1310.387
 outlay,Mandatory,Medicare,2024-02-01,FALSE,FALSE,2031,8,1400.202
 outlay,Mandatory,Medicare,2024-02-01,FALSE,FALSE,2032,9,1498.072
@@ -19290,12 +19290,12 @@ outlay,Mandatory,Medicare,2024-02-01,FALSE,FALSE,2034,11,1756.058
 outlay,Mandatory,Other Mandatory,2024-02-01,FALSE,FALSE,2024,1,983.091
 outlay,Mandatory,Other Mandatory,2024-02-01,FALSE,FALSE,2025,2,1022.317
 outlay,Mandatory,Other Mandatory,2024-02-01,FALSE,FALSE,2026,3,1018.298
-outlay,Mandatory,Other Mandatory,2024-02-01,FALSE,FALSE,2027,4,1015.370
-outlay,Mandatory,Other Mandatory,2024-02-01,FALSE,FALSE,2028,5,1025.150
+outlay,Mandatory,Other Mandatory,2024-02-01,FALSE,FALSE,2027,4,1015.37
+outlay,Mandatory,Other Mandatory,2024-02-01,FALSE,FALSE,2028,5,1025.15
 outlay,Mandatory,Other Mandatory,2024-02-01,FALSE,FALSE,2029,6,1033.831
 outlay,Mandatory,Other Mandatory,2024-02-01,FALSE,FALSE,2030,7,1076.136
 outlay,Mandatory,Other Mandatory,2024-02-01,FALSE,FALSE,2031,8,1097.942
-outlay,Mandatory,Other Mandatory,2024-02-01,FALSE,FALSE,2032,9,1126.870
+outlay,Mandatory,Other Mandatory,2024-02-01,FALSE,FALSE,2032,9,1126.87
 outlay,Mandatory,Other Mandatory,2024-02-01,FALSE,FALSE,2033,10,1187.815
 outlay,Mandatory,Other Mandatory,2024-02-01,FALSE,FALSE,2034,11,1185.194
 outlay,Mandatory,Social Security,2024-02-01,FALSE,FALSE,2024,1,1452.533
@@ -19308,7 +19308,7 @@ outlay,Mandatory,Social Security,2024-02-01,FALSE,FALSE,2030,7,2032.398
 outlay,Mandatory,Social Security,2024-02-01,FALSE,FALSE,2031,8,2137.377
 outlay,Mandatory,Social Security,2024-02-01,FALSE,FALSE,2032,9,2244.806
 outlay,Mandatory,Social Security,2024-02-01,FALSE,FALSE,2033,10,2355.006
-outlay,Mandatory,Social Security,2024-02-01,FALSE,FALSE,2034,11,2470.500
+outlay,Mandatory,Social Security,2024-02-01,FALSE,FALSE,2034,11,2470.5
 outlay,Mandatory,Total Mandatory,2024-02-01,FALSE,FALSE,2024,1,3844.375
 outlay,Mandatory,Total Mandatory,2024-02-01,FALSE,FALSE,2025,2,4058.393
 outlay,Mandatory,Total Mandatory,2024-02-01,FALSE,FALSE,2026,3,4242.012
@@ -19317,7 +19317,7 @@ outlay,Mandatory,Total Mandatory,2024-02-01,FALSE,FALSE,2028,5,4737.291
 outlay,Mandatory,Total Mandatory,2024-02-01,FALSE,FALSE,2029,6,4801.334
 outlay,Mandatory,Total Mandatory,2024-02-01,FALSE,FALSE,2030,7,5147.346
 outlay,Mandatory,Total Mandatory,2024-02-01,FALSE,FALSE,2031,8,5400.715
-outlay,Mandatory,Total Mandatory,2024-02-01,FALSE,FALSE,2032,9,5675.450
+outlay,Mandatory,Total Mandatory,2024-02-01,FALSE,FALSE,2032,9,5675.45
 outlay,Mandatory,Total Mandatory,2024-02-01,FALSE,FALSE,2033,10,6121.235
 outlay,Mandatory,Total Mandatory,2024-02-01,FALSE,FALSE,2034,11,6309.452
 outlay,Net Interest,Net Interest,2024-02-01,FALSE,FALSE,2024,1,870.102
@@ -19332,7 +19332,7 @@ outlay,Net Interest,Net Interest,2024-02-01,FALSE,FALSE,2032,9,1430.317
 outlay,Net Interest,Net Interest,2024-02-01,FALSE,FALSE,2033,10,1527.464
 outlay,Net Interest,Net Interest,2024-02-01,FALSE,FALSE,2034,11,1628.301
 outlay,Total,Total,2024-02-01,FALSE,FALSE,2024,1,6448.613
-outlay,Total,Total,2024-02-01,FALSE,FALSE,2025,2,6765.240
+outlay,Total,Total,2024-02-01,FALSE,FALSE,2025,2,6765.24
 outlay,Total,Total,2024-02-01,FALSE,FALSE,2026,3,7037.959
 outlay,Total,Total,2024-02-01,FALSE,FALSE,2027,4,7316.714
 outlay,Total,Total,2024-02-01,FALSE,FALSE,2028,5,7708.476
@@ -19353,7 +19353,7 @@ revenue,Corporate Income Taxes,Corporate Income Taxes,2024-02-01,FALSE,TRUE,2031
 revenue,Corporate Income Taxes,Corporate Income Taxes,2024-02-01,FALSE,TRUE,2032,9,519.167
 revenue,Corporate Income Taxes,Corporate Income Taxes,2024-02-01,FALSE,TRUE,2033,10,533.449
 revenue,Corporate Income Taxes,Corporate Income Taxes,2024-02-01,FALSE,TRUE,2034,11,550.787
-revenue,Custom Duties,Custom Duties,2024-02-01,FALSE,TRUE,2024,1,79.610
+revenue,Custom Duties,Custom Duties,2024-02-01,FALSE,TRUE,2024,1,79.61
 revenue,Custom Duties,Custom Duties,2024-02-01,FALSE,TRUE,2025,2,82.943
 revenue,Custom Duties,Custom Duties,2024-02-01,FALSE,TRUE,2026,3,87.138
 revenue,Custom Duties,Custom Duties,2024-02-01,FALSE,TRUE,2027,4,90.605
@@ -19380,14 +19380,14 @@ revenue,Excise Taxes,Excise Taxes,2024-02-01,FALSE,TRUE,2025,2,92.345
 revenue,Excise Taxes,Excise Taxes,2024-02-01,FALSE,TRUE,2026,3,96.718
 revenue,Excise Taxes,Excise Taxes,2024-02-01,FALSE,TRUE,2027,4,98.964
 revenue,Excise Taxes,Excise Taxes,2024-02-01,FALSE,TRUE,2028,5,99.502
-revenue,Excise Taxes,Excise Taxes,2024-02-01,FALSE,TRUE,2029,6,99.580
+revenue,Excise Taxes,Excise Taxes,2024-02-01,FALSE,TRUE,2029,6,99.58
 revenue,Excise Taxes,Excise Taxes,2024-02-01,FALSE,TRUE,2030,7,99.833
 revenue,Excise Taxes,Excise Taxes,2024-02-01,FALSE,TRUE,2031,8,99.965
-revenue,Excise Taxes,Excise Taxes,2024-02-01,FALSE,TRUE,2032,9,100.540
-revenue,Excise Taxes,Excise Taxes,2024-02-01,FALSE,TRUE,2033,10,101.300
+revenue,Excise Taxes,Excise Taxes,2024-02-01,FALSE,TRUE,2032,9,100.54
+revenue,Excise Taxes,Excise Taxes,2024-02-01,FALSE,TRUE,2033,10,101.3
 revenue,Excise Taxes,Excise Taxes,2024-02-01,FALSE,TRUE,2034,11,102.416
-revenue,Individual Income Taxes,Individual Income Taxes,2024-02-01,FALSE,TRUE,2024,1,2469.000
-revenue,Individual Income Taxes,Individual Income Taxes,2024-02-01,FALSE,TRUE,2025,2,2520.360
+revenue,Individual Income Taxes,Individual Income Taxes,2024-02-01,FALSE,TRUE,2024,1,2469
+revenue,Individual Income Taxes,Individual Income Taxes,2024-02-01,FALSE,TRUE,2025,2,2520.36
 revenue,Individual Income Taxes,Individual Income Taxes,2024-02-01,FALSE,TRUE,2026,3,2788.673
 revenue,Individual Income Taxes,Individual Income Taxes,2024-02-01,FALSE,TRUE,2027,4,3031.443
 revenue,Individual Income Taxes,Individual Income Taxes,2024-02-01,FALSE,TRUE,2028,5,3123.694
@@ -19403,7 +19403,7 @@ revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-02-01,FALSE,TRUE,2026
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-02-01,FALSE,TRUE,2027,4,48.644
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-02-01,FALSE,TRUE,2028,5,55.419
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-02-01,FALSE,TRUE,2029,6,110.949
-revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-02-01,FALSE,TRUE,2030,7,152.900
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-02-01,FALSE,TRUE,2030,7,152.9
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-02-01,FALSE,TRUE,2031,8,165.725
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-02-01,FALSE,TRUE,2032,9,183.375
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-02-01,FALSE,TRUE,2033,10,195.262
@@ -19433,13 +19433,13 @@ revenue,Total,Total,2024-02-01,FALSE,TRUE,2034,11,7474.444
 debt,Total,Total,2024-02-01,FALSE,FALSE,2024,1,27896.937
 debt,Total,Total,2024-02-01,FALSE,FALSE,2025,2,29749.266
 debt,Total,Total,2024-02-01,FALSE,FALSE,2026,3,31514.781
-debt,Total,Total,2024-02-01,FALSE,FALSE,2027,4,33232.690
+debt,Total,Total,2024-02-01,FALSE,FALSE,2027,4,33232.69
 debt,Total,Total,2024-02-01,FALSE,FALSE,2028,5,35140.639
 debt,Total,Total,2024-02-01,FALSE,FALSE,2029,6,36915.945
 debt,Total,Total,2024-02-01,FALSE,FALSE,2030,7,38868.007
 debt,Total,Total,2024-02-01,FALSE,FALSE,2031,8,40944.635
 debt,Total,Total,2024-02-01,FALSE,FALSE,2032,9,43200.956
-debt,Total,Total,2024-02-01,FALSE,FALSE,2033,10,45738.890
+debt,Total,Total,2024-02-01,FALSE,FALSE,2033,10,45738.89
 debt,Total,Total,2024-02-01,FALSE,FALSE,2034,11,48300.069
 deficit,Total,Total,2024-02-01,FALSE,FALSE,2024,1,-1513.607
 deficit,Total,Total,2024-02-01,FALSE,FALSE,2025,2,-1769.109
@@ -19452,3 +19452,234 @@ deficit,Total,Total,2024-02-01,FALSE,FALSE,2031,8,-2048.027
 deficit,Total,Total,2024-02-01,FALSE,FALSE,2032,9,-2231.987
 deficit,Total,Total,2024-02-01,FALSE,FALSE,2033,10,-2546.356
 deficit,Total,Total,2024-02-01,FALSE,FALSE,2034,11,-2569.054
+outlay,Discretionary,Defense Discretionary,2024-06-01,TRUE,FALSE,2024,1,843.411
+outlay,Discretionary,Defense Discretionary,2024-06-01,TRUE,FALSE,2025,2,904.627
+outlay,Discretionary,Defense Discretionary,2024-06-01,TRUE,FALSE,2026,3,942.006
+outlay,Discretionary,Defense Discretionary,2024-06-01,TRUE,FALSE,2027,4,971.422
+outlay,Discretionary,Defense Discretionary,2024-06-01,TRUE,FALSE,2028,5,1003.45
+outlay,Discretionary,Defense Discretionary,2024-06-01,TRUE,FALSE,2029,6,1015.85
+outlay,Discretionary,Defense Discretionary,2024-06-01,TRUE,FALSE,2030,7,1044.349
+outlay,Discretionary,Defense Discretionary,2024-06-01,TRUE,FALSE,2031,8,1067.393
+outlay,Discretionary,Defense Discretionary,2024-06-01,TRUE,FALSE,2032,9,1092.196
+outlay,Discretionary,Defense Discretionary,2024-06-01,TRUE,FALSE,2033,10,1124.324
+outlay,Discretionary,Defense Discretionary,2024-06-01,TRUE,FALSE,2034,11,1144.084
+outlay,Discretionary,Nondefense Discretionary,2024-06-01,TRUE,FALSE,2024,1,948.069
+outlay,Discretionary,Nondefense Discretionary,2024-06-01,TRUE,FALSE,2025,2,927.808
+outlay,Discretionary,Nondefense Discretionary,2024-06-01,TRUE,FALSE,2026,3,956.252
+outlay,Discretionary,Nondefense Discretionary,2024-06-01,TRUE,FALSE,2027,4,972.828
+outlay,Discretionary,Nondefense Discretionary,2024-06-01,TRUE,FALSE,2028,5,988.85
+outlay,Discretionary,Nondefense Discretionary,2024-06-01,TRUE,FALSE,2029,6,1009.86
+outlay,Discretionary,Nondefense Discretionary,2024-06-01,TRUE,FALSE,2030,7,1029.308
+outlay,Discretionary,Nondefense Discretionary,2024-06-01,TRUE,FALSE,2031,8,1048.419
+outlay,Discretionary,Nondefense Discretionary,2024-06-01,TRUE,FALSE,2032,9,1069.044
+outlay,Discretionary,Nondefense Discretionary,2024-06-01,TRUE,FALSE,2033,10,1090.771
+outlay,Discretionary,Nondefense Discretionary,2024-06-01,TRUE,FALSE,2034,11,1115.112
+outlay,Discretionary,Total Discretionary,2024-06-01,TRUE,FALSE,2024,1,1791.48
+outlay,Discretionary,Total Discretionary,2024-06-01,TRUE,FALSE,2025,2,1832.435
+outlay,Discretionary,Total Discretionary,2024-06-01,TRUE,FALSE,2026,3,1898.258
+outlay,Discretionary,Total Discretionary,2024-06-01,TRUE,FALSE,2027,4,1944.25
+outlay,Discretionary,Total Discretionary,2024-06-01,TRUE,FALSE,2028,5,1992.3
+outlay,Discretionary,Total Discretionary,2024-06-01,TRUE,FALSE,2029,6,2025.71
+outlay,Discretionary,Total Discretionary,2024-06-01,TRUE,FALSE,2030,7,2073.657
+outlay,Discretionary,Total Discretionary,2024-06-01,TRUE,FALSE,2031,8,2115.812
+outlay,Discretionary,Total Discretionary,2024-06-01,TRUE,FALSE,2032,9,2161.24
+outlay,Discretionary,Total Discretionary,2024-06-01,TRUE,FALSE,2033,10,2215.095
+outlay,Discretionary,Total Discretionary,2024-06-01,TRUE,FALSE,2034,11,2259.196
+outlay,Mandatory,Fannie Freddie,2024-06-01,TRUE,FALSE,2024,1,-6.33
+outlay,Mandatory,Fannie Freddie,2024-06-01,TRUE,FALSE,2025,2,0.063
+outlay,Mandatory,Fannie Freddie,2024-06-01,TRUE,FALSE,2026,3,1.993
+outlay,Mandatory,Fannie Freddie,2024-06-01,TRUE,FALSE,2027,4,3.972
+outlay,Mandatory,Fannie Freddie,2024-06-01,TRUE,FALSE,2028,5,4.818
+outlay,Mandatory,Fannie Freddie,2024-06-01,TRUE,FALSE,2029,6,5.189
+outlay,Mandatory,Fannie Freddie,2024-06-01,TRUE,FALSE,2030,7,5.432
+outlay,Mandatory,Fannie Freddie,2024-06-01,TRUE,FALSE,2031,8,5.689
+outlay,Mandatory,Fannie Freddie,2024-06-01,TRUE,FALSE,2032,9,5.866
+outlay,Mandatory,Fannie Freddie,2024-06-01,TRUE,FALSE,2033,10,9.353
+outlay,Mandatory,Fannie Freddie,2024-06-01,TRUE,FALSE,2034,11,9.378
+outlay,Mandatory,Medicaid,2024-06-01,TRUE,FALSE,2024,1,606.898
+outlay,Mandatory,Medicaid,2024-06-01,TRUE,FALSE,2025,2,600.459
+outlay,Mandatory,Medicaid,2024-06-01,TRUE,FALSE,2026,3,614.441
+outlay,Mandatory,Medicaid,2024-06-01,TRUE,FALSE,2027,4,642.088
+outlay,Mandatory,Medicaid,2024-06-01,TRUE,FALSE,2028,5,679.892
+outlay,Mandatory,Medicaid,2024-06-01,TRUE,FALSE,2029,6,717.141
+outlay,Mandatory,Medicaid,2024-06-01,TRUE,FALSE,2030,7,756.26
+outlay,Mandatory,Medicaid,2024-06-01,TRUE,FALSE,2031,8,795.531
+outlay,Mandatory,Medicaid,2024-06-01,TRUE,FALSE,2032,9,837.525
+outlay,Mandatory,Medicaid,2024-06-01,TRUE,FALSE,2033,10,885.989
+outlay,Mandatory,Medicaid,2024-06-01,TRUE,FALSE,2034,11,932.564
+outlay,Mandatory,Medicare,2024-06-01,TRUE,FALSE,2024,1,858.143
+outlay,Mandatory,Medicare,2024-06-01,TRUE,FALSE,2025,2,934.643
+outlay,Mandatory,Medicare,2024-06-01,TRUE,FALSE,2026,3,998.017
+outlay,Mandatory,Medicare,2024-06-01,TRUE,FALSE,2027,4,1066.92
+outlay,Mandatory,Medicare,2024-06-01,TRUE,FALSE,2028,5,1214.902
+outlay,Mandatory,Medicare,2024-06-01,TRUE,FALSE,2029,6,1136.044
+outlay,Mandatory,Medicare,2024-06-01,TRUE,FALSE,2030,7,1298.254
+outlay,Mandatory,Medicare,2024-06-01,TRUE,FALSE,2031,8,1390.319
+outlay,Mandatory,Medicare,2024-06-01,TRUE,FALSE,2032,9,1487.515
+outlay,Mandatory,Medicare,2024-06-01,TRUE,FALSE,2033,10,1727.727
+outlay,Mandatory,Medicare,2024-06-01,TRUE,FALSE,2034,11,1744.613
+outlay,Mandatory,Other Mandatory,2024-06-01,TRUE,FALSE,2024,1,1210.488
+outlay,Mandatory,Other Mandatory,2024-06-01,TRUE,FALSE,2025,2,1043.085
+outlay,Mandatory,Other Mandatory,2024-06-01,TRUE,FALSE,2026,3,1023.855
+outlay,Mandatory,Other Mandatory,2024-06-01,TRUE,FALSE,2027,4,1030.195
+outlay,Mandatory,Other Mandatory,2024-06-01,TRUE,FALSE,2028,5,1020.357
+outlay,Mandatory,Other Mandatory,2024-06-01,TRUE,FALSE,2029,6,1061.154
+outlay,Mandatory,Other Mandatory,2024-06-01,TRUE,FALSE,2030,7,1094.783
+outlay,Mandatory,Other Mandatory,2024-06-01,TRUE,FALSE,2031,8,1117.146
+outlay,Mandatory,Other Mandatory,2024-06-01,TRUE,FALSE,2032,9,1156.202
+outlay,Mandatory,Other Mandatory,2024-06-01,TRUE,FALSE,2033,10,1201.311
+outlay,Mandatory,Other Mandatory,2024-06-01,TRUE,FALSE,2034,11,1186.372
+outlay,Mandatory,Social Security,2024-06-01,TRUE,FALSE,2024,1,1451.934
+outlay,Mandatory,Social Security,2024-06-01,TRUE,FALSE,2025,2,1549.11
+outlay,Mandatory,Social Security,2024-06-01,TRUE,FALSE,2026,3,1647.112
+outlay,Mandatory,Social Security,2024-06-01,TRUE,FALSE,2027,4,1740.634
+outlay,Mandatory,Social Security,2024-06-01,TRUE,FALSE,2028,5,1838.483
+outlay,Mandatory,Social Security,2024-06-01,TRUE,FALSE,2029,6,1938.394
+outlay,Mandatory,Social Security,2024-06-01,TRUE,FALSE,2030,7,2040.598
+outlay,Mandatory,Social Security,2024-06-01,TRUE,FALSE,2031,8,2146.676
+outlay,Mandatory,Social Security,2024-06-01,TRUE,FALSE,2032,9,2255.005
+outlay,Mandatory,Social Security,2024-06-01,TRUE,FALSE,2033,10,2364.405
+outlay,Mandatory,Social Security,2024-06-01,TRUE,FALSE,2034,11,2478.1
+outlay,Mandatory,Total Mandatory,2024-06-01,TRUE,FALSE,2024,1,4127.463
+outlay,Mandatory,Total Mandatory,2024-06-01,TRUE,FALSE,2025,2,4127.297
+outlay,Mandatory,Total Mandatory,2024-06-01,TRUE,FALSE,2026,3,4283.425
+outlay,Mandatory,Total Mandatory,2024-06-01,TRUE,FALSE,2027,4,4479.837
+outlay,Mandatory,Total Mandatory,2024-06-01,TRUE,FALSE,2028,5,4753.634
+outlay,Mandatory,Total Mandatory,2024-06-01,TRUE,FALSE,2029,6,4852.733
+outlay,Mandatory,Total Mandatory,2024-06-01,TRUE,FALSE,2030,7,5189.895
+outlay,Mandatory,Total Mandatory,2024-06-01,TRUE,FALSE,2031,8,5449.672
+outlay,Mandatory,Total Mandatory,2024-06-01,TRUE,FALSE,2032,9,5736.247
+outlay,Mandatory,Total Mandatory,2024-06-01,TRUE,FALSE,2033,10,6179.432
+outlay,Mandatory,Total Mandatory,2024-06-01,TRUE,FALSE,2034,11,6341.649
+outlay,Net Interest,Net Interest,2024-06-01,TRUE,FALSE,2024,1,892.305
+outlay,Net Interest,Net Interest,2024-06-01,TRUE,FALSE,2025,2,1015.687
+outlay,Net Interest,Net Interest,2024-06-01,TRUE,FALSE,2026,3,1060.747
+outlay,Net Interest,Net Interest,2024-06-01,TRUE,FALSE,2027,4,1083.93
+outlay,Net Interest,Net Interest,2024-06-01,TRUE,FALSE,2028,5,1135.608
+outlay,Net Interest,Net Interest,2024-06-01,TRUE,FALSE,2029,6,1198.767
+outlay,Net Interest,Net Interest,2024-06-01,TRUE,FALSE,2030,7,1277.867
+outlay,Net Interest,Net Interest,2024-06-01,TRUE,FALSE,2031,8,1372.806
+outlay,Net Interest,Net Interest,2024-06-01,TRUE,FALSE,2032,9,1483.541
+outlay,Net Interest,Net Interest,2024-06-01,TRUE,FALSE,2033,10,1594.271
+outlay,Net Interest,Net Interest,2024-06-01,TRUE,FALSE,2034,11,1710.182
+outlay,Total,Total,2024-06-01,TRUE,FALSE,2024,1,6811.248
+outlay,Total,Total,2024-06-01,TRUE,FALSE,2025,2,6975.419
+outlay,Total,Total,2024-06-01,TRUE,FALSE,2026,3,7242.43
+outlay,Total,Total,2024-06-01,TRUE,FALSE,2027,4,7508.017
+outlay,Total,Total,2024-06-01,TRUE,FALSE,2028,5,7881.542
+outlay,Total,Total,2024-06-01,TRUE,FALSE,2029,6,8077.21
+outlay,Total,Total,2024-06-01,TRUE,FALSE,2030,7,8541.419
+outlay,Total,Total,2024-06-01,TRUE,FALSE,2031,8,8938.29
+outlay,Total,Total,2024-06-01,TRUE,FALSE,2032,9,9381.028
+outlay,Total,Total,2024-06-01,TRUE,FALSE,2033,10,9988.798
+outlay,Total,Total,2024-06-01,TRUE,FALSE,2034,11,10311.027
+revenue,Corporate Income Taxes,Corporate Income Taxes,2024-06-01,FALSE,FALSE,2024,1,525.402
+revenue,Corporate Income Taxes,Corporate Income Taxes,2024-06-01,FALSE,FALSE,2025,2,490.086
+revenue,Corporate Income Taxes,Corporate Income Taxes,2024-06-01,FALSE,FALSE,2026,3,470.452
+revenue,Corporate Income Taxes,Corporate Income Taxes,2024-06-01,FALSE,FALSE,2027,4,459.399
+revenue,Corporate Income Taxes,Corporate Income Taxes,2024-06-01,FALSE,FALSE,2028,5,461.554
+revenue,Corporate Income Taxes,Corporate Income Taxes,2024-06-01,FALSE,FALSE,2029,6,460.858
+revenue,Corporate Income Taxes,Corporate Income Taxes,2024-06-01,FALSE,FALSE,2030,7,462.811
+revenue,Corporate Income Taxes,Corporate Income Taxes,2024-06-01,FALSE,FALSE,2031,8,465.987
+revenue,Corporate Income Taxes,Corporate Income Taxes,2024-06-01,FALSE,FALSE,2032,9,471.01
+revenue,Corporate Income Taxes,Corporate Income Taxes,2024-06-01,FALSE,FALSE,2033,10,495.304
+revenue,Corporate Income Taxes,Corporate Income Taxes,2024-06-01,FALSE,FALSE,2034,11,506.704
+revenue,Custom Duties,Custom Duties,2024-06-01,FALSE,FALSE,2024,1,73.379
+revenue,Custom Duties,Custom Duties,2024-06-01,FALSE,FALSE,2025,2,76.187
+revenue,Custom Duties,Custom Duties,2024-06-01,FALSE,FALSE,2026,3,79.779
+revenue,Custom Duties,Custom Duties,2024-06-01,FALSE,FALSE,2027,4,83.017
+revenue,Custom Duties,Custom Duties,2024-06-01,FALSE,FALSE,2028,5,85.427
+revenue,Custom Duties,Custom Duties,2024-06-01,FALSE,FALSE,2029,6,87.107
+revenue,Custom Duties,Custom Duties,2024-06-01,FALSE,FALSE,2030,7,88.577
+revenue,Custom Duties,Custom Duties,2024-06-01,FALSE,FALSE,2031,8,90.273
+revenue,Custom Duties,Custom Duties,2024-06-01,FALSE,FALSE,2032,9,92.085
+revenue,Custom Duties,Custom Duties,2024-06-01,FALSE,FALSE,2033,10,94.008
+revenue,Custom Duties,Custom Duties,2024-06-01,FALSE,FALSE,2034,11,96.026
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2024-06-01,FALSE,FALSE,2024,1,32.367
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2024-06-01,FALSE,FALSE,2025,2,34.589
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2024-06-01,FALSE,FALSE,2026,3,35.429
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2024-06-01,FALSE,FALSE,2027,4,49.449
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2024-06-01,FALSE,FALSE,2028,5,52.664
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2024-06-01,FALSE,FALSE,2029,6,54.73
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2024-06-01,FALSE,FALSE,2030,7,57.313
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2024-06-01,FALSE,FALSE,2031,8,60.416
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2024-06-01,FALSE,FALSE,2032,9,63.972
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2024-06-01,FALSE,FALSE,2033,10,67.914
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2024-06-01,FALSE,FALSE,2034,11,72.174
+revenue,Excise Taxes,Excise Taxes,2024-06-01,FALSE,FALSE,2024,1,89.162
+revenue,Excise Taxes,Excise Taxes,2024-06-01,FALSE,FALSE,2025,2,96.433
+revenue,Excise Taxes,Excise Taxes,2024-06-01,FALSE,FALSE,2026,3,98.984
+revenue,Excise Taxes,Excise Taxes,2024-06-01,FALSE,FALSE,2027,4,99.646
+revenue,Excise Taxes,Excise Taxes,2024-06-01,FALSE,FALSE,2028,5,99.664
+revenue,Excise Taxes,Excise Taxes,2024-06-01,FALSE,FALSE,2029,6,99.604
+revenue,Excise Taxes,Excise Taxes,2024-06-01,FALSE,FALSE,2030,7,99.308
+revenue,Excise Taxes,Excise Taxes,2024-06-01,FALSE,FALSE,2031,8,98.682
+revenue,Excise Taxes,Excise Taxes,2024-06-01,FALSE,FALSE,2032,9,97.385
+revenue,Excise Taxes,Excise Taxes,2024-06-01,FALSE,FALSE,2033,10,97.613
+revenue,Excise Taxes,Excise Taxes,2024-06-01,FALSE,FALSE,2034,11,98.285
+revenue,Individual Income Taxes,Individual Income Taxes,2024-06-01,FALSE,FALSE,2024,1,2446.664
+revenue,Individual Income Taxes,Individual Income Taxes,2024-06-01,FALSE,FALSE,2025,2,2549.865
+revenue,Individual Income Taxes,Individual Income Taxes,2024-06-01,FALSE,FALSE,2026,3,2841.002
+revenue,Individual Income Taxes,Individual Income Taxes,2024-06-01,FALSE,FALSE,2027,4,3121.953
+revenue,Individual Income Taxes,Individual Income Taxes,2024-06-01,FALSE,FALSE,2028,5,3224.15
+revenue,Individual Income Taxes,Individual Income Taxes,2024-06-01,FALSE,FALSE,2029,6,3326.854
+revenue,Individual Income Taxes,Individual Income Taxes,2024-06-01,FALSE,FALSE,2030,7,3455.086
+revenue,Individual Income Taxes,Individual Income Taxes,2024-06-01,FALSE,FALSE,2031,8,3583.2
+revenue,Individual Income Taxes,Individual Income Taxes,2024-06-01,FALSE,FALSE,2032,9,3710.438
+revenue,Individual Income Taxes,Individual Income Taxes,2024-06-01,FALSE,FALSE,2033,10,3858.924
+revenue,Individual Income Taxes,Individual Income Taxes,2024-06-01,FALSE,FALSE,2034,11,4020.648
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-06-01,FALSE,FALSE,2024,1,44.334
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-06-01,FALSE,FALSE,2025,2,53.275
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-06-01,FALSE,FALSE,2026,3,53.708
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-06-01,FALSE,FALSE,2027,4,57.089
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-06-01,FALSE,FALSE,2028,5,60.355
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-06-01,FALSE,FALSE,2029,6,66.026
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-06-01,FALSE,FALSE,2030,7,72.79
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-06-01,FALSE,FALSE,2031,8,162.587
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-06-01,FALSE,FALSE,2032,9,181.329
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-06-01,FALSE,FALSE,2033,10,194.342
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-06-01,FALSE,FALSE,2034,11,209.809
+revenue,Payroll Taxes,Payroll Taxes,2024-06-01,FALSE,FALSE,2024,1,1678.453
+revenue,Payroll Taxes,Payroll Taxes,2024-06-01,FALSE,FALSE,2025,2,1737.193
+revenue,Payroll Taxes,Payroll Taxes,2024-06-01,FALSE,FALSE,2026,3,1814.246
+revenue,Payroll Taxes,Payroll Taxes,2024-06-01,FALSE,FALSE,2027,4,1885.543
+revenue,Payroll Taxes,Payroll Taxes,2024-06-01,FALSE,FALSE,2028,5,1960.072
+revenue,Payroll Taxes,Payroll Taxes,2024-06-01,FALSE,FALSE,2029,6,2038.246
+revenue,Payroll Taxes,Payroll Taxes,2024-06-01,FALSE,FALSE,2030,7,2118.127
+revenue,Payroll Taxes,Payroll Taxes,2024-06-01,FALSE,FALSE,2031,8,2199.983
+revenue,Payroll Taxes,Payroll Taxes,2024-06-01,FALSE,FALSE,2032,9,2283.177
+revenue,Payroll Taxes,Payroll Taxes,2024-06-01,FALSE,FALSE,2033,10,2367.911
+revenue,Payroll Taxes,Payroll Taxes,2024-06-01,FALSE,FALSE,2034,11,2455.084
+revenue,Total,Total,2024-06-01,FALSE,FALSE,2024,1,4889.761
+revenue,Total,Total,2024-06-01,FALSE,FALSE,2025,2,5037.628
+revenue,Total,Total,2024-06-01,FALSE,FALSE,2026,3,5393.6
+revenue,Total,Total,2024-06-01,FALSE,FALSE,2027,4,5756.096
+revenue,Total,Total,2024-06-01,FALSE,FALSE,2028,5,5943.886
+revenue,Total,Total,2024-06-01,FALSE,FALSE,2029,6,6133.425
+revenue,Total,Total,2024-06-01,FALSE,FALSE,2030,7,6354.012
+revenue,Total,Total,2024-06-01,FALSE,FALSE,2031,8,6661.128
+revenue,Total,Total,2024-06-01,FALSE,FALSE,2032,9,6899.396
+revenue,Total,Total,2024-06-01,FALSE,FALSE,2033,10,7176.016
+revenue,Total,Total,2024-06-01,FALSE,FALSE,2034,11,7458.73
+debt,Total,Total,2024-06-01,TRUE,FALSE,2024,1,28177.636
+debt,Total,Total,2024-06-01,TRUE,FALSE,2025,2,30187.839
+debt,Total,Total,2024-06-01,TRUE,FALSE,2026,3,32117.707
+debt,Total,Total,2024-06-01,TRUE,FALSE,2027,4,33948.519
+debt,Total,Total,2024-06-01,TRUE,FALSE,2028,5,35959.838
+debt,Total,Total,2024-06-01,TRUE,FALSE,2029,6,37965.341
+debt,Total,Total,2024-06-01,TRUE,FALSE,2030,7,40198.264
+debt,Total,Total,2024-06-01,TRUE,FALSE,2031,8,42507.857
+debt,Total,Total,2024-06-01,TRUE,FALSE,2032,9,45013.947
+debt,Total,Total,2024-06-01,TRUE,FALSE,2033,10,47818.794
+debt,Total,Total,2024-06-01,TRUE,FALSE,2034,11,50664.181
+deficit,Total,Total,2024-06-01,TRUE,FALSE,2024,1,-1921.487
+deficit,Total,Total,2024-06-01,TRUE,FALSE,2025,2,-1937.791
+deficit,Total,Total,2024-06-01,TRUE,FALSE,2026,3,-1848.83
+deficit,Total,Total,2024-06-01,TRUE,FALSE,2027,4,-1751.921
+deficit,Total,Total,2024-06-01,TRUE,FALSE,2028,5,-1937.656
+deficit,Total,Total,2024-06-01,TRUE,FALSE,2029,6,-1943.785
+deficit,Total,Total,2024-06-01,TRUE,FALSE,2030,7,-2187.407
+deficit,Total,Total,2024-06-01,TRUE,FALSE,2031,8,-2277.162
+deficit,Total,Total,2024-06-01,TRUE,FALSE,2032,9,-2481.632
+deficit,Total,Total,2024-06-01,TRUE,FALSE,2033,10,-2812.782
+deficit,Total,Total,2024-06-01,TRUE,FALSE,2034,11,-2852.297

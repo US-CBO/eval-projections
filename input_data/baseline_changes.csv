@@ -33892,7 +33892,7 @@ revenue,Customs Duties,Customs Duties,2023-12-01,Legislative,2023,0
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,2023-12-01,Legislative,2023,0
 revenue,Total,Total,2023-12-01,Legislative,2023,0
 revenue,Individual Income Taxes,Individual Income Taxes,2023-12-01,Legislative,2023,0
-outlay,Discretionary,Defense,2024-02-01,Economic,2024,0.000
+outlay,Discretionary,Defense,2024-02-01,Economic,2024,0
 outlay,Discretionary,Defense,2024-02-01,Economic,2025,-0.653
 outlay,Discretionary,Defense,2024-02-01,Economic,2026,-1.348
 outlay,Discretionary,Defense,2024-02-01,Economic,2027,-2.188
@@ -33902,7 +33902,7 @@ outlay,Discretionary,Defense,2024-02-01,Economic,2030,-5.325
 outlay,Discretionary,Defense,2024-02-01,Economic,2031,-6.505
 outlay,Discretionary,Defense,2024-02-01,Economic,2032,-7.699
 outlay,Discretionary,Defense,2024-02-01,Economic,2033,-8.714
-outlay,Discretionary,Nondefense,2024-02-01,Economic,2024,0.000
+outlay,Discretionary,Nondefense,2024-02-01,Economic,2024,0
 outlay,Discretionary,Nondefense,2024-02-01,Economic,2025,0.353
 outlay,Discretionary,Nondefense,2024-02-01,Economic,2026,-0.221
 outlay,Discretionary,Nondefense,2024-02-01,Economic,2027,-1.042
@@ -33910,14 +33910,14 @@ outlay,Discretionary,Nondefense,2024-02-01,Economic,2028,-1.972
 outlay,Discretionary,Nondefense,2024-02-01,Economic,2029,-2.968
 outlay,Discretionary,Nondefense,2024-02-01,Economic,2030,-3.977
 outlay,Discretionary,Nondefense,2024-02-01,Economic,2031,-5.151
-outlay,Discretionary,Nondefense,2024-02-01,Economic,2032,-6.340
+outlay,Discretionary,Nondefense,2024-02-01,Economic,2032,-6.34
 outlay,Discretionary,Nondefense,2024-02-01,Economic,2033,-7.273
-outlay,Discretionary,Total Discretionary,2024-02-01,Economic,2024,0.000
-outlay,Discretionary,Total Discretionary,2024-02-01,Economic,2025,-0.300
+outlay,Discretionary,Total Discretionary,2024-02-01,Economic,2024,0
+outlay,Discretionary,Total Discretionary,2024-02-01,Economic,2025,-0.3
 outlay,Discretionary,Total Discretionary,2024-02-01,Economic,2026,-1.569
-outlay,Discretionary,Total Discretionary,2024-02-01,Economic,2027,-3.230
+outlay,Discretionary,Total Discretionary,2024-02-01,Economic,2027,-3.23
 outlay,Discretionary,Total Discretionary,2024-02-01,Economic,2028,-5.301
-outlay,Discretionary,Total Discretionary,2024-02-01,Economic,2029,-7.220
+outlay,Discretionary,Total Discretionary,2024-02-01,Economic,2029,-7.22
 outlay,Discretionary,Total Discretionary,2024-02-01,Economic,2030,-9.302
 outlay,Discretionary,Total Discretionary,2024-02-01,Economic,2031,-11.656
 outlay,Discretionary,Total Discretionary,2024-02-01,Economic,2032,-14.039
@@ -33946,8 +33946,8 @@ outlay,Discretionary,Total Discretionary,2024-02-01,Legislative,2024,-83.828
 outlay,Discretionary,Total Discretionary,2024-02-01,Legislative,2025,-166.551
 outlay,Discretionary,Total Discretionary,2024-02-01,Legislative,2026,-196.752
 outlay,Discretionary,Total Discretionary,2024-02-01,Legislative,2027,-225.496
-outlay,Discretionary,Total Discretionary,2024-02-01,Legislative,2028,-242.340
-outlay,Discretionary,Total Discretionary,2024-02-01,Legislative,2029,-254.400
+outlay,Discretionary,Total Discretionary,2024-02-01,Legislative,2028,-242.34
+outlay,Discretionary,Total Discretionary,2024-02-01,Legislative,2029,-254.4
 outlay,Discretionary,Total Discretionary,2024-02-01,Legislative,2030,-265.302
 outlay,Discretionary,Total Discretionary,2024-02-01,Legislative,2031,-272.569
 outlay,Discretionary,Total Discretionary,2024-02-01,Legislative,2032,-278.501
@@ -33977,7 +33977,7 @@ outlay,Discretionary,Total Discretionary,2024-02-01,Technical,2025,-16.521
 outlay,Discretionary,Total Discretionary,2024-02-01,Technical,2026,-5.127
 outlay,Discretionary,Total Discretionary,2024-02-01,Technical,2027,-0.721
 outlay,Discretionary,Total Discretionary,2024-02-01,Technical,2028,0.985
-outlay,Discretionary,Total Discretionary,2024-02-01,Technical,2029,1.460
+outlay,Discretionary,Total Discretionary,2024-02-01,Technical,2029,1.46
 outlay,Discretionary,Total Discretionary,2024-02-01,Technical,2030,2.054
 outlay,Discretionary,Total Discretionary,2024-02-01,Technical,2031,-0.948
 outlay,Discretionary,Total Discretionary,2024-02-01,Technical,2032,-4.044
@@ -33992,38 +33992,38 @@ outlay,Mandatory,Medicaid,2024-02-01,Economic,2030,-9.435
 outlay,Mandatory,Medicaid,2024-02-01,Economic,2031,-11.136
 outlay,Mandatory,Medicaid,2024-02-01,Economic,2032,-12.867
 outlay,Mandatory,Medicaid,2024-02-01,Economic,2033,-14.758
-outlay,Mandatory,Medicare,2024-02-01,Economic,2024,-0.610
-outlay,Mandatory,Medicare,2024-02-01,Economic,2025,-1.690
+outlay,Mandatory,Medicare,2024-02-01,Economic,2024,-0.61
+outlay,Mandatory,Medicare,2024-02-01,Economic,2025,-1.69
 outlay,Mandatory,Medicare,2024-02-01,Economic,2026,-0.139
 outlay,Mandatory,Medicare,2024-02-01,Economic,2027,2.356
 outlay,Mandatory,Medicare,2024-02-01,Economic,2028,3.436
 outlay,Mandatory,Medicare,2024-02-01,Economic,2029,3.865
-outlay,Mandatory,Medicare,2024-02-01,Economic,2030,5.130
+outlay,Mandatory,Medicare,2024-02-01,Economic,2030,5.13
 outlay,Mandatory,Medicare,2024-02-01,Economic,2031,5.319
 outlay,Mandatory,Medicare,2024-02-01,Economic,2032,5.846
 outlay,Mandatory,Medicare,2024-02-01,Economic,2033,8.008
 outlay,Mandatory,Other Mandatory,2024-02-01,Economic,2024,-16.761
 outlay,Mandatory,Other Mandatory,2024-02-01,Economic,2025,-16.183
 outlay,Mandatory,Other Mandatory,2024-02-01,Economic,2026,-14.795
-outlay,Mandatory,Other Mandatory,2024-02-01,Economic,2027,-9.960
+outlay,Mandatory,Other Mandatory,2024-02-01,Economic,2027,-9.96
 outlay,Mandatory,Other Mandatory,2024-02-01,Economic,2028,-6.569
-outlay,Mandatory,Other Mandatory,2024-02-01,Economic,2029,-4.600
+outlay,Mandatory,Other Mandatory,2024-02-01,Economic,2029,-4.6
 outlay,Mandatory,Other Mandatory,2024-02-01,Economic,2030,-4.213
 outlay,Mandatory,Other Mandatory,2024-02-01,Economic,2031,-4.424
 outlay,Mandatory,Other Mandatory,2024-02-01,Economic,2032,-4.721
 outlay,Mandatory,Other Mandatory,2024-02-01,Economic,2033,-2.353
-outlay,Mandatory,Social Security,2024-02-01,Economic,2024,-10.400
-outlay,Mandatory,Social Security,2024-02-01,Economic,2025,-18.300
-outlay,Mandatory,Social Security,2024-02-01,Economic,2026,-17.500
-outlay,Mandatory,Social Security,2024-02-01,Economic,2027,-13.900
-outlay,Mandatory,Social Security,2024-02-01,Economic,2028,-13.100
-outlay,Mandatory,Social Security,2024-02-01,Economic,2029,-14.600
-outlay,Mandatory,Social Security,2024-02-01,Economic,2030,-18.400
-outlay,Mandatory,Social Security,2024-02-01,Economic,2031,-23.600
-outlay,Mandatory,Social Security,2024-02-01,Economic,2032,-29.200
-outlay,Mandatory,Social Security,2024-02-01,Economic,2033,-33.500
+outlay,Mandatory,Social Security,2024-02-01,Economic,2024,-10.4
+outlay,Mandatory,Social Security,2024-02-01,Economic,2025,-18.3
+outlay,Mandatory,Social Security,2024-02-01,Economic,2026,-17.5
+outlay,Mandatory,Social Security,2024-02-01,Economic,2027,-13.9
+outlay,Mandatory,Social Security,2024-02-01,Economic,2028,-13.1
+outlay,Mandatory,Social Security,2024-02-01,Economic,2029,-14.6
+outlay,Mandatory,Social Security,2024-02-01,Economic,2030,-18.4
+outlay,Mandatory,Social Security,2024-02-01,Economic,2031,-23.6
+outlay,Mandatory,Social Security,2024-02-01,Economic,2032,-29.2
+outlay,Mandatory,Social Security,2024-02-01,Economic,2033,-33.5
 outlay,Mandatory,Total Mandatory,2024-02-01,Economic,2024,-31.882
-outlay,Mandatory,Total Mandatory,2024-02-01,Economic,2025,-38.880
+outlay,Mandatory,Total Mandatory,2024-02-01,Economic,2025,-38.88
 outlay,Mandatory,Total Mandatory,2024-02-01,Economic,2026,-35.419
 outlay,Mandatory,Total Mandatory,2024-02-01,Economic,2027,-25.508
 outlay,Mandatory,Total Mandatory,2024-02-01,Economic,2028,-22.012
@@ -34038,7 +34038,7 @@ outlay,Mandatory,Medicaid,2024-02-01,Legislative,2027,-0.027
 outlay,Mandatory,Medicaid,2024-02-01,Legislative,2028,-0.375
 outlay,Mandatory,Medicaid,2024-02-01,Legislative,2029,-0.393
 outlay,Mandatory,Medicaid,2024-02-01,Legislative,2030,-0.412
-outlay,Mandatory,Medicaid,2024-02-01,Legislative,2031,0.000
+outlay,Mandatory,Medicaid,2024-02-01,Legislative,2031,0
 outlay,Mandatory,Medicaid,2024-02-01,Legislative,2032,0.006
 outlay,Mandatory,Medicaid,2024-02-01,Legislative,2033,0.005
 outlay,Mandatory,Medicare,2024-02-01,Legislative,2024,0.458
@@ -34052,10 +34052,10 @@ outlay,Mandatory,Medicare,2024-02-01,Legislative,2031,0.007
 outlay,Mandatory,Medicare,2024-02-01,Legislative,2032,0.202
 outlay,Mandatory,Medicare,2024-02-01,Legislative,2033,-1.971
 outlay,Mandatory,Other Mandatory,2024-02-01,Legislative,2024,-3.156
-outlay,Mandatory,Other Mandatory,2024-02-01,Legislative,2025,-2.790
+outlay,Mandatory,Other Mandatory,2024-02-01,Legislative,2025,-2.79
 outlay,Mandatory,Other Mandatory,2024-02-01,Legislative,2026,0.157
 outlay,Mandatory,Other Mandatory,2024-02-01,Legislative,2027,0.311
-outlay,Mandatory,Other Mandatory,2024-02-01,Legislative,2028,0.440
+outlay,Mandatory,Other Mandatory,2024-02-01,Legislative,2028,0.44
 outlay,Mandatory,Other Mandatory,2024-02-01,Legislative,2029,0.538
 outlay,Mandatory,Other Mandatory,2024-02-01,Legislative,2030,0.421
 outlay,Mandatory,Other Mandatory,2024-02-01,Legislative,2031,0.229
@@ -34071,21 +34071,21 @@ outlay,Mandatory,Total Mandatory,2024-02-01,Legislative,2030,0.614
 outlay,Mandatory,Total Mandatory,2024-02-01,Legislative,2031,0.236
 outlay,Mandatory,Total Mandatory,2024-02-01,Legislative,2032,-2.254
 outlay,Mandatory,Total Mandatory,2024-02-01,Legislative,2033,-1.038
-outlay,Mandatory,Fannie Freddie,2024-02-01,Technical,2024,-14.540
-outlay,Mandatory,Fannie Freddie,2024-02-01,Technical,2025,-2.700
-outlay,Mandatory,Fannie Freddie,2024-02-01,Technical,2026,1.300
-outlay,Mandatory,Fannie Freddie,2024-02-01,Technical,2027,4.400
-outlay,Mandatory,Fannie Freddie,2024-02-01,Technical,2028,4.600
-outlay,Mandatory,Fannie Freddie,2024-02-01,Technical,2029,3.900
-outlay,Mandatory,Fannie Freddie,2024-02-01,Technical,2030,2.500
-outlay,Mandatory,Fannie Freddie,2024-02-01,Technical,2031,0.700
-outlay,Mandatory,Fannie Freddie,2024-02-01,Technical,2032,-0.700
-outlay,Mandatory,Fannie Freddie,2024-02-01,Technical,2033,-3.000
+outlay,Mandatory,Fannie Freddie,2024-02-01,Technical,2024,-14.54
+outlay,Mandatory,Fannie Freddie,2024-02-01,Technical,2025,-2.7
+outlay,Mandatory,Fannie Freddie,2024-02-01,Technical,2026,1.3
+outlay,Mandatory,Fannie Freddie,2024-02-01,Technical,2027,4.4
+outlay,Mandatory,Fannie Freddie,2024-02-01,Technical,2028,4.6
+outlay,Mandatory,Fannie Freddie,2024-02-01,Technical,2029,3.9
+outlay,Mandatory,Fannie Freddie,2024-02-01,Technical,2030,2.5
+outlay,Mandatory,Fannie Freddie,2024-02-01,Technical,2031,0.7
+outlay,Mandatory,Fannie Freddie,2024-02-01,Technical,2032,-0.7
+outlay,Mandatory,Fannie Freddie,2024-02-01,Technical,2033,-3
 outlay,Mandatory,Medicaid,2024-02-01,Technical,2024,23.051
 outlay,Mandatory,Medicaid,2024-02-01,Technical,2025,16.815
 outlay,Mandatory,Medicaid,2024-02-01,Technical,2026,11.211
 outlay,Mandatory,Medicaid,2024-02-01,Technical,2027,10.063
-outlay,Mandatory,Medicaid,2024-02-01,Technical,2028,11.030
+outlay,Mandatory,Medicaid,2024-02-01,Technical,2028,11.03
 outlay,Mandatory,Medicaid,2024-02-01,Technical,2029,8.528
 outlay,Mandatory,Medicaid,2024-02-01,Technical,2030,5.158
 outlay,Mandatory,Medicaid,2024-02-01,Technical,2031,-0.318
@@ -34110,7 +34110,7 @@ outlay,Mandatory,Other Mandatory,2024-02-01,Technical,2029,16.667
 outlay,Mandatory,Other Mandatory,2024-02-01,Technical,2030,8.826
 outlay,Mandatory,Other Mandatory,2024-02-01,Technical,2031,9.116
 outlay,Mandatory,Other Mandatory,2024-02-01,Technical,2032,12.466
-outlay,Mandatory,Other Mandatory,2024-02-01,Technical,2033,1.570
+outlay,Mandatory,Other Mandatory,2024-02-01,Technical,2033,1.57
 outlay,Mandatory,Social Security,2024-02-01,Technical,2024,6.233
 outlay,Mandatory,Social Security,2024-02-01,Technical,2025,9.978
 outlay,Mandatory,Social Security,2024-02-01,Technical,2026,13.825
@@ -34125,7 +34125,7 @@ outlay,Mandatory,Total Mandatory,2024-02-01,Technical,2024,59.263
 outlay,Mandatory,Total Mandatory,2024-02-01,Technical,2025,82.306
 outlay,Mandatory,Total Mandatory,2024-02-01,Technical,2026,74.106
 outlay,Mandatory,Total Mandatory,2024-02-01,Technical,2027,68.622
-outlay,Mandatory,Total Mandatory,2024-02-01,Technical,2028,23.730
+outlay,Mandatory,Total Mandatory,2024-02-01,Technical,2028,23.73
 outlay,Mandatory,Total Mandatory,2024-02-01,Technical,2029,66.333
 outlay,Mandatory,Total Mandatory,2024-02-01,Technical,2030,57.293
 outlay,Mandatory,Total Mandatory,2024-02-01,Technical,2031,53.764
@@ -34142,7 +34142,7 @@ outlay,Total,Total,2024-02-01,Legislative,2031,-328.705
 outlay,Total,Total,2024-02-01,Legislative,2032,-348.033
 outlay,Total,Total,2024-02-01,Legislative,2033,-365.293
 outlay,Total,Total,2024-02-01,Economic,2024,47.804
-outlay,Total,Total,2024-02-01,Economic,2025,108.050
+outlay,Total,Total,2024-02-01,Economic,2025,108.05
 outlay,Total,Total,2024-02-01,Economic,2026,116.148
 outlay,Total,Total,2024-02-01,Economic,2027,102.251
 outlay,Total,Total,2024-02-01,Economic,2028,81.594
@@ -34157,7 +34157,7 @@ outlay,Total,Total,2024-02-01,Technical,2026,100.115
 outlay,Total,Total,2024-02-01,Technical,2027,95.382
 outlay,Total,Total,2024-02-01,Technical,2028,46.896
 outlay,Total,Total,2024-02-01,Technical,2029,90.431
-outlay,Total,Total,2024-02-01,Technical,2030,84.570
+outlay,Total,Total,2024-02-01,Technical,2030,84.57
 outlay,Total,Total,2024-02-01,Technical,2031,81.893
 outlay,Total,Total,2024-02-01,Technical,2032,81.731
 outlay,Total,Total,2024-02-01,Technical,2033,73.722
@@ -34167,12 +34167,12 @@ outlay,Net Interest,Net Interest,2024-02-01,Legislative,2026,-14.721
 outlay,Net Interest,Net Interest,2024-02-01,Legislative,2027,-21.471
 outlay,Net Interest,Net Interest,2024-02-01,Legislative,2028,-28.647
 outlay,Net Interest,Net Interest,2024-02-01,Legislative,2029,-36.725
-outlay,Net Interest,Net Interest,2024-02-01,Legislative,2030,-46.170
+outlay,Net Interest,Net Interest,2024-02-01,Legislative,2030,-46.17
 outlay,Net Interest,Net Interest,2024-02-01,Legislative,2031,-56.372
 outlay,Net Interest,Net Interest,2024-02-01,Legislative,2032,-67.278
 outlay,Net Interest,Net Interest,2024-02-01,Legislative,2033,-78.939
 outlay,Net Interest,Net Interest,2024-02-01,Economic,2024,79.686
-outlay,Net Interest,Net Interest,2024-02-01,Economic,2025,147.230
+outlay,Net Interest,Net Interest,2024-02-01,Economic,2025,147.23
 outlay,Net Interest,Net Interest,2024-02-01,Economic,2026,153.136
 outlay,Net Interest,Net Interest,2024-02-01,Economic,2027,130.989
 outlay,Net Interest,Net Interest,2024-02-01,Economic,2028,108.907
@@ -34197,8 +34197,8 @@ revenue,Corporate Income Taxes,Corporate Income Taxes,2024-02-01,Legislative,202
 revenue,Corporate Income Taxes,Corporate Income Taxes,2024-02-01,Legislative,2027,-0.148
 revenue,Corporate Income Taxes,Corporate Income Taxes,2024-02-01,Legislative,2028,-0.158
 revenue,Corporate Income Taxes,Corporate Income Taxes,2024-02-01,Legislative,2029,-0.162
-revenue,Corporate Income Taxes,Corporate Income Taxes,2024-02-01,Legislative,2030,-0.160
-revenue,Corporate Income Taxes,Corporate Income Taxes,2024-02-01,Legislative,2031,-0.150
+revenue,Corporate Income Taxes,Corporate Income Taxes,2024-02-01,Legislative,2030,-0.16
+revenue,Corporate Income Taxes,Corporate Income Taxes,2024-02-01,Legislative,2031,-0.15
 revenue,Corporate Income Taxes,Corporate Income Taxes,2024-02-01,Legislative,2032,-0.141
 revenue,Corporate Income Taxes,Corporate Income Taxes,2024-02-01,Legislative,2033,-0.132
 revenue,Individual Income Taxes,Individual Income Taxes,2024-02-01,Legislative,2024,-0.062
@@ -34207,8 +34207,8 @@ revenue,Individual Income Taxes,Individual Income Taxes,2024-02-01,Legislative,2
 revenue,Individual Income Taxes,Individual Income Taxes,2024-02-01,Legislative,2027,-0.148
 revenue,Individual Income Taxes,Individual Income Taxes,2024-02-01,Legislative,2028,-0.158
 revenue,Individual Income Taxes,Individual Income Taxes,2024-02-01,Legislative,2029,-0.162
-revenue,Individual Income Taxes,Individual Income Taxes,2024-02-01,Legislative,2030,-0.160
-revenue,Individual Income Taxes,Individual Income Taxes,2024-02-01,Legislative,2031,-0.150
+revenue,Individual Income Taxes,Individual Income Taxes,2024-02-01,Legislative,2030,-0.16
+revenue,Individual Income Taxes,Individual Income Taxes,2024-02-01,Legislative,2031,-0.15
 revenue,Individual Income Taxes,Individual Income Taxes,2024-02-01,Legislative,2032,-0.141
 revenue,Individual Income Taxes,Individual Income Taxes,2024-02-01,Legislative,2033,-0.132
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-02-01,Legislative,2024,0.001
@@ -34233,7 +34233,7 @@ revenue,Total,Total,2024-02-01,Legislative,2032,-0.281
 revenue,Total,Total,2024-02-01,Legislative,2033,-0.263
 revenue,Individual Income Taxes,Individual Income Taxes,2024-02-01,Economic,2024,76.408
 revenue,Individual Income Taxes,Individual Income Taxes,2024-02-01,Economic,2025,63.878
-revenue,Individual Income Taxes,Individual Income Taxes,2024-02-01,Economic,2026,24.810
+revenue,Individual Income Taxes,Individual Income Taxes,2024-02-01,Economic,2026,24.81
 revenue,Individual Income Taxes,Individual Income Taxes,2024-02-01,Economic,2027,-2.848
 revenue,Individual Income Taxes,Individual Income Taxes,2024-02-01,Economic,2028,-14.769
 revenue,Individual Income Taxes,Individual Income Taxes,2024-02-01,Economic,2029,-18.352
@@ -34242,16 +34242,16 @@ revenue,Individual Income Taxes,Individual Income Taxes,2024-02-01,Economic,2031
 revenue,Individual Income Taxes,Individual Income Taxes,2024-02-01,Economic,2032,-34.315
 revenue,Individual Income Taxes,Individual Income Taxes,2024-02-01,Economic,2033,-37.948
 revenue,Corporate Income Taxes,Corporate Income Taxes,2024-02-01,Economic,2024,71.639
-revenue,Corporate Income Taxes,Corporate Income Taxes,2024-02-01,Economic,2025,69.360
+revenue,Corporate Income Taxes,Corporate Income Taxes,2024-02-01,Economic,2025,69.36
 revenue,Corporate Income Taxes,Corporate Income Taxes,2024-02-01,Economic,2026,60.209
 revenue,Corporate Income Taxes,Corporate Income Taxes,2024-02-01,Economic,2027,51.182
 revenue,Corporate Income Taxes,Corporate Income Taxes,2024-02-01,Economic,2028,45.826
 revenue,Corporate Income Taxes,Corporate Income Taxes,2024-02-01,Economic,2029,46.065
 revenue,Corporate Income Taxes,Corporate Income Taxes,2024-02-01,Economic,2030,47.764
-revenue,Corporate Income Taxes,Corporate Income Taxes,2024-02-01,Economic,2031,49.160
+revenue,Corporate Income Taxes,Corporate Income Taxes,2024-02-01,Economic,2031,49.16
 revenue,Corporate Income Taxes,Corporate Income Taxes,2024-02-01,Economic,2032,49.297
 revenue,Corporate Income Taxes,Corporate Income Taxes,2024-02-01,Economic,2033,50.039
-revenue,Payroll Taxes,Payroll Taxes,2024-02-01,Economic,2024,8.250
+revenue,Payroll Taxes,Payroll Taxes,2024-02-01,Economic,2024,8.25
 revenue,Payroll Taxes,Payroll Taxes,2024-02-01,Economic,2025,1.981
 revenue,Payroll Taxes,Payroll Taxes,2024-02-01,Economic,2026,-2.587
 revenue,Payroll Taxes,Payroll Taxes,2024-02-01,Economic,2027,-1.845
@@ -34266,7 +34266,7 @@ revenue,Excise Taxes,Excise Taxes,2024-02-01,Economic,2025,-0.495
 revenue,Excise Taxes,Excise Taxes,2024-02-01,Economic,2026,-0.731
 revenue,Excise Taxes,Excise Taxes,2024-02-01,Economic,2027,-0.906
 revenue,Excise Taxes,Excise Taxes,2024-02-01,Economic,2028,-0.998
-revenue,Excise Taxes,Excise Taxes,2024-02-01,Economic,2029,-1.040
+revenue,Excise Taxes,Excise Taxes,2024-02-01,Economic,2029,-1.04
 revenue,Excise Taxes,Excise Taxes,2024-02-01,Economic,2030,-1.063
 revenue,Excise Taxes,Excise Taxes,2024-02-01,Economic,2031,-0.981
 revenue,Excise Taxes,Excise Taxes,2024-02-01,Economic,2032,-0.846
@@ -34274,12 +34274,12 @@ revenue,Excise Taxes,Excise Taxes,2024-02-01,Economic,2033,-0.714
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,2024-02-01,Economic,2024,3.974
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,2024-02-01,Economic,2025,4.806
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,2024-02-01,Economic,2026,4.583
-revenue,Estate and Gift Taxes,Estate and Gift Taxes,2024-02-01,Economic,2027,5.550
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2024-02-01,Economic,2027,5.55
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,2024-02-01,Economic,2028,4.754
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,2024-02-01,Economic,2029,3.954
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,2024-02-01,Economic,2030,3.308
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,2024-02-01,Economic,2031,2.879
-revenue,Estate and Gift Taxes,Estate and Gift Taxes,2024-02-01,Economic,2032,2.640
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2024-02-01,Economic,2032,2.64
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,2024-02-01,Economic,2033,2.473
 revenue,Customs Duties,Customs Duties,2024-02-01,Economic,2024,-0.327
 revenue,Customs Duties,Customs Duties,2024-02-01,Economic,2025,-0.173
@@ -34296,11 +34296,11 @@ revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-02-01,Economic,2025,-
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-02-01,Economic,2026,-2.213
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-02-01,Economic,2027,-1.637
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-02-01,Economic,2028,-63.317
-revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-02-01,Economic,2029,-22.970
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-02-01,Economic,2029,-22.97
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-02-01,Economic,2030,10.829
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-02-01,Economic,2031,12.385
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-02-01,Economic,2032,15.621
-revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-02-01,Economic,2033,18.870
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-02-01,Economic,2033,18.87
 revenue,Total,Total,2024-02-01,Economic,2024,157.066
 revenue,Total,Total,2024-02-01,Economic,2025,136.174
 revenue,Total,Total,2024-02-01,Economic,2026,83.954
@@ -34317,7 +34317,7 @@ revenue,Individual Income Taxes,Individual Income Taxes,2024-02-01,Technical,202
 revenue,Individual Income Taxes,Individual Income Taxes,2024-02-01,Technical,2027,15.479
 revenue,Individual Income Taxes,Individual Income Taxes,2024-02-01,Technical,2028,15.841
 revenue,Individual Income Taxes,Individual Income Taxes,2024-02-01,Technical,2029,21.927
-revenue,Individual Income Taxes,Individual Income Taxes,2024-02-01,Technical,2030,22.700
+revenue,Individual Income Taxes,Individual Income Taxes,2024-02-01,Technical,2030,22.7
 revenue,Individual Income Taxes,Individual Income Taxes,2024-02-01,Technical,2031,21.752
 revenue,Individual Income Taxes,Individual Income Taxes,2024-02-01,Technical,2032,16.428
 revenue,Individual Income Taxes,Individual Income Taxes,2024-02-01,Technical,2033,24.326
@@ -34339,8 +34339,8 @@ revenue,Payroll Taxes,Payroll Taxes,2024-02-01,Technical,2028,37.149
 revenue,Payroll Taxes,Payroll Taxes,2024-02-01,Technical,2029,37.903
 revenue,Payroll Taxes,Payroll Taxes,2024-02-01,Technical,2030,39.278
 revenue,Payroll Taxes,Payroll Taxes,2024-02-01,Technical,2031,40.292
-revenue,Payroll Taxes,Payroll Taxes,2024-02-01,Technical,2032,42.580
-revenue,Payroll Taxes,Payroll Taxes,2024-02-01,Technical,2033,44.860
+revenue,Payroll Taxes,Payroll Taxes,2024-02-01,Technical,2032,42.58
+revenue,Payroll Taxes,Payroll Taxes,2024-02-01,Technical,2033,44.86
 revenue,Excise Taxes,Excise Taxes,2024-02-01,Technical,2024,-15.897
 revenue,Excise Taxes,Excise Taxes,2024-02-01,Technical,2025,-7.408
 revenue,Excise Taxes,Excise Taxes,2024-02-01,Technical,2026,-3.446
@@ -34348,24 +34348,24 @@ revenue,Excise Taxes,Excise Taxes,2024-02-01,Technical,2027,-1.774
 revenue,Excise Taxes,Excise Taxes,2024-02-01,Technical,2028,-2.027
 revenue,Excise Taxes,Excise Taxes,2024-02-01,Technical,2029,-2.689
 revenue,Excise Taxes,Excise Taxes,2024-02-01,Technical,2030,-3.368
-revenue,Excise Taxes,Excise Taxes,2024-02-01,Technical,2031,-4.270
+revenue,Excise Taxes,Excise Taxes,2024-02-01,Technical,2031,-4.27
 revenue,Excise Taxes,Excise Taxes,2024-02-01,Technical,2032,-4.893
 revenue,Excise Taxes,Excise Taxes,2024-02-01,Technical,2033,-5.256
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,2024-02-01,Technical,2024,4.292
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,2024-02-01,Technical,2025,2.156
-revenue,Estate and Gift Taxes,Estate and Gift Taxes,2024-02-01,Technical,2026,0.050
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2024-02-01,Technical,2026,0.05
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,2024-02-01,Technical,2027,0.137
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,2024-02-01,Technical,2028,0.471
-revenue,Estate and Gift Taxes,Estate and Gift Taxes,2024-02-01,Technical,2029,0.950
-revenue,Estate and Gift Taxes,Estate and Gift Taxes,2024-02-01,Technical,2030,1.600
-revenue,Estate and Gift Taxes,Estate and Gift Taxes,2024-02-01,Technical,2031,2.320
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2024-02-01,Technical,2029,0.95
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2024-02-01,Technical,2030,1.6
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2024-02-01,Technical,2031,2.32
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,2024-02-01,Technical,2032,2.616
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,2024-02-01,Technical,2033,2.898
 revenue,Customs Duties,Customs Duties,2024-02-01,Technical,2024,-16.937
 revenue,Customs Duties,Customs Duties,2024-02-01,Technical,2025,-15.362
 revenue,Customs Duties,Customs Duties,2024-02-01,Technical,2026,-13.745
 revenue,Customs Duties,Customs Duties,2024-02-01,Technical,2027,-12.336
-revenue,Customs Duties,Customs Duties,2024-02-01,Technical,2028,-11.310
+revenue,Customs Duties,Customs Duties,2024-02-01,Technical,2028,-11.31
 revenue,Customs Duties,Customs Duties,2024-02-01,Technical,2029,-10.321
 revenue,Customs Duties,Customs Duties,2024-02-01,Technical,2030,-9.321
 revenue,Customs Duties,Customs Duties,2024-02-01,Technical,2031,-8.296
@@ -34374,7 +34374,7 @@ revenue,Customs Duties,Customs Duties,2024-02-01,Technical,2033,-6.188
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-02-01,Technical,2024,0.188
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-02-01,Technical,2025,0.694
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-02-01,Technical,2026,-1.239
-revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-02-01,Technical,2027,-2.040
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-02-01,Technical,2027,-2.04
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-02-01,Technical,2028,-2.932
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-02-01,Technical,2029,-0.544
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-02-01,Technical,2030,-0.297
@@ -34385,10 +34385,10 @@ revenue,Total,Total,2024-02-01,Technical,2024,-69.443
 revenue,Total,Total,2024-02-01,Technical,2025,-114.297
 revenue,Total,Total,2024-02-01,Technical,2026,-49.986
 revenue,Total,Total,2024-02-01,Technical,2027,-24.901
-revenue,Total,Total,2024-02-01,Technical,2028,-23.440
+revenue,Total,Total,2024-02-01,Technical,2028,-23.44
 revenue,Total,Total,2024-02-01,Technical,2029,-11.872
 revenue,Total,Total,2024-02-01,Technical,2030,-6.775
-revenue,Total,Total,2024-02-01,Technical,2031,-5.740
+revenue,Total,Total,2024-02-01,Technical,2031,-5.74
 revenue,Total,Total,2024-02-01,Technical,2032,-7.824
 revenue,Total,Total,2024-02-01,Technical,2033,4.793
 deficit,Total,Total,2024-02-01,Legislative,2024,87.984
@@ -34400,7 +34400,7 @@ deficit,Total,Total,2024-02-01,Legislative,2029,290.959
 deficit,Total,Total,2024-02-01,Legislative,2030,310.539
 deficit,Total,Total,2024-02-01,Legislative,2031,328.406
 deficit,Total,Total,2024-02-01,Legislative,2032,347.752
-deficit,Total,Total,2024-02-01,Legislative,2033,365.030
+deficit,Total,Total,2024-02-01,Legislative,2033,365.03
 deficit,Total,Total,2024-02-01,Economic,2024,109.262
 deficit,Total,Total,2024-02-01,Economic,2025,28.124
 deficit,Total,Total,2024-02-01,Economic,2026,-32.194
@@ -34409,7 +34409,7 @@ deficit,Total,Total,2024-02-01,Economic,2028,-106.961
 deficit,Total,Total,2024-02-01,Economic,2029,-52.989
 deficit,Total,Total,2024-02-01,Economic,2030,-7.157
 deficit,Total,Total,2024-02-01,Economic,2031,-2.811
-deficit,Total,Total,2024-02-01,Economic,2032,-0.930
+deficit,Total,Total,2024-02-01,Economic,2032,-0.93
 deficit,Total,Total,2024-02-01,Economic,2033,-2.908
 deficit,Total,Total,2024-02-01,Technical,2024,-148.607
 deficit,Total,Total,2024-02-01,Technical,2025,-218.656
@@ -34421,3 +34421,578 @@ deficit,Total,Total,2024-02-01,Technical,2030,-91.345
 deficit,Total,Total,2024-02-01,Technical,2031,-87.633
 deficit,Total,Total,2024-02-01,Technical,2032,-89.555
 deficit,Total,Total,2024-02-01,Technical,2033,-68.929
+revenue,Corporate Income Taxes,Corporate Income Taxes,2024-06-01,Technical,2024,-61.075
+revenue,Corporate Income Taxes,Corporate Income Taxes,2024-06-01,Technical,2025,-32.263
+revenue,Corporate Income Taxes,Corporate Income Taxes,2024-06-01,Technical,2026,-45.01
+revenue,Corporate Income Taxes,Corporate Income Taxes,2024-06-01,Technical,2027,-39.988
+revenue,Corporate Income Taxes,Corporate Income Taxes,2024-06-01,Technical,2028,-34.5
+revenue,Corporate Income Taxes,Corporate Income Taxes,2024-06-01,Technical,2029,-36.581
+revenue,Corporate Income Taxes,Corporate Income Taxes,2024-06-01,Technical,2030,-39.787
+revenue,Corporate Income Taxes,Corporate Income Taxes,2024-06-01,Technical,2031,-43.422
+revenue,Corporate Income Taxes,Corporate Income Taxes,2024-06-01,Technical,2032,-41.204
+revenue,Corporate Income Taxes,Corporate Income Taxes,2024-06-01,Technical,2033,-31.625
+revenue,Corporate Income Taxes,Corporate Income Taxes,2024-06-01,Technical,2034,-36.858
+revenue,Customs Duties,Customs Duties,2024-06-01,Technical,2024,-7.834
+revenue,Customs Duties,Customs Duties,2024-06-01,Technical,2025,-8.726
+revenue,Customs Duties,Customs Duties,2024-06-01,Technical,2026,-8.832
+revenue,Customs Duties,Customs Duties,2024-06-01,Technical,2027,-8.258
+revenue,Customs Duties,Customs Duties,2024-06-01,Technical,2028,-7.766
+revenue,Customs Duties,Customs Duties,2024-06-01,Technical,2029,-7.691
+revenue,Customs Duties,Customs Duties,2024-06-01,Technical,2030,-7.798
+revenue,Customs Duties,Customs Duties,2024-06-01,Technical,2031,-7.956
+revenue,Customs Duties,Customs Duties,2024-06-01,Technical,2032,-8.124
+revenue,Customs Duties,Customs Duties,2024-06-01,Technical,2033,-8.275
+revenue,Customs Duties,Customs Duties,2024-06-01,Technical,2034,-8.445
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2024-06-01,Technical,2024,-2.215
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2024-06-01,Technical,2025,-0.309
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2024-06-01,Technical,2026,1.595
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2024-06-01,Technical,2027,0.842
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2024-06-01,Technical,2028,0.842
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2024-06-01,Technical,2029,0.823
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2024-06-01,Technical,2030,0.829
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2024-06-01,Technical,2031,0.857
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2024-06-01,Technical,2032,0.905
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2024-06-01,Technical,2033,0.937
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2024-06-01,Technical,2034,0.988
+revenue,Excise Taxes,Excise Taxes,2024-06-01,Technical,2024,3.88
+revenue,Excise Taxes,Excise Taxes,2024-06-01,Technical,2025,3.641
+revenue,Excise Taxes,Excise Taxes,2024-06-01,Technical,2026,1.804
+revenue,Excise Taxes,Excise Taxes,2024-06-01,Technical,2027,0.277
+revenue,Excise Taxes,Excise Taxes,2024-06-01,Technical,2028,-0.165
+revenue,Excise Taxes,Excise Taxes,2024-06-01,Technical,2029,-0.236
+revenue,Excise Taxes,Excise Taxes,2024-06-01,Technical,2030,-0.7
+revenue,Excise Taxes,Excise Taxes,2024-06-01,Technical,2031,-1.372
+revenue,Excise Taxes,Excise Taxes,2024-06-01,Technical,2032,-3.159
+revenue,Excise Taxes,Excise Taxes,2024-06-01,Technical,2033,-3.618
+revenue,Excise Taxes,Excise Taxes,2024-06-01,Technical,2034,-4.005
+revenue,Individual Income Taxes,Individual Income Taxes,2024-06-01,Technical,2024,-72.759
+revenue,Individual Income Taxes,Individual Income Taxes,2024-06-01,Technical,2025,-58.932
+revenue,Individual Income Taxes,Individual Income Taxes,2024-06-01,Technical,2026,-48.152
+revenue,Individual Income Taxes,Individual Income Taxes,2024-06-01,Technical,2027,-6.053
+revenue,Individual Income Taxes,Individual Income Taxes,2024-06-01,Technical,2028,19.411
+revenue,Individual Income Taxes,Individual Income Taxes,2024-06-01,Technical,2029,13.621
+revenue,Individual Income Taxes,Individual Income Taxes,2024-06-01,Technical,2030,28.067
+revenue,Individual Income Taxes,Individual Income Taxes,2024-06-01,Technical,2031,35.944
+revenue,Individual Income Taxes,Individual Income Taxes,2024-06-01,Technical,2032,45.44
+revenue,Individual Income Taxes,Individual Income Taxes,2024-06-01,Technical,2033,40.126
+revenue,Individual Income Taxes,Individual Income Taxes,2024-06-01,Technical,2034,23.063
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-06-01,Technical,2024,8.279
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-06-01,Technical,2025,7.929
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-06-01,Technical,2026,9.757
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-06-01,Technical,2027,8.718
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-06-01,Technical,2028,5.155
+revenue,Corporate Income Taxes,Corporate Income Taxes,2024-06-01,Legislative,2024,-0.636
+revenue,Corporate Income Taxes,Corporate Income Taxes,2024-06-01,Legislative,2025,-1.338
+revenue,Corporate Income Taxes,Corporate Income Taxes,2024-06-01,Legislative,2026,-1.862
+revenue,Corporate Income Taxes,Corporate Income Taxes,2024-06-01,Legislative,2027,-2.297
+revenue,Corporate Income Taxes,Corporate Income Taxes,2024-06-01,Legislative,2028,-2.659
+revenue,Corporate Income Taxes,Corporate Income Taxes,2024-06-01,Legislative,2029,-2.924
+revenue,Corporate Income Taxes,Corporate Income Taxes,2024-06-01,Legislative,2030,-3.009
+revenue,Corporate Income Taxes,Corporate Income Taxes,2024-06-01,Legislative,2031,-2.936
+revenue,Corporate Income Taxes,Corporate Income Taxes,2024-06-01,Legislative,2032,-0.821
+revenue,Corporate Income Taxes,Corporate Income Taxes,2024-06-01,Legislative,2033,-0.502
+revenue,Corporate Income Taxes,Corporate Income Taxes,2024-06-01,Legislative,2034,-0.338
+revenue,Individual Income Taxes,Individual Income Taxes,2024-06-01,Legislative,2024,-0.637
+revenue,Individual Income Taxes,Individual Income Taxes,2024-06-01,Legislative,2025,-1.338
+revenue,Individual Income Taxes,Individual Income Taxes,2024-06-01,Legislative,2026,-1.862
+revenue,Individual Income Taxes,Individual Income Taxes,2024-06-01,Legislative,2027,-2.298
+revenue,Individual Income Taxes,Individual Income Taxes,2024-06-01,Legislative,2028,-2.659
+revenue,Individual Income Taxes,Individual Income Taxes,2024-06-01,Legislative,2029,-2.924
+revenue,Individual Income Taxes,Individual Income Taxes,2024-06-01,Legislative,2030,-3.009
+revenue,Individual Income Taxes,Individual Income Taxes,2024-06-01,Legislative,2031,-2.937
+revenue,Individual Income Taxes,Individual Income Taxes,2024-06-01,Legislative,2032,-0.821
+revenue,Individual Income Taxes,Individual Income Taxes,2024-06-01,Legislative,2033,-0.502
+revenue,Individual Income Taxes,Individual Income Taxes,2024-06-01,Legislative,2034,-0.339
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-06-01,Legislative,2025,5
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-06-01,Legislative,2026,0.002
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-06-01,Legislative,2027,0.005
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-06-01,Legislative,2028,0.007
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-06-01,Legislative,2029,0.01
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-06-01,Legislative,2030,0.013
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-06-01,Legislative,2031,0.013
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-06-01,Legislative,2032,0.013
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-06-01,Legislative,2033,0.014
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-06-01,Legislative,2034,0.015
+revenue,Corporate Income Taxes,Corporate Income Taxes,2024-06-01,Economic,2024,18.406
+revenue,Corporate Income Taxes,Corporate Income Taxes,2024-06-01,Economic,2025,29.593
+revenue,Corporate Income Taxes,Corporate Income Taxes,2024-06-01,Economic,2026,25.881
+revenue,Corporate Income Taxes,Corporate Income Taxes,2024-06-01,Economic,2027,17.541
+revenue,Corporate Income Taxes,Corporate Income Taxes,2024-06-01,Economic,2028,8.011
+revenue,Corporate Income Taxes,Corporate Income Taxes,2024-06-01,Economic,2029,-0.542
+revenue,Corporate Income Taxes,Corporate Income Taxes,2024-06-01,Economic,2030,-4.99
+revenue,Corporate Income Taxes,Corporate Income Taxes,2024-06-01,Economic,2031,-6.32
+revenue,Corporate Income Taxes,Corporate Income Taxes,2024-06-01,Economic,2032,-6.132
+revenue,Corporate Income Taxes,Corporate Income Taxes,2024-06-01,Economic,2033,-6.018
+revenue,Corporate Income Taxes,Corporate Income Taxes,2024-06-01,Economic,2034,-6.887
+revenue,Customs Duties,Customs Duties,2024-06-01,Economic,2024,1.603
+revenue,Customs Duties,Customs Duties,2024-06-01,Economic,2025,1.97
+revenue,Customs Duties,Customs Duties,2024-06-01,Economic,2026,1.473
+revenue,Customs Duties,Customs Duties,2024-06-01,Economic,2027,0.67
+revenue,Customs Duties,Customs Duties,2024-06-01,Economic,2028,-0.219
+revenue,Customs Duties,Customs Duties,2024-06-01,Economic,2029,-0.911
+revenue,Customs Duties,Customs Duties,2024-06-01,Economic,2030,-1.539
+revenue,Customs Duties,Customs Duties,2024-06-01,Economic,2031,-2.014
+revenue,Customs Duties,Customs Duties,2024-06-01,Economic,2032,-2.406
+revenue,Customs Duties,Customs Duties,2024-06-01,Economic,2033,-2.703
+revenue,Customs Duties,Customs Duties,2024-06-01,Economic,2034,-2.858
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2024-06-01,Economic,2024,1.551
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2024-06-01,Economic,2025,3.574
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2024-06-01,Economic,2026,3.216
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2024-06-01,Economic,2027,4.301
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2024-06-01,Economic,2028,4.604
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2024-06-01,Economic,2029,4.763
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2024-06-01,Economic,2030,4.813
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2024-06-01,Economic,2031,4.776
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2024-06-01,Economic,2032,4.68
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2024-06-01,Economic,2033,4.822
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2024-06-01,Economic,2034,5.11
+revenue,Excise Taxes,Excise Taxes,2024-06-01,Economic,2024,0.146
+revenue,Excise Taxes,Excise Taxes,2024-06-01,Economic,2025,0.447
+revenue,Excise Taxes,Excise Taxes,2024-06-01,Economic,2026,0.462
+revenue,Excise Taxes,Excise Taxes,2024-06-01,Economic,2027,0.405
+revenue,Excise Taxes,Excise Taxes,2024-06-01,Economic,2028,0.327
+revenue,Excise Taxes,Excise Taxes,2024-06-01,Economic,2029,0.26
+revenue,Excise Taxes,Excise Taxes,2024-06-01,Economic,2030,0.175
+revenue,Excise Taxes,Excise Taxes,2024-06-01,Economic,2031,0.089
+revenue,Excise Taxes,Excise Taxes,2024-06-01,Economic,2032,0.004
+revenue,Excise Taxes,Excise Taxes,2024-06-01,Economic,2033,-0.069
+revenue,Excise Taxes,Excise Taxes,2024-06-01,Economic,2034,-0.126
+revenue,Individual Income Taxes,Individual Income Taxes,2024-06-01,Economic,2024,51.06
+revenue,Individual Income Taxes,Individual Income Taxes,2024-06-01,Economic,2025,89.775
+revenue,Individual Income Taxes,Individual Income Taxes,2024-06-01,Economic,2026,102.343
+revenue,Individual Income Taxes,Individual Income Taxes,2024-06-01,Economic,2027,98.861
+revenue,Individual Income Taxes,Individual Income Taxes,2024-06-01,Economic,2028,83.704
+revenue,Individual Income Taxes,Individual Income Taxes,2024-06-01,Economic,2029,65.041
+revenue,Individual Income Taxes,Individual Income Taxes,2024-06-01,Economic,2030,49.405
+revenue,Individual Income Taxes,Individual Income Taxes,2024-06-01,Economic,2031,38.86
+revenue,Individual Income Taxes,Individual Income Taxes,2024-06-01,Economic,2032,31.577
+revenue,Individual Income Taxes,Individual Income Taxes,2024-06-01,Economic,2033,26.793
+revenue,Individual Income Taxes,Individual Income Taxes,2024-06-01,Economic,2034,25.243
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-06-01,Economic,2024,-0.016
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-06-01,Economic,2025,-0.305
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-06-01,Economic,2026,-0.348
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-06-01,Economic,2027,-0.278
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-06-01,Economic,2028,-0.226
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-06-01,Economic,2029,-51.314
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-06-01,Economic,2030,-86.949
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-06-01,Economic,2031,-10.363
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-06-01,Economic,2032,-9.609
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-06-01,Economic,2033,-8.72
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-06-01,Economic,2034,-7.848
+revenue,Payroll Taxes,Payroll Taxes,2024-06-01,Economic,2024,6.471
+revenue,Payroll Taxes,Payroll Taxes,2024-06-01,Economic,2025,7.411
+revenue,Payroll Taxes,Payroll Taxes,2024-06-01,Economic,2026,6.619
+revenue,Payroll Taxes,Payroll Taxes,2024-06-01,Economic,2027,4.027
+revenue,Payroll Taxes,Payroll Taxes,2024-06-01,Economic,2028,2.2
+revenue,Payroll Taxes,Payroll Taxes,2024-06-01,Economic,2029,1.057
+revenue,Payroll Taxes,Payroll Taxes,2024-06-01,Economic,2030,-0.593
+revenue,Payroll Taxes,Payroll Taxes,2024-06-01,Economic,2031,-2.978
+revenue,Payroll Taxes,Payroll Taxes,2024-06-01,Economic,2032,-5.416
+revenue,Payroll Taxes,Payroll Taxes,2024-06-01,Economic,2033,-7.253
+revenue,Payroll Taxes,Payroll Taxes,2024-06-01,Economic,2034,-7.486
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-06-01,Technical,2029,6.381
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-06-01,Technical,2030,6.826
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-06-01,Technical,2031,7.212
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-06-01,Technical,2032,7.55
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-06-01,Technical,2033,7.786
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024-06-01,Technical,2034,8.314
+revenue,Payroll Taxes,Payroll Taxes,2024-06-01,Technical,2024,8.531
+revenue,Payroll Taxes,Payroll Taxes,2024-06-01,Technical,2025,-4.632
+revenue,Payroll Taxes,Payroll Taxes,2024-06-01,Technical,2026,-4.06
+revenue,Payroll Taxes,Payroll Taxes,2024-06-01,Technical,2027,-2.922
+revenue,Payroll Taxes,Payroll Taxes,2024-06-01,Technical,2028,-2.319
+revenue,Payroll Taxes,Payroll Taxes,2024-06-01,Technical,2029,-1.992
+revenue,Payroll Taxes,Payroll Taxes,2024-06-01,Technical,2030,-1.948
+revenue,Payroll Taxes,Payroll Taxes,2024-06-01,Technical,2031,-2.271
+revenue,Payroll Taxes,Payroll Taxes,2024-06-01,Technical,2032,-2.816
+revenue,Payroll Taxes,Payroll Taxes,2024-06-01,Technical,2033,-3.393
+revenue,Payroll Taxes,Payroll Taxes,2024-06-01,Technical,2034,-3.257
+revenue,Total,Total,2024-06-01,Technical,2024,-123.193
+revenue,Total,Total,2024-06-01,Technical,2025,-93.292
+revenue,Total,Total,2024-06-01,Technical,2026,-92.898
+revenue,Total,Total,2024-06-01,Technical,2027,-47.384
+revenue,Total,Total,2024-06-01,Technical,2028,-19.342
+revenue,Total,Total,2024-06-01,Technical,2029,-25.675
+revenue,Total,Total,2024-06-01,Technical,2030,-14.511
+revenue,Total,Total,2024-06-01,Technical,2031,-11.008
+revenue,Total,Total,2024-06-01,Technical,2032,-1.408
+revenue,Total,Total,2024-06-01,Technical,2033,1.938
+revenue,Total,Total,2024-06-01,Technical,2034,-20.2
+revenue,Total,Total,2024-06-01,Legislative,2024,-1.273
+revenue,Total,Total,2024-06-01,Legislative,2025,2.324
+revenue,Total,Total,2024-06-01,Legislative,2026,-3.722
+revenue,Total,Total,2024-06-01,Legislative,2027,-4.59
+revenue,Total,Total,2024-06-01,Legislative,2028,-5.311
+revenue,Total,Total,2024-06-01,Legislative,2029,-5.838
+revenue,Total,Total,2024-06-01,Legislative,2030,-6.005
+revenue,Total,Total,2024-06-01,Legislative,2031,-5.86
+revenue,Total,Total,2024-06-01,Legislative,2032,-1.629
+revenue,Total,Total,2024-06-01,Legislative,2033,-0.99
+revenue,Total,Total,2024-06-01,Legislative,2034,-0.662
+revenue,Total,Total,2024-06-01,Economic,2024,79.221
+revenue,Total,Total,2024-06-01,Economic,2025,132.465
+revenue,Total,Total,2024-06-01,Economic,2026,139.646
+revenue,Total,Total,2024-06-01,Economic,2027,125.527
+revenue,Total,Total,2024-06-01,Economic,2028,98.401
+revenue,Total,Total,2024-06-01,Economic,2029,18.354
+revenue,Total,Total,2024-06-01,Economic,2030,-39.678
+revenue,Total,Total,2024-06-01,Economic,2031,22.05
+revenue,Total,Total,2024-06-01,Economic,2032,12.698
+revenue,Total,Total,2024-06-01,Economic,2033,6.852
+revenue,Total,Total,2024-06-01,Economic,2034,5.148
+outlay,Mandatory,Medicaid,2024-06-01,Economic,2024,0.303
+outlay,Mandatory,Medicaid,2024-06-01,Economic,2025,1.602
+outlay,Mandatory,Medicaid,2024-06-01,Economic,2026,2.356
+outlay,Mandatory,Medicaid,2024-06-01,Economic,2027,3.871
+outlay,Mandatory,Medicaid,2024-06-01,Economic,2028,4.849
+outlay,Mandatory,Medicaid,2024-06-01,Economic,2029,5.377
+outlay,Mandatory,Medicaid,2024-06-01,Economic,2030,5.775
+outlay,Mandatory,Medicaid,2024-06-01,Economic,2031,6.228
+outlay,Mandatory,Medicaid,2024-06-01,Economic,2032,6.77
+outlay,Mandatory,Medicaid,2024-06-01,Economic,2033,7.439
+outlay,Mandatory,Medicaid,2024-06-01,Economic,2034,8.128
+outlay,Mandatory,Medicare,2024-06-01,Economic,2024,-0.266
+outlay,Mandatory,Medicare,2024-06-01,Economic,2025,-0.51
+outlay,Mandatory,Medicare,2024-06-01,Economic,2026,-0.778
+outlay,Mandatory,Medicare,2024-06-01,Economic,2027,-1.699
+outlay,Mandatory,Medicare,2024-06-01,Economic,2028,-3.439
+outlay,Mandatory,Medicare,2024-06-01,Economic,2029,-4.433
+outlay,Mandatory,Medicare,2024-06-01,Economic,2030,-6.25
+outlay,Mandatory,Medicare,2024-06-01,Economic,2031,-7.81
+outlay,Mandatory,Medicare,2024-06-01,Economic,2032,-9.669
+outlay,Mandatory,Medicare,2024-06-01,Economic,2033,-12.775
+outlay,Mandatory,Medicare,2024-06-01,Economic,2034,-13.984
+outlay,Mandatory,Other Mandatory,2024-06-01,Economic,2024,-2.692
+outlay,Mandatory,Other Mandatory,2024-06-01,Economic,2025,-7.172
+outlay,Mandatory,Other Mandatory,2024-06-01,Economic,2026,-1.18
+outlay,Mandatory,Other Mandatory,2024-06-01,Economic,2027,1.301
+outlay,Mandatory,Other Mandatory,2024-06-01,Economic,2028,1.967
+outlay,Mandatory,Other Mandatory,2024-06-01,Economic,2029,1.772
+outlay,Mandatory,Other Mandatory,2024-06-01,Economic,2030,1.776
+outlay,Mandatory,Other Mandatory,2024-06-01,Economic,2031,2.02
+outlay,Mandatory,Other Mandatory,2024-06-01,Economic,2032,1.648
+outlay,Mandatory,Other Mandatory,2024-06-01,Economic,2033,1.119
+outlay,Mandatory,Other Mandatory,2024-06-01,Economic,2034,0.936
+outlay,Mandatory,Social Security,2024-06-01,Economic,2025,6.7
+outlay,Mandatory,Social Security,2024-06-01,Economic,2026,8.3
+outlay,Mandatory,Social Security,2024-06-01,Economic,2027,7.2
+outlay,Mandatory,Social Security,2024-06-01,Economic,2028,6.1
+outlay,Mandatory,Social Security,2024-06-01,Economic,2029,6.1
+outlay,Mandatory,Social Security,2024-06-01,Economic,2030,6.3
+outlay,Mandatory,Social Security,2024-06-01,Economic,2031,7.3
+outlay,Mandatory,Social Security,2024-06-01,Economic,2032,8.3
+outlay,Mandatory,Social Security,2024-06-01,Economic,2033,7.4
+outlay,Mandatory,Social Security,2024-06-01,Economic,2034,5.6
+outlay,Mandatory,Total Mandatory,2024-06-01,Economic,2024,-2.655
+outlay,Mandatory,Total Mandatory,2024-06-01,Economic,2025,0.62
+outlay,Mandatory,Total Mandatory,2024-06-01,Economic,2026,8.698
+outlay,Mandatory,Total Mandatory,2024-06-01,Economic,2027,10.673
+outlay,Mandatory,Total Mandatory,2024-06-01,Economic,2028,9.477
+outlay,Mandatory,Total Mandatory,2024-06-01,Economic,2029,8.816
+outlay,Mandatory,Total Mandatory,2024-06-01,Economic,2030,7.601
+outlay,Mandatory,Total Mandatory,2024-06-01,Economic,2031,7.738
+outlay,Mandatory,Total Mandatory,2024-06-01,Economic,2032,7.049
+outlay,Mandatory,Total Mandatory,2024-06-01,Economic,2033,3.183
+outlay,Mandatory,Total Mandatory,2024-06-01,Economic,2034,0.68
+outlay,Mandatory,Medicaid,2024-06-01,Legislative,2024,1.913
+outlay,Mandatory,Medicaid,2024-06-01,Legislative,2025,0.025
+outlay,Mandatory,Medicaid,2024-06-01,Legislative,2026,0.071
+outlay,Mandatory,Medicaid,2024-06-01,Legislative,2027,0.075
+outlay,Mandatory,Medicaid,2024-06-01,Legislative,2028,-1.703
+outlay,Mandatory,Medicaid,2024-06-01,Legislative,2029,-1.789
+outlay,Mandatory,Medicaid,2024-06-01,Legislative,2030,-1.896
+outlay,Mandatory,Medicaid,2024-06-01,Legislative,2031,0.077
+outlay,Mandatory,Medicaid,2024-06-01,Legislative,2032,0.099
+outlay,Mandatory,Medicaid,2024-06-01,Legislative,2033,0.073
+outlay,Mandatory,Medicare,2024-06-01,Legislative,2024,1.02
+outlay,Mandatory,Medicare,2024-06-01,Legislative,2025,0.187
+outlay,Mandatory,Medicare,2024-06-01,Legislative,2026,-1.005
+outlay,Mandatory,Medicare,2024-06-01,Legislative,2027,-0.028
+outlay,Mandatory,Medicare,2024-06-01,Legislative,2028,-0.248
+outlay,Mandatory,Medicare,2024-06-01,Legislative,2033,-3.387
+outlay,Mandatory,Other Mandatory,2024-06-01,Legislative,2024,-5.782
+outlay,Mandatory,Other Mandatory,2024-06-01,Legislative,2025,-1.922
+outlay,Mandatory,Other Mandatory,2024-06-01,Legislative,2026,4.975
+outlay,Mandatory,Other Mandatory,2024-06-01,Legislative,2027,2.319
+outlay,Mandatory,Other Mandatory,2024-06-01,Legislative,2028,-0.759
+outlay,Mandatory,Other Mandatory,2024-06-01,Legislative,2029,-2.112
+outlay,Mandatory,Other Mandatory,2024-06-01,Legislative,2030,-4.395
+outlay,Mandatory,Other Mandatory,2024-06-01,Legislative,2031,-4.549
+outlay,Mandatory,Other Mandatory,2024-06-01,Legislative,2032,-1.466
+outlay,Mandatory,Other Mandatory,2024-06-01,Legislative,2033,0.509
+outlay,Mandatory,Other Mandatory,2024-06-01,Legislative,2034,0.01
+outlay,Mandatory,Total Mandatory,2024-06-01,Legislative,2024,-2.849
+outlay,Mandatory,Total Mandatory,2024-06-01,Legislative,2025,-1.71
+outlay,Mandatory,Total Mandatory,2024-06-01,Legislative,2026,4.041
+outlay,Mandatory,Total Mandatory,2024-06-01,Legislative,2027,2.366
+outlay,Mandatory,Total Mandatory,2024-06-01,Legislative,2028,-2.71
+outlay,Mandatory,Total Mandatory,2024-06-01,Legislative,2029,-3.901
+outlay,Mandatory,Total Mandatory,2024-06-01,Legislative,2030,-6.291
+outlay,Mandatory,Total Mandatory,2024-06-01,Legislative,2031,-4.472
+outlay,Mandatory,Total Mandatory,2024-06-01,Legislative,2032,-1.367
+outlay,Mandatory,Total Mandatory,2024-06-01,Legislative,2033,-2.805
+outlay,Mandatory,Total Mandatory,2024-06-01,Legislative,2034,0.01
+outlay,Mandatory,Fannie Freddie,2024-06-01,Technical,2024,-0.09
+outlay,Mandatory,Fannie Freddie,2024-06-01,Technical,2025,-2.437
+outlay,Mandatory,Fannie Freddie,2024-06-01,Technical,2026,-2.407
+outlay,Mandatory,Fannie Freddie,2024-06-01,Technical,2027,-2.228
+outlay,Mandatory,Fannie Freddie,2024-06-01,Technical,2028,-1.282
+outlay,Mandatory,Fannie Freddie,2024-06-01,Technical,2029,-0.811
+outlay,Mandatory,Fannie Freddie,2024-06-01,Technical,2030,-0.468
+outlay,Mandatory,Fannie Freddie,2024-06-01,Technical,2031,-0.311
+outlay,Mandatory,Fannie Freddie,2024-06-01,Technical,2032,-0.334
+outlay,Mandatory,Fannie Freddie,2024-06-01,Technical,2033,-0.547
+outlay,Mandatory,Fannie Freddie,2024-06-01,Technical,2034,-0.922
+outlay,Mandatory,Medicaid,2024-06-01,Technical,2024,47.25
+outlay,Mandatory,Medicaid,2024-06-01,Technical,2025,48.234
+outlay,Mandatory,Medicaid,2024-06-01,Technical,2026,29.781
+outlay,Mandatory,Medicaid,2024-06-01,Technical,2027,18.986
+outlay,Mandatory,Medicaid,2024-06-01,Technical,2028,21.617
+outlay,Mandatory,Medicaid,2024-06-01,Technical,2029,22.625
+outlay,Mandatory,Medicaid,2024-06-01,Technical,2030,23.956
+outlay,Mandatory,Medicaid,2024-06-01,Technical,2031,24.032
+outlay,Mandatory,Medicaid,2024-06-01,Technical,2032,24.954
+outlay,Mandatory,Medicaid,2024-06-01,Technical,2033,25.606
+outlay,Mandatory,Medicaid,2024-06-01,Technical,2034,26.736
+outlay,Mandatory,Medicare,2024-06-01,Technical,2024,6.07
+outlay,Mandatory,Medicare,2024-06-01,Technical,2025,-5.303
+outlay,Mandatory,Medicare,2024-06-01,Technical,2026,-1.369
+outlay,Mandatory,Medicare,2024-06-01,Technical,2027,-4.868
+outlay,Mandatory,Medicare,2024-06-01,Technical,2028,-6.838
+outlay,Mandatory,Medicare,2024-06-01,Technical,2029,-5.603
+outlay,Mandatory,Medicare,2024-06-01,Technical,2030,-5.883
+outlay,Mandatory,Medicare,2024-06-01,Technical,2031,-2.073
+outlay,Mandatory,Medicare,2024-06-01,Technical,2032,-0.888
+outlay,Mandatory,Medicare,2024-06-01,Technical,2033,18.346
+outlay,Mandatory,Medicare,2024-06-01,Technical,2034,2.539
+outlay,Mandatory,Other Mandatory,2024-06-01,Technical,2024,235.871
+outlay,Mandatory,Other Mandatory,2024-06-01,Technical,2025,29.862
+outlay,Mandatory,Other Mandatory,2024-06-01,Technical,2026,1.762
+outlay,Mandatory,Other Mandatory,2024-06-01,Technical,2027,11.205
+outlay,Mandatory,Other Mandatory,2024-06-01,Technical,2028,-6.001
+outlay,Mandatory,Other Mandatory,2024-06-01,Technical,2029,27.663
+outlay,Mandatory,Other Mandatory,2024-06-01,Technical,2030,21.266
+outlay,Mandatory,Other Mandatory,2024-06-01,Technical,2031,21.733
+outlay,Mandatory,Other Mandatory,2024-06-01,Technical,2032,29.15
+outlay,Mandatory,Other Mandatory,2024-06-01,Technical,2033,11.868
+outlay,Mandatory,Other Mandatory,2024-06-01,Technical,2034,0.232
+outlay,Mandatory,Social Security,2024-06-01,Technical,2024,-0.599
+outlay,Mandatory,Social Security,2024-06-01,Technical,2025,-2.799
+outlay,Mandatory,Social Security,2024-06-01,Technical,2026,-1.5
+outlay,Mandatory,Social Security,2024-06-01,Technical,2027,-0.7
+outlay,Mandatory,Social Security,2024-06-01,Technical,2028,0.798
+outlay,Mandatory,Social Security,2024-06-01,Technical,2029,1.799
+outlay,Mandatory,Social Security,2024-06-01,Technical,2030,1.9
+outlay,Mandatory,Social Security,2024-06-01,Technical,2031,1.999
+outlay,Mandatory,Social Security,2024-06-01,Technical,2032,1.899
+outlay,Mandatory,Social Security,2024-06-01,Technical,2033,1.999
+outlay,Mandatory,Social Security,2024-06-01,Technical,2034,2
+outlay,Mandatory,Total Mandatory,2024-06-01,Technical,2024,288.592
+outlay,Mandatory,Total Mandatory,2024-06-01,Technical,2025,69.994
+outlay,Mandatory,Total Mandatory,2024-06-01,Technical,2026,28.674
+outlay,Mandatory,Total Mandatory,2024-06-01,Technical,2027,24.623
+outlay,Mandatory,Total Mandatory,2024-06-01,Technical,2028,9.576
+outlay,Mandatory,Total Mandatory,2024-06-01,Technical,2029,46.484
+outlay,Mandatory,Total Mandatory,2024-06-01,Technical,2030,41.239
+outlay,Mandatory,Total Mandatory,2024-06-01,Technical,2031,45.691
+outlay,Mandatory,Total Mandatory,2024-06-01,Technical,2032,55.115
+outlay,Mandatory,Total Mandatory,2024-06-01,Technical,2033,57.819
+outlay,Mandatory,Total Mandatory,2024-06-01,Technical,2034,31.507
+outlay,Discretionary,Defense,2024-06-01,Economic,2024,0
+outlay,Discretionary,Defense,2024-06-01,Economic,2025,0.007
+outlay,Discretionary,Defense,2024-06-01,Economic,2026,-0.267
+outlay,Discretionary,Defense,2024-06-01,Economic,2027,-0.59
+outlay,Discretionary,Defense,2024-06-01,Economic,2028,-0.78
+outlay,Discretionary,Defense,2024-06-01,Economic,2029,-1.082
+outlay,Discretionary,Defense,2024-06-01,Economic,2030,-1.3
+outlay,Discretionary,Defense,2024-06-01,Economic,2031,-1.453
+outlay,Discretionary,Defense,2024-06-01,Economic,2032,-1.211
+outlay,Discretionary,Defense,2024-06-01,Economic,2033,-1.037
+outlay,Discretionary,Defense,2024-06-01,Economic,2034,-0.606
+outlay,Discretionary,Nondefense,2024-06-01,Economic,2024,0
+outlay,Discretionary,Nondefense,2024-06-01,Economic,2025,-0.059
+outlay,Discretionary,Nondefense,2024-06-01,Economic,2026,-0.468
+outlay,Discretionary,Nondefense,2024-06-01,Economic,2027,-0.916
+outlay,Discretionary,Nondefense,2024-06-01,Economic,2028,-0.459
+outlay,Discretionary,Nondefense,2024-06-01,Economic,2029,-0.78
+outlay,Discretionary,Nondefense,2024-06-01,Economic,2030,-0.941
+outlay,Discretionary,Nondefense,2024-06-01,Economic,2031,-1.138
+outlay,Discretionary,Nondefense,2024-06-01,Economic,2032,-0.815
+outlay,Discretionary,Nondefense,2024-06-01,Economic,2033,-0.716
+outlay,Discretionary,Nondefense,2024-06-01,Economic,2034,-0.444
+outlay,Discretionary,Total Discretionary,2024-06-01,Economic,2024,0
+outlay,Discretionary,Total Discretionary,2024-06-01,Economic,2025,-0.052
+outlay,Discretionary,Total Discretionary,2024-06-01,Economic,2026,-0.735
+outlay,Discretionary,Total Discretionary,2024-06-01,Economic,2027,-1.506
+outlay,Discretionary,Total Discretionary,2024-06-01,Economic,2028,-1.239
+outlay,Discretionary,Total Discretionary,2024-06-01,Economic,2029,-1.862
+outlay,Discretionary,Total Discretionary,2024-06-01,Economic,2030,-2.241
+outlay,Discretionary,Total Discretionary,2024-06-01,Economic,2031,-2.591
+outlay,Discretionary,Total Discretionary,2024-06-01,Economic,2032,-2.026
+outlay,Discretionary,Total Discretionary,2024-06-01,Economic,2033,-1.753
+outlay,Discretionary,Total Discretionary,2024-06-01,Economic,2034,-1.05
+outlay,Discretionary,Defense,2024-06-01,Legislative,2024,31.865
+outlay,Discretionary,Defense,2024-06-01,Legislative,2025,58.333
+outlay,Discretionary,Defense,2024-06-01,Legislative,2026,72.15
+outlay,Discretionary,Defense,2024-06-01,Legislative,2027,83.519
+outlay,Discretionary,Defense,2024-06-01,Legislative,2028,90.716
+outlay,Discretionary,Defense,2024-06-01,Legislative,2029,94.879
+outlay,Discretionary,Defense,2024-06-01,Legislative,2030,97.778
+outlay,Discretionary,Defense,2024-06-01,Legislative,2031,100.214
+outlay,Discretionary,Defense,2024-06-01,Legislative,2032,102.354
+outlay,Discretionary,Defense,2024-06-01,Legislative,2033,104.585
+outlay,Discretionary,Defense,2024-06-01,Legislative,2034,106.627
+outlay,Discretionary,Nondefense,2024-06-01,Legislative,2024,27.841
+outlay,Discretionary,Nondefense,2024-06-01,Legislative,2025,26.685
+outlay,Discretionary,Nondefense,2024-06-01,Legislative,2026,33.254
+outlay,Discretionary,Nondefense,2024-06-01,Legislative,2027,36.923
+outlay,Discretionary,Nondefense,2024-06-01,Legislative,2028,37.005
+outlay,Discretionary,Nondefense,2024-06-01,Legislative,2029,38.052
+outlay,Discretionary,Nondefense,2024-06-01,Legislative,2030,39.212
+outlay,Discretionary,Nondefense,2024-06-01,Legislative,2031,40.134
+outlay,Discretionary,Nondefense,2024-06-01,Legislative,2032,41.378
+outlay,Discretionary,Nondefense,2024-06-01,Legislative,2033,42.28
+outlay,Discretionary,Nondefense,2024-06-01,Legislative,2034,42.531
+outlay,Discretionary,Total Discretionary,2024-06-01,Legislative,2024,59.706
+outlay,Discretionary,Total Discretionary,2024-06-01,Legislative,2025,85.018
+outlay,Discretionary,Total Discretionary,2024-06-01,Legislative,2026,105.404
+outlay,Discretionary,Total Discretionary,2024-06-01,Legislative,2027,120.442
+outlay,Discretionary,Total Discretionary,2024-06-01,Legislative,2028,127.721
+outlay,Discretionary,Total Discretionary,2024-06-01,Legislative,2029,132.931
+outlay,Discretionary,Total Discretionary,2024-06-01,Legislative,2030,136.99
+outlay,Discretionary,Total Discretionary,2024-06-01,Legislative,2031,140.348
+outlay,Discretionary,Total Discretionary,2024-06-01,Legislative,2032,143.732
+outlay,Discretionary,Total Discretionary,2024-06-01,Legislative,2033,146.865
+outlay,Discretionary,Total Discretionary,2024-06-01,Legislative,2034,149.158
+outlay,Discretionary,Defense,2024-06-01,Technical,2024,-5.147
+outlay,Discretionary,Defense,2024-06-01,Technical,2025,1.063
+outlay,Discretionary,Defense,2024-06-01,Technical,2026,0.99
+outlay,Discretionary,Defense,2024-06-01,Technical,2027,0.754
+outlay,Discretionary,Defense,2024-06-01,Technical,2028,1.245
+outlay,Discretionary,Defense,2024-06-01,Technical,2029,1.401
+outlay,Discretionary,Defense,2024-06-01,Technical,2030,1.976
+outlay,Discretionary,Defense,2024-06-01,Technical,2031,2.385
+outlay,Discretionary,Defense,2024-06-01,Technical,2032,2.753
+outlay,Discretionary,Defense,2024-06-01,Technical,2033,3.151
+outlay,Discretionary,Defense,2024-06-01,Technical,2034,3.506
+outlay,Discretionary,Nondefense,2024-06-01,Technical,2024,2.785
+outlay,Discretionary,Nondefense,2024-06-01,Technical,2025,-9.654
+outlay,Discretionary,Nondefense,2024-06-01,Technical,2026,1.335
+outlay,Discretionary,Nondefense,2024-06-01,Technical,2027,-0.808
+outlay,Discretionary,Nondefense,2024-06-01,Technical,2028,-1.174
+outlay,Discretionary,Nondefense,2024-06-01,Technical,2029,0.226
+outlay,Discretionary,Nondefense,2024-06-01,Technical,2030,0.283
+outlay,Discretionary,Nondefense,2024-06-01,Technical,2031,0.689
+outlay,Discretionary,Nondefense,2024-06-01,Technical,2032,0.826
+outlay,Discretionary,Nondefense,2024-06-01,Technical,2033,0.959
+outlay,Discretionary,Nondefense,2024-06-01,Technical,2034,1.837
+outlay,Discretionary,Total Discretionary,2024-06-01,Technical,2024,-2.362
+outlay,Discretionary,Total Discretionary,2024-06-01,Technical,2025,-8.591
+outlay,Discretionary,Total Discretionary,2024-06-01,Technical,2026,2.325
+outlay,Discretionary,Total Discretionary,2024-06-01,Technical,2027,-0.054
+outlay,Discretionary,Total Discretionary,2024-06-01,Technical,2028,0.071
+outlay,Discretionary,Total Discretionary,2024-06-01,Technical,2029,1.627
+outlay,Discretionary,Total Discretionary,2024-06-01,Technical,2030,2.259
+outlay,Discretionary,Total Discretionary,2024-06-01,Technical,2031,3.074
+outlay,Discretionary,Total Discretionary,2024-06-01,Technical,2032,3.579
+outlay,Discretionary,Total Discretionary,2024-06-01,Technical,2033,4.11
+outlay,Discretionary,Total Discretionary,2024-06-01,Technical,2034,5.343
+outlay,Net Interest,Net Interest,2024-06-01,Legislative,2024,0.703
+outlay,Net Interest,Net Interest,2024-06-01,Legislative,2025,4.813
+outlay,Net Interest,Net Interest,2024-06-01,Legislative,2026,8.36
+outlay,Net Interest,Net Interest,2024-06-01,Legislative,2027,11.955
+outlay,Net Interest,Net Interest,2024-06-01,Legislative,2028,16.072
+outlay,Net Interest,Net Interest,2024-06-01,Legislative,2029,20.44
+outlay,Net Interest,Net Interest,2024-06-01,Legislative,2030,25.528
+outlay,Net Interest,Net Interest,2024-06-01,Legislative,2031,30.901
+outlay,Net Interest,Net Interest,2024-06-01,Legislative,2032,36.673
+outlay,Net Interest,Net Interest,2024-06-01,Legislative,2033,42.914
+outlay,Net Interest,Net Interest,2024-06-01,Legislative,2034,49.436
+outlay,Net Interest,Net Interest,2024-06-01,Economic,2024,11.848
+outlay,Net Interest,Net Interest,2024-06-01,Economic,2025,30.258
+outlay,Net Interest,Net Interest,2024-06-01,Economic,2026,15.499
+outlay,Net Interest,Net Interest,2024-06-01,Economic,2027,-10.258
+outlay,Net Interest,Net Interest,2024-06-01,Economic,2028,-17.57
+outlay,Net Interest,Net Interest,2024-06-01,Economic,2029,-22.443
+outlay,Net Interest,Net Interest,2024-06-01,Economic,2030,-21.659
+outlay,Net Interest,Net Interest,2024-06-01,Economic,2031,-21.788
+outlay,Net Interest,Net Interest,2024-06-01,Economic,2032,-20.708
+outlay,Net Interest,Net Interest,2024-06-01,Economic,2033,-16.209
+outlay,Net Interest,Net Interest,2024-06-01,Economic,2034,-11.528
+outlay,Net Interest,Net Interest,2024-06-01,Technical,2024,9.652
+outlay,Net Interest,Net Interest,2024-06-01,Technical,2025,29.829
+outlay,Net Interest,Net Interest,2024-06-01,Technical,2026,32.206
+outlay,Net Interest,Net Interest,2024-06-01,Technical,2027,33.061
+outlay,Net Interest,Net Interest,2024-06-01,Technical,2028,31.668
+outlay,Net Interest,Net Interest,2024-06-01,Technical,2029,31.102
+outlay,Net Interest,Net Interest,2024-06-01,Technical,2030,33.052
+outlay,Net Interest,Net Interest,2024-06-01,Technical,2031,35.416
+outlay,Net Interest,Net Interest,2024-06-01,Technical,2032,37.259
+outlay,Net Interest,Net Interest,2024-06-01,Technical,2033,40.103
+outlay,Net Interest,Net Interest,2024-06-01,Technical,2034,43.973
+outlay,Total,Total,2024-06-01,Legislative,2024,57.56
+outlay,Total,Total,2024-06-01,Legislative,2025,88.121
+outlay,Total,Total,2024-06-01,Legislative,2026,117.805
+outlay,Total,Total,2024-06-01,Legislative,2027,134.763
+outlay,Total,Total,2024-06-01,Legislative,2028,141.083
+outlay,Total,Total,2024-06-01,Legislative,2029,149.47
+outlay,Total,Total,2024-06-01,Legislative,2030,156.227
+outlay,Total,Total,2024-06-01,Legislative,2031,166.777
+outlay,Total,Total,2024-06-01,Legislative,2032,179.038
+outlay,Total,Total,2024-06-01,Legislative,2033,186.974
+outlay,Total,Total,2024-06-01,Legislative,2034,198.604
+outlay,Total,Total,2024-06-01,Economic,2024,9.193
+outlay,Total,Total,2024-06-01,Economic,2025,30.826
+outlay,Total,Total,2024-06-01,Economic,2026,23.462
+outlay,Total,Total,2024-06-01,Economic,2027,-1.091
+outlay,Total,Total,2024-06-01,Economic,2028,-9.332
+outlay,Total,Total,2024-06-01,Economic,2029,-15.489
+outlay,Total,Total,2024-06-01,Economic,2030,-16.299
+outlay,Total,Total,2024-06-01,Economic,2031,-16.641
+outlay,Total,Total,2024-06-01,Economic,2032,-15.685
+outlay,Total,Total,2024-06-01,Economic,2033,-14.779
+outlay,Total,Total,2024-06-01,Economic,2034,-11.898
+outlay,Total,Total,2024-06-01,Technical,2024,295.882
+outlay,Total,Total,2024-06-01,Technical,2025,91.232
+outlay,Total,Total,2024-06-01,Technical,2026,63.205
+outlay,Total,Total,2024-06-01,Technical,2027,57.63
+outlay,Total,Total,2024-06-01,Technical,2028,41.315
+outlay,Total,Total,2024-06-01,Technical,2029,79.213
+outlay,Total,Total,2024-06-01,Technical,2030,76.55
+outlay,Total,Total,2024-06-01,Technical,2031,84.181
+outlay,Total,Total,2024-06-01,Technical,2032,95.953
+outlay,Total,Total,2024-06-01,Technical,2033,102.032
+outlay,Total,Total,2024-06-01,Technical,2034,80.823
+deficit,Total,Total,2024-06-01,Legislative,2024,-58.833
+deficit,Total,Total,2024-06-01,Legislative,2025,-85.797
+deficit,Total,Total,2024-06-01,Legislative,2026,-121.527
+deficit,Total,Total,2024-06-01,Legislative,2027,-139.353
+deficit,Total,Total,2024-06-01,Legislative,2028,-146.394
+deficit,Total,Total,2024-06-01,Legislative,2029,-155.308
+deficit,Total,Total,2024-06-01,Legislative,2030,-162.232
+deficit,Total,Total,2024-06-01,Legislative,2031,-172.637
+deficit,Total,Total,2024-06-01,Legislative,2032,-180.667
+deficit,Total,Total,2024-06-01,Legislative,2033,-187.964
+deficit,Total,Total,2024-06-01,Legislative,2034,-199.266
+deficit,Total,Total,2024-06-01,Economic,2024,70.028
+deficit,Total,Total,2024-06-01,Economic,2025,101.639
+deficit,Total,Total,2024-06-01,Economic,2026,116.184
+deficit,Total,Total,2024-06-01,Economic,2027,126.618
+deficit,Total,Total,2024-06-01,Economic,2028,107.733
+deficit,Total,Total,2024-06-01,Economic,2029,33.843
+deficit,Total,Total,2024-06-01,Economic,2030,-23.379
+deficit,Total,Total,2024-06-01,Economic,2031,38.691
+deficit,Total,Total,2024-06-01,Economic,2032,28.383
+deficit,Total,Total,2024-06-01,Economic,2033,21.631
+deficit,Total,Total,2024-06-01,Economic,2034,17.046
+deficit,Total,Total,2024-06-01,Technical,2024,-419.075
+deficit,Total,Total,2024-06-01,Technical,2025,-184.524
+deficit,Total,Total,2024-06-01,Technical,2026,-156.103
+deficit,Total,Total,2024-06-01,Technical,2027,-105.014
+deficit,Total,Total,2024-06-01,Technical,2028,-60.657
+deficit,Total,Total,2024-06-01,Technical,2029,-104.888
+deficit,Total,Total,2024-06-01,Technical,2030,-91.061
+deficit,Total,Total,2024-06-01,Technical,2031,-95.189
+deficit,Total,Total,2024-06-01,Technical,2032,-97.361
+deficit,Total,Total,2024-06-01,Technical,2033,-100.094
+deficit,Total,Total,2024-06-01,Technical,2034,-101.023

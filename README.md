@@ -111,7 +111,7 @@ This file contains the changes reported in CBO's budget and economic outlook rep
 ## Technical Data Notes
 
 ### Baseline Dates
-The files `input_data/baselines.csv` and `input_data/baseline_changes.csv` have a baseline_date column, named `baseline_date` and `changes_baseline_date`, respectively. The dates in those columns are string variables stored in [ISO-8601 date format](https://www.iso.org/iso-8601-date-and-time-format.html). For every value in those columns, the day is equal to '01' (the first of the month), which does not correpsond to the specific day that a baseline was released. As such, the `baseline_date` values should only be interpreted as indicating the *year* and the *month* in which the baseline was released.
+The files `input_data/baselines.csv` and `input_data/baseline_changes.csv` have a baseline_date column, named `baseline_date` and `changes_baseline_date`, respectively. The dates in those columns are string variables stored in [ISO-8601 date format](https://www.iso.org/iso-8601-date-and-time-format.html). For every value in those columns, the day is equal to '01' (the first of the month), which does not correspond to the specific day that a baseline was released. As such, the `baseline_date` values should only be interpreted as indicating the *year* and the *month* in which the baseline was released.
 
 ### Winter Flag
 For revenues, error calculations are only performed on the Winter baselines. The `Winter_flag` column in the `input_data/baselines.csv` file indicates which baseline each year is the Winter baseline.

@@ -1,5 +1,19 @@
 # Change Log
 
+## Version 0.7.0 -- 2024-09-04
+* Corrected minor errors in input data in `baselines.csv` and `baseline_changes.csv`, primarily regarding the allocation of baseline changes between the April 2018 and May 2018 baselines.
+
+
+## Version 0.6.0 -- 2024-06-18
+* Outlay, revenue, deficit, and debt baseline and baseline changes are through the June 2024 baseline. Outlay, deficit, and debt actuals are through 2023. Error statistics are through 2023.
+* Actual GDP data are through 2023 and reflect historical information available as of May 2024.
+
+
+## Version 0.5.0 -- 2024-02-07
+* Outlay, revenue, deficit, and debt baseline and baseline changes are through the February 2024 baseline. Outlay, deficit, and debt actuals are through 2023. Error statistics are through 2023.
+* Actual GDP data are through 2023 and reflect historical information available as of December 2023.
+
+
 ## Version 0.4.0 -- 2023-12-15
 * Outlay, revenue, deficit, and debt baseline and baseline changes are through the end of 2023. Outlay, deficit, and debt actuals are through 2023. Error statistics are through 2023.
 * Actual GDP data are through 2023 and reflect historical information available as of November 2023.

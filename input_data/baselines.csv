@@ -16218,127 +16218,127 @@ outlay,Net Interest,Net Interest,2017-06-01,TRUE,FALSE,2024,8,653.533
 outlay,Net Interest,Net Interest,2017-06-01,TRUE,FALSE,2025,9,705.826
 outlay,Net Interest,Net Interest,2017-06-01,TRUE,FALSE,2026,10,761.61
 outlay,Net Interest,Net Interest,2017-06-01,TRUE,FALSE,2027,11,818.457
-outlay,Total,Total,2018-04-01,FALSE,FALSE,2018,1,4052.607
-outlay,Total,Total,2018-04-01,FALSE,FALSE,2019,2,4310.111
-outlay,Total,Total,2018-04-01,FALSE,FALSE,2020,3,4568.192
-outlay,Total,Total,2018-04-01,FALSE,FALSE,2021,4,4828.325
-outlay,Total,Total,2018-04-01,FALSE,FALSE,2022,5,5149.456
-outlay,Total,Total,2018-04-01,FALSE,FALSE,2023,6,5349.848
-outlay,Total,Total,2018-04-01,FALSE,FALSE,2024,7,5544.013
-outlay,Total,Total,2018-04-01,FALSE,FALSE,2025,8,5870.905
-outlay,Total,Total,2018-04-01,FALSE,FALSE,2026,9,6196.843
-outlay,Total,Total,2018-04-01,FALSE,FALSE,2027,10,6503.89
-outlay,Total,Total,2018-04-01,FALSE,FALSE,2028,11,6907.043
-outlay,Mandatory,Total Mandatory,2018-04-01,FALSE,FALSE,2018,1,2532.953
-outlay,Mandatory,Total Mandatory,2018-04-01,FALSE,FALSE,2019,2,2711.649
-outlay,Mandatory,Total Mandatory,2018-04-01,FALSE,FALSE,2020,3,2868.094
-outlay,Mandatory,Total Mandatory,2018-04-01,FALSE,FALSE,2021,4,3047.073
-outlay,Mandatory,Total Mandatory,2018-04-01,FALSE,FALSE,2022,5,3277.6
-outlay,Mandatory,Total Mandatory,2018-04-01,FALSE,FALSE,2023,6,3400.38
-outlay,Mandatory,Total Mandatory,2018-04-01,FALSE,FALSE,2024,7,3520.592
-outlay,Mandatory,Total Mandatory,2018-04-01,FALSE,FALSE,2025,8,3764.101
-outlay,Mandatory,Total Mandatory,2018-04-01,FALSE,FALSE,2026,9,4004.862
-outlay,Mandatory,Total Mandatory,2018-04-01,FALSE,FALSE,2027,10,4223.247
-outlay,Mandatory,Total Mandatory,2018-04-01,FALSE,FALSE,2028,11,4527.405
-outlay,Mandatory,Social Security,2018-04-01,FALSE,FALSE,2018,1,985.798
-outlay,Mandatory,Social Security,2018-04-01,FALSE,FALSE,2019,2,1044.823
-outlay,Mandatory,Social Security,2018-04-01,FALSE,FALSE,2020,3,1107.521
-outlay,Mandatory,Social Security,2018-04-01,FALSE,FALSE,2021,4,1173.961
-outlay,Mandatory,Social Security,2018-04-01,FALSE,FALSE,2022,5,1244.648
-outlay,Mandatory,Social Security,2018-04-01,FALSE,FALSE,2023,6,1319.187
-outlay,Mandatory,Social Security,2018-04-01,FALSE,FALSE,2024,7,1397.218
-outlay,Mandatory,Social Security,2018-04-01,FALSE,FALSE,2025,8,1479.174
-outlay,Mandatory,Social Security,2018-04-01,FALSE,FALSE,2026,9,1563.758
-outlay,Mandatory,Social Security,2018-04-01,FALSE,FALSE,2027,10,1653.073
-outlay,Mandatory,Social Security,2018-04-01,FALSE,FALSE,2028,11,1747.301
-outlay,Mandatory,Medicare,2018-04-01,FALSE,FALSE,2018,1,567.929
-outlay,Mandatory,Medicare,2018-04-01,FALSE,FALSE,2019,2,641.158
-outlay,Mandatory,Medicare,2018-04-01,FALSE,FALSE,2020,3,696.332
-outlay,Mandatory,Medicare,2018-04-01,FALSE,FALSE,2021,4,753.344
-outlay,Mandatory,Medicare,2018-04-01,FALSE,FALSE,2022,5,844.28
-outlay,Mandatory,Medicare,2018-04-01,FALSE,FALSE,2023,6,865.146
-outlay,Mandatory,Medicare,2018-04-01,FALSE,FALSE,2024,7,886.92
-outlay,Mandatory,Medicare,2018-04-01,FALSE,FALSE,2025,8,986.568
-outlay,Mandatory,Medicare,2018-04-01,FALSE,FALSE,2026,9,1068.013
-outlay,Mandatory,Medicare,2018-04-01,FALSE,FALSE,2027,10,1145.182
-outlay,Mandatory,Medicare,2018-04-01,FALSE,FALSE,2028,11,1270.383
-outlay,Mandatory,Medicaid,2018-04-01,FALSE,FALSE,2018,1,390.286
-outlay,Mandatory,Medicaid,2018-04-01,FALSE,FALSE,2019,2,411.975
-outlay,Mandatory,Medicaid,2018-04-01,FALSE,FALSE,2020,3,431.194
-outlay,Mandatory,Medicaid,2018-04-01,FALSE,FALSE,2021,4,460.854
-outlay,Mandatory,Medicaid,2018-04-01,FALSE,FALSE,2022,5,489.506
-outlay,Mandatory,Medicaid,2018-04-01,FALSE,FALSE,2023,6,518.355
-outlay,Mandatory,Medicaid,2018-04-01,FALSE,FALSE,2024,7,548.399
-outlay,Mandatory,Medicaid,2018-04-01,FALSE,FALSE,2025,8,581.272
-outlay,Mandatory,Medicaid,2018-04-01,FALSE,FALSE,2026,9,615.905
-outlay,Mandatory,Medicaid,2018-04-01,FALSE,FALSE,2027,10,649.254
-outlay,Mandatory,Medicaid,2018-04-01,FALSE,FALSE,2028,11,683.472
-outlay,Mandatory,Fannie Freddie,2018-04-01,FALSE,FALSE,2018,1,-24.9
-outlay,Mandatory,Fannie Freddie,2018-04-01,FALSE,FALSE,2019,2,1
-outlay,Mandatory,Fannie Freddie,2018-04-01,FALSE,FALSE,2020,3,1
-outlay,Mandatory,Fannie Freddie,2018-04-01,FALSE,FALSE,2021,4,0.3
-outlay,Mandatory,Fannie Freddie,2018-04-01,FALSE,FALSE,2022,5,2
-outlay,Mandatory,Fannie Freddie,2018-04-01,FALSE,FALSE,2023,6,2.2
+outlay,Total,Total,2018-04-01,FALSE,FALSE,2018,1,4147.383
+outlay,Total,Total,2018-04-01,FALSE,FALSE,2019,2,4467.824
+outlay,Total,Total,2018-04-01,FALSE,FALSE,2020,3,4683.808
+outlay,Total,Total,2018-04-01,FALSE,FALSE,2021,4,4948.866
+outlay,Total,Total,2018-04-01,FALSE,FALSE,2022,5,5286.675
+outlay,Total,Total,2018-04-01,FALSE,FALSE,2023,6,5498.183
+outlay,Total,Total,2018-04-01,FALSE,FALSE,2024,7,5685.459
+outlay,Total,Total,2018-04-01,FALSE,FALSE,2025,8,6012.86
+outlay,Total,Total,2018-04-01,FALSE,FALSE,2026,9,6319.921
+outlay,Total,Total,2018-04-01,FALSE,FALSE,2027,10,6613.011
+outlay,Total,Total,2018-04-01,FALSE,FALSE,2028,11,7044.083
+outlay,Mandatory,Total Mandatory,2018-04-01,FALSE,FALSE,2018,1,2551.902
+outlay,Mandatory,Total Mandatory,2018-04-01,FALSE,FALSE,2019,2,2716.407
+outlay,Mandatory,Total Mandatory,2018-04-01,FALSE,FALSE,2020,3,2859.115
+outlay,Mandatory,Total Mandatory,2018-04-01,FALSE,FALSE,2021,4,3030.785
+outlay,Mandatory,Total Mandatory,2018-04-01,FALSE,FALSE,2022,5,3264.124
+outlay,Mandatory,Total Mandatory,2018-04-01,FALSE,FALSE,2023,6,3390.33
+outlay,Mandatory,Total Mandatory,2018-04-01,FALSE,FALSE,2024,7,3510.426
+outlay,Mandatory,Total Mandatory,2018-04-01,FALSE,FALSE,2025,8,3757.88
+outlay,Mandatory,Total Mandatory,2018-04-01,FALSE,FALSE,2026,9,3981.143
+outlay,Mandatory,Total Mandatory,2018-04-01,FALSE,FALSE,2027,10,4186.914
+outlay,Mandatory,Total Mandatory,2018-04-01,FALSE,FALSE,2028,11,4521.832
+outlay,Mandatory,Social Security,2018-04-01,FALSE,FALSE,2018,1,984.403
+outlay,Mandatory,Social Security,2018-04-01,FALSE,FALSE,2019,2,1043.257
+outlay,Mandatory,Social Security,2018-04-01,FALSE,FALSE,2020,3,1109.572
+outlay,Mandatory,Social Security,2018-04-01,FALSE,FALSE,2021,4,1179.512
+outlay,Mandatory,Social Security,2018-04-01,FALSE,FALSE,2022,5,1252.704
+outlay,Mandatory,Social Security,2018-04-01,FALSE,FALSE,2023,6,1330.042
+outlay,Mandatory,Social Security,2018-04-01,FALSE,FALSE,2024,7,1410.177
+outlay,Mandatory,Social Security,2018-04-01,FALSE,FALSE,2025,8,1494.734
+outlay,Mandatory,Social Security,2018-04-01,FALSE,FALSE,2026,9,1583.118
+outlay,Mandatory,Social Security,2018-04-01,FALSE,FALSE,2027,10,1675.985
+outlay,Mandatory,Social Security,2018-04-01,FALSE,FALSE,2028,11,1773.599
+outlay,Mandatory,Medicare,2018-04-01,FALSE,FALSE,2018,1,583.184
+outlay,Mandatory,Medicare,2018-04-01,FALSE,FALSE,2019,2,640.942
+outlay,Mandatory,Medicare,2018-04-01,FALSE,FALSE,2020,3,685.022
+outlay,Mandatory,Medicare,2018-04-01,FALSE,FALSE,2021,4,738.256
+outlay,Mandatory,Medicare,2018-04-01,FALSE,FALSE,2022,5,828.491
+outlay,Mandatory,Medicare,2018-04-01,FALSE,FALSE,2023,6,851.694
+outlay,Mandatory,Medicare,2018-04-01,FALSE,FALSE,2024,7,868.318
+outlay,Mandatory,Medicare,2018-04-01,FALSE,FALSE,2025,8,972.871
+outlay,Mandatory,Medicare,2018-04-01,FALSE,FALSE,2026,9,1041.818
+outlay,Mandatory,Medicare,2018-04-01,FALSE,FALSE,2027,10,1115.894
+outlay,Mandatory,Medicare,2018-04-01,FALSE,FALSE,2028,11,1259.836
+outlay,Mandatory,Medicaid,2018-04-01,FALSE,FALSE,2018,1,383.234
+outlay,Mandatory,Medicaid,2018-04-01,FALSE,FALSE,2019,2,401.351
+outlay,Mandatory,Medicaid,2018-04-01,FALSE,FALSE,2020,3,416.854
+outlay,Mandatory,Medicaid,2018-04-01,FALSE,FALSE,2021,4,436.639
+outlay,Mandatory,Medicaid,2018-04-01,FALSE,FALSE,2022,5,464.582
+outlay,Mandatory,Medicaid,2018-04-01,FALSE,FALSE,2023,6,493.201
+outlay,Mandatory,Medicaid,2018-04-01,FALSE,FALSE,2024,7,523.61
+outlay,Mandatory,Medicaid,2018-04-01,FALSE,FALSE,2025,8,554.415
+outlay,Mandatory,Medicaid,2018-04-01,FALSE,FALSE,2026,9,586.606
+outlay,Mandatory,Medicaid,2018-04-01,FALSE,FALSE,2027,10,620.285
+outlay,Mandatory,Medicaid,2018-04-01,FALSE,FALSE,2028,11,654.627
+outlay,Mandatory,Fannie Freddie,2018-04-01,FALSE,FALSE,2018,1,-5.6
+outlay,Mandatory,Fannie Freddie,2018-04-01,FALSE,FALSE,2019,2,2.5
+outlay,Mandatory,Fannie Freddie,2018-04-01,FALSE,FALSE,2020,3,1.5
+outlay,Mandatory,Fannie Freddie,2018-04-01,FALSE,FALSE,2021,4,0.4
+outlay,Mandatory,Fannie Freddie,2018-04-01,FALSE,FALSE,2022,5,1.5
+outlay,Mandatory,Fannie Freddie,2018-04-01,FALSE,FALSE,2023,6,2.1
 outlay,Mandatory,Fannie Freddie,2018-04-01,FALSE,FALSE,2024,7,2.4
-outlay,Mandatory,Fannie Freddie,2018-04-01,FALSE,FALSE,2025,8,2.3
-outlay,Mandatory,Fannie Freddie,2018-04-01,FALSE,FALSE,2026,9,2.3
-outlay,Mandatory,Fannie Freddie,2018-04-01,FALSE,FALSE,2027,10,2.4
-outlay,Mandatory,Fannie Freddie,2018-04-01,FALSE,FALSE,2028,11,2.4
-outlay,Mandatory,Other Mandatory,2018-04-01,FALSE,FALSE,2018,1,588.94
-outlay,Mandatory,Other Mandatory,2018-04-01,FALSE,FALSE,2019,2,613.693
-outlay,Mandatory,Other Mandatory,2018-04-01,FALSE,FALSE,2020,3,633.047
-outlay,Mandatory,Other Mandatory,2018-04-01,FALSE,FALSE,2021,4,658.914
-outlay,Mandatory,Other Mandatory,2018-04-01,FALSE,FALSE,2022,5,699.166
-outlay,Mandatory,Other Mandatory,2018-04-01,FALSE,FALSE,2023,6,697.692
-outlay,Mandatory,Other Mandatory,2018-04-01,FALSE,FALSE,2024,7,688.055
-outlay,Mandatory,Other Mandatory,2018-04-01,FALSE,FALSE,2025,8,717.087
-outlay,Mandatory,Other Mandatory,2018-04-01,FALSE,FALSE,2026,9,757.186
-outlay,Mandatory,Other Mandatory,2018-04-01,FALSE,FALSE,2027,10,775.738
-outlay,Mandatory,Other Mandatory,2018-04-01,FALSE,FALSE,2028,11,826.249
-outlay,Discretionary,Total Discretionary,2018-04-01,FALSE,FALSE,2018,1,1213.993
-outlay,Discretionary,Total Discretionary,2018-04-01,FALSE,FALSE,2019,2,1244.78
-outlay,Discretionary,Total Discretionary,2018-04-01,FALSE,FALSE,2020,3,1284.567
-outlay,Discretionary,Total Discretionary,2018-04-01,FALSE,FALSE,2021,4,1308.696
-outlay,Discretionary,Total Discretionary,2018-04-01,FALSE,FALSE,2022,5,1345.662
-outlay,Discretionary,Total Discretionary,2018-04-01,FALSE,FALSE,2023,6,1373.622
-outlay,Discretionary,Total Discretionary,2018-04-01,FALSE,FALSE,2024,7,1402.128
-outlay,Discretionary,Total Discretionary,2018-04-01,FALSE,FALSE,2025,8,1441.484
-outlay,Discretionary,Total Discretionary,2018-04-01,FALSE,FALSE,2026,9,1476.415
-outlay,Discretionary,Total Discretionary,2018-04-01,FALSE,FALSE,2027,10,1513.599
-outlay,Discretionary,Total Discretionary,2018-04-01,FALSE,FALSE,2028,11,1556.39
-outlay,Discretionary,Defense Discretionary,2018-04-01,FALSE,FALSE,2018,1,592.589
-outlay,Discretionary,Defense Discretionary,2018-04-01,FALSE,FALSE,2019,2,616.611
-outlay,Discretionary,Defense Discretionary,2018-04-01,FALSE,FALSE,2020,3,637.672
-outlay,Discretionary,Defense Discretionary,2018-04-01,FALSE,FALSE,2021,4,656.488
-outlay,Discretionary,Defense Discretionary,2018-04-01,FALSE,FALSE,2022,5,678.227
-outlay,Discretionary,Defense Discretionary,2018-04-01,FALSE,FALSE,2023,6,690.181
-outlay,Discretionary,Defense Discretionary,2018-04-01,FALSE,FALSE,2024,7,702.162
-outlay,Discretionary,Defense Discretionary,2018-04-01,FALSE,FALSE,2025,8,724.224
-outlay,Discretionary,Defense Discretionary,2018-04-01,FALSE,FALSE,2026,9,741.994
-outlay,Discretionary,Defense Discretionary,2018-04-01,FALSE,FALSE,2027,10,760.204
-outlay,Discretionary,Defense Discretionary,2018-04-01,FALSE,FALSE,2028,11,783.848
-outlay,Discretionary,Nondefense Discretionary,2018-04-01,FALSE,FALSE,2018,1,621.404
-outlay,Discretionary,Nondefense Discretionary,2018-04-01,FALSE,FALSE,2019,2,628.169
-outlay,Discretionary,Nondefense Discretionary,2018-04-01,FALSE,FALSE,2020,3,646.895
-outlay,Discretionary,Nondefense Discretionary,2018-04-01,FALSE,FALSE,2021,4,652.208
-outlay,Discretionary,Nondefense Discretionary,2018-04-01,FALSE,FALSE,2022,5,667.435
-outlay,Discretionary,Nondefense Discretionary,2018-04-01,FALSE,FALSE,2023,6,683.441
-outlay,Discretionary,Nondefense Discretionary,2018-04-01,FALSE,FALSE,2024,7,699.966
-outlay,Discretionary,Nondefense Discretionary,2018-04-01,FALSE,FALSE,2025,8,717.26
-outlay,Discretionary,Nondefense Discretionary,2018-04-01,FALSE,FALSE,2026,9,734.421
-outlay,Discretionary,Nondefense Discretionary,2018-04-01,FALSE,FALSE,2027,10,753.395
-outlay,Discretionary,Nondefense Discretionary,2018-04-01,FALSE,FALSE,2028,11,772.542
-outlay,Net Interest,Net Interest,2018-04-01,FALSE,FALSE,2018,1,305.661
-outlay,Net Interest,Net Interest,2018-04-01,FALSE,FALSE,2019,2,353.682
-outlay,Net Interest,Net Interest,2018-04-01,FALSE,FALSE,2020,3,415.531
-outlay,Net Interest,Net Interest,2018-04-01,FALSE,FALSE,2021,4,472.556
-outlay,Net Interest,Net Interest,2018-04-01,FALSE,FALSE,2022,5,526.194
-outlay,Net Interest,Net Interest,2018-04-01,FALSE,FALSE,2023,6,575.846
-outlay,Net Interest,Net Interest,2018-04-01,FALSE,FALSE,2024,7,621.293
-outlay,Net Interest,Net Interest,2018-04-01,FALSE,FALSE,2025,8,665.32
-outlay,Net Interest,Net Interest,2018-04-01,FALSE,FALSE,2026,9,715.566
-outlay,Net Interest,Net Interest,2018-04-01,FALSE,FALSE,2027,10,767.044
-outlay,Net Interest,Net Interest,2018-04-01,FALSE,FALSE,2028,11,823.248
+outlay,Mandatory,Fannie Freddie,2018-04-01,FALSE,FALSE,2025,8,2.2
+outlay,Mandatory,Fannie Freddie,2018-04-01,FALSE,FALSE,2026,9,2.1
+outlay,Mandatory,Fannie Freddie,2018-04-01,FALSE,FALSE,2027,10,2.1
+outlay,Mandatory,Fannie Freddie,2018-04-01,FALSE,FALSE,2028,11,2.2
+outlay,Mandatory,Other Mandatory,2018-04-01,FALSE,FALSE,2018,1,601.081
+outlay,Mandatory,Other Mandatory,2018-04-01,FALSE,FALSE,2019,2,630.857
+outlay,Mandatory,Other Mandatory,2018-04-01,FALSE,FALSE,2020,3,647.667
+outlay,Mandatory,Other Mandatory,2018-04-01,FALSE,FALSE,2021,4,676.378
+outlay,Mandatory,Other Mandatory,2018-04-01,FALSE,FALSE,2022,5,718.347
+outlay,Mandatory,Other Mandatory,2018-04-01,FALSE,FALSE,2023,6,715.393
+outlay,Mandatory,Other Mandatory,2018-04-01,FALSE,FALSE,2024,7,708.321
+outlay,Mandatory,Other Mandatory,2018-04-01,FALSE,FALSE,2025,8,735.86
+outlay,Mandatory,Other Mandatory,2018-04-01,FALSE,FALSE,2026,9,769.601
+outlay,Mandatory,Other Mandatory,2018-04-01,FALSE,FALSE,2027,10,774.75
+outlay,Mandatory,Other Mandatory,2018-04-01,FALSE,FALSE,2028,11,833.77
+outlay,Discretionary,Total Discretionary,2018-04-01,FALSE,FALSE,2018,1,1279.842
+outlay,Discretionary,Total Discretionary,2018-04-01,FALSE,FALSE,2019,2,1361.743
+outlay,Discretionary,Total Discretionary,2018-04-01,FALSE,FALSE,2020,3,1340.017
+outlay,Discretionary,Total Discretionary,2018-04-01,FALSE,FALSE,2021,4,1347.978
+outlay,Discretionary,Total Discretionary,2018-04-01,FALSE,FALSE,2022,5,1379.689
+outlay,Discretionary,Total Discretionary,2018-04-01,FALSE,FALSE,2023,6,1406.261
+outlay,Discretionary,Total Discretionary,2018-04-01,FALSE,FALSE,2024,7,1436.164
+outlay,Discretionary,Total Discretionary,2018-04-01,FALSE,FALSE,2025,8,1481.205
+outlay,Discretionary,Total Discretionary,2018-04-01,FALSE,FALSE,2026,9,1521.77
+outlay,Discretionary,Total Discretionary,2018-04-01,FALSE,FALSE,2027,10,1562.344
+outlay,Discretionary,Total Discretionary,2018-04-01,FALSE,FALSE,2028,11,1607.545
+outlay,Discretionary,Defense Discretionary,2018-04-01,FALSE,FALSE,2018,1,657.908
+outlay,Discretionary,Defense Discretionary,2018-04-01,FALSE,FALSE,2019,2,692.851
+outlay,Discretionary,Defense Discretionary,2018-04-01,FALSE,FALSE,2020,3,688.986
+outlay,Discretionary,Defense Discretionary,2018-04-01,FALSE,FALSE,2021,4,693.339
+outlay,Discretionary,Defense Discretionary,2018-04-01,FALSE,FALSE,2022,5,708.365
+outlay,Discretionary,Defense Discretionary,2018-04-01,FALSE,FALSE,2023,6,727.411
+outlay,Discretionary,Defense Discretionary,2018-04-01,FALSE,FALSE,2024,7,747.81
+outlay,Discretionary,Defense Discretionary,2018-04-01,FALSE,FALSE,2025,8,771.123
+outlay,Discretionary,Defense Discretionary,2018-04-01,FALSE,FALSE,2026,9,794.291
+outlay,Discretionary,Defense Discretionary,2018-04-01,FALSE,FALSE,2027,10,817.057
+outlay,Discretionary,Defense Discretionary,2018-04-01,FALSE,FALSE,2028,11,839.024
+outlay,Discretionary,Nondefense Discretionary,2018-04-01,FALSE,FALSE,2018,1,621.934
+outlay,Discretionary,Nondefense Discretionary,2018-04-01,FALSE,FALSE,2019,2,668.892
+outlay,Discretionary,Nondefense Discretionary,2018-04-01,FALSE,FALSE,2020,3,651.031
+outlay,Discretionary,Nondefense Discretionary,2018-04-01,FALSE,FALSE,2021,4,654.639
+outlay,Discretionary,Nondefense Discretionary,2018-04-01,FALSE,FALSE,2022,5,671.324
+outlay,Discretionary,Nondefense Discretionary,2018-04-01,FALSE,FALSE,2023,6,678.85
+outlay,Discretionary,Nondefense Discretionary,2018-04-01,FALSE,FALSE,2024,7,688.354
+outlay,Discretionary,Nondefense Discretionary,2018-04-01,FALSE,FALSE,2025,8,710.082
+outlay,Discretionary,Nondefense Discretionary,2018-04-01,FALSE,FALSE,2026,9,727.479
+outlay,Discretionary,Nondefense Discretionary,2018-04-01,FALSE,FALSE,2027,10,745.287
+outlay,Discretionary,Nondefense Discretionary,2018-04-01,FALSE,FALSE,2028,11,768.521
+outlay,Net Interest,Net Interest,2018-04-01,FALSE,FALSE,2018,1,315.639
+outlay,Net Interest,Net Interest,2018-04-01,FALSE,FALSE,2019,2,389.674
+outlay,Net Interest,Net Interest,2018-04-01,FALSE,FALSE,2020,3,484.676
+outlay,Net Interest,Net Interest,2018-04-01,FALSE,FALSE,2021,4,570.103
+outlay,Net Interest,Net Interest,2018-04-01,FALSE,FALSE,2022,5,642.862
+outlay,Net Interest,Net Interest,2018-04-01,FALSE,FALSE,2023,6,701.592
+outlay,Net Interest,Net Interest,2018-04-01,FALSE,FALSE,2024,7,738.869
+outlay,Net Interest,Net Interest,2018-04-01,FALSE,FALSE,2025,8,773.775
+outlay,Net Interest,Net Interest,2018-04-01,FALSE,FALSE,2026,9,817.008
+outlay,Net Interest,Net Interest,2018-04-01,FALSE,FALSE,2027,10,863.753
+outlay,Net Interest,Net Interest,2018-04-01,FALSE,FALSE,2028,11,914.706
 outlay,Total,Total,2018-05-01,TRUE,FALSE,2018,1,4136.955
 outlay,Total,Total,2018-05-01,TRUE,FALSE,2019,2,4460.701
 outlay,Total,Total,2018-05-01,TRUE,FALSE,2020,3,4681.367

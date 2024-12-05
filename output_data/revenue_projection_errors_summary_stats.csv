@@ -1,89 +1,89 @@
-component,category,subcategory,projected_year_number,average_error,average_absolute_error,RMSE,two_thirds_spread
-revenue,Total,Total,1,-0.4,2.8,4.1,6.6
-revenue,Total,Total,2,0.3,5.7,8.0,12.4
-revenue,Total,Total,3,1.1,7.4,9.7,17.8
-revenue,Total,Total,4,2.2,8.8,10.7,22.8
-revenue,Total,Total,5,3.1,9.6,11.4,22.3
-revenue,Total,Total,6,3.9,9.9,11.6,22.2
-revenue,Total,Total,7,1.8,10.3,12.1,27.2
-revenue,Total,Total,8,2.6,11.4,13.2,24.7
-revenue,Total,Total,9,3.6,12.7,14.8,28.8
-revenue,Total,Total,10,4.7,13.2,15.3,30.2
-revenue,Total,Total,11,5.7,13.7,15.7,30.6
-revenue,Individual Income Taxes,Individual Income Taxes,1,-0.9,4.7,6.6,10.3
-revenue,Individual Income Taxes,Individual Income Taxes,2,-0.6,8.4,11.3,17.5
-revenue,Individual Income Taxes,Individual Income Taxes,3,0.3,10.3,13.7,21.5
-revenue,Individual Income Taxes,Individual Income Taxes,4,1.5,11.5,14.8,32.8
-revenue,Individual Income Taxes,Individual Income Taxes,5,2.5,12.7,15.7,31.6
-revenue,Individual Income Taxes,Individual Income Taxes,6,3.3,12.8,15.5,33.9
-revenue,Individual Income Taxes,Individual Income Taxes,7,0.9,14.6,17.1,37.6
-revenue,Individual Income Taxes,Individual Income Taxes,8,1.6,16.2,18.7,34.2
-revenue,Individual Income Taxes,Individual Income Taxes,9,2.6,18.4,20.7,37.4
-revenue,Individual Income Taxes,Individual Income Taxes,10,3.5,19.1,21.5,41.7
-revenue,Individual Income Taxes,Individual Income Taxes,11,4.3,19.7,21.2,42.5
-revenue,Payroll Taxes,Payroll Taxes,1,0.2,1.2,1.4,2.8
-revenue,Payroll Taxes,Payroll Taxes,2,1.0,2.6,3.5,6.4
-revenue,Payroll Taxes,Payroll Taxes,3,1.7,3.8,5.1,9.0
-revenue,Payroll Taxes,Payroll Taxes,4,2.9,5.1,6.6,10.5
-revenue,Payroll Taxes,Payroll Taxes,5,4.1,6.4,8.0,13.2
-revenue,Payroll Taxes,Payroll Taxes,6,5.3,7.5,9.2,13.1
-revenue,Payroll Taxes,Payroll Taxes,7,4.8,8.2,10.0,18.9
-revenue,Payroll Taxes,Payroll Taxes,8,5.7,9.1,11.0,18.9
-revenue,Payroll Taxes,Payroll Taxes,9,7.0,10.0,12.3,21.6
-revenue,Payroll Taxes,Payroll Taxes,10,8.4,10.8,13.3,21.6
-revenue,Payroll Taxes,Payroll Taxes,11,9.9,11.6,14.3,22.9
-revenue,Corporate Income Taxes,Corporate Income Taxes,1,0.7,10.6,15.0,19.4
-revenue,Corporate Income Taxes,Corporate Income Taxes,2,6.5,18.2,27.6,31.9
-revenue,Corporate Income Taxes,Corporate Income Taxes,3,9.3,23.3,30.4,47.6
-revenue,Corporate Income Taxes,Corporate Income Taxes,4,11.9,26.3,30.8,58.4
-revenue,Corporate Income Taxes,Corporate Income Taxes,5,12.9,27.8,32.2,61.9
-revenue,Corporate Income Taxes,Corporate Income Taxes,6,13.2,28.3,34.8,64.5
-revenue,Corporate Income Taxes,Corporate Income Taxes,7,6.2,21.7,28.1,44.9
-revenue,Corporate Income Taxes,Corporate Income Taxes,8,5.8,20.9,27.8,48.0
-revenue,Corporate Income Taxes,Corporate Income Taxes,9,5.2,22.2,26.6,48.5
-revenue,Corporate Income Taxes,Corporate Income Taxes,10,3.7,17.3,20.8,39.8
-revenue,Corporate Income Taxes,Corporate Income Taxes,11,3.6,20.9,25.5,54.1
-revenue,Customs Duties,Customs Duties,1,0.7,5.1,7.0,12.5
-revenue,Customs Duties,Customs Duties,2,0.1,8.0,11.5,15.6
-revenue,Customs Duties,Customs Duties,3,-0.8,10.1,14.1,21.0
-revenue,Customs Duties,Customs Duties,4,-1.0,13.5,17.2,30.3
-revenue,Customs Duties,Customs Duties,5,-1.6,14.9,19.5,39.8
-revenue,Customs Duties,Customs Duties,6,-2.3,16.3,21.1,44.6
-revenue,Customs Duties,Customs Duties,7,-0.5,17.4,22.9,48.2
-revenue,Customs Duties,Customs Duties,8,1.3,19.4,24.2,52.6
-revenue,Customs Duties,Customs Duties,9,3.1,21.5,27.0,55.8
-revenue,Customs Duties,Customs Duties,10,4.4,23.9,29.7,59.7
-revenue,Customs Duties,Customs Duties,11,4.7,25.0,30.4,58.1
-revenue,Excise Taxes,Excise Taxes,1,2.2,3.8,5.8,7.3
-revenue,Excise Taxes,Excise Taxes,2,5.0,6.9,9.8,13.4
-revenue,Excise Taxes,Excise Taxes,3,7.5,9.2,12.0,17.2
-revenue,Excise Taxes,Excise Taxes,4,10.1,11.3,14.8,18.5
-revenue,Excise Taxes,Excise Taxes,5,12.3,13.3,17.3,15.0
-revenue,Excise Taxes,Excise Taxes,6,15.0,15.8,20.3,21.7
-revenue,Excise Taxes,Excise Taxes,7,13.9,14.9,19.7,24.6
-revenue,Excise Taxes,Excise Taxes,8,15.9,17.4,22.2,30.8
-revenue,Excise Taxes,Excise Taxes,9,18.5,20.1,25.0,29.7
-revenue,Excise Taxes,Excise Taxes,10,21.4,22.1,26.9,32.3
-revenue,Excise Taxes,Excise Taxes,11,24.1,24.3,28.7,28.9
-revenue,Estate and Gift Taxes,Estate and Gift Taxes,1,-3.9,9.5,13.4,19.3
-revenue,Estate and Gift Taxes,Estate and Gift Taxes,2,-6.3,13.7,17.3,29.1
-revenue,Estate and Gift Taxes,Estate and Gift Taxes,3,-9.2,17.8,22.0,34.2
-revenue,Estate and Gift Taxes,Estate and Gift Taxes,4,-12.5,23.6,30.6,36.6
-revenue,Estate and Gift Taxes,Estate and Gift Taxes,5,-10.6,28.4,39.2,44.3
-revenue,Estate and Gift Taxes,Estate and Gift Taxes,6,-12.1,30.8,38.2,51.6
-revenue,Estate and Gift Taxes,Estate and Gift Taxes,7,-2.6,29.9,40.8,57.0
-revenue,Estate and Gift Taxes,Estate and Gift Taxes,8,-2.3,32.6,45.2,57.6
-revenue,Estate and Gift Taxes,Estate and Gift Taxes,9,-1.6,35.3,47.3,77.1
-revenue,Estate and Gift Taxes,Estate and Gift Taxes,10,-0.4,39.4,48.1,86.1
-revenue,Estate and Gift Taxes,Estate and Gift Taxes,11,-9.8,49.2,64.4,87.3
-revenue,Miscellaneous Receipts,Miscellaneous Receipts,1,-2.4,6.5,7.9,15.4
-revenue,Miscellaneous Receipts,Miscellaneous Receipts,2,-2.9,12.2,17.8,21.3
-revenue,Miscellaneous Receipts,Miscellaneous Receipts,3,1.1,24.1,51.6,42.0
-revenue,Miscellaneous Receipts,Miscellaneous Receipts,4,-4.5,22.6,34.8,47.2
-revenue,Miscellaneous Receipts,Miscellaneous Receipts,5,-5.2,25.9,38.2,50.8
-revenue,Miscellaneous Receipts,Miscellaneous Receipts,6,-5.1,26.3,37.1,52.2
-revenue,Miscellaneous Receipts,Miscellaneous Receipts,7,-4.2,28.6,41.2,53.5
-revenue,Miscellaneous Receipts,Miscellaneous Receipts,8,-2.1,30.5,46.2,62.1
-revenue,Miscellaneous Receipts,Miscellaneous Receipts,9,0.2,29.8,48.6,58.3
-revenue,Miscellaneous Receipts,Miscellaneous Receipts,10,2.2,28.2,50.3,54.3
-revenue,Miscellaneous Receipts,Miscellaneous Receipts,11,4.1,30.0,56.6,55.7
+component,category,subcategory,projected_year_number,projection_year_range,number_of_projections,average_error,average_absolute_error,RMSE,two_thirds_spread
+revenue,Total,Total,1,1982-2023,42,-0.4,2.8,4.1,6.6
+revenue,Total,Total,2,1983-2023,41,0.3,5.7,8.0,12.4
+revenue,Total,Total,3,1984-2023,40,1.1,7.4,9.7,17.8
+revenue,Total,Total,4,1985-2023,39,2.2,8.8,10.7,22.8
+revenue,Total,Total,5,1986-2023,38,3.1,9.6,11.4,22.3
+revenue,Total,Total,6,1987-2023,37,3.9,9.9,11.6,22.2
+revenue,Total,Total,7,1998-2023,26,1.8,10.3,12.1,27.2
+revenue,Total,Total,8,1999-2023,25,2.6,11.4,13.2,24.7
+revenue,Total,Total,9,2000-2023,24,3.6,12.7,14.8,28.8
+revenue,Total,Total,10,2001-2023,23,4.7,13.2,15.3,30.2
+revenue,Total,Total,11,2002-2023,22,5.7,13.7,15.7,30.6
+revenue,Individual Income Taxes,Individual Income Taxes,1,1982-2023,42,-0.9,4.7,6.6,10.3
+revenue,Individual Income Taxes,Individual Income Taxes,2,1983-2023,41,-0.6,8.4,11.3,17.5
+revenue,Individual Income Taxes,Individual Income Taxes,3,1984-2023,40,0.3,10.3,13.7,21.5
+revenue,Individual Income Taxes,Individual Income Taxes,4,1985-2023,39,1.5,11.5,14.8,32.8
+revenue,Individual Income Taxes,Individual Income Taxes,5,1986-2023,38,2.5,12.7,15.7,31.6
+revenue,Individual Income Taxes,Individual Income Taxes,6,1987-2023,37,3.3,12.8,15.5,33.9
+revenue,Individual Income Taxes,Individual Income Taxes,7,1998-2023,26,0.9,14.6,17.1,37.6
+revenue,Individual Income Taxes,Individual Income Taxes,8,1999-2023,25,1.6,16.2,18.7,34.2
+revenue,Individual Income Taxes,Individual Income Taxes,9,2000-2023,24,2.6,18.4,20.7,37.4
+revenue,Individual Income Taxes,Individual Income Taxes,10,2001-2023,23,3.5,19.1,21.5,41.7
+revenue,Individual Income Taxes,Individual Income Taxes,11,2002-2023,22,4.3,19.7,21.2,42.5
+revenue,Payroll Taxes,Payroll Taxes,1,1982-2023,42,0.2,1.2,1.4,2.8
+revenue,Payroll Taxes,Payroll Taxes,2,1983-2023,41,1.0,2.6,3.5,6.4
+revenue,Payroll Taxes,Payroll Taxes,3,1984-2023,40,1.7,3.8,5.1,9.0
+revenue,Payroll Taxes,Payroll Taxes,4,1985-2023,39,2.9,5.1,6.6,10.5
+revenue,Payroll Taxes,Payroll Taxes,5,1986-2023,38,4.1,6.4,8.0,13.2
+revenue,Payroll Taxes,Payroll Taxes,6,1987-2023,37,5.3,7.5,9.2,13.1
+revenue,Payroll Taxes,Payroll Taxes,7,1998-2023,26,4.8,8.2,10.0,18.9
+revenue,Payroll Taxes,Payroll Taxes,8,1999-2023,25,5.7,9.1,11.0,18.9
+revenue,Payroll Taxes,Payroll Taxes,9,2000-2023,24,7.0,10.0,12.3,21.6
+revenue,Payroll Taxes,Payroll Taxes,10,2001-2023,23,8.4,10.8,13.3,21.6
+revenue,Payroll Taxes,Payroll Taxes,11,2002-2023,22,9.9,11.6,14.3,22.9
+revenue,Corporate Income Taxes,Corporate Income Taxes,1,1982-2023,42,0.7,10.6,15.0,19.4
+revenue,Corporate Income Taxes,Corporate Income Taxes,2,1983-2023,41,6.5,18.2,27.6,31.9
+revenue,Corporate Income Taxes,Corporate Income Taxes,3,1984-2023,40,9.3,23.3,30.4,47.6
+revenue,Corporate Income Taxes,Corporate Income Taxes,4,1985-2023,39,11.9,26.3,30.8,58.4
+revenue,Corporate Income Taxes,Corporate Income Taxes,5,1986-2023,38,12.9,27.8,32.2,61.9
+revenue,Corporate Income Taxes,Corporate Income Taxes,6,1987-2023,37,13.2,28.3,34.8,64.5
+revenue,Corporate Income Taxes,Corporate Income Taxes,7,1998-2023,26,6.2,21.7,28.1,44.9
+revenue,Corporate Income Taxes,Corporate Income Taxes,8,1999-2023,25,5.8,20.9,27.8,48.0
+revenue,Corporate Income Taxes,Corporate Income Taxes,9,2000-2023,24,5.2,22.2,26.6,48.5
+revenue,Corporate Income Taxes,Corporate Income Taxes,10,2001-2023,23,3.7,17.3,20.8,39.8
+revenue,Corporate Income Taxes,Corporate Income Taxes,11,2002-2023,22,3.6,20.9,25.5,54.1
+revenue,Customs Duties,Customs Duties,1,1982-2023,42,0.7,5.1,7.0,12.5
+revenue,Customs Duties,Customs Duties,2,1983-2023,41,0.1,8.0,11.5,15.6
+revenue,Customs Duties,Customs Duties,3,1984-2023,40,-0.8,10.1,14.1,21.0
+revenue,Customs Duties,Customs Duties,4,1985-2023,39,-1.0,13.5,17.2,30.3
+revenue,Customs Duties,Customs Duties,5,1986-2023,38,-1.6,14.9,19.5,39.8
+revenue,Customs Duties,Customs Duties,6,1987-2023,37,-2.3,16.3,21.1,44.6
+revenue,Customs Duties,Customs Duties,7,1998-2023,26,-0.5,17.4,22.9,48.2
+revenue,Customs Duties,Customs Duties,8,1999-2023,25,1.3,19.4,24.2,52.6
+revenue,Customs Duties,Customs Duties,9,2000-2023,24,3.1,21.5,27.0,55.8
+revenue,Customs Duties,Customs Duties,10,2001-2023,23,4.4,23.9,29.7,59.7
+revenue,Customs Duties,Customs Duties,11,2002-2023,22,4.7,25.0,30.4,58.1
+revenue,Excise Taxes,Excise Taxes,1,1982-2023,42,2.2,3.8,5.8,7.3
+revenue,Excise Taxes,Excise Taxes,2,1983-2023,41,5.0,6.9,9.8,13.4
+revenue,Excise Taxes,Excise Taxes,3,1984-2023,40,7.5,9.2,12.0,17.2
+revenue,Excise Taxes,Excise Taxes,4,1985-2023,39,10.1,11.3,14.8,18.5
+revenue,Excise Taxes,Excise Taxes,5,1986-2023,38,12.3,13.3,17.3,15.0
+revenue,Excise Taxes,Excise Taxes,6,1987-2023,37,15.0,15.8,20.3,21.7
+revenue,Excise Taxes,Excise Taxes,7,1998-2023,26,13.9,14.9,19.7,24.6
+revenue,Excise Taxes,Excise Taxes,8,1999-2023,25,15.9,17.4,22.2,30.8
+revenue,Excise Taxes,Excise Taxes,9,2000-2023,24,18.5,20.1,25.0,29.7
+revenue,Excise Taxes,Excise Taxes,10,2001-2023,23,21.4,22.1,26.9,32.3
+revenue,Excise Taxes,Excise Taxes,11,2002-2023,22,24.1,24.3,28.7,28.9
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,1,1982-2023,42,-3.9,9.5,13.4,19.3
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,2,1983-2023,41,-6.3,13.7,17.3,29.1
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,3,1984-2023,40,-9.2,17.8,22.0,34.2
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,4,1985-2023,39,-12.5,23.6,30.6,36.6
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,5,1986-2023,38,-10.6,28.4,39.2,44.3
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,6,1987-2023,37,-12.1,30.8,38.2,51.6
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,7,1998-2023,26,-2.6,29.9,40.8,57.0
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,8,1999-2023,25,-2.3,32.6,45.2,57.6
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,9,2000-2023,24,-1.6,35.3,47.3,77.1
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,10,2001-2023,23,-0.4,39.4,48.1,86.1
+revenue,Estate and Gift Taxes,Estate and Gift Taxes,11,2002-2023,22,-9.8,49.2,64.4,87.3
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,1,1982-2023,42,-2.4,6.5,7.9,15.4
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2,1983-2023,41,-2.9,12.2,17.8,21.3
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,3,1984-2023,40,1.1,24.1,51.6,42.0
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,4,1985-2023,39,-4.5,22.6,34.8,47.2
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,5,1986-2023,38,-5.2,25.9,38.2,50.8
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,6,1987-2023,37,-5.1,26.3,37.1,52.2
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,7,1998-2023,26,-4.2,28.6,41.2,53.5
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,8,1999-2023,25,-2.1,30.5,46.2,62.1
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,9,2000-2023,24,0.2,29.8,48.6,58.3
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,10,2001-2023,23,2.2,28.2,50.3,54.3
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,11,2002-2023,22,4.1,30.0,56.6,55.7

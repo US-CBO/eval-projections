@@ -44,9 +44,24 @@ def calc_summary_stats(errors, component):
     else:
         error_col = "projection_error_pct_actual"
 
+    # Filter errors for revenue component when Winter_flag is True
+    if component == "revenue":
+        errors = errors[errors["Winter_flag"] == True]
+
+    # Calculate projection_year_range before groupby
+    errors["projection_year_range"] = (
+        errors
+            .groupby(group_cols, observed=True)["projected_fiscal_year"]
+            .transform(lambda years: f"{years.min()}-{years.max()}")
+    )
+
+    # Add projection_year_range to group_cols
+    group_cols.append("projection_year_range")
+
     summary_stats = errors.groupby(group_cols, observed=True).agg(
         {
             error_col: [
+                ("num_projections", "count"),
                 ("average_error", lambda error: error.mean()),
                 ("average_absolute_error", lambda error: abs(error).mean()),
                 ("RMSE", lambda error: ((error ** 2).mean()) ** 0.5),
@@ -61,10 +76,11 @@ def calc_summary_stats(errors, component):
 
     # Clean up column names
     stats_cols = [
-        "average_error",
-        "average_absolute_error",
-        "RMSE",
-        "two_thirds_spread"
+    "number_of_projections",
+    "average_error",
+    "average_absolute_error",
+    "RMSE",
+    "two_thirds_spread"
     ]
 
     summary_stats.columns = group_cols + stats_cols

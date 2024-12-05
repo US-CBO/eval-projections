@@ -43,14 +43,17 @@ def calc_errors(merged_data, component):
     if component == "deficit":
         merged_data["projection_error"] *= -1
 
-    if component in ["deficit", "debt"]:
-        merged_data["projection_error_pct_GDP"] = (
-            merged_data["projection_error"] / merged_data["GDP"] * 100
-        )
-
-    else:
+    if component in ["outlay", "revenue"]:
         merged_data["projection_error_pct_actual"] = (
             merged_data["projection_error"] / merged_data["actual_value"] * 100
         )
+
+    merged_data["leg_change_pct_GDP"] = (
+        merged_data[f"legislative_{component}_change"] / merged_data["GDP"] * 100
+    )
+
+    merged_data["projection_error_pct_GDP"] = (
+        merged_data["projection_error"] / merged_data["GDP"] * 100
+     )
 
     return merged_data

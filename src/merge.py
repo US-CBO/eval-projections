@@ -16,7 +16,7 @@ leg_labels = {
 }
 
 
-def merge_data(dfs, component):
+def merge_data(dfs, component, agg_cols=agg_cols, leg_labels=leg_labels):
     """
     Merge and filter data from multiple DataFrames related to
     projection errors.
@@ -40,7 +40,15 @@ def merge_data(dfs, component):
 
     component : str
         The component for which data is being merged
-        ("outlay", "revenue", "deficit", "debt")
+        []"outlay", "revenue", "deficit", "debt"]
+
+    agg_cols : list of str, optional
+        A list of columns to grou by when aggregating results
+        (default is agg_cols, defined above)
+
+    leg_labels : dict, optional
+        A dictionary containing labels for legislative changes
+        (default is leg_labels, defined above)
 
     Returns
     -------
@@ -78,10 +86,10 @@ def merge_data(dfs, component):
     relevant_baselines = get_relevant_baselines(baselines, component)
     bl_act = merge_baselines_actuals(relevant_baselines, actuals)
     bl_act_GDP = merge_on_GDP(bl_act, GDP)
-    leg_changes = get_leg_changes(changes, component)
+    leg_changes = get_leg_changes(changes, component, leg_labels)
     bl_act_leg = merge_on_leg_changes(bl_act_GDP, leg_changes)
-    bl_act_leg_agg = aggregate_leg_changes(bl_act_leg, component)
-    merged_df = merge_on_agg_leg_changes(bl_act_GDP, bl_act_leg_agg)
+    bl_act_leg_agg = aggregate_leg_changes(bl_act_leg, component, agg_cols, leg_labels)
+    merged_df = merge_on_agg_leg_changes(bl_act_GDP, bl_act_leg_agg, component, agg_cols)
     filtered_data = filter_merged_data(merged_df)
     sorted_data = sort_data(filtered_data, component)
 
@@ -121,16 +129,19 @@ def get_relevant_baselines(baselines, component):
         component argument passed into the function and the `Winter_flag`
         or `Spring_flag` values indicating the source of the baseline
         projections.
+
+    Modified to handle both Winter and Spring baselines for the revenue component.
     """
-    which_baseline = {
-        "revenue": "Winter",
-        "outlay": "Spring",
-        "deficit": "Spring",
-        "debt": "Spring",
-    }
 
     component_cond = baselines["component"] == component
-    baseline_cond = baselines[f"{which_baseline[component]}_flag"] == True
+
+    if component == "revenue":
+        winter_cond = baselines["Winter_flag"] == True
+        spring_cond = baselines["Spring_flag"] == True
+        baseline_cond = winter_cond | spring_cond
+    else:
+        season = "Spring" if component in ["outlay", "deficit", "debt"] else "Winter"
+        baseline_cond = baselines[f"{season}_flag"] == True
 
     relevant_baselines = baselines.loc[component_cond & baseline_cond, :]
 
@@ -229,7 +240,7 @@ def merge_on_GDP(bl_act, GDP):
     return bl_act_GDP
 
 
-def get_leg_changes(changes, component):
+def get_leg_changes(changes, component, leg_labels):
     """
     Get legislative changes from a DataFrame of changes based on the
     given budgetary component.
@@ -243,6 +254,9 @@ def get_leg_changes(changes, component):
     component : str
         A string specifying the component for which legislative changes
         should be extracted
+
+    leg_labels : dict
+        A dictionary containing labels for legislative changes
 
     Returns
     -------
@@ -341,7 +355,7 @@ def merge_on_leg_changes(baselines_actuals, leg_changes):
     return merged
 
 
-def aggregate_leg_changes(bl_act_leg, component):
+def aggregate_leg_changes(bl_act_leg, component, agg_cols, leg_labels):
     """
     Aggregate legislative changes for a specific component from a DataFrame.
 
@@ -354,6 +368,12 @@ def aggregate_leg_changes(bl_act_leg, component):
     component : str
         A string specifying the component for which legislative changes
         should be aggregated
+
+    agg_cols : list of str
+        A list of columns to grou by when aggregating results
+
+    leg_labels : dict
+        A dictionary containing labels for legislative changes
 
     Returns
     -------
@@ -388,6 +408,12 @@ def aggregate_leg_changes(bl_act_leg, component):
     Additionally, it adjusts the debt values by multiplying them by -1 to
     accurately account for the direction of debt changes.
     """
+    agg_cols = agg_cols.copy()
+
+    if component == "revenue":
+        # Include the flags in the aggregation columns for revenue
+        agg_cols += ["Spring_flag", "Winter_flag"]
+
     bl_act_leg_agg = (
         bl_act_leg.groupby(agg_cols)[leg_labels[component]].sum().reset_index()
     )
@@ -418,7 +444,7 @@ def aggregate_leg_changes(bl_act_leg, component):
     return bl_act_leg_agg
 
 
-def merge_on_agg_leg_changes(bl_act, agg_leg_changes):
+def merge_on_agg_leg_changes(bl_act, agg_leg_changes, component, agg_cols):
     """
     Merge relevant baseline and actual data with aggregated legislative
     changes data.
@@ -430,6 +456,12 @@ def merge_on_agg_leg_changes(bl_act, agg_leg_changes):
 
     agg_leg_changes : DataFrame
         A DataFrame containing aggregated legislative changes data
+
+    component : str
+        A string specifying the component for which data should be merged
+
+    agg_cols : list of str
+        A list of columns to group by when aggregating results
 
     Returns
     -------
@@ -444,6 +476,12 @@ def merge_on_agg_leg_changes(bl_act, agg_leg_changes):
     (containing aggregated legislative changes data) using an inner join
     operation. The merge is performed based on the given `agg_cols`.
     """
+    agg_cols = agg_cols.copy()
+
+    # Include Spring_flag in the merge keys for revenue
+    if component == "revenue":
+        agg_cols += ["Spring_flag", "Winter_flag"]
+
     merged_df = pd.merge(bl_act, agg_leg_changes, how="inner", on=agg_cols)
 
     return merged_df
@@ -509,6 +547,7 @@ def sort_data(merged_data, component):
         - `component`
         - `category`
         - `subcategory`
+        - `baseline_date`
         - `projected_year_number`
 
     Additionally, the `category` and `subcategory` columns are sorted based
@@ -516,7 +555,13 @@ def sort_data(merged_data, component):
     """
     merged_data = merged_data.copy()
 
-    sort_cols = ["component", "category", "subcategory", "projected_year_number"]
+    sort_cols = [
+        "component",
+        "category",
+        "subcategory",
+        "projected_year_number",
+        "baseline_date"
+    ]
 
     cats = {
         "revenue": [

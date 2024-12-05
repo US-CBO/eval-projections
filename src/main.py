@@ -5,6 +5,7 @@ from merge import merge_data
 from errors import calc_errors
 from summary import calc_summary_stats
 from scale import scale_actuals
+from write_Excel import write_Excel
 
 CURRENT_PATH = os.path.abspath(os.path.dirname(__file__))
 INPUT_PATH = os.path.abspath(f"{CURRENT_PATH}/../input_data")
@@ -51,5 +52,6 @@ for component in components:
     )
     print("    Output data written")
 
-print("Program finished successfully")
-print(f"Results were written to: {OUTPUT_PATH}")
+print("\nProgram finished successfully.")
+print(f"Results files were written to: {OUTPUT_PATH}.\n")
+write_Excel()

@@ -5,7 +5,12 @@ from merge import merge_data
 from errors import calc_errors
 from summary import calc_summary_stats
 from scale import scale_actuals
-from write_Excel import write_Excel
+
+# Commented out import of write_Excel() function to no longer produce the Excel
+# file from the previous report:
+# "An Evaluation of CBO’s Projections of Deficits and Debt From 1984 to 2023",
+# because minor updates to data would produce a slightly different set of outputs.
+# from write_Excel import write_Excel
 
 CURRENT_PATH = os.path.abspath(os.path.dirname(__file__))
 INPUT_PATH = os.path.abspath(f"{CURRENT_PATH}/../input_data")
@@ -54,4 +59,5 @@ for component in components:
 
 print("\nProgram finished successfully.")
 print(f"Results files were written to: {OUTPUT_PATH}.\n")
-write_Excel()
+
+# write_Excel()

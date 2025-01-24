@@ -32,33 +32,36 @@ def write_Excel(params=params, worksheets=worksheets):
     -------
     None; Writes Excel file to disk.
     """
-    # Excel file details
-    filename = f'{params.PUB_NUM}-data.xlsx'
-    filepath = os.path.join(os.path.abspath(f"{OUTPUT_PATH}/Excel"), filename)
-    writer = pd.ExcelWriter(filepath, engine='xlsxwriter')
-    workbook  = writer.book
+    # Only write out/update Excel file *before* publication
+    if datetime.today() < datetime(*params.DETAILED_PUB_DATE):
 
-    formats = create_formats(workbook)
+        # Excel file details
+        filename = f'{params.PUB_NUM}-data.xlsx'
+        filepath = os.path.join(os.path.abspath(f"{OUTPUT_PATH}/Excel"), filename)
+        writer = pd.ExcelWriter(filepath, engine='xlsxwriter')
+        workbook  = writer.book
 
-    # Start by writing out Contents sheet
-    workbook = write_contents(workbook, worksheets, params, formats)
+        formats = create_formats(workbook)
 
-    # Then write each worksheet based on info in the worksheets dictionary
-    with workbook as wb:
-        for ws in worksheets:
-            current_worksheet = wb.add_worksheet(ws)
-            data_len, data_width = get_data_dims(worksheets[ws]['data'])
+        # Start by writing out Contents sheet
+        workbook = write_contents(workbook, worksheets, params, formats)
 
-            write_data(worksheets, ws, writer, formats)
-            write_header(current_worksheet, worksheets, ws, params, formats)
-            write_footer(current_worksheet, worksheets, ws, formats, data_len, data_width)
+        # Then write each worksheet based on info in the worksheets dictionary
+        with workbook as wb:
+            for ws in worksheets:
+                current_worksheet = wb.add_worksheet(ws)
+                data_len, data_width = get_data_dims(worksheets[ws]['data'])
 
-        # Set a fixed creation date, so each run doesn't produce
-        # differences in the binary Excel file.
-        wb.set_properties({'created' : datetime(1974, 7, 12, 12, 27)})
+                write_data(worksheets, ws, writer, formats)
+                write_header(current_worksheet, worksheets, ws, params, formats)
+                write_footer(current_worksheet, worksheets, ws, formats, data_len, data_width)
 
-    print(f"Data Underlying Figures Excel file for CBO publication {params.PUB_NUM} created successfully.")
-    print(f"Excel file written to: {OUTPUT_PATH}\\Excel.\n")
+            # Set a fixed creation date, so each run doesn't produce
+            # differences in the binary Excel file.
+            wb.set_properties({'created' : datetime(1974, 7, 12, 12, 27)})
+
+        print(f"Data Underlying Figures Excel file for CBO publication {params.PUB_NUM} created successfully.")
+        print(f"Excel file written to: {OUTPUT_PATH}\\Excel.\n")
 
     return None
 

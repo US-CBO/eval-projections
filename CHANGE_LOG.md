@@ -1,5 +1,10 @@
 # Change Log
 
+## Version 0.11.0 -- 2026-01-16
+* Updated data to replicate the review of budget projections discussed in [*The Accuracy of CBO’s Budget Projections for Fiscal Year 2025*](https://www.cbo.gov/publication/61916)
+* Outlay, revenue, deficit, and debt baseline and baseline changes are through the end of 2025. Outlay, deficit, and debt actuals are through 2025. Error statistics are through 2025.
+* Actual GDP data are through 2025 and reflect historical information available as of December 2025.
+
 ## Version 0.10.0 -- 2025-01-24
 * Outlay, revenue, deficit, and debt baseline and baseline changes are through the Janaury 2025 baseline. Outlay, deficit, and debt actuals are through 2024. Error statistics are through 2024.
 * Actual GDP data are through 2024 and reflect historical information available as of December 2024.

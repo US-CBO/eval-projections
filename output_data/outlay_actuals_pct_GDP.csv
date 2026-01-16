@@ -21,11 +21,12 @@ outlay,Discretionary,Defense Discretionary,2016,584.8,18641.3,3.1
 outlay,Discretionary,Defense Discretionary,2017,590.2,19375.2,3.0
 outlay,Discretionary,Defense Discretionary,2018,622.7,20436.3,3.0
 outlay,Discretionary,Defense Discretionary,2019,676.4,21286.2,3.2
-outlay,Discretionary,Defense Discretionary,2020,713.8,21320.2,3.3
-outlay,Discretionary,Defense Discretionary,2021,741.6,23004.1,3.2
-outlay,Discretionary,Defense Discretionary,2022,752.1,25517.6,2.9
-outlay,Discretionary,Defense Discretionary,2023,806.2,27330.0,2.9
-outlay,Discretionary,Defense Discretionary,2024,850.0,28828.2,2.9
+outlay,Discretionary,Defense Discretionary,2020,713.8,21336.8,3.3
+outlay,Discretionary,Defense Discretionary,2021,741.6,23044.0,3.2
+outlay,Discretionary,Defense Discretionary,2022,752.1,25565.4,2.9
+outlay,Discretionary,Defense Discretionary,2023,806.2,27398.0,2.9
+outlay,Discretionary,Defense Discretionary,2024,850.7,28947.9,2.9
+outlay,Discretionary,Defense Discretionary,2025,892.5,30362.0,2.9
 outlay,Discretionary,Nondefense Discretionary,1998,281.7,8930.8,3.2
 outlay,Discretionary,Nondefense Discretionary,1999,296.6,9479.6,3.1
 outlay,Discretionary,Nondefense Discretionary,2000,319.7,10117.1,3.2
@@ -48,11 +49,12 @@ outlay,Discretionary,Nondefense Discretionary,2016,600.4,18641.3,3.2
 outlay,Discretionary,Nondefense Discretionary,2017,610.1,19375.2,3.1
 outlay,Discretionary,Nondefense Discretionary,2018,638.8,20436.3,3.1
 outlay,Discretionary,Nondefense Discretionary,2019,661.6,21286.2,3.1
-outlay,Discretionary,Nondefense Discretionary,2020,914.1,21320.2,4.3
-outlay,Discretionary,Nondefense Discretionary,2021,894.8,23004.1,3.9
-outlay,Discretionary,Nondefense Discretionary,2022,912.4,25517.6,3.6
-outlay,Discretionary,Nondefense Discretionary,2023,911.9,27330.0,3.3
-outlay,Discretionary,Nondefense Discretionary,2024,959.8,28828.2,3.3
+outlay,Discretionary,Nondefense Discretionary,2020,914.1,21336.8,4.3
+outlay,Discretionary,Nondefense Discretionary,2021,894.8,23044.0,3.9
+outlay,Discretionary,Nondefense Discretionary,2022,912.4,25565.4,3.6
+outlay,Discretionary,Nondefense Discretionary,2023,911.9,27398.0,3.3
+outlay,Discretionary,Nondefense Discretionary,2024,959.5,28947.9,3.3
+outlay,Discretionary,Nondefense Discretionary,2025,979.9,30362.0,3.2
 outlay,Discretionary,Total Discretionary,1992,533.8,6416.2,8.3
 outlay,Discretionary,Total Discretionary,1993,539.8,6775.3,8.0
 outlay,Discretionary,Total Discretionary,1994,541.3,7176.9,7.5
@@ -81,11 +83,12 @@ outlay,Discretionary,Total Discretionary,2016,1185.3,18641.3,6.4
 outlay,Discretionary,Total Discretionary,2017,1200.3,19375.2,6.2
 outlay,Discretionary,Total Discretionary,2018,1261.5,20436.3,6.2
 outlay,Discretionary,Total Discretionary,2019,1338.0,21286.2,6.3
-outlay,Discretionary,Total Discretionary,2020,1627.9,21320.2,7.6
-outlay,Discretionary,Total Discretionary,2021,1636.4,23004.1,7.1
-outlay,Discretionary,Total Discretionary,2022,1664.5,25517.6,6.5
-outlay,Discretionary,Total Discretionary,2023,1718.1,27330.0,6.3
-outlay,Discretionary,Total Discretionary,2024,1809.8,28828.2,6.3
+outlay,Discretionary,Total Discretionary,2020,1627.9,21336.8,7.6
+outlay,Discretionary,Total Discretionary,2021,1636.4,23044.0,7.1
+outlay,Discretionary,Total Discretionary,2022,1664.6,25565.4,6.5
+outlay,Discretionary,Total Discretionary,2023,1718.1,27398.0,6.3
+outlay,Discretionary,Total Discretionary,2024,1810.2,28947.9,6.3
+outlay,Discretionary,Total Discretionary,2025,1872.4,30362.0,6.2
 outlay,Mandatory,Medicaid,1992,67.8,6416.2,1.1
 outlay,Mandatory,Medicaid,1993,75.8,6775.3,1.1
 outlay,Mandatory,Medicaid,1994,82.0,7176.9,1.1
@@ -114,11 +117,12 @@ outlay,Mandatory,Medicaid,2016,368.3,18641.3,2.0
 outlay,Mandatory,Medicaid,2017,374.7,19375.2,1.9
 outlay,Mandatory,Medicaid,2018,389.2,20436.3,1.9
 outlay,Mandatory,Medicaid,2019,409.4,21286.2,1.9
-outlay,Mandatory,Medicaid,2020,458.5,21320.2,2.2
-outlay,Mandatory,Medicaid,2021,520.6,23004.1,2.3
-outlay,Mandatory,Medicaid,2022,591.9,25517.6,2.3
-outlay,Mandatory,Medicaid,2023,615.8,27330.0,2.3
-outlay,Mandatory,Medicaid,2024,617.5,28828.2,2.1
+outlay,Mandatory,Medicaid,2020,458.5,21336.8,2.1
+outlay,Mandatory,Medicaid,2021,520.6,23044.0,2.3
+outlay,Mandatory,Medicaid,2022,591.9,25565.4,2.3
+outlay,Mandatory,Medicaid,2023,615.8,27398.0,2.2
+outlay,Mandatory,Medicaid,2024,617.5,28947.9,2.1
+outlay,Mandatory,Medicaid,2025,668.1,30362.0,2.2
 outlay,Mandatory,Medicare,1992,116.2,6416.2,1.8
 outlay,Mandatory,Medicare,1993,127.9,6775.3,1.9
 outlay,Mandatory,Medicare,1994,141.8,7176.9,2.0
@@ -147,11 +151,12 @@ outlay,Mandatory,Medicare,2016,588.4,18641.3,3.2
 outlay,Mandatory,Medicare,2017,591.4,19375.2,3.1
 outlay,Mandatory,Medicare,2018,581.8,20436.3,2.8
 outlay,Mandatory,Medicare,2019,643.9,21286.2,3.0
-outlay,Mandatory,Medicare,2020,768.9,21320.2,3.6
-outlay,Mandatory,Medicare,2021,688.8,23004.1,3.0
-outlay,Mandatory,Medicare,2022,747.2,25517.6,2.9
-outlay,Mandatory,Medicare,2023,839.1,27330.0,3.1
-outlay,Mandatory,Medicare,2024,865.3,28828.2,3.0
+outlay,Mandatory,Medicare,2020,768.9,21336.8,3.6
+outlay,Mandatory,Medicare,2021,688.8,23044.0,3.0
+outlay,Mandatory,Medicare,2022,747.2,25565.4,2.9
+outlay,Mandatory,Medicare,2023,839.1,27398.0,3.1
+outlay,Mandatory,Medicare,2024,865.3,28947.9,3.0
+outlay,Mandatory,Medicare,2025,987.7,30362.0,3.3
 outlay,Mandatory,Other Mandatory,1992,179.2,6416.2,2.8
 outlay,Mandatory,Other Mandatory,1993,165.3,6775.3,2.4
 outlay,Mandatory,Other Mandatory,1994,176.7,7176.9,2.5
@@ -180,11 +185,12 @@ outlay,Mandatory,Other Mandatory,2016,574.7,18641.3,3.1
 outlay,Mandatory,Other Mandatory,2017,642.1,19375.2,3.3
 outlay,Mandatory,Other Mandatory,2018,579.0,20436.3,2.8
 outlay,Mandatory,Other Mandatory,2019,661.2,21286.2,3.1
-outlay,Mandatory,Other Mandatory,2020,2267.2,21320.2,10.6
-outlay,Mandatory,Other Mandatory,2021,2500.4,23004.1,10.9
-outlay,Mandatory,Other Mandatory,2022,1208.4,25517.6,4.7
-outlay,Mandatory,Other Mandatory,2023,1294.7,27330.0,4.7
-outlay,Mandatory,Other Mandatory,2024,1128.7,28828.2,3.9
+outlay,Mandatory,Other Mandatory,2020,2267.2,21336.8,10.6
+outlay,Mandatory,Other Mandatory,2021,2500.4,23044.0,10.9
+outlay,Mandatory,Other Mandatory,2022,1208.4,25565.4,4.7
+outlay,Mandatory,Other Mandatory,2023,1294.7,27398.0,4.7
+outlay,Mandatory,Other Mandatory,2024,1130.0,28947.9,3.9
+outlay,Mandatory,Other Mandatory,2025,942.9,30362.0,3.1
 outlay,Mandatory,Social Security,1992,285.2,6416.2,4.4
 outlay,Mandatory,Social Security,1993,302.0,6775.3,4.5
 outlay,Mandatory,Social Security,1994,316.9,7176.9,4.4
@@ -213,13 +219,14 @@ outlay,Mandatory,Social Security,2016,910.3,18641.3,4.9
 outlay,Mandatory,Social Security,2017,939.2,19375.2,4.8
 outlay,Mandatory,Social Security,2018,982.0,20436.3,4.8
 outlay,Mandatory,Social Security,2019,1038.5,21286.2,4.9
-outlay,Mandatory,Social Security,2020,1089.9,21320.2,5.1
-outlay,Mandatory,Social Security,2021,1128.8,23004.1,4.9
-outlay,Mandatory,Social Security,2022,1212.5,25517.6,4.8
-outlay,Mandatory,Social Security,2023,1348.0,27330.0,4.9
-outlay,Mandatory,Social Security,2024,1454.4,28828.2,5.0
-outlay,Mandatory,Student Loan Foregiveness,2022,378.7,25517.6,1.5
-outlay,Mandatory,Student Loan Foregiveness,2023,-333.0,27330.0,-1.2
+outlay,Mandatory,Social Security,2020,1089.9,21336.8,5.1
+outlay,Mandatory,Social Security,2021,1128.8,23044.0,4.9
+outlay,Mandatory,Social Security,2022,1212.5,25565.4,4.7
+outlay,Mandatory,Social Security,2023,1348.0,27398.0,4.9
+outlay,Mandatory,Social Security,2024,1454.4,28947.9,5.0
+outlay,Mandatory,Social Security,2025,1575.3,30362.0,5.2
+outlay,Mandatory,Student Loan Foregiveness,2022,378.7,25565.4,1.5
+outlay,Mandatory,Student Loan Foregiveness,2023,-333.0,27398.0,-1.2
 outlay,Mandatory,Total Mandatory,1992,648.4,6416.2,10.1
 outlay,Mandatory,Total Mandatory,1993,670.9,6775.3,9.9
 outlay,Mandatory,Total Mandatory,1994,717.5,7176.9,10.0
@@ -248,11 +255,12 @@ outlay,Mandatory,Total Mandatory,2016,2441.6,18641.3,13.1
 outlay,Mandatory,Total Mandatory,2017,2547.3,19375.2,13.1
 outlay,Mandatory,Total Mandatory,2018,2532.0,20436.3,12.4
 outlay,Mandatory,Total Mandatory,2019,2753.0,21286.2,12.9
-outlay,Mandatory,Total Mandatory,2020,4584.5,21320.2,21.5
-outlay,Mandatory,Total Mandatory,2021,4838.6,23004.1,21.0
-outlay,Mandatory,Total Mandatory,2022,3760.0,25517.6,14.7
-outlay,Mandatory,Total Mandatory,2023,4097.5,27330.0,15.0
-outlay,Mandatory,Total Mandatory,2024,4065.9,28828.2,14.1
+outlay,Mandatory,Total Mandatory,2020,4584.5,21336.8,21.5
+outlay,Mandatory,Total Mandatory,2021,4838.6,23044.0,21.0
+outlay,Mandatory,Total Mandatory,2022,3760.0,25565.4,14.7
+outlay,Mandatory,Total Mandatory,2023,4097.5,27398.0,15.0
+outlay,Mandatory,Total Mandatory,2024,4067.1,28947.9,14.0
+outlay,Mandatory,Total Mandatory,2025,4174.0,30362.0,13.7
 outlay,Net Interest,Net Interest,1992,199.3,6416.2,3.1
 outlay,Net Interest,Net Interest,1993,198.7,6775.3,2.9
 outlay,Net Interest,Net Interest,1994,202.9,7176.9,2.8
@@ -281,11 +289,12 @@ outlay,Net Interest,Net Interest,2016,240.0,18641.3,1.3
 outlay,Net Interest,Net Interest,2017,262.6,19375.2,1.4
 outlay,Net Interest,Net Interest,2018,325.0,20436.3,1.6
 outlay,Net Interest,Net Interest,2019,375.2,21286.2,1.8
-outlay,Net Interest,Net Interest,2020,345.5,21320.2,1.6
-outlay,Net Interest,Net Interest,2021,352.3,23004.1,1.5
-outlay,Net Interest,Net Interest,2022,475.9,25517.6,1.9
-outlay,Net Interest,Net Interest,2023,658.3,27330.0,2.4
-outlay,Net Interest,Net Interest,2024,881.1,28828.2,3.1
+outlay,Net Interest,Net Interest,2020,345.5,21336.8,1.6
+outlay,Net Interest,Net Interest,2021,352.3,23044.0,1.5
+outlay,Net Interest,Net Interest,2022,475.9,25565.4,1.9
+outlay,Net Interest,Net Interest,2023,658.3,27398.0,2.4
+outlay,Net Interest,Net Interest,2024,879.9,28947.9,3.0
+outlay,Net Interest,Net Interest,2025,969.9,30362.0,3.2
 outlay,Total,Total,1984,851.8,3949.2,21.6
 outlay,Total,Total,1985,946.3,4265.1,22.2
 outlay,Total,Total,1986,990.4,4526.2,21.9
@@ -322,8 +331,9 @@ outlay,Total,Total,2016,3866.9,18641.3,20.7
 outlay,Total,Total,2017,4010.2,19375.2,20.7
 outlay,Total,Total,2018,4118.5,20436.3,20.2
 outlay,Total,Total,2019,4466.1,21286.2,21.0
-outlay,Total,Total,2020,6557.9,21320.2,30.8
-outlay,Total,Total,2021,6827.4,23004.1,29.7
-outlay,Total,Total,2022,5900.4,25517.6,23.1
-outlay,Total,Total,2023,6473.9,27330.0,23.7
-outlay,Total,Total,2024,6756.8,28828.2,23.4
+outlay,Total,Total,2020,6557.9,21336.8,30.7
+outlay,Total,Total,2021,6827.4,23044.0,29.6
+outlay,Total,Total,2022,5900.4,25565.4,23.1
+outlay,Total,Total,2023,6473.9,27398.0,23.6
+outlay,Total,Total,2024,6757.2,28947.9,23.3
+outlay,Total,Total,2025,7016.4,30362.0,23.1

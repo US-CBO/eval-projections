@@ -1,17 +1,22 @@
 # Change Log
 
+## Version 0.12.0 -- 2026-02-12
+* Outlay, revenue, deficit, and debt baseline and baseline changes are through the February 2026 baseline. Outlay, revenue, deficit, and debt actuals are through 2025. Error statistics are through 2025.
+* Actual GDP data are through 2025 and reflect historical information available as of December 2025.
+* Minor updates to input data in `actuals.csv`, updating revenue and deficit actuals in 2022, 2023, and 2024.
+
 ## Version 0.11.0 -- 2026-01-16
 * Updated data to replicate the review of budget projections discussed in [*The Accuracy of CBO’s Budget Projections for Fiscal Year 2025*](https://www.cbo.gov/publication/61916)
-* Outlay, revenue, deficit, and debt baseline and baseline changes are through the end of 2025. Outlay, deficit, and debt actuals are through 2025. Error statistics are through 2025.
+* Outlay, revenue, deficit, and debt baseline and baseline changes are through the end of 2025. Outlay, revenue, deficit, and debt actuals are through 2025. Error statistics are through 2025.
 * Actual GDP data are through 2025 and reflect historical information available as of December 2025.
 
 ## Version 0.10.0 -- 2025-01-24
-* Outlay, revenue, deficit, and debt baseline and baseline changes are through the Janaury 2025 baseline. Outlay, deficit, and debt actuals are through 2024. Error statistics are through 2024.
+* Outlay, revenue, deficit, and debt baseline and baseline changes are through the Janaury 2025 baseline. Outlay, revenue, deficit, and debt actuals are through 2024. Error statistics are through 2024.
 * Actual GDP data are through 2024 and reflect historical information available as of December 2024.
 
 ## Version 0.9.0 -- 2025-01-10
 * Updated data to replicate the review of budget projections discussed in [*The Accuracy of CBO’s Budget Projections for Fiscal Year 2024*](https://www.cbo.gov/publication/60885)
-* Outlay, revenue, deficit, and debt baseline and baseline changes are through the end of 2024. Outlay, deficit, and debt actuals are through 2024. Error statistics are through 2024.
+* Outlay, revenue, deficit, and debt baseline and baseline changes are through the end of 2024. Outlay, revenue, deficit, and debt actuals are through 2024. Error statistics are through 2024.
 * Actual GDP data are through 2024 and reflect historical information available as of December 2024.
 * Corrected minor errors in input data in `baselines.csv`, regarding Customs Duties in the May 2023, February 2024, and June 2024 baselines.
 

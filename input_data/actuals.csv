@@ -79,9 +79,9 @@ deficit,Total,Total,2018,-788.567
 deficit,Total,Total,2019,-1002.77
 deficit,Total,Total,2020,-3136.694
 deficit,Total,Total,2021,-2780.28
-deficit,Total,Total,2022,-1003.037
-deficit,Total,Total,2023,-2032.977
-deficit,Total,Total,2024,-1839.08
+deficit,Total,Total,2022,-1003.097
+deficit,Total,Total,2023,-2032.974
+deficit,Total,Total,2024,-1837.301
 deficit,Total,Total,2025,-1781.77
 outlay,Discretionary,Defense Discretionary,1998,270.25
 outlay,Discretionary,Defense Discretionary,1999,275.463
@@ -173,7 +173,7 @@ outlay,Discretionary,Total Discretionary,2022,1664.551
 outlay,Discretionary,Total Discretionary,2023,1718.13
 outlay,Discretionary,Total Discretionary,2024,1810.196
 outlay,Discretionary,Total Discretionary,2025,1872.425
-outlay,Mandatory,Fannie Freddie,2008,0
+outlay,Mandatory,Fannie Freddie,2008,0.0
 outlay,Mandatory,Fannie Freddie,2009,91.264
 outlay,Mandatory,Fannie Freddie,2010,40.458
 outlay,Mandatory,Fannie Freddie,2011,5.178
@@ -525,7 +525,7 @@ revenue,Customs Duties,Customs Duties,2020,68.551
 revenue,Customs Duties,Customs Duties,2021,79.985
 revenue,Customs Duties,Customs Duties,2022,99.908
 revenue,Customs Duties,Customs Duties,2023,80.338
-revenue,Customs Duties,Customs Duties,2024,77.037
+revenue,Customs Duties,Customs Duties,2024,77.036
 revenue,Customs Duties,Customs Duties,2025,194.866
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,1982,7.991
 revenue,Estate and Gift Taxes,Estate and Gift Taxes,1983,6.053
@@ -613,7 +613,7 @@ revenue,Excise Taxes,Excise Taxes,2020,86.78
 revenue,Excise Taxes,Excise Taxes,2021,75.274
 revenue,Excise Taxes,Excise Taxes,2022,87.728
 revenue,Excise Taxes,Excise Taxes,2023,75.802
-revenue,Excise Taxes,Excise Taxes,2024,101.435
+revenue,Excise Taxes,Excise Taxes,2024,101.436
 revenue,Excise Taxes,Excise Taxes,2025,105.936
 revenue,Individual Income Taxes,Individual Income Taxes,1982,297.744
 revenue,Individual Income Taxes,Individual Income Taxes,1983,288.938
@@ -699,9 +699,9 @@ revenue,Miscellaneous Receipts,Miscellaneous Receipts,2018,111.667
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,2019,85.779
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,2020,117.746
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,2021,134.416
-revenue,Miscellaneous Receipts,Miscellaneous Receipts,2022,136.675
-revenue,Miscellaneous Receipts,Miscellaneous Receipts,2023,40.618
-revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024,43.156
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2022,136.615
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2023,40.619
+revenue,Miscellaneous Receipts,Miscellaneous Receipts,2024,44.935
 revenue,Miscellaneous Receipts,Miscellaneous Receipts,2025,47.925
 revenue,Payroll Taxes,Payroll Taxes,1982,201.498
 revenue,Payroll Taxes,Payroll Taxes,1983,208.994
@@ -744,7 +744,7 @@ revenue,Payroll Taxes,Payroll Taxes,2019,1243.113
 revenue,Payroll Taxes,Payroll Taxes,2020,1309.955
 revenue,Payroll Taxes,Payroll Taxes,2021,1314.088
 revenue,Payroll Taxes,Payroll Taxes,2022,1483.527
-revenue,Payroll Taxes,Payroll Taxes,2023,1614.454
+revenue,Payroll Taxes,Payroll Taxes,2023,1614.456
 revenue,Payroll Taxes,Payroll Taxes,2024,1708.926
 revenue,Payroll Taxes,Payroll Taxes,2025,1748.294
 revenue,Total,Total,1982,617.766
@@ -787,7 +787,7 @@ revenue,Total,Total,2018,3329.907
 revenue,Total,Total,2019,3463.364
 revenue,Total,Total,2020,3421.164
 revenue,Total,Total,2021,4047.111
-revenue,Total,Total,2022,4897.399
-revenue,Total,Total,2023,4440.945
-revenue,Total,Total,2024,4918.104
+revenue,Total,Total,2022,4897.339
+revenue,Total,Total,2023,4440.948
+revenue,Total,Total,2024,4919.883
 revenue,Total,Total,2025,5234.616

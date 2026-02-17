@@ -91,8 +91,8 @@ This file contains GDP data beginning in 1982.
 2. `actuals.csv`  
 This file contains actual outlay, revenue, deficit, and debt data for each outlay and revenue category and outlay subcategory analyzed in the above report. 
 
-    * For Total Outlays, data begin in fiscal year 1984. For every other category, data start in 1989. These data reflect historical information as of the release of the President's 2024 Budget.
-    * For revenues, data begin in fiscal year 1982 to 2022 for every revenue category.
+    * For Total Outlays, data begin in fiscal year 1984. For every other category, data start in 1989. 
+    * For revenues, data begin in fiscal year 1982.
     * For deficts and debt, data begin in fiscal year 1984.
 
 3. `baselines.csv`  
@@ -120,7 +120,7 @@ For revenues, error calculations are only performed on the Winter baselines. The
 For outlays, deficits, and debt, error calculations are only performed on the Spring baselines. The `Spring_flag` column in the `input_data/baselines.csv` file indicates which baseline each year is the Spring baseline.
 
 ### Fannie Mae and Freddie Mac Outlays
-For the purposes of these analyses, outlays for the housing entities Fannie Mae and Freddie Mac have been removed from CBO’s projections and from the actual amounts reported by the Treasury, because CBO and the Administration account for those entities’ transactions differently. This affects the Total Outlays, the Mandatory category and Other Mandatory subcategory of outlays, as well as the deficit and debt projections. 
+For the purposes of these analyses, outlays for the housing entities Fannie Mae and Freddie Mac have been removed from CBO’s projections and from the actual amounts reported by the Treasury, because CBO and the Administration account for those entities’ transactions differently. This affects the Total Outlays, the Mandatory category and Other Mandatory subcategory of outlays, as well as the deficit projections. 
 
 ### Student Loan Forgiveness Outlays
 Because of their unusual size and nature, the estimated budgetary effects of both the Administration’s 2022 planned cancellation of outstanding student loans for many borrowers and the Supreme Court’s subsequent decision prohibiting the Administration from implementing that plan were excluded from this analysis. This affects the actuals for Total Outlays, the Mandatory category and Other Mandatory subcategory of outlays, as well as for the deficit in 2022 and 2023.
